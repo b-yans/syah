@@ -17,8 +17,8 @@ EPG_URLS = [
 ]
 
 M3U_URLS = [
-    "https://raw.githubusercontent.com/b-yans/syah/main/spimach.pl",
-    "https://raw.githubusercontent.com/b-yans/syah/main/imach.pl"
+    "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy",
+    "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy"
 ]
 
 OUTPUT_FILE = "imach.pl"
