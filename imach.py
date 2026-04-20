@@ -17,7 +17,6 @@ EPG_URLS = [
 ]
 
 M3U_URLS = [
-    "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy",
     "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy"
 ]
 
