@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 22:44 WIB
+**Diperbarui pada:** 21-04-2026 22:50 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,30 +1390,31 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Karbi Anglong 🆚 FC Bengaluru United🛡️|🛡️19:30 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Juventus SP 🆚 CA Votuporanguense SP🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Juventus SP 🆚 CA Votuporanguense SP🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Tauras Taurage 🆚 Hegelmann Litauen🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olympic MobiUz 🆚 Respublika FA🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Batna 🆚 JS Bordj Menaiel🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rio Ave U23 🆚 Portimonense U23🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chennaiyin FC 🆚 Mohammedan SC🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Lokomotiva Zagreb 🆚 Slaven Belupo🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vizela U23 🆚 Uniao Leiria U23🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gil Vicente U23 🆚 Maritimo U23🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naft Missan 🆚 Al-Najaf🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rio Ave U23 🆚 Portimonense U23🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gil Vicente U23 🆚 Maritimo U23🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Sochi 🆚 Krylya Sovetov🛡️|🛡️21:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zira FK 🆚 Turan Tovuz🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tukums-2000 🆚 BFC Daugavpils🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djijel 🆚 USM Annaba🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bukovyna chernivtsi 🆚 Dynamo Kyiv🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CR Beni Thour 🆚 MSP Batna🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Bejaia 🆚 AS Khroub🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NRB Teleghma 🆚 Beni Oulbane🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baumit Jablonec 🆚 Mlada Boleslav🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IB Khemis El Khechna 🆚 NC Magra🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Constantine 🆚 US Chaouia🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CR Beni Thour 🆚 MSP Batna🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NRB Teleghma 🆚 Beni Oulbane🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo Tbilisi 🆚 Gagra FC🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baumit Jablonec 🆚 Mlada Boleslav🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bukovyna chernivtsi 🆚 Dynamo Kyiv🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Bejaia 🆚 AS Khroub🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zira FK 🆚 Turan Tovuz🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Constantine 🆚 US Chaouia🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Haka 🆚 JaPS🛡️|🛡️22:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Kuressaare 🆚 Parnu JK Vaprus🛡️|🛡️22:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Sochi vs Krylya Sovetov Samara • Rusia: Liga Primer | 21:30 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Batna vs JS Bordj Menaiel • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
