@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 19:13 WIB
+**Diperbarui pada:** 21-04-2026 19:19 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -190,13 +190,13 @@
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[BASI]** AL: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: The 15.17 To Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
-- ⚠️ **[BASI]** PT: The 15:17 to Paris diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
@@ -1390,11 +1390,10 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leixoes U23 🆚 Santa Clara U23🛡️|🛡️17:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Farense U23 🆚 Estoril U23🛡️|🛡️17:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sudeva Delhi 🆚 GMSC🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leixoes U23 🆚 Santa Clara U23🛡️|🛡️17:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Football Club Seoul 🆚 Bucheon FC 1995🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sudeva Delhi 🆚 GMSC🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City 🆚 Beijing Guoan🛡️|🛡️18:00 21/04/2026🛡️ otomatis masuk jadwal
@@ -1402,6 +1401,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns 🆚 Zhejiang Professional FC🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger 🆚 Shandong Taishan🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Rd32 (Crt 2) • Yonex All England Open Badminton Championships 2026 | 15:30 WIB • 21/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Gimcheon Sangmu vs Gangwon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
