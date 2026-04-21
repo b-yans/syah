@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 23:27 WIB
+**Diperbarui pada:** 21-04-2026 23:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,10 +1393,11 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Naft Missan 🆚 Al-Najaf🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Batna 🆚 JS Bordj Menaiel🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gil Vicente U23 🆚 Maritimo U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chennaiyin FC 🆚 Mohammedan SC🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Lokomotiva Zagreb 🆚 Slaven Belupo🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Rio Ave U23 🆚 Portimonense U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vizela U23 🆚 Uniao Leiria U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Sochi 🆚 Krylya Sovetov🛡️|🛡️21:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Sochi 🆚 Krylya Sovetov🛡️|🛡️21:30 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Constantine 🆚 US Chaouia🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bukovyna chernivtsi 🆚 Dynamo Kyiv🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baumit Jablonec 🆚 Mlada Boleslav🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
@@ -1420,7 +1421,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Machida Zelvia 🆚 Shabab Al Ahli🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Tai 🆚 Abha🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Sochi vs Krylya Sovetov Samara • Rusia: Liga Primer | 21:30 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Sochi vs Krylya Sovetov Samara • Rusia: Liga Primer | 21:30 WIB • 21/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Batna vs JS Bordj Menaiel • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** CR Beni Thour vs MSP Batna • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Khemis El Khechna vs Magra • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
