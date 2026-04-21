@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 22:10 WIB
+**Diperbarui pada:** 21-04-2026 22:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1403,7 +1403,16 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Batna 🆚 JS Bordj Menaiel🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Sochi 🆚 Krylya Sovetov🛡️|🛡️21:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [21 Apr 2026 23:10 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Sochi vs Krylya Sovetov Samara • Rusia: Liga Primer | 21:30 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Batna vs JS Bordj Menaiel • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** CR Beni Thour vs MSP Batna • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Khemis El Khechna vs Magra • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Djijel vs Annaba • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** MO Bejaia vs Khroub • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** MO Constantine vs US Chaouia • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Biskra vs Chelghoum • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Telaghema vs Beni Oulbane • Aljazair: Ligue 2 | 22:00 WIB • 21/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
