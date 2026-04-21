@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 04:25 WIB
+**Diperbarui pada:** 22-04-2026 04:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -50,7 +50,6 @@
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
-- ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DE: Sky Bundesliga cocok [fz] (409238)
 - ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fz] (409238)
@@ -66,7 +65,6 @@
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
@@ -397,6 +395,7 @@
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
@@ -729,6 +728,7 @@
 -  **[KS]** HU: Sport 1 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
+-  **[KS]** IN: Sony Sports Ten 2 (Sony Ten 2) tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports 3 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
@@ -1390,43 +1390,29 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Ried 🆚 Grazer AK🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oud-Heverlee Leuven 🆚 KVC Westerlo🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Genk 🆚 RC Sporting Charleroi🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Standard Liege 🆚 Royal Antwerp🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Ried 🆚 Grazer AK🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oud-Heverlee Leuven 🆚 KVC Westerlo🛡️|🛡️01:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stevenage Borough 🆚 Barnsley🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Coventry City 🆚 Portsmouth🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Queens Park Rangers 🆚 Swansea City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stoke City 🆚 Millwall🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Hull City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stoke City 🆚 Millwall🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Coventry City 🆚 Portsmouth🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Norwich City 🆚 Derby County🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oxford United 🆚 Wrexham🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Southampton 🆚 Bristol City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️West Bromwich Albion 🆚 Watford🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oxford United 🆚 Wrexham🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dunfermline Athletic 🆚 Saint Johnstone🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Southampton 🆚 Bristol City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Vinto 🆚 Academia del Balompié Boliviano🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Lens 🆚 Toulouse FC🛡️|🛡️02:10 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madrid 🆚 Deportivo Alavés🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Madrid 🆚 Deportivo Alavés🛡️|🛡️02:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Chapecoense - SC🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Tucuman Reserve 🆚 Central Cordoba SdE Reserves🛡️|🛡️04:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** Genk vs Charleroi • Belgia: Liga Jupiler | 01:30 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Dunfermline vs St Johnstone • Skotlandia: Divisi 1 | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Coventry vs Portsmouth • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Norwich vs Derby • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Southampton vs Bristol City • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Stoke City vs Millwall • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** West Brom vs Watford • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Oxford Utd vs Wrexham • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** QPR vs Swansea • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Leicester vs Hull • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Brighton vs Chelsea • Inggris: Liga Primer | 02:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Inter vs Como • Italia: Coppa Italia | 02:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Lens vs Toulouse • Perancis: Coupe de France | 02:10 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Girona vs Betis • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 otomatis masuk jadwal
-- ⚠️ **[EVENT]** Real Madrid vs Alaves • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Real Madrid vs Alaves • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
