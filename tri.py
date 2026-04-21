@@ -12,7 +12,7 @@ HEADERS = {
     "Accept": "application/vnd.github+json"
 }
 
-SLEEP_AFTER_ALL = 160  # 5 menit
+SLEEP_AFTER_ALL = 60  # 5 menit
 
 # 👉
 BATCH_SIZE = 1
