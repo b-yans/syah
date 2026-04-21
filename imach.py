@@ -13,17 +13,7 @@ from io import BytesIO
 # 1. KONFIGURASI URL UTAMA
 # ========================================================
 M3U_URLS = [
-    "https://aspaltvpasti.top/xxx/merah.php",
-    "https://deccotech.online/tv/tvstream.html", 
-    "https://freeiptv2026.tsender57.workers.dev", 
-    "https://raw.githubusercontent.com/tvplaylist/T2/refs/heads/main/tv1",
-    "http://sauridigital.my.id/kerbaunakal/2026TVGNS.html", 
-    "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
-    "https://semar25.short.gy",
-    "https://bit.ly/TVKITKAT",
-    "https://liveevent.iptvbonekoe.workers.dev",
-    "https://bwifi.my.id/lokal",
-    "https://bit.ly/KPL203"
+    "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy",
 ]
 EPG_URLS = [
     "https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml",
