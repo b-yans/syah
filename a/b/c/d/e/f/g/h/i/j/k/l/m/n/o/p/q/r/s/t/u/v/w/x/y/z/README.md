@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 23:12 WIB
+**Diperbarui pada:** 21-04-2026 23:22 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,29 +1391,30 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Batna 🆚 JS Bordj Menaiel🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Rio Ave U23 🆚 Portimonense U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vizela U23 🆚 Uniao Leiria U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gil Vicente U23 🆚 Maritimo U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Naft Missan 🆚 Al-Najaf🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Rio Ave U23 🆚 Portimonense U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Lokomotiva Zagreb 🆚 Slaven Belupo🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gil Vicente U23 🆚 Maritimo U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vizela U23 🆚 Uniao Leiria U23🛡️|🛡️21:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Sochi 🆚 Krylya Sovetov🛡️|🛡️21:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo Tbilisi 🆚 Gagra FC🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baumit Jablonec 🆚 Mlada Boleslav🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bukovyna chernivtsi 🆚 Dynamo Kyiv🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Bejaia 🆚 AS Khroub🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CR Beni Thour 🆚 MSP Batna🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Constantine 🆚 US Chaouia🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djijel 🆚 USM Annaba🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IB Khemis El Khechna 🆚 NC Magra🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NRB Teleghma 🆚 Beni Oulbane🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zira FK 🆚 Turan Tovuz🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo Tbilisi 🆚 Gagra FC🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CR Beni Thour 🆚 MSP Batna🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djijel 🆚 USM Annaba🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bukovyna chernivtsi 🆚 Dynamo Kyiv🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tukums-2000 🆚 BFC Daugavpils🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Bejaia 🆚 AS Khroub🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IB Khemis El Khechna 🆚 NC Magra🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MO Constantine 🆚 US Chaouia🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NRB Teleghma 🆚 Beni Oulbane🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baumit Jablonec 🆚 Mlada Boleslav🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Haka 🆚 JaPS🛡️|🛡️22:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Kuressaare 🆚 Parnu JK Vaprus🛡️|🛡️22:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Diraiyah 🆚 Al-Raed SFC🛡️|🛡️22:55 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atomsfera Mazeikiai 🆚 FK Zalgiris Vilnius🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AL Salt 🆚 Al Wehdat🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ludogorets Razgrad 🆚 CSKA Sofia🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Horsens 🆚 Esbjerg🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atomsfera Mazeikiai 🆚 FK Zalgiris Vilnius🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Arabi SC(KSA) 🆚 Al Bukayriyah🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Batin 🆚 Al-Anwar Club🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Machida Zelvia 🆚 Shabab Al Ahli🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
