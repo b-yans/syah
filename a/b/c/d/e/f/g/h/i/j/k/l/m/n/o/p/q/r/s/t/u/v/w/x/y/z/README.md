@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 03:47 WIB
+**Diperbarui pada:** 22-04-2026 03:53 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1410,14 +1410,10 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Hull City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Norwich City 🆚 Derby County🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universitario De Vinto 🆚 Academia del Balompié Boliviano🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RC Lens 🆚 Toulouse FC🛡️|🛡️02:10 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madrid 🆚 Deportivo Alavés🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madrid 🆚 Deportivo Alavés🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Chapecoense - SC🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
