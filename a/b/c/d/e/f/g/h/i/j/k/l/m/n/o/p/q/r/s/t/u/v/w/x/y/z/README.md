@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 04:59 WIB
+**Diperbarui pada:** 22-04-2026 05:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -51,8 +51,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
-- ⚠️ **[FZ]** DE: Sky Bundesliga cocok [fz] (409238)
-- ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fz] (409238)
 - ⚠️ **[FZ]** DE: Sky Sport 5 cocok [fz] (403249)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (427666)
@@ -441,6 +439,8 @@
 -  **[KS]** DE: RTL+ Sport Event 7 tidak cocok id epg
 -  **[KS]** DE: RTL+ Sport Event 8 tidak cocok id epg
 -  **[KS]** DE: RTL+ Sport Event 9 tidak cocok id epg
+-  **[KS]** DE: Sky Bundesliga tidak cocok id epg
+-  **[KS]** DE: Sky Bundesliga [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 UHD [vip] tidak cocok id epg
@@ -1393,12 +1393,11 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Vinto 🆚 Academia del Balompié Boliviano🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Lens 🆚 Toulouse FC🛡️|🛡️02:10 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Chapecoense - SC🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Chapecoense - SC🛡️|🛡️03:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Tucuman Reserve 🆚 Central Cordoba SdE Reserves🛡️|🛡️04:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Real Madrid vs Alaves • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1412,11 +1411,6 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** INDOSIAR+ tidak cocok id epg
--  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1453,7 +1447,6 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
