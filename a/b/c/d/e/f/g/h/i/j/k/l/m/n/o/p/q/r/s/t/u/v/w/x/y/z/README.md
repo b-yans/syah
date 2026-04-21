@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 05:59 WIB
+**Diperbarui pada:** 22-04-2026 06:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -163,7 +163,6 @@
 - ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
 - ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
 - ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
@@ -1200,6 +1199,7 @@
 -  **[KS]** US: Fox Sports Detroit tidak cocok id epg
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
+-  **[KS]** US: FOX SPORTS Racing tidak cocok id epg
 -  **[KS]** US: FTF Sports tidak cocok id epg
 -  **[KS]** US: NBA League Pass 1 tidak cocok id epg
 -  **[KS]** US: NBA TV tidak cocok id epg
@@ -1392,12 +1392,14 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Chapecoense - SC🛡️|🛡️03:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Rubio nu 🆚 Club Libertad Asunción🛡️|🛡️03:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Tucuman Reserve 🆚 Central Cordoba SdE Reserves🛡️|🛡️04:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Tucuman Reserve 🆚 Central Cordoba SdE Reserves🛡️|🛡️04:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Merlo 🆚 Comunicaciones BsAs🛡️|🛡️05:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Juventude🛡️|🛡️05:15 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grêmio - RS 🆚 AD Confiança🛡️|🛡️05:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** Real Madrid vs Alaves • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Sao Paulo vs Juventude • Brazil: Copa do Brasil | 05:15 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Boston Celtics vs Philadelphia 76ers • National Basketball Association | 06:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
