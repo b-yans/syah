@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 21:04 WIB
+**Diperbarui pada:** 21-04-2026 21:09 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1395,6 +1395,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns 🆚 Zhejiang Professional FC🛡️|🛡️18:35 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger 🆚 Shandong Taishan🛡️|🛡️19:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Karbi Anglong 🆚 FC Bengaluru United🛡️|🛡️19:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
