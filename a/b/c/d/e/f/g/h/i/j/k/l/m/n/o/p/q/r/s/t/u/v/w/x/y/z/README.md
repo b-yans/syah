@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 22:27 WIB
+**Diperbarui pada:** 21-04-2026 22:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,6 +1392,7 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Karbi Anglong 🆚 FC Bengaluru United🛡️|🛡️19:30 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Juventus SP 🆚 CA Votuporanguense SP🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Tauras Taurage 🆚 Hegelmann Litauen🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olympic MobiUz 🆚 Respublika FA🛡️|🛡️20:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Batna 🆚 JS Bordj Menaiel🛡️|🛡️21:00 21/04/2026🛡️ otomatis masuk jadwal
