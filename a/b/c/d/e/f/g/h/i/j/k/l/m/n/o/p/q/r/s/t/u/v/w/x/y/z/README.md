@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 20:58 WIB
+**Diperbarui pada:** 21-04-2026 21:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -7,7 +7,6 @@
 - ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
@@ -57,7 +56,6 @@
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DE: Sky Bundesliga cocok [fz] (409238)
 - ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fz] (409238)
-- ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (427666)
@@ -92,7 +90,6 @@
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
 - ⚠️ **[FZ]** NO: V Sport + cocok [fz] (481079)
@@ -268,6 +265,7 @@
 -  **[KS]** AU: Sky Sport 1 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 2 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 3 tidak cocok id epg
+-  **[KS]** AU: Sky Sport 4 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 5 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 6 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 7 tidak cocok id epg
@@ -474,6 +472,7 @@
 -  **[KS]** DE: Sky Sport 10 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 2 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 3 tidak cocok id epg
+-  **[KS]** DE: Sky Sport 4 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 5 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 6 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 7 tidak cocok id epg
@@ -849,6 +848,7 @@
 -  **[KS]** NZ: Sky Sport 1 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 2 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 3 tidak cocok id epg
+-  **[KS]** NZ: Sky Sport 4 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 5 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 6 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
@@ -1394,8 +1394,8 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sigma Olomouc U19 🆚 Mlada Boleslav U19🛡️|🛡️18:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns 🆚 Zhejiang Professional FC🛡️|🛡️18:35 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger 🆚 Shandong Taishan🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger 🆚 Shandong Taishan🛡️|🛡️19:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Karbi Anglong 🆚 FC Bengaluru United🛡️|🛡️19:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Juventus SP 🆚 CA Votuporanguense SP🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
