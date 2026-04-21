@@ -44,5 +44,5 @@ jobs:
         run: |
           git config --local user.email "b-yansh[bot]@users.noreply.github.com"
           git config --local user.name "b-yansh"
-          git add imach.pl README.md
+          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/imach.pl README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-up: $(TZ='Asia/Jakarta' date +'%Y-%m-%d %H:%M:%S WIB')" && git push)
