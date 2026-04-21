@@ -14,7 +14,8 @@ from io import BytesIO
 # ========================================================
 M3U_URLS = [
     "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy",
-    "https://pler.bhns.workers.dev/?peel=on"
+    "https://pler.bhns.workers.dev/?peel=on",
+    "https://bbek.bhns.workers.dev/?peel=on"
 ]
 EPG_URLS = [
     "https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml",
