@@ -14,6 +14,7 @@ from io import BytesIO
 # ========================================================
 M3U_URLS = [
     "https://raw.githubusercontent.com/b-yans/syah/main/imach.oy",
+    "https://pler.bhns.workers.dev/?peel=on"
 ]
 EPG_URLS = [
     "https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml",
@@ -21,10 +22,10 @@ EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml.gz"
 ]
 
-MAP_URL = "https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/map.txt"
+MAP_URL = "https://raw.githubusercontent.com/b-yans/syah/main/map.txt"
 OUTPUT_FILE = "imach.pl"
-LINK_STANDBY = "https://bwifi.my.id/live.mp4" 
-LINK_UPCOMING = "https://bwifi.my.id/5menit.mp4" 
+LINK_STANDBY = "https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php" 
+LINK_UPCOMING = "https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php" 
 
 GLOBAL_SEEN_STREAM_URLS = set()
 COMPILED_MAPPING = []
@@ -33,7 +34,7 @@ COMPILED_MAPPING = []
 # 2. MESIN MAPPING & PENERJEMAH BAHASA
 # ========================================================
 def load_mapping():
-    print("Mendownload kamus mapping...")
+    print("Mewing...")
     try:
         r = requests.get(MAP_URL, timeout=30).text
         MAPPING_DICT = {}
@@ -51,7 +52,7 @@ def load_mapping():
         for alias, official in sorted_map.items():
             COMPILED_MAPPING.append((re.compile(r'\b' + re.escape(alias) + r'\b'), official))
     except Exception as e:
-        print(f"❌ Gagal memuat map.txt: {e}")
+        print(f"❌ Gagal map.txt: {e}")
 
 @lru_cache(maxsize=10000) 
 def rumus_samakan_teks(teks):
@@ -123,7 +124,7 @@ def get_flag(m3u_name):
     if any(x in n for x in [' za', 'supersport', 'africa']): return "🇿🇦"
     if any(x in n for x in [' id', 'indo', 'indonesia']): return "🇮🇩"
     if 'bein' in n and not any(x in n for x in [' us', ' sg', ' my', ' uk', ' th', ' hk', ' au', ' ae', ' za']): return "🇮🇩"
-    return "📺"
+    return "⚠️"
 
 @lru_cache(maxsize=5000)
 def get_region_ktp(name, epg_id=""):
@@ -199,7 +200,7 @@ def fetch_url(url, is_epg):
         else:
             return url, resp.text, False
     except Exception as e:
-        print(f"❌ Gagal Download {url}: {e}")
+        print(f"❌ Gagal Downl {url}: {e}")
         return url, None, is_epg
 
 def get_provider_name(url):
@@ -219,7 +220,7 @@ kamus_rumus_epg = {}
 jadwal_dict = {} 
 buku_sejarah_replay = set() 
 
-print("1. Mendownload EPG dan M3U secara serentak (Turbo Mode)...")
+print("1. Mendown EPGM3U (Turbo Mode)...")
 epg_contents = {}
 m3u_contents = {}
 
@@ -295,7 +296,7 @@ daftar_teks_epg_dirumus = list(kamus_rumus_epg.keys())
 keranjang_match = {}
 audit_m3u = {}
 
-print("3. Mencocokkan M3U dengan Jadwal Sultan & Audit Laporan Berwarna...")
+print("3. Mencocokkan M3U Jadwal...")
 for url in M3U_URLS:
     provider_name = get_provider_name(url)
     audit_m3u[provider_name] = [] 
@@ -351,12 +352,12 @@ for url in M3U_URLS:
                         
                         jam_tayang = f"{ev_start.strftime('%H:%M')}-{ev_stop.strftime('%H:%M')}"
                         if is_live:
-                            judul = f"{get_flag(ev_title)} 🔴 {jam_tayang} WIB - {terjemahkan_bahasa(ev_title)}"
-                            inf = f'{clean_attrs} group-title="🔴 SEDANG TAYANG" tvg-id="" tvg-logo="{orig_logo}", {judul}'
+                            judul = f"{get_flag(ev_title)}  {jam_tayang} WIB - {terjemahkan_bahasa(ev_title)}"
+                            inf = f'{clean_attrs} group-title=" 🛡️SIARAN LANGSUNG" tvg-id="" tvg-logo="{orig_logo}", {judul}'
                             keranjang_match[key]["links"].append({"prio": 0, "data": [inf] + extra_tags + [stream_url]})
                         else:
                             judul = f"{get_flag(ev_title)} ⏳ {jam_tayang} WIB - {terjemahkan_bahasa(ev_title)}"
-                            inf = f'#EXTINF:-1 group-title="📅 JADWAL HARI INI" tvg-logo="{orig_logo}", {judul}'
+                            inf = f'#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="{orig_logo}", {judul}'
                             keranjang_match[key]["links"].append({"prio": 0, "data": [inf, f"{LINK_UPCOMING}?m={key}"]})
                         
                         audit_m3u[provider_name].append(f"🟣 **[EVENT]** {m3u_name} otomatis masuk jadwal")
@@ -415,21 +416,21 @@ for url in M3U_URLS:
                         
                         if ev["live"]:
                             m_disp = re.sub(r'[\[\]\(\)]', '', m3u_name).strip()
-                            judul = f"{get_flag(m3u_name)} 🔴 {jam_tayang} WIB - {ev['title']} [{m_disp}]"
-                            inf = f'{clean_attrs} group-title="🔴 SEDANG TAYANG" tvg-id="{id_epg_terpilih}" tvg-logo="{final_logo}", {judul}'
+                            judul = f"{get_flag(m3u_name)}  {jam_tayang} WIB - {ev['title']} [{m_disp}]"
+                            inf = f'{clean_attrs} group-title=" 🛡️SIARAN LANGSUNG" tvg-id="{id_epg_terpilih}" tvg-logo="{final_logo}", {judul}'
                             keranjang_match[key]["links"].append({"prio": 1, "data": [inf] + extra_tags + [stream_url]})
                         else:
                             judul_pendek = f"{get_flag(m3u_name)} ⏳ {jam_tayang} WIB - {ev['title']}"
-                            inf = f'#EXTINF:-1 group-title="📅 JADWAL HARI INI" tvg-logo="{final_logo}", {judul_pendek}'
+                            inf = f'#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="{final_logo}", {judul_pendek}'
                             keranjang_match[key]["links"].append({"prio": 1, "data": [inf, f"{LINK_UPCOMING}?m={key}"]})
                     
                     if punya_jadwal:
                         if metode == "FUZZY": audit_m3u[provider_name].append(f"🟡 **[FUZZY]** {m3u_name} cocok [fuzzy] ({id_epg_terpilih})")
                         else: audit_m3u[provider_name].append(f"🟢 **[EXACT]** {m3u_name} cocok ({id_epg_terpilih})")
                     else:
-                        audit_m3u[provider_name].append(f"🔴 **[KOSONG]** {m3u_name} tidak ada jadwal target")
+                        audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak ada jadwal target")
                 else:
-                    audit_m3u[provider_name].append(f"🔴 **[KOSONG]** {m3u_name} tidak cocok id epg")
+                    audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak cocok id epg")
                     
     except Exception as e:
         print(f"Error memproses M3U {url}: {e}")
@@ -460,15 +461,15 @@ for key, match in keranjang_match.items():
 hasil_render.sort(key=lambda x: (x["order"], float(x["sort"]), x["vip"]))
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write(f'#EXTM3U name="🔴 BAKUL WIFI SPORTS"\n')
+    f.write(f'#EXTM3U name="bhns0"\n')
     if not hasil_render: 
-        f.write(f'#EXTINF:-1 group-title="ℹ️ INFO", BELUM ADA PERTANDINGAN\n{LINK_STANDBY}\n')
+        f.write(f'#EXTINF:-1 group-title="ℹ️ INFO",⚠️ DONASI https://trakteer.id/mybhianesse0 BELUM ADA STREAMING...\n{LINK_STANDBY}\n')
     else:
         for it in hasil_render: 
             f.write("\n".join(it["data"]) + "\n")
 
-with open("laporan_channel_m3u.md", "w", encoding="utf-8") as f:
-    f.write("# LAPORAN AUDIT CHANNEL BAKUL WIFI SPORTS\n")
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write("# LAPORAN AUDI CH SPORTS\n")
     f.write(f"**Diperbarui pada:** {now_wib.strftime('%d-%m-%Y %H:%M WIB')}\n\n")
     
     for provider, laporan in audit_m3u.items():
@@ -482,4 +483,4 @@ with open("laporan_channel_m3u.md", "w", encoding="utf-8") as f:
                 f.write(f"- {baris}\n")
         f.write("\n---\n\n")
 
-print(f"SELESAI! Skrip Ringan dan Waktu Super Presisi Dieksekusi!")
+print(f"SELESAI! Dieksekusi!")
