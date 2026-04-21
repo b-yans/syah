@@ -1,206 +1,206 @@
 # LAPORAN AUDI CH
-**Diperbarui pada:** 21-04-2026 14:16 WIB
+**Diperbarui pada:** 21-04-2026 15:28 WIB
 
 ### 📁 IMACH.OY
-- ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** AL: Arena Sport 2 cocok [fuzzy] (381848)
-- ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fuzzy] (381853)
-- ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fuzzy] (381854)
-- ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fuzzy] (537794)
-- ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fuzzy] (403248)
-- ⚠️ **[FZ]** AT: Sky Sport Austria 8 [SPIELTAG] [VIP] cocok [fuzzy] (438448)
-- ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fuzzy] (6338)
-- ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fuzzy] (6340)
-- ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fuzzy] (6339)
-- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fuzzy] (480057)
-- ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fuzzy] (381848)
-- ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fuzzy] (381849)
-- ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fuzzy] (381853)
-- ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fuzzy] (381854)
-- ⚠️ **[FZ]** BR: SPORTV cocok [fuzzy] (523358)
-- ⚠️ **[FZ]** BR: SPORTV 2 cocok [fuzzy] (523271)
-- ⚠️ **[FZ]** CA: NBA TV Canada cocok [fuzzy] (470366)
-- ⚠️ **[FZ]** CA: SportsNet East cocok [fuzzy] (470812)
-- ⚠️ **[FZ]** CA: SportsNet New York cocok [fuzzy] (464777)
-- ⚠️ **[FZ]** CA: SportsNet One cocok [fuzzy] (470873)
-- ⚠️ **[FZ]** CA: SportsNet Ontario cocok [fuzzy] (470571)
-- ⚠️ **[FZ]** CA: SportsNet West cocok [fuzzy] (470443)
-- ⚠️ **[FZ]** CA: SportsNet World cocok [fuzzy] (470920)
-- ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fuzzy] (465248)
-- ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fuzzy] (465280)
-- ⚠️ **[FZ]** CL: TNT Sports 2 cocok [fuzzy] (400480)
-- ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fuzzy] (465248)
-- ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fuzzy] (465280)
-- ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fuzzy] (381848)
-- ⚠️ **[FZ]** HR: Arena Sport 3 cocok [fuzzy] (381849)
-- ⚠️ **[FZ]** HR: Arena Sport 4 cocok [fuzzy] (381853)
-- ⚠️ **[FZ]** HR: Arena Sport 5 cocok [fuzzy] (381854)
-- ⚠️ **[FZ]** HR: Arena Sport 6 cocok [fuzzy] (381851)
-- ⚠️ **[FZ]** HR: Arena Sport 7 cocok [fuzzy] (410641)
-- ⚠️ **[FZ]** HR: Arena Sport 8 cocok [fuzzy] (410632)
-- ⚠️ **[FZ]** HR: Arena Sport 9 cocok [fuzzy] (410631)
-- ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fuzzy] (497469)
-- ⚠️ **[FZ]** HR: Sport Klub 3 cocok [fuzzy] (497508)
-- ⚠️ **[FZ]** HR: Sport Klub 4 cocok [fuzzy] (497489)
-- ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fuzzy] (497507)
-- ⚠️ **[FZ]** HR: Sport Klub FIGHT cocok [fuzzy] (497509)
-- ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fuzzy] (381848)
-- ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fuzzy] (407672)
-- ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fuzzy] (7401)
-- ⚠️ **[FZ]** CZ: Sport 1 cocok [fuzzy] (426490)
-- ⚠️ **[FZ]** DK: V Sport Golf cocok [fuzzy] (68311)
-- ⚠️ **[FZ]** FI: V Sport 2 cocok [fuzzy] (407559)
-- ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fuzzy] (430106)
-- ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fuzzy] (459115)
-- ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fuzzy] (532976)
-- ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fuzzy] (407672)
-- ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fuzzy] (516373)
-- ⚠️ **[FZ]** DE: Sky Bundesliga cocok [fuzzy] (409238)
-- ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fuzzy] (409238)
-- ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fuzzy] (403248)
-- ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fuzzy] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fuzzy] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fuzzy] (438445)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fuzzy] (427666)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fuzzy] (427666)
-- ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fuzzy] (427675)
-- ⚠️ **[FZ]** DE: ESports 1 cocok [fuzzy] (76707)
-- ⚠️ **[FZ]** DE: ESports 1 [SAT] [VIP] cocok [fuzzy] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 cocok [fuzzy] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fuzzy] (76707)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fuzzy] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fuzzy] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fuzzy] (438441)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fuzzy] (438441)
-- ⚠️ **[FZ]** GR: Nova sports 2 cocok [fuzzy] (7401)
-- ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fuzzy] (7401)
-- ⚠️ **[FZ]** HK: Now Sports 2 cocok [fuzzy] (532221)
-- ⚠️ **[FZ]** HK: Now Sports 5 cocok [fuzzy] (532219)
-- ⚠️ **[FZ]** HU: Sport 1 cocok [fuzzy] (426490)
-- ⚠️ **[FZ]** HU: Sport 2 cocok [fuzzy] (537810)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fuzzy] (534237)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fuzzy] (534239)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fuzzy] (534215)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fuzzy] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fuzzy] (464285)
-- ⚠️ **[EX]** ID: SpoTV cocok (SPOTV.id)
-- ⚠️ **[EX]** ID: SpoTV 2 cocok (SPOTV2.id)
-- ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fuzzy] (408613)
-- ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fuzzy] (408658)
-- ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fuzzy] (7673)
-- ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fuzzy] (438445)
-- ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fuzzy] (427687)
-- ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fuzzy] (427666)
-- ⚠️ **[FZ]** IT: Super Tennis cocok [fuzzy] (5816)
-- ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fuzzy] (465280)
-- ⚠️ **[EX]** MY: beIN Sports cocok (beINSports.my)
-- ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fuzzy] (465280)
-- ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fuzzy] (427680)
-- ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fuzzy] (465248)
-- ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fuzzy] (403248)
-- ⚠️ **[FZ]** NO: V Sport Premier League cocok [fuzzy] (503053)
-- ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fuzzy] (412749)
-- ⚠️ **[FZ]** NO: V Sport + cocok [fuzzy] (481079)
-- ⚠️ **[FZ]** NO: V Sport 2 cocok [fuzzy] (407559)
-- ⚠️ **[FZ]** NO: V Sport 3 cocok [fuzzy] (407581)
-- ⚠️ **[FZ]** NO: V Sport Golf cocok [fuzzy] (68311)
-- ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fuzzy] (416875)
-- ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fuzzy] (532979)
-- ⚠️ **[FZ]** QA: beIN Sports 7 cocok [fuzzy] (532980)
-- ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fuzzy] (459115)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fuzzy] (381833)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fuzzy] (381835)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 3 cocok [fuzzy] (381834)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 1 cocok [fuzzy] (413152)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 2 cocok [fuzzy] (413152)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 3 cocok [fuzzy] (413152)
-- ⚠️ **[FZ]** RO: DIGI Sport 1 cocok [fuzzy] (5862)
-- ⚠️ **[FZ]** RO: DIGI Sport 1 4K cocok [fuzzy] (5862)
-- ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fuzzy] (6506)
-- ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fuzzy] (5864)
-- ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fuzzy] (5866)
-- ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fuzzy] (6832)
-- ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fuzzy] (6830)
-- ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fuzzy] (6831)
-- ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fuzzy] (6829)
-- ⚠️ **[FZ]** RS: Arena Esport cocok [fuzzy] (446948)
-- ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** RS: Arena Sport 1x2 cocok [fuzzy] (457028)
-- ⚠️ **[FZ]** RS: Arena Sport 2 cocok [fuzzy] (381848)
-- ⚠️ **[FZ]** RS: Arena Sport 3 cocok [fuzzy] (381849)
-- ⚠️ **[FZ]** RS: Arena Sport 4 cocok [fuzzy] (381853)
-- ⚠️ **[FZ]** RS: Arena Sport 5 cocok [fuzzy] (381854)
-- ⚠️ **[FZ]** RS: Arena Sport 6 cocok [fuzzy] (381851)
-- ⚠️ **[FZ]** RS: Arena Sport 7 cocok [fuzzy] (410641)
-- ⚠️ **[FZ]** RS: Arena Sport 8 cocok [fuzzy] (410632)
-- ⚠️ **[FZ]** RS: Arena Sport 9 cocok [fuzzy] (410631)
-- ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fuzzy] (497469)
-- ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fuzzy] (497508)
-- ⚠️ **[FZ]** RS: Sport Klub 4 cocok [fuzzy] (497489)
-- ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fuzzy] (497507)
-- ⚠️ **[FZ]** RS: Sport Klub ESports cocok [fuzzy] (497492)
-- ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fuzzy] (381850)
-- ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fuzzy] (497469)
-- ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fuzzy] (497508)
-- ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fuzzy] (497489)
-- ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fuzzy] (497507)
-- ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fuzzy] (444123)
-- ⚠️ **[FZ]** ZA: SuperSport Football cocok [fuzzy] (463676)
-- ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fuzzy] (430106)
-- ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fuzzy] (407672)
-- ⚠️ **[FZ]** ZA: CANAL+ Sport 360 cocok [fuzzy] (516373)
-- ⚠️ **[FZ]** ZA: SuperSport Action cocok [fuzzy] (463710)
-- ⚠️ **[FZ]** ES: DAZN F1 cocok [fuzzy] (406540)
-- ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fuzzy] (406588)
-- ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fuzzy] (406588)
-- ⚠️ **[FZ]** ES: M+ LaLiga cocok [fuzzy] (406566)
-- ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fuzzy] (413152)
-- ⚠️ **[FZ]** SE: V Sport Football cocok [fuzzy] (537102)
-- ⚠️ **[FZ]** SE: TV4 Tennis cocok [fuzzy] (537113)
-- ⚠️ **[FZ]** SE: V Sport Extra cocok [fuzzy] (537118)
-- ⚠️ **[FZ]** SE: V Sport Golf cocok [fuzzy] (68311)
-- ⚠️ **[FZ]** SE: V Sport Premium cocok [fuzzy] (537119)
-- ⚠️ **[FZ]** CH: MySports 1 cocok [fuzzy] (76707)
-- ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fuzzy] (12160)
-- ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fuzzy] (407559)
-- ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fuzzy] (407581)
-- ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fuzzy] (522582)
-- ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fuzzy] (408613)
-- ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fuzzy] (408658)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fuzzy] (438445)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League 50fps [vip] cocok [fuzzy] (438445)
-- ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fuzzy] (537810)
-- ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fuzzy] (537754)
-- ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fuzzy] (537753)
-- ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fuzzy] (427687)
-- ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fuzzy] (7673)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fuzzy] (427666)
-- ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fuzzy] (400477)
-- ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fuzzy] (400480)
-- ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fuzzy] (400478)
-- ⚠️ **[FZ]** UK: Ginx eSports cocok [fuzzy] (516402)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fuzzy] (427666)
-- ⚠️ **[FZ]** US: beIN Sports 6 cocok [fuzzy] (532979)
-- ⚠️ **[FZ]** US: beIN Sports 7 cocok [fuzzy] (532980)
-- ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fuzzy] (413152)
-- ⚠️ **[FZ]** US: Eleven Sports cocok [fuzzy] (6336)
-- ⚠️ **[FZ]** US: Fox Sports 1 cocok [fuzzy] (465248)
-- ⚠️ **[FZ]** US: Fox Sports 2 cocok [fuzzy] (465280)
-- ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fuzzy] (537794)
-- ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fuzzy] (470641)
-- ⚠️ **[FZ]** US: Fubo Sports Network cocok [fuzzy] (408644)
-- ⚠️ **[FZ]** US: Marquee Sports Network cocok [fuzzy] (465271)
-- ⚠️ **[FZ]** US: NBC Sports California cocok [fuzzy] (465054)
-- ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fuzzy] (496620)
-- ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fuzzy] (409245)
-- ⚠️ **[FZ]** US: SportsNet New York cocok [fuzzy] (464777)
-- ⚠️ **[FZ]** US: Tennis Channel cocok [fuzzy] (465236)
-- ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fuzzy] (465280)
+- ⚠️ **[FUZZY]** AL: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** AL: Arena Sport 2 cocok [fuzzy] (381848)
+- ⚠️ **[FUZZY]** AL: Arena Sport 4 cocok [fuzzy] (381853)
+- ⚠️ **[FUZZY]** AL: Arena Sport 5 cocok [fuzzy] (381854)
+- ⚠️ **[FUZZY]** AU: Fox Sports 506 cocok [fuzzy] (537794)
+- ⚠️ **[FUZZY]** AU: Sky Sport 4 cocok [fuzzy] (403248)
+- ⚠️ **[FUZZY]** AT: Sky Sport Austria 8 [SPIELTAG] [VIP] cocok [fuzzy] (438448)
+- ⚠️ **[FUZZY]** BE: Eleven Sports 1 cocok [fuzzy] (6338)
+- ⚠️ **[FUZZY]** BE: Eleven Sports 2 cocok [fuzzy] (6340)
+- ⚠️ **[FUZZY]** BE: Eleven Sports 3 cocok [fuzzy] (6339)
+- ⚠️ **[FUZZY]** BE: Play Sports 1 cocok [fuzzy] (480057)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 1 Premium cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 2 Premium cocok [fuzzy] (381848)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 3 cocok [fuzzy] (381849)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 4 cocok [fuzzy] (381853)
+- ⚠️ **[FUZZY]** BIH: Arena Sport 5 cocok [fuzzy] (381854)
+- ⚠️ **[FUZZY]** BR: SPORTV cocok [fuzzy] (523358)
+- ⚠️ **[FUZZY]** BR: SPORTV 2 cocok [fuzzy] (523271)
+- ⚠️ **[FUZZY]** CA: NBA TV Canada cocok [fuzzy] (470366)
+- ⚠️ **[FUZZY]** CA: SportsNet East cocok [fuzzy] (470812)
+- ⚠️ **[FUZZY]** CA: SportsNet New York cocok [fuzzy] (464777)
+- ⚠️ **[FUZZY]** CA: SportsNet One cocok [fuzzy] (470873)
+- ⚠️ **[FUZZY]** CA: SportsNet Ontario cocok [fuzzy] (470571)
+- ⚠️ **[FUZZY]** CA: SportsNet West cocok [fuzzy] (470443)
+- ⚠️ **[FUZZY]** CA: SportsNet World cocok [fuzzy] (470920)
+- ⚠️ **[FUZZY]** CL: FOX SPORTS 1 cocok [fuzzy] (465248)
+- ⚠️ **[FUZZY]** CL: FOX SPORTS 2 cocok [fuzzy] (465280)
+- ⚠️ **[FUZZY]** CL: TNT Sports 2 cocok [fuzzy] (400480)
+- ⚠️ **[FUZZY]** CO: FOX Sports 1 cocok [fuzzy] (465248)
+- ⚠️ **[FUZZY]** CO: Fox Sports 2 cocok [fuzzy] (465280)
+- ⚠️ **[FUZZY]** HR: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** HR: Arena Sport 2 cocok [fuzzy] (381848)
+- ⚠️ **[FUZZY]** HR: Arena Sport 3 cocok [fuzzy] (381849)
+- ⚠️ **[FUZZY]** HR: Arena Sport 4 cocok [fuzzy] (381853)
+- ⚠️ **[FUZZY]** HR: Arena Sport 5 cocok [fuzzy] (381854)
+- ⚠️ **[FUZZY]** HR: Arena Sport 6 cocok [fuzzy] (381851)
+- ⚠️ **[FUZZY]** HR: Arena Sport 7 cocok [fuzzy] (410641)
+- ⚠️ **[FUZZY]** HR: Arena Sport 8 cocok [fuzzy] (410632)
+- ⚠️ **[FUZZY]** HR: Arena Sport 9 cocok [fuzzy] (410631)
+- ⚠️ **[FUZZY]** HR: Sport Klub 2 cocok [fuzzy] (497469)
+- ⚠️ **[FUZZY]** HR: Sport Klub 3 cocok [fuzzy] (497508)
+- ⚠️ **[FUZZY]** HR: Sport Klub 4 cocok [fuzzy] (497489)
+- ⚠️ **[FUZZY]** HR: Sport Klub 5 cocok [fuzzy] (497507)
+- ⚠️ **[FUZZY]** HR: Sport Klub FIGHT cocok [fuzzy] (497509)
+- ⚠️ **[FUZZY]** CZ: Arena Sport 2 cocok [fuzzy] (381848)
+- ⚠️ **[FUZZY]** CZ: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** CZ: Canal+ Sport 2 cocok [fuzzy] (407672)
+- ⚠️ **[FUZZY]** CZ: Nova Sport 2 cocok [fuzzy] (7401)
+- ⚠️ **[FUZZY]** CZ: Sport 1 cocok [fuzzy] (426490)
+- ⚠️ **[FUZZY]** DK: V Sport Golf cocok [fuzzy] (68311)
+- ⚠️ **[FUZZY]** FI: V Sport 2 cocok [fuzzy] (407559)
+- ⚠️ **[FUZZY]** FR: CANAL+ Premier League cocok [fuzzy] (430106)
+- ⚠️ **[FUZZY]** FR: beIN Sports Max 4 cocok [fuzzy] (459115)
+- ⚠️ **[FUZZY]** FR: beIN Sports Max 5 cocok [fuzzy] (532976)
+- ⚠️ **[FUZZY]** FR: CANAL+ Sport 2 cocok [fuzzy] (407672)
+- ⚠️ **[FUZZY]** FR: CANAL+ Sport 360 cocok [fuzzy] (516373)
+- ⚠️ **[FUZZY]** DE: Sky Bundesliga cocok [fuzzy] (409238)
+- ⚠️ **[FUZZY]** DE: Sky Bundesliga [SAT] [VIP] cocok [fuzzy] (409238)
+- ⚠️ **[FUZZY]** DE: Sky Sport 4 cocok [fuzzy] (403248)
+- ⚠️ **[FUZZY]** DE: Sky Sport F1 cocok [fuzzy] (427687)
+- ⚠️ **[FUZZY]** DE: Sky Sport F1 [SAT] [VIP] cocok [fuzzy] (427687)
+- ⚠️ **[FUZZY]** DE: Sky Sport Premier League cocok [fuzzy] (438445)
+- ⚠️ **[FUZZY]** DE: Sky Sport Tennis cocok [fuzzy] (427666)
+- ⚠️ **[FUZZY]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fuzzy] (427666)
+- ⚠️ **[FUZZY]** DE: Sky Sport Top Event cocok [fuzzy] (427675)
+- ⚠️ **[FUZZY]** DE: ESports 1 cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** DE: ESports 1 [SAT] [VIP] cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** DE: Sport 1 cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** DE: Sport 1 [SAT] [VIP] cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** DE: Sportdigital 1+ cocok [fuzzy] (450294)
+- ⚠️ **[FUZZY]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fuzzy] (450294)
+- ⚠️ **[FUZZY]** DE: Sportdigital Fussball cocok [fuzzy] (438441)
+- ⚠️ **[FUZZY]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fuzzy] (438441)
+- ⚠️ **[FUZZY]** GR: Nova sports 2 cocok [fuzzy] (7401)
+- ⚠️ **[FUZZY]** GR: Nova sports 2 [vip] cocok [fuzzy] (7401)
+- ⚠️ **[FUZZY]** HK: Now Sports 2 cocok [fuzzy] (532221)
+- ⚠️ **[FUZZY]** HK: Now Sports 5 cocok [fuzzy] (532219)
+- ⚠️ **[FUZZY]** HU: Sport 1 cocok [fuzzy] (426490)
+- ⚠️ **[FUZZY]** HU: Sport 2 cocok [fuzzy] (537810)
+- ⚠️ **[FUZZY]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fuzzy] (534237)
+- ⚠️ **[FUZZY]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fuzzy] (534239)
+- ⚠️ **[FUZZY]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fuzzy] (534215)
+- ⚠️ **[FUZZY]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fuzzy] (534195)
+- ⚠️ **[FUZZY]** IN: Star Sports 1 cocok [fuzzy] (464285)
+- ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
+- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
+- ⚠️ **[FUZZY]** IE: Premier Sports 1 cocok [fuzzy] (408613)
+- ⚠️ **[FUZZY]** IE: Premier Sports 2 cocok [fuzzy] (408658)
+- ⚠️ **[FUZZY]** IE: Sky Sports Main Event cocok [fuzzy] (7673)
+- ⚠️ **[FUZZY]** IE: Sky Sports Premier League cocok [fuzzy] (438445)
+- ⚠️ **[FUZZY]** IT: Sky Sport F1 cocok [fuzzy] (427687)
+- ⚠️ **[FUZZY]** IT: Sky Sport Tennis cocok [fuzzy] (427666)
+- ⚠️ **[FUZZY]** IT: Super Tennis cocok [fuzzy] (5816)
+- ⚠️ **[FUZZY]** LA: FOX Sports 2 cocok [fuzzy] (465280)
+- ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
+- ⚠️ **[FUZZY]** MX: Fox Sports 2 cocok [fuzzy] (465280)
+- ⚠️ **[FUZZY]** MX: Sky Sports LaLiga cocok [fuzzy] (427680)
+- ⚠️ **[FUZZY]** NL: Fox Sports 1 cocok [fuzzy] (465248)
+- ⚠️ **[FUZZY]** NZ: Sky Sport 4 cocok [fuzzy] (403248)
+- ⚠️ **[FUZZY]** NO: V Sport Premier League cocok [fuzzy] (503053)
+- ⚠️ **[FUZZY]** NO: TV 2 Sport 1 cocok [fuzzy] (412749)
+- ⚠️ **[FUZZY]** NO: V Sport + cocok [fuzzy] (481079)
+- ⚠️ **[FUZZY]** NO: V Sport 2 cocok [fuzzy] (407559)
+- ⚠️ **[FUZZY]** NO: V Sport 3 cocok [fuzzy] (407581)
+- ⚠️ **[FUZZY]** NO: V Sport Golf cocok [fuzzy] (68311)
+- ⚠️ **[FUZZY]** PT: SPORT TV 4 cocok [fuzzy] (416875)
+- ⚠️ **[FUZZY]** QA: beIN Sports 6 cocok [fuzzy] (532979)
+- ⚠️ **[FUZZY]** QA: beIN Sports 7 cocok [fuzzy] (532980)
+- ⚠️ **[FUZZY]** QA: beIN Sports Max 4 cocok [fuzzy] (459115)
+- ⚠️ **[FUZZY]** QA: beIN Sports Premium 1 cocok [fuzzy] (381833)
+- ⚠️ **[FUZZY]** QA: beIN Sports Premium 2 cocok [fuzzy] (381835)
+- ⚠️ **[FUZZY]** QA: beIN Sports Premium 3 cocok [fuzzy] (381834)
+- ⚠️ **[FUZZY]** QA: beIN Sports Xtra 1 cocok [fuzzy] (413152)
+- ⚠️ **[FUZZY]** QA: beIN Sports Xtra 2 cocok [fuzzy] (413152)
+- ⚠️ **[FUZZY]** QA: beIN Sports Xtra 3 cocok [fuzzy] (413152)
+- ⚠️ **[FUZZY]** RO: DIGI Sport 1 cocok [fuzzy] (5862)
+- ⚠️ **[FUZZY]** RO: DIGI Sport 1 4K cocok [fuzzy] (5862)
+- ⚠️ **[FUZZY]** RO: DIGI Sport 2 cocok [fuzzy] (6506)
+- ⚠️ **[FUZZY]** RO: DIGI Sport 3 cocok [fuzzy] (5864)
+- ⚠️ **[FUZZY]** RO: DIGI Sport 4 cocok [fuzzy] (5866)
+- ⚠️ **[FUZZY]** RO: Prima Sport 1 cocok [fuzzy] (6832)
+- ⚠️ **[FUZZY]** RO: Prima Sport 2 cocok [fuzzy] (6830)
+- ⚠️ **[FUZZY]** RO: Prima Sport 3 cocok [fuzzy] (6831)
+- ⚠️ **[FUZZY]** RO: Prima Sport 5 cocok [fuzzy] (6829)
+- ⚠️ **[FUZZY]** RS: Arena Esport cocok [fuzzy] (446948)
+- ⚠️ **[FUZZY]** RS: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** RS: Arena Sport 1 Premium cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** RS: Arena Sport 1x2 cocok [fuzzy] (457028)
+- ⚠️ **[FUZZY]** RS: Arena Sport 2 cocok [fuzzy] (381848)
+- ⚠️ **[FUZZY]** RS: Arena Sport 3 cocok [fuzzy] (381849)
+- ⚠️ **[FUZZY]** RS: Arena Sport 4 cocok [fuzzy] (381853)
+- ⚠️ **[FUZZY]** RS: Arena Sport 5 cocok [fuzzy] (381854)
+- ⚠️ **[FUZZY]** RS: Arena Sport 6 cocok [fuzzy] (381851)
+- ⚠️ **[FUZZY]** RS: Arena Sport 7 cocok [fuzzy] (410641)
+- ⚠️ **[FUZZY]** RS: Arena Sport 8 cocok [fuzzy] (410632)
+- ⚠️ **[FUZZY]** RS: Arena Sport 9 cocok [fuzzy] (410631)
+- ⚠️ **[FUZZY]** RS: Sport Klub 2 cocok [fuzzy] (497469)
+- ⚠️ **[FUZZY]** RS: Sport Klub 3 cocok [fuzzy] (497508)
+- ⚠️ **[FUZZY]** RS: Sport Klub 4 cocok [fuzzy] (497489)
+- ⚠️ **[FUZZY]** RS: Sport Klub 5 cocok [fuzzy] (497507)
+- ⚠️ **[FUZZY]** RS: Sport Klub ESports cocok [fuzzy] (497492)
+- ⚠️ **[FUZZY]** SK: Arena Sport 1 cocok [fuzzy] (381850)
+- ⚠️ **[FUZZY]** SI: Sport Klub 2 cocok [fuzzy] (497469)
+- ⚠️ **[FUZZY]** SI: Sport Klub 3 cocok [fuzzy] (497508)
+- ⚠️ **[FUZZY]** SI: Sport Klub 4 cocok [fuzzy] (497489)
+- ⚠️ **[FUZZY]** SI: Sport Klub 5 cocok [fuzzy] (497507)
+- ⚠️ **[FUZZY]** SI: SPORT TV 2 cocok [fuzzy] (444123)
+- ⚠️ **[FUZZY]** ZA: SuperSport Football cocok [fuzzy] (463676)
+- ⚠️ **[FUZZY]** ZA: CANAL+ Premier League cocok [fuzzy] (430106)
+- ⚠️ **[FUZZY]** ZA: CANAL+ Sport 2 cocok [fuzzy] (407672)
+- ⚠️ **[FUZZY]** ZA: CANAL+ Sport 360 cocok [fuzzy] (516373)
+- ⚠️ **[FUZZY]** ZA: SuperSport Action cocok [fuzzy] (463710)
+- ⚠️ **[FUZZY]** ES: DAZN F1 cocok [fuzzy] (406540)
+- ⚠️ **[FUZZY]** ES: DAZN LaLiga cocok [fuzzy] (406588)
+- ⚠️ **[FUZZY]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fuzzy] (406588)
+- ⚠️ **[FUZZY]** ES: M+ LaLiga cocok [fuzzy] (406566)
+- ⚠️ **[FUZZY]** ES: beIN Sports Xtra ñ cocok [fuzzy] (413152)
+- ⚠️ **[FUZZY]** SE: V Sport Football cocok [fuzzy] (537102)
+- ⚠️ **[FUZZY]** SE: TV4 Tennis cocok [fuzzy] (537113)
+- ⚠️ **[FUZZY]** SE: V Sport Extra cocok [fuzzy] (537118)
+- ⚠️ **[FUZZY]** SE: V Sport Golf cocok [fuzzy] (68311)
+- ⚠️ **[FUZZY]** SE: V Sport Premium cocok [fuzzy] (537119)
+- ⚠️ **[FUZZY]** CH: MySports 1 cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** CH: V Sport Live 2 cocok [fuzzy] (407559)
+- ⚠️ **[FUZZY]** CH: V Sport Live 3 cocok [fuzzy] (407581)
+- ⚠️ **[FUZZY]** TR: beIN Sports Haber cocok [fuzzy] (522582)
+- ⚠️ **[FUZZY]** UK: Premier Sports 1 cocok [fuzzy] (408613)
+- ⚠️ **[FUZZY]** UK: Premier Sports 2 cocok [fuzzy] (408658)
+- ⚠️ **[FUZZY]** UK: Sky Sports Premier League cocok [fuzzy] (438445)
+- ⚠️ **[FUZZY]** UK: Sky Sports Premier League 50fps [vip] cocok [fuzzy] (438445)
+- ⚠️ **[FUZZY]** UK: Hub Sports 2 [vip] cocok [fuzzy] (537810)
+- ⚠️ **[FUZZY]** UK: Hub Sports 3 [vip] cocok [fuzzy] (537754)
+- ⚠️ **[FUZZY]** UK: Hub Sports 4 [vip] cocok [fuzzy] (537753)
+- ⚠️ **[FUZZY]** UK: Sky Sports F1 cocok [fuzzy] (427687)
+- ⚠️ **[FUZZY]** UK: Sky Sports Main Event cocok [fuzzy] (7673)
+- ⚠️ **[FUZZY]** UK: Sky Sports Tennis [vip] cocok [fuzzy] (427666)
+- ⚠️ **[FUZZY]** UK: TNT Sports 1 cocok [fuzzy] (400477)
+- ⚠️ **[FUZZY]** UK: TNT Sports 2 cocok [fuzzy] (400480)
+- ⚠️ **[FUZZY]** UK: TNT Sports 4 cocok [fuzzy] (400478)
+- ⚠️ **[FUZZY]** UK: Ginx eSports cocok [fuzzy] (516402)
+- ⚠️ **[FUZZY]** UK: Sky Sports Tennis cocok [fuzzy] (427666)
+- ⚠️ **[FUZZY]** US: beIN Sports 6 cocok [fuzzy] (532979)
+- ⚠️ **[FUZZY]** US: beIN Sports 7 cocok [fuzzy] (532980)
+- ⚠️ **[FUZZY]** US: beIN Sports Xtra 1 cocok [fuzzy] (413152)
+- ⚠️ **[FUZZY]** US: Eleven Sports cocok [fuzzy] (6336)
+- ⚠️ **[FUZZY]** US: Fox Sports 1 cocok [fuzzy] (465248)
+- ⚠️ **[FUZZY]** US: Fox Sports 2 cocok [fuzzy] (465280)
+- ⚠️ **[FUZZY]** US: FOX SPORTS 506 cocok [fuzzy] (537794)
+- ⚠️ **[FUZZY]** US: FOX SPORTS Racing cocok [fuzzy] (470641)
+- ⚠️ **[FUZZY]** US: Fubo Sports Network cocok [fuzzy] (408644)
+- ⚠️ **[FUZZY]** US: Marquee Sports Network cocok [fuzzy] (465271)
+- ⚠️ **[FUZZY]** US: NBC Sports California cocok [fuzzy] (465054)
+- ⚠️ **[FUZZY]** US: NBC Sports Philadelphia cocok [fuzzy] (465037)
+- ⚠️ **[FUZZY]** US: NBC Sports Philadelphia Plus cocok [fuzzy] (496620)
+- ⚠️ **[FUZZY]** US: Spectrum SportsNet cocok [fuzzy] (409245)
+- ⚠️ **[FUZZY]** US: SportsNet New York cocok [fuzzy] (464777)
+- ⚠️ **[FUZZY]** US: Tennis Channel cocok [fuzzy] (465236)
+- ⚠️ **[FUZZY]** VE: Fox Sports 2 cocok [fuzzy] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -209,1251 +209,1251 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
--  **[KS]** AFG: RTA Sport tidak cocok id epg
--  **[KS]** AF: Africa 24 Sport tidak cocok id epg
--  **[KS]** AF: Azam Sport 1 tidak cocok id epg
--  **[KS]** AF: Azam Sport 2 tidak cocok id epg
--  **[KS]** AF: Azam Sport 3 tidak cocok id epg
--  **[KS]** AF: Azam Sport 4 tidak cocok id epg
--  **[KS]** AL: ART Sport 1 tidak cocok id epg
--  **[KS]** AL: ART Sport 2 tidak cocok id epg
--  **[KS]** AL: ART Sport 3 tidak cocok id epg
--  **[KS]** AL: ART Sport 4 tidak cocok id epg
--  **[KS]** AL: ART Sport 5 tidak cocok id epg
--  **[KS]** AL: ART Sport 6 tidak cocok id epg
--  **[KS]** AL: Eurosport 1 tidak cocok id epg
--  **[KS]** AL: Eurosport 2 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 1 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 3 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 4 tidak cocok id epg
--  **[KS]** AL: RTSH Sport tidak cocok id epg
--  **[KS]** AL: SuperSport 1 tidak cocok id epg
--  **[KS]** AL: SuperSport 2 tidak cocok id epg
--  **[KS]** AL: SuperSport 3 tidak cocok id epg
--  **[KS]** AL: SuperSport 4 tidak cocok id epg
--  **[KS]** AL: SuperSport 5 tidak cocok id epg
--  **[KS]** AL: SuperSport 6 tidak cocok id epg
--  **[KS]** AL: SuperSport 7 tidak cocok id epg
--  **[KS]** AL: Tring Sport 1 tidak cocok id epg
--  **[KS]** AL: Tring Sport 2 tidak cocok id epg
--  **[KS]** AL: Tring Sport 3 tidak cocok id epg
--  **[KS]** AL: Tring Sport 4 tidak cocok id epg
--  **[KS]** AL: CineStar TV Premiere 1 tidak cocok id epg
--  **[KS]** AL: CineStar TV Premiere 2 tidak cocok id epg
--  **[KS]** AL: #Premiere 1 tidak cocok id epg
--  **[KS]** AL: #Premiere 2 tidak cocok id epg
--  **[KS]** AL: #Premiere 3 tidak cocok id epg
--  **[KS]** AL: #Premiere 4 tidak cocok id epg
--  **[KS]** AL: #Premiere 5 tidak cocok id epg
--  **[KS]** AL: Kinema Premier tidak cocok id epg
--  **[KS]** AL: Ks Premiere 1 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 2 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 3 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 4 tidak cocok id epg
--  **[KS]** AR: beIN Box Office 1 tidak cocok id epg
--  **[KS]** AR: beIN Box Office 2 tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** ARG: Fox Sports tidak cocok id epg
--  **[KS]** ARG: Fox Sports 2 tidak cocok id epg
--  **[KS]** ARG: Fox Sports 3 tidak cocok id epg
--  **[KS]** ARG: TNT Sports tidak cocok id epg
--  **[KS]** ARG: TyC Sports tidak cocok id epg
--  **[KS]** AU: beIN Sports 1 tidak cocok id epg
--  **[KS]** AU: beIN Sports 1 [vip] tidak cocok id epg
--  **[KS]** AU: Fox Sports 501 tidak cocok id epg
--  **[KS]** AU: Fox Sports 502 tidak cocok id epg
--  **[KS]** AU: Fox Sports 503 tidak cocok id epg
--  **[KS]** AU: Fox Sports 504 tidak cocok id epg
--  **[KS]** AU: Fox Sports 504 AFL tidak cocok id epg
--  **[KS]** AU: Fox Sports 505 tidak cocok id epg
--  **[KS]** AU: Fox Sports 507 tidak cocok id epg
--  **[KS]** AU: Sky Sport 1 tidak cocok id epg
--  **[KS]** AU: Sky Sport 2 tidak cocok id epg
--  **[KS]** AU: Sky Sport 3 tidak cocok id epg
--  **[KS]** AU: Sky Sport 5 tidak cocok id epg
--  **[KS]** AU: Sky Sport 6 tidak cocok id epg
--  **[KS]** AU: Sky Sport 7 tidak cocok id epg
--  **[KS]** AU: Sky Sport 8 tidak cocok id epg
--  **[KS]** AU: Sky Sport 9 tidak cocok id epg
--  **[KS]** AU: Sky Sport Select tidak cocok id epg
--  **[KS]** AT: ORF Sport+ tidak cocok id epg
--  **[KS]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport 2 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 1 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 1 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 2 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 2 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 3 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 3 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 4 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 4 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 5 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 5 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 6 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 6 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 7 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AZ: CBC Sport tidak cocok id epg
--  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
--  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
--  **[KS]** BE: Eurosport 2 tidak cocok id epg
--  **[KS]** BE: Play Sports 2 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 3 tidak cocok id epg
--  **[KS]** BIH: Eurosport 2 tidak cocok id epg
--  **[KS]** BR: Premiere FC 1 tidak cocok id epg
--  **[KS]** BR: Premiere FC 2 tidak cocok id epg
--  **[KS]** BR: Premiere FC 3 tidak cocok id epg
--  **[KS]** BR: Premiere FC 4 tidak cocok id epg
--  **[KS]** BR: Premiere FC 5 tidak cocok id epg
--  **[KS]** BR: Premiere FC 6 tidak cocok id epg
--  **[KS]** BR: Premiere FC 7 tidak cocok id epg
--  **[KS]** BR: Band Sports tidak cocok id epg
--  **[KS]** BR: FOX SPORTS tidak cocok id epg
--  **[KS]** BR: SPORTV 3 tidak cocok id epg
--  **[KS]** BG: Diema Sport tidak cocok id epg
--  **[KS]** BG: Diema Sport 2 tidak cocok id epg
--  **[KS]** BG: Diema Sport 3 tidak cocok id epg
--  **[KS]** BG: Eurosport 1 tidak cocok id epg
--  **[KS]** BG: Eurosport 2 tidak cocok id epg
--  **[KS]** BG: Max Sport 1 tidak cocok id epg
--  **[KS]** BG: Max Sport 2 tidak cocok id epg
--  **[KS]** BG: Max Sport 3 tidak cocok id epg
--  **[KS]** BG: Max Sport 4 tidak cocok id epg
--  **[KS]** BG: Nova Sport tidak cocok id epg
--  **[KS]** BG: Auto Motor Sport tidak cocok id epg
--  **[KS]** CA: beIN Sports tidak cocok id epg
--  **[KS]** CA: SportsNet 360 tidak cocok id epg
--  **[KS]** CA: SportsNet Pacific tidak cocok id epg
--  **[KS]** CA: TVA Sports tidak cocok id epg
--  **[KS]** CA: TVA Sports 2 tidak cocok id epg
--  **[KS]** CA: SportsNet PPV tidak cocok id epg
--  **[KS]** CAR: RUSH SPORTS tidak cocok id epg
--  **[KS]** CAR: TVJ Sports tidak cocok id epg
--  **[KS]** CL: DirecTV Sports tidak cocok id epg
--  **[KS]** CL: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** CL: TNT Sports Premium tidak cocok id epg
--  **[KS]** CO: DirecTV Sports tidak cocok id epg
--  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** CO: FOX Sports 3 tidak cocok id epg
--  **[KS]** CO: Win Sports tidak cocok id epg
--  **[KS]** CO: Win Sports+ tidak cocok id epg
--  **[KS]** CR: Tigo Sports tidak cocok id epg
--  **[KS]** HR: Arena Sport 10 tidak cocok id epg
--  **[KS]** HR: Max Sport 1 tidak cocok id epg
--  **[KS]** HR: Max Sport 2 tidak cocok id epg
--  **[KS]** HR: Sport Klub 1 tidak cocok id epg
--  **[KS]** HR: Sportska tidak cocok id epg
--  **[KS]** HR: CineStar TV Premiere 1 tidak cocok id epg
--  **[KS]** HR: CineStar TV Premiere 2 tidak cocok id epg
--  **[KS]** HR: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** HR: Sport Klub 10 tidak cocok id epg
--  **[KS]** HR: Sport Klub 6 tidak cocok id epg
--  **[KS]** HR: Sport Klub 8 tidak cocok id epg
--  **[KS]** HR: Sport Klub 9 tidak cocok id epg
--  **[KS]** CZ: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** CZ: CT Sport tidak cocok id epg
--  **[KS]** CZ: Eurosport 1 tidak cocok id epg
--  **[KS]** CZ: Eurosport 2 tidak cocok id epg
--  **[KS]** CZ: Nova Sport 1 tidak cocok id epg
--  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
--  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
--  **[KS]** CZ: Sport 2 tidak cocok id epg
--  **[KS]** CZ: Sport 5 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 3 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 4 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 5 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 6 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 7 tidak cocok id epg
--  **[KS]** DK: Eurosport 1 tidak cocok id epg
--  **[KS]** DK: Eurosport 2 tidak cocok id epg
--  **[KS]** DK: TV 2 Sport tidak cocok id epg
--  **[KS]** DK: TV 2 Sport X tidak cocok id epg
--  **[KS]** DK: TV 3 Sport tidak cocok id epg
--  **[KS]** DK: V Sport Ultra tidak cocok id epg
--  **[KS]** EC: DirecTV Sports tidak cocok id epg
--  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** EG: Nile Sport tidak cocok id epg
--  **[KS]** EG: OnTime Sports tidak cocok id epg
--  **[KS]** EG: OnTime Sports 2 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 1 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 2 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 3 tidak cocok id epg
--  **[KS]** EX-YU: Arena Sport 6 tidak cocok id epg
--  **[KS]** EX-YU: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** EX-YU: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** EX-YU: Eurosport 1 tidak cocok id epg
--  **[KS]** EX-YU: Eurosport 2 tidak cocok id epg
--  **[KS]** EX-YU: Moja TV Premijer Liga tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 2 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 3 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 4 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 5 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 7 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 8 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub Golf tidak cocok id epg
--  **[KS]** EX-YU: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** FI: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
--  **[KS]** FI: MTV Urheilu 2/C More Sport 2 tidak cocok id epg
--  **[KS]** FI: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
--  **[KS]** FI: V Sport 1 Suomi tidak cocok id epg
--  **[KS]** FR: beIN Sports 1 tidak cocok id epg
--  **[KS]** FR: beIN Sports 2 tidak cocok id epg
--  **[KS]** FR: beIN Sports 3 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
--  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 4 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** FR: Eurosport 1 tidak cocok id epg
--  **[KS]** FR: Eurosport 2 tidak cocok id epg
--  **[KS]** FR: InfoSport+ tidak cocok id epg
--  **[KS]** FR: MultiSports 1 tidak cocok id epg
--  **[KS]** FR: MultiSports 2 tidak cocok id epg
--  **[KS]** FR: MultiSports 3 tidak cocok id epg
--  **[KS]** FR: MultiSports 4 tidak cocok id epg
--  **[KS]** FR: MultiSports 5 tidak cocok id epg
--  **[KS]** FR: MultiSports 6 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 1 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 2 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 3 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 4 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 5 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 9 tidak cocok id epg
--  **[KS]** FR: TRACE Sport Stars tidak cocok id epg
--  **[KS]** FR: W-SPORT tidak cocok id epg
--  **[KS]** FR: Sport tidak cocok id epg
--  **[KS]** FR: CINE+ Premier tidak cocok id epg
--  **[KS]** FR: Paris Premiere tidak cocok id epg
--  **[KS]** FR: CINE PREMIER tidak cocok id epg
--  **[KS]** FR: RMC Sport 6 tidak cocok id epg
--  **[KS]** DE: [Kinder] Kurokos Basketball 24/7 tidak cocok id epg
--  **[KS]** DE: DAZN NFL EVENT INFO CHANNEL [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN NFL Network [VIP] tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 1 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 10 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 2 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 3 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 4 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 5 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 6 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 7 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 8 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 9 tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 UHD [vip] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 10 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 10 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 2 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 3 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 3 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 4 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 4 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 5 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 5 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 6 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 6 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 7 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 7 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 8 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 8 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport 1 tidak cocok id epg
--  **[KS]** DE: Sky Sport 10 tidak cocok id epg
--  **[KS]** DE: Sky Sport 2 tidak cocok id epg
--  **[KS]** DE: Sky Sport 3 tidak cocok id epg
--  **[KS]** DE: Sky Sport 5 tidak cocok id epg
--  **[KS]** DE: Sky Sport 6 tidak cocok id epg
--  **[KS]** DE: Sky Sport 7 tidak cocok id epg
--  **[KS]** DE: Sky Sport 8 tidak cocok id epg
--  **[KS]** DE: Sky Sport 9 tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Mix tidak cocok id epg
--  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 12 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 13 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 14 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 15 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 16 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 17 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 18 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 2 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 20 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 3 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 4 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 5 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 6 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 7 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 8 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 9 tidak cocok id epg
--  **[KS]** DE: Dyn Sport 1 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 10 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 11 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 12 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 13 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 14 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 15 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 16 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 17 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 18 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 19 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 2 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 20 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 21 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 22 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 23 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 24 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 25 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 3 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 4 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 5 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 6 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 7 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 8 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 9 [vip] tidak cocok id epg
--  **[KS]** DE: DYN SPORT MIX 24/7 [VIP] tidak cocok id epg
--  **[KS]** DE: Tagesschau 24 tidak cocok id epg
--  **[KS]** DE: DF1 TV tidak cocok id epg
--  **[KS]** DE: OF TV Offenbach tidak cocok id epg
--  **[KS]** DE: ORF Sport+ tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 1 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 2 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 3 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 4 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 5 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 6 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 7 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 10 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 11 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 12 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 13 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 14 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 17 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 3 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 4 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 8 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 9 tidak cocok id epg
--  **[KS]** DE: WEDO Sports tidak cocok id epg
--  **[KS]** DE: Auto Motor Sport tidak cocok id epg
--  **[KS]** DE: Edge Sport tidak cocok id epg
--  **[KS]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Eurosport 1 tidak cocok id epg
--  **[KS]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Eurosport 2 tidak cocok id epg
--  **[KS]** DE: Eurosport 2 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 1 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 10 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 11 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 12 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 13 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 14 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 15 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 16 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 17 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 18 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 19 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 2 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 20 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 21 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 22 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 23 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 24 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 25 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 26 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 27 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 28 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 29 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 3 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 30 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 31 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 32 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 4 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 5 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 6 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 7 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 8 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 9 [VIP] tidak cocok id epg
--  **[KS]** DE: More Than Sports TV tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 2 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 3 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 4 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 5 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 6 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
--  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
--  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
--  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
--  **[KS]** DE: LG 711 wedo sports tidak cocok id epg
--  **[KS]** DE: LG 712 WORLD OF FREE SPORTS tidak cocok id epg
--  **[KS]** DE: LG 713 More Than Sports TV tidak cocok id epg
--  **[KS]** DE: LG 716 Tennis Channel Deutschland tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 1 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 10 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 11 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 12 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 13 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 14 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 15 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 16 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 17 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 18 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 19 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 2 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 20 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 3 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 4 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 5 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 6 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 7 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 8 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 9 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 1 [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf HD [VIP] tidak cocok id epg
--  **[KS]** GR: AEK Super League Pass tidak cocok id epg
--  **[KS]** GR: Cablenet Sports 1 tidak cocok id epg
--  **[KS]** GR: Cablenet Sports 2 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 1 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 1 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 2 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 2 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 3 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 3 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 4 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 4 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 6 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 6 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 7 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 7 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 8 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 8 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 9 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 9 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport Highlights tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 1 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 2 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 3 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 4 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 5 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 6 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 7 tidak cocok id epg
--  **[KS]** GR: ERT Sports 2 tidak cocok id epg
--  **[KS]** GR: Eurosport 1 tidak cocok id epg
--  **[KS]** GR: Eurosport 2 tidak cocok id epg
--  **[KS]** GR: Nova Sports 1 tidak cocok id epg
--  **[KS]** GR: Nova Sports 1 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports 3 tidak cocok id epg
--  **[KS]** GR: Nova Sports 3 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports 4 tidak cocok id epg
--  **[KS]** GR: Nova Sports 5 tidak cocok id epg
--  **[KS]** GR: Nova Sports 5 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports 6 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 1 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 2 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 3 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 4 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Premier League tidak cocok id epg
--  **[KS]** GR: Nova sports Prime tidak cocok id epg
--  **[KS]** GR: Nova Sports Start tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 1 [vip] tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 2 [vip] tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 3 [vip] tidak cocok id epg
--  **[KS]** GR: SportPlus tidak cocok id epg
--  **[KS]** GR: Nova Premiere Comedy tidak cocok id epg
--  **[KS]** GR: Nova Premiere Hellenic tidak cocok id epg
--  **[KS]** GR: Nova Premiere History tidak cocok id epg
--  **[KS]** GR: Nova Premiere Mythology tidak cocok id epg
--  **[KS]** GR: Nova Premiere Passion tidak cocok id epg
--  **[KS]** GR: Nova Premiere sci-fi tidak cocok id epg
--  **[KS]** GR: Nova Premiere Starz tidak cocok id epg
--  **[KS]** GR: Nova Premiere Thriller tidak cocok id epg
--  **[KS]** GR: Nova Premiere Western tidak cocok id epg
--  **[KS]** GR: Cytavision Sport 8 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 1 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 10 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 11 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 12 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 13 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 14 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 15 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 16 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 17 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 18 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 2 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 3 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 3D tidak cocok id epg
--  **[KS]** GR: Nova Premiere 4 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 5 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 6 UHD tidak cocok id epg
--  **[KS]** GR: Nova Premiere 7 UHD tidak cocok id epg
--  **[KS]** GR: Nova Premiere 8 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 9 tidak cocok id epg
--  **[KS]** GR: Nova Premiere Action tidak cocok id epg
--  **[KS]** GR: Nova Premiere Adventure tidak cocok id epg
--  **[KS]** GR: Nova Premiere Animation tidak cocok id epg
--  **[KS]** GR: Nova Premiere Biography tidak cocok id epg
--  **[KS]** GR: Nova Premiere Fantasy tidak cocok id epg
--  **[KS]** GR: Nova Premiere Horror tidak cocok id epg
--  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
--  **[KS]** GT: Tigo Sports tidak cocok id epg
--  **[KS]** HK: Now Sports 1 tidak cocok id epg
--  **[KS]** HK: Now Sports 3 tidak cocok id epg
--  **[KS]** HK: Now Sports 4 tidak cocok id epg
--  **[KS]** HK: Now Sports 6 tidak cocok id epg
--  **[KS]** HK: Now Sports 7 tidak cocok id epg
--  **[KS]** HK: Now Sports PL 1 tidak cocok id epg
--  **[KS]** HU: Eurosport 1 tidak cocok id epg
--  **[KS]** HU: Eurosport 2 tidak cocok id epg
--  **[KS]** HU: M4 Sport tidak cocok id epg
--  **[KS]** HU: Sport Klub tidak cocok id epg
--  **[KS]** IN: DD Sports tidak cocok id epg
--  **[KS]** IN: Star Sports 2 tidak cocok id epg
--  **[KS]** IN: Star Sports 3 tidak cocok id epg
--  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
--  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
--  **[KS]** ID: beIN Sports 1 tidak cocok id epg
--  **[KS]** ID: beIN Sports 3 tidak cocok id epg
--  **[KS]** ID: Indosiar tidak cocok id epg
--  **[KS]** ID: MNC Sports tidak cocok id epg
--  **[KS]** ID: MNC Sports 2 tidak cocok id epg
--  **[KS]** ID: MNC TV tidak cocok id epg
--  **[KS]** ID: NBA TV tidak cocok id epg
--  **[KS]** ID: RCTI tidak cocok id epg
--  **[KS]** ID: SCTV tidak cocok id epg
--  **[KS]** ID: TVRI Sport tidak cocok id epg
--  **[KS]** IR: GEM Sport tidak cocok id epg
--  **[KS]** IR: Persiana Sports tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport 1 tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport 2 tidak cocok id epg
--  **[KS]** IQ: Anbar TV tidak cocok id epg
--  **[KS]** IQ: Iraqia Sport tidak cocok id epg
--  **[KS]** IE: Sky Sports Arena tidak cocok id epg
--  **[KS]** IE: Sky Sports Football tidak cocok id epg
--  **[KS]** IE: Sky Sports Golf tidak cocok id epg
--  **[KS]** IE: Sky Sports Mix tidak cocok id epg
--  **[KS]** IE: Sky Sports Racing tidak cocok id epg
--  **[KS]** IL: Eurosport 1 tidak cocok id epg
--  **[KS]** IL: Yes Sport 1 tidak cocok id epg
--  **[KS]** IL: Yes Sport 2 tidak cocok id epg
--  **[KS]** IL: Yes Sport 3 tidak cocok id epg
--  **[KS]** IL: Yes Sport 4 tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Gold tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Live tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Plus tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Stars tidak cocok id epg
--  **[KS]** IT: ACI Sport TV tidak cocok id epg
--  **[KS]** IT: Eurosport 1 tidak cocok id epg
--  **[KS]** IT: Eurosport 2 tidak cocok id epg
--  **[KS]** IT: EuroSport 4 TimVision tidak cocok id epg
--  **[KS]** IT: EuroSport 6 TimVision tidak cocok id epg
--  **[KS]** IT: Rai Sport tidak cocok id epg
--  **[KS]** IT: Sky Sport 24 tidak cocok id epg
--  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
--  **[KS]** IT: Sky Sport Golf tidak cocok id epg
--  **[KS]** IT: Sky Sport Max tidak cocok id epg
--  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
--  **[KS]** IT: Sky Sport NBA tidak cocok id epg
--  **[KS]** IT: Sky Sport Uno tidak cocok id epg
--  **[KS]** IT: Sportitalia Plus tidak cocok id epg
--  **[KS]** IT: Sportitalia SoloCalcio tidak cocok id epg
--  **[KS]** IT: Sky Sport Arena tidak cocok id epg
--  **[KS]** IT: TRSport tidak cocok id epg
--  **[KS]** JO: Jordan Sport tidak cocok id epg
--  **[KS]** KZ: Setanta Sports tidak cocok id epg
--  **[KS]** KU: Aso Sport tidak cocok id epg
--  **[KS]** KU: Astera Sport tidak cocok id epg
--  **[KS]** KU: Dasinya Sport tidak cocok id epg
--  **[KS]** KU: Delal Sport tidak cocok id epg
--  **[KS]** KU: Duhok Sport tidak cocok id epg
--  **[KS]** KU: Kurdistan Sport tidak cocok id epg
--  **[KS]** KU: LD Sport 1 tidak cocok id epg
--  **[KS]** KU: MMN Sport tidak cocok id epg
--  **[KS]** KU: MTV Sport tidak cocok id epg
--  **[KS]** KU: Newline Sport tidak cocok id epg
--  **[KS]** KU: NRT Sport tidak cocok id epg
--  **[KS]** KU: Nubar Sport tidak cocok id epg
--  **[KS]** KU: See Sport 1 tidak cocok id epg
--  **[KS]** KU: See Sport 2 tidak cocok id epg
--  **[KS]** KU: See Sport 3 tidak cocok id epg
--  **[KS]** KW: KTV Sport tidak cocok id epg
--  **[KS]** KW: KTV Sport 2 tidak cocok id epg
--  **[KS]** LA: beIN Sports Xtra en Espanol tidak cocok id epg
--  **[KS]** LA: Cable Onda Sports tidak cocok id epg
--  **[KS]** LA: Claro Sports tidak cocok id epg
--  **[KS]** LA: DirecTV Sports tidak cocok id epg
--  **[KS]** LA: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** LA: FOX Sports tidak cocok id epg
--  **[KS]** LA: FOX Sports 3 tidak cocok id epg
--  **[KS]** LA: Fox Sports Premium tidak cocok id epg
--  **[KS]** LA: Golden Premier tidak cocok id epg
--  **[KS]** LA: Golden Premier 2 tidak cocok id epg
--  **[KS]** LA: Tigo Sports tidak cocok id epg
--  **[KS]** LA: TNT Sports tidak cocok id epg
--  **[KS]** LA: TyC Sports tidak cocok id epg
--  **[KS]** LA: Win Sports tidak cocok id epg
--  **[KS]** LA: Win Sports+ tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 1 tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 2 tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 3 tidak cocok id epg
--  **[KS]** LV: Sport 1 Baltic tidak cocok id epg
--  **[KS]** LY: Libya Sport TV tidak cocok id epg
--  **[KS]** LY: Libya Sport TV 2 tidak cocok id epg
--  **[KS]** MK: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** MK: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** MK: MNet Sport tidak cocok id epg
--  **[KS]** MK: Sport Klub FIGHT tidak cocok id epg
--  **[KS]** MK: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** MT: TVM Sport+ tidak cocok id epg
--  **[KS]** MX: AyM Sports tidak cocok id epg
--  **[KS]** MX: Claro Sports tidak cocok id epg
--  **[KS]** MX: Claro Sports 2 tidak cocok id epg
--  **[KS]** MX: Fox Sports tidak cocok id epg
--  **[KS]** MX: Fox Sports 3 tidak cocok id epg
--  **[KS]** MX: Golden Premier tidak cocok id epg
--  **[KS]** NL: Eurosport 1 tidak cocok id epg
--  **[KS]** NL: Eurosport 2 tidak cocok id epg
--  **[KS]** NL: Extreme Sports Channel tidak cocok id epg
--  **[KS]** NL: Ziggo Sport tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Docu (Ziggo Sport 5) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Golf (Ziggo Sport 6) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Racing (Ziggo Sport 3) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Select tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Tennis (Ziggo Sport 4) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Voetbal (Ziggo Sport 2) tidak cocok id epg
--  **[KS]** NZ: Sky Sport 1 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 2 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 3 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 5 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 6 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 8 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 9 tidak cocok id epg
--  **[KS]** NZ: Sky Sport Select tidak cocok id epg
--  **[KS]** NO: eurosport 1 tidak cocok id epg
--  **[KS]** NO: eurosport 2 tidak cocok id epg
--  **[KS]** NO: eurosport Norge tidak cocok id epg
--  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
--  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
--  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
--  **[KS]** NO: V Sport 1 tidak cocok id epg
--  **[KS]** OM: Oman TV Sport tidak cocok id epg
--  **[KS]** PK: A Sports tidak cocok id epg
--  **[KS]** PK: PTV Sports tidak cocok id epg
--  **[KS]** PK: T Sports tidak cocok id epg
--  **[KS]** PK: Ten Sports tidak cocok id epg
--  **[KS]** PS: Palestine Sport tidak cocok id epg
--  **[KS]** PA: Cable Onda Sports tidak cocok id epg
--  **[KS]** PY: Tigo Sports tidak cocok id epg
--  **[KS]** PY: Tigo Sports Plus tidak cocok id epg
--  **[KS]** PE: Liga 1 Max tidak cocok id epg
--  **[KS]** PH: beIN Sports 1 tidak cocok id epg
--  **[KS]** PH: beIN Sports 2 tidak cocok id epg
--  **[KS]** PH: beIN Sports 3 tidak cocok id epg
--  **[KS]** PH: One Sports tidak cocok id epg
--  **[KS]** PH: One Sports + tidak cocok id epg
--  **[KS]** PH: TAP Sports tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 1 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 2 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 3 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 4 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 2 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 4 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** PL: Eurosport 1 tidak cocok id epg
--  **[KS]** PL: Eurosport 2 tidak cocok id epg
--  **[KS]** PL: Extreme Sports Channel tidak cocok id epg
--  **[KS]** PL: Polsat Sport 1 tidak cocok id epg
--  **[KS]** PL: Polsat Sport 2 tidak cocok id epg
--  **[KS]** PL: Polsat Sport 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra 4 tidak cocok id epg
--  **[KS]** PL: Polsat Sport FIGHT tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 1 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 2 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 4 tidak cocok id epg
--  **[KS]** PL: Sport Klub tidak cocok id epg
--  **[KS]** PL: TVP Sport tidak cocok id epg
--  **[KS]** PT: Eurosport 1 tidak cocok id epg
--  **[KS]** PT: Eurosport 2 tidak cocok id epg
--  **[KS]** PT: SPORT TV + tidak cocok id epg
--  **[KS]** PT: SPORT TV 1 tidak cocok id epg
--  **[KS]** PT: SPORT TV 2 tidak cocok id epg
--  **[KS]** PT: SPORT TV 3 tidak cocok id epg
--  **[KS]** PT: SPORT TV 5 tidak cocok id epg
--  **[KS]** PT: SPORT TV 6 tidak cocok id epg
--  **[KS]** PT: SPORT TV 7 tidak cocok id epg
--  **[KS]** PT: SPORT TV NBA tidak cocok id epg
--  **[KS]** PT: Sporting TV tidak cocok id epg
--  **[KS]** PT: W-Sport tidak cocok id epg
--  **[KS]** PT: Kombat Sport tidak cocok id epg
--  **[KS]** PT: NBA TV tidak cocok id epg
--  **[KS]** QA: beIN Sports 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports 3 tidak cocok id epg
--  **[KS]** QA: beIN Sports 4 tidak cocok id epg
--  **[KS]** QA: beIN Sports 5 tidak cocok id epg
--  **[KS]** QA: beIN Sports 8 tidak cocok id epg
--  **[KS]** QA: beIN Sports 9 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 3 tidak cocok id epg
--  **[KS]** QA: beIN Sports English 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports English 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports Global tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 3 tidak cocok id epg
--  **[KS]** QA: beIN Box Office 2 tidak cocok id epg
--  **[KS]** QA: beIN Series 1 tidak cocok id epg
--  **[KS]** QA: beIN Series 2 tidak cocok id epg
--  **[KS]** QA: beIN Gourmet tidak cocok id epg
--  **[KS]** RO: Antena Sport tidak cocok id epg
--  **[KS]** RO: Eurosport 1 tidak cocok id epg
--  **[KS]** RO: Eurosport 2 tidak cocok id epg
--  **[KS]** RO: Prima Sport 4 tidak cocok id epg
--  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
--  **[KS]** RO: Sport Extra tidak cocok id epg
--  **[KS]** RO: TVR Sport tidak cocok id epg
--  **[KS]** RO: Auto Motor Sport tidak cocok id epg
--  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** RU: Astrakhan Sport (Астрахань) tidak cocok id epg
--  **[KS]** RU: Eurosport 1 tidak cocok id epg
--  **[KS]** RU: Eurosport 2 tidak cocok id epg
--  **[KS]** RU: Extreme Sports Channel tidak cocok id epg
--  **[KS]** RU: Match Premier (МАТЧ! Премьер) tidak cocok id epg
--  **[KS]** RU: Viju+ Sport tidak cocok id epg
--  **[KS]** RU: Viju+ Premiere tidak cocok id epg
--  **[KS]** RU: A21 VITAL AUTOSPORT tidak cocok id epg
--  **[KS]** SA: KSA Sports 1 tidak cocok id epg
--  **[KS]** SA: KSA Sports 2 tidak cocok id epg
--  **[KS]** SA: KSA Sports 3 tidak cocok id epg
--  **[KS]** SA: SSC 4 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 1 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 2 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 3 tidak cocok id epg
--  **[KS]** RS: Eurosport 1 tidak cocok id epg
--  **[KS]** RS: Eurosport 2 tidak cocok id epg
--  **[KS]** RS: Sport Klub 1 tidak cocok id epg
--  **[KS]** RS: Sport Klub 10 tidak cocok id epg
--  **[KS]** RS: Sport Klub 6 tidak cocok id epg
--  **[KS]** RS: Sport Klub 7 tidak cocok id epg
--  **[KS]** RS: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** RS: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** SI: Eurosport 2 tidak cocok id epg
--  **[KS]** SI: Sport Klub 1 tidak cocok id epg
--  **[KS]** SI: Sport Klub Golf tidak cocok id epg
--  **[KS]** SI: SPORT TV 1 tidak cocok id epg
--  **[KS]** SI: SPORT TV 3 tidak cocok id epg
--  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
--  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** ZA: NBA TV tidak cocok id epg
--  **[KS]** ZA: SuperSport Blitz tidak cocok id epg
--  **[KS]** ZA: SuperSport Cricket tidak cocok id epg
--  **[KS]** ZA: SuperSport Golf tidak cocok id epg
--  **[KS]** ZA: SuperSport Grandstand tidak cocok id epg
--  **[KS]** ZA: SuperSport Maximo 2 tidak cocok id epg
--  **[KS]** ZA: SuperSport Motorsport tidak cocok id epg
--  **[KS]** ES: LaLiga TV Bar tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 2 tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 3 tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga 2 tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga 3 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 2 FHD tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 3 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 4 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 5 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 6 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 7 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 8 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones FHD tidak cocok id epg
--  **[KS]** ES: DAZN LaLiga 2 tidak cocok id epg
--  **[KS]** ES: beIN Sports n tidak cocok id epg
--  **[KS]** ES: Esport 3 tidak cocok id epg
--  **[KS]** ES: Eurosport 1 tidak cocok id epg
--  **[KS]** ES: Eurosport 2 tidak cocok id epg
--  **[KS]** ES: FOX SPORTS 3 tidak cocok id epg
--  **[KS]** SUR: DirecTV Sports tidak cocok id epg
--  **[KS]** SUR: TyC Sports tidak cocok id epg
--  **[KS]** SE: Eurosport 1 tidak cocok id epg
--  **[KS]** SE: Eurosport 2 tidak cocok id epg
--  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
--  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
--  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
--  **[KS]** SE: V Sport Hockey tidak cocok id epg
--  **[KS]** SE: V Sport Motor tidak cocok id epg
--  **[KS]** SE: V Sport Ultra tidak cocok id epg
--  **[KS]** SE: V Sport Vinter tidak cocok id epg
--  **[KS]** CH: Blue Sport 1 tidak cocok id epg
--  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 11 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 12 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 13 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 14 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 15 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 16 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 2 tidak cocok id epg
--  **[KS]** CH: Blue Sport 3 tidak cocok id epg
--  **[KS]** CH: Blue Sport 4 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 4 UHD [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 5 tidak cocok id epg
--  **[KS]** CH: Blue Sport 7 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 8 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 9 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport D1 tidak cocok id epg
--  **[KS]** CH: Blue Sport D2 tidak cocok id epg
--  **[KS]** CH: Eurosport 1 tidak cocok id epg
--  **[KS]** CH: Eurosport 2 tidak cocok id epg
--  **[KS]** CH: MySports 2 tidak cocok id epg
--  **[KS]** CH: MySports 3 tidak cocok id epg
--  **[KS]** CH: MySports 4 tidak cocok id epg
--  **[KS]** CH: MySports 5 tidak cocok id epg
--  **[KS]** CH: MySports 6 tidak cocok id epg
--  **[KS]** CH: MySports 7 tidak cocok id epg
--  **[KS]** CH: MySports 8 tidak cocok id epg
--  **[KS]** CH: MySports 9 tidak cocok id epg
--  **[KS]** CH: MySports EDGE [vip] tidak cocok id epg
--  **[KS]** TH: True Premiere Football 1 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 3 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 4 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 5 tidak cocok id epg
--  **[KS]** TH: True Sport 1 tidak cocok id epg
--  **[KS]** TH: True Sport 2 tidak cocok id epg
--  **[KS]** TH: True Sport 3 tidak cocok id epg
--  **[KS]** TH: True Sport 4 tidak cocok id epg
--  **[KS]** TR: beIN Sports 1 tidak cocok id epg
--  **[KS]** TR: beIN Sports 2 tidak cocok id epg
--  **[KS]** TR: beIN Sports 3 tidak cocok id epg
--  **[KS]** TR: beIN Sports 4 tidak cocok id epg
--  **[KS]** TR: beIN Sports 5 tidak cocok id epg
--  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
--  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
--  **[KS]** TR: CosmoSports tidak cocok id epg
--  **[KS]** TR: Eurosport 1 tidak cocok id epg
--  **[KS]** TR: Eurosport 2 tidak cocok id epg
--  **[KS]** TR: NBA TV tidak cocok id epg
--  **[KS]** TR: S Sport tidak cocok id epg
--  **[KS]** TR: S Sport 2 tidak cocok id epg
--  **[KS]** TR: Sports TV tidak cocok id epg
--  **[KS]** TR: beIN Box Office 1 tidak cocok id epg
--  **[KS]** TR: beIN Box Office 2 tidak cocok id epg
--  **[KS]** TR: beIN Box Office 3 tidak cocok id epg
--  **[KS]** TR: beIN Series 1 tidak cocok id epg
--  **[KS]** TR: beIN Series 2 tidak cocok id epg
--  **[KS]** TR: beIN Series 3 tidak cocok id epg
--  **[KS]** TR: beIN Series 4 tidak cocok id epg
--  **[KS]** TR: beIN Series Comedy tidak cocok id epg
--  **[KS]** TR: beIN Series sci-fi tidak cocok id epg
--  **[KS]** TR: beIN Gurme tidak cocok id epg
--  **[KS]** TR: beIN Iz tidak cocok id epg
--  **[KS]** TR: beIN Sports 1 FEED tidak cocok id epg
--  **[KS]** TR: Exxen Sports 1 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 2 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 5 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 6 tidak cocok id epg
--  **[KS]** TR: Max Premier tidak cocok id epg
--  **[KS]** TM: Turkmenistan Sport tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 1 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 2 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 3 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports Asia 1 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports Asia 2 tidak cocok id epg
--  **[KS]** AE: Dubai Sports tidak cocok id epg
--  **[KS]** AE: Dubai Sports 2 tidak cocok id epg
--  **[KS]** AE: Sharjah Sports TV tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 1 tidak cocok id epg
--  **[KS]** AE: OSN Premiere tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 2 tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 3 tidak cocok id epg
--  **[KS]** UK: Hub Premier 1 tidak cocok id epg
--  **[KS]** UK: Hub Premier 2 tidak cocok id epg
--  **[KS]** UK: Hub Premier 3 tidak cocok id epg
--  **[KS]** UK: Hub Premier 4 tidak cocok id epg
--  **[KS]** UK: Hub Premier 5 tidak cocok id epg
--  **[KS]** UK: Hub Premier 6 tidak cocok id epg
--  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Football tidak cocok id epg
--  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports+ tidak cocok id epg
--  **[KS]** UK: Eurosport 1 tidak cocok id epg
--  **[KS]** UK: Eurosport 2 tidak cocok id epg
--  **[KS]** UK: Hub Sports 5 [vip] tidak cocok id epg
--  **[KS]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
--  **[KS]** UK: Setanta Sports 1 tidak cocok id epg
--  **[KS]** UK: Sky Sports Action tidak cocok id epg
--  **[KS]** UK: Sky Sports Action / NFL 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Arena tidak cocok id epg
--  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
--  **[KS]** UK: Sky Sports Cricket tidak cocok id epg
--  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Golf tidak cocok id epg
--  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Mix tidak cocok id epg
--  **[KS]** UK: Sky Sports Mix [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Racing tidak cocok id epg
--  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
--  **[KS]** UK: talkSPORT tidak cocok id epg
--  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 10 tidak cocok id epg
--  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 3 tidak cocok id epg
--  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 5 tidak cocok id epg
--  **[KS]** UK: TNT Sports 6 tidak cocok id epg
--  **[KS]** UK: TNT Sports 7 tidak cocok id epg
--  **[KS]** UK: TNT Sports 8 tidak cocok id epg
--  **[KS]** UK: TNT Sports 9 tidak cocok id epg
--  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
--  **[KS]** UK: World Of FreeSports tidak cocok id epg
--  **[KS]** UA: Setanta Sports tidak cocok id epg
--  **[KS]** UA: Setanta Sports 1 tidak cocok id epg
--  **[KS]** UA: Setanta Sports 2 tidak cocok id epg
--  **[KS]** UA: X Sport tidak cocok id epg
--  **[KS]** US: AT&T SportsNet tidak cocok id epg
--  **[KS]** US: Bally Sports Arizona Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Arizona Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Detroit tidak cocok id epg
--  **[KS]** US: Bally Sports Detroit Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Florida tidak cocok id epg
--  **[KS]** US: Bally Sports Florida Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Florida Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Indiana tidak cocok id epg
--  **[KS]** US: Bally Sports Kansas City tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Netbase tidak cocok id epg
--  **[KS]** US: Bally Sports New Orleans tidak cocok id epg
--  **[KS]** US: Bally Sports North tidak cocok id epg
--  **[KS]** US: Bally Sports North Minnesota tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cincinnati tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cincinnati Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cleveland tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Oklahoma tidak cocok id epg
--  **[KS]** US: Bally Sports San Diego tidak cocok id epg
--  **[KS]** US: Bally Sports San Diego Plus tidak cocok id epg
--  **[KS]** US: Bally Sports SoCal tidak cocok id epg
--  **[KS]** US: Bally Sports SoCal Plus tidak cocok id epg
--  **[KS]** US: Bally Sports South tidak cocok id epg
--  **[KS]** US: Bally Sports Southeast tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Sun tidak cocok id epg
--  **[KS]** US: Bally Sports Sun Plus tidak cocok id epg
--  **[KS]** US: Bally Sports West tidak cocok id epg
--  **[KS]** US: Bally Sports West Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Wisconsin tidak cocok id epg
--  **[KS]** US: Bally Sports Wisconsin Plus tidak cocok id epg
--  **[KS]** US: beIN Sports tidak cocok id epg
--  **[KS]** US: beIN Sports 4 tidak cocok id epg
--  **[KS]** US: beIN Sports 5 tidak cocok id epg
--  **[KS]** US: beIN Sports 8 tidak cocok id epg
--  **[KS]** US: CBS Sports Network tidak cocok id epg
--  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
--  **[KS]** US: Fox Sports Detroit tidak cocok id epg
--  **[KS]** US: Fox Sports Florida tidak cocok id epg
--  **[KS]** US: Fox Sports Ohio tidak cocok id epg
--  **[KS]** US: FTF Sports tidak cocok id epg
--  **[KS]** US: NBA League Pass 1 tidak cocok id epg
--  **[KS]** US: NBA TV tidak cocok id epg
--  **[KS]** US: NBC Sports Bay Area tidak cocok id epg
--  **[KS]** US: NBC Sports Boston tidak cocok id epg
--  **[KS]** US: NBC Sports Chicago tidak cocok id epg
--  **[KS]** US: NBC Sports Chicago Plus tidak cocok id epg
--  **[KS]** US: NBC Sports Philadelphia tidak cocok id epg
--  **[KS]** US: NBC Sports Washington tidak cocok id epg
--  **[KS]** US: NFL Network tidak cocok id epg
--  **[KS]** US: NFL RedZone tidak cocok id epg
--  **[KS]** US: Root Sports tidak cocok id epg
--  **[KS]** US: SportsGrid tidak cocok id epg
--  **[KS]** US: Sportsman Channel tidak cocok id epg
--  **[KS]** US: Xtrem Sports tidak cocok id epg
--  **[KS]** US: Motorsport TV tidak cocok id epg
--  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
--  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
--  **[KS]** US: CineBox Premiere tidak cocok id epg
--  **[KS]** US: Universal Premiere tidak cocok id epg
--  **[KS]** US: MLS LIVE 01 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 02 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 03 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 04 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 05 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 06 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 07 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 08 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 09 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 10 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 11 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 12 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 13 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 14 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 15 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 16 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 17 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 18 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 19 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 20 [VIP] tidak cocok id epg
--  **[KS]** US: beIN Sports US tidak cocok id epg
--  **[KS]** US: BEK TV Sports West tidak cocok id epg
--  **[KS]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
--  **[KS]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
--  **[KS]** VE: DirecTV Sports tidak cocok id epg
--  **[KS]** VE: Fox Sports 3 tidak cocok id epg
--  **[KS]** AL: Arctic (2018) tidak cocok id epg
--  **[KS]** AL: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** AL: Being Flynn (2012) tidak cocok id epg
--  **[KS]** AL: Being Frank (2018) tidak cocok id epg
--  **[KS]** AL: Champions (2018) tidak cocok id epg
--  **[KS]** AL: Justice League (2017) tidak cocok id epg
--  **[KS]** AL: Justice League The Flashpoint Paradox (2013) tidak cocok id epg
--  **[KS]** AL: Justice League vs the Fatal Five (2019) tidak cocok id epg
--  **[KS]** AL: Justice League; The Flashpoint Paradox (2013) tidak cocok id epg
--  **[KS]** AL: Kung Fu League (2018) tidak cocok id epg
--  **[KS]** AL: The Influence (2019) tidak cocok id epg
--  **[KS]** ANIME: Justice League vs. Teen Titans (2016) tidak cocok id epg
--  **[KS]** ANIME: Justice League: Doom (2012) tidak cocok id epg
--  **[KS]** ANIME: Justice League: The New Frontier (2008) tidak cocok id epg
--  **[KS]** ANIME: Justice League: War (2014) tidak cocok id epg
--  **[KS]** ANIME: LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout (2016) tidak cocok id epg
--  **[KS]** AR: Les Transporteurs (2002) tidak cocok id epg
--  **[KS]** AR: Shahid Machafch Haga (2012) tidak cocok id epg
--  **[KS]** EN: 20000 Leagues Under the Sea (1954) tidak cocok id epg
--  **[KS]** EN: 3D Justice League (2017) tidak cocok id epg
--  **[KS]** EN: Arctic (2018) tidak cocok id epg
--  **[KS]** EN: Being Frank The Chris Sievey Story (2018) tidak cocok id epg
--  **[KS]** EN: Cradle of Champions (2018) tidak cocok id epg
--  **[KS]** EN: DC League of Super Pets (2022) tidak cocok id epg
--  **[KS]** EN: DC League of Super-Pets (2022) tidak cocok id epg
--  **[KS]** EN: Dont Swallow My Heart Alligator Girl (2017) tidak cocok id epg
--  **[KS]** EN: Global Warning Arctic Melt (2017) tidak cocok id epg
--  **[KS]** EN: Golden Moments Of The UEFA European Football Championships (2004) tidak cocok id epg
--  **[KS]** EN: Hyundai A-League Grand Final (2007) tidak cocok id epg
--  **[KS]** EN: Justice League (2017) EN tidak cocok id epg
--  **[KS]** EN: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** EN: Justice League vs the Fatal Five (2019) tidak cocok id epg
--  **[KS]** EN: Le premier oublié (2019) tidak cocok id epg
--  **[KS]** EN: League Of Gods (2016) EN tidak cocok id epg
--  **[KS]** EN: League of Legends Origins (2019) tidak cocok id epg
--  **[KS]** EN: Project Antarctica The journey of our lifetime (2018) tidak cocok id epg
--  **[KS]** EN: Sports Bloopers Incredible Football Plays (2004) tidak cocok id epg
--  **[KS]** EN: Sports Bloopers The Lighter Side Of Football (2004) tidak cocok id epg
--  **[KS]** EN: Sports Follies Greatest Sports Bloopers (2004) tidak cocok id epg
--  **[KS]** EN: Sports Follies Hillarious Sports Bloopers (2004) tidak cocok id epg
--  **[KS]** EN: The Story Of The UEFA European Football Championships (2004) tidak cocok id epg
--  **[KS]** EN: The Transporter 2 tidak cocok id epg
--  **[KS]** EN: The Unbearable Lightness of Being (1988) tidak cocok id epg
--  **[KS]** EN: Theres Something in the Pilliga (2014) tidak cocok id epg
--  **[KS]** EN: Tournament of Champions (2021) tidak cocok id epg
--  **[KS]** EN: Under an Arctic Sky (2017) tidak cocok id epg
--  **[KS]** EN: Under His Influence (2023) tidak cocok id epg
--  **[KS]** EN: Under the Influence (2023) tidak cocok id epg
--  **[KS]** EN: World Cake Championship (2019) tidak cocok id epg
--  **[KS]** EN: Zack Snyders Justice League (2021) tidak cocok id epg
--  **[KS]** ES: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** ES: Deadly Influencer (2019) tidak cocok id epg
--  **[KS]** ES: Detroit Zona de conflicto (2017) tidak cocok id epg
--  **[KS]** ES: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** ES: Justice League vs. the Fatal Five (2019) tidak cocok id epg
--  **[KS]** ES: Liga de la justicia (2017) tidak cocok id epg
--  **[KS]** EX-YU: Hajde Da Se Volimo (1987) tidak cocok id epg
--  **[KS]** EX-YU: Hajde Da Se Volimo 2 (1989) tidak cocok id epg
--  **[KS]** FR: Arctic (2018) tidak cocok id epg
--  **[KS]** FR: Premieres Vacances (2018) tidak cocok id epg
--  **[KS]** FR: Premiers Crus (2015) tidak cocok id epg
--  **[KS]** FR: The Influence (2019) tidak cocok id epg
--  **[KS]** DE: Arac Attack Angriffr achtbeinigen Monster (2002) tidak cocok id epg
--  **[KS]** DE: Arctic (2018) tidak cocok id epg
--  **[KS]** DE: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** DE: Bayou Caviar Im Mauls Alligators (2018) tidak cocok id epg
--  **[KS]** DE: Das bisschen Haushalt (2003) tidak cocok id epg
--  **[KS]** DE: Die Ligar aussergewohnlichen Gentlemen (2003) tidak cocok id epg
--  **[KS]** DE: Fahnenflüchtig (2015) tidak cocok id epg
--  **[KS]** DE: Fahnenfluechtig (2015) tidak cocok id epg
--  **[KS]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot tidak cocok id epg
--  **[KS]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot (2018) tidak cocok id epg
--  **[KS]** DE: Honey 4 Lebeinen Traum (2018) tidak cocok id epg
--  **[KS]** DE: Housesitter Luegen haben schoene Beine (1992) tidak cocok id epg
--  **[KS]** DE: Justice League (2017) tidak cocok id epg
--  **[KS]** DE: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** DE: La influencia Boeser Einfluss (2019) tidak cocok id epg
--  **[KS]** DE: League of Gods (2016) tidak cocok id epg
--  **[KS]** DE: Nicht meine Liga (2020) tidak cocok id epg
--  **[KS]** DE: O Palmenbaum (2000) tidak cocok id epg
--  **[KS]** DE: Red Army Hooligans (2018) tidak cocok id epg
--  **[KS]** DE: The Transporter (2002) tidak cocok id epg
--  **[KS]** DE: The Trouble with Being Born (2020) tidak cocok id epg
--  **[KS]** DE: Willkommen bein Honeckers (2017) tidak cocok id epg
--  **[KS]** DE: Wir sind Champions (2018) tidak cocok id epg
--  **[KS]** IN: Aligarh (2015) tidak cocok id epg
--  **[KS]** IN: Ranbanka (2015) tidak cocok id epg
--  **[KS]** IN: Tennis Buddies (2019) tidak cocok id epg
--  **[KS]** IT: Arctic (2018) tidak cocok id epg
--  **[KS]** IT: Champions (2018) tidak cocok id epg
--  **[KS]** IT: Influenze maligne (2019) tidak cocok id epg
--  **[KS]** IT: Justice League (2017) tidak cocok id epg
--  **[KS]** IT: Justice League Fuga da Gotham City (2016) tidak cocok id epg
--  **[KS]** IT: Justice League; Fuga da Gotham City (2016) tidak cocok id epg
--  **[KS]** IT: League Of Gods (2016) tidak cocok id epg
--  **[KS]** NO: Arctic (2019) tidak cocok id epg
--  **[KS]** NO: Arctic Apocalypse (2019) tidak cocok id epg
--  **[KS]** NO: Justice League VS The Fatal Five (2019) tidak cocok id epg
--  **[KS]** NO: Sinbad Legend Of The Seven Seas (2003) tidak cocok id epg
--  **[KS]** NO: Transporter 1 (2002) tidak cocok id epg
--  **[KS]** NO: Transporter 2 (2005) tidak cocok id epg
--  **[KS]** NO: Transporter 3 (2008) tidak cocok id epg
--  **[KS]** NO: Transporter 4 (2015) tidak cocok id epg
--  **[KS]** PL: Champions (1998) tidak cocok id epg
--  **[KS]** PL: Donbass (2018) tidak cocok id epg
--  **[KS]** PL: Znamie Dragonfly (2002) tidak cocok id epg
--  **[KS]** PT: Arctico tidak cocok id epg
--  **[KS]** PT: Champions tidak cocok id epg
--  **[KS]** PT: Dear Basketball tidak cocok id epg
--  **[KS]** PT: Justice League tidak cocok id epg
--  **[KS]** PT: Justice League Dark tidak cocok id epg
--  **[KS]** PT: Justice League vs. the Fatal Five tidak cocok id epg
--  **[KS]** PT: La Influencia tidak cocok id epg
--  **[KS]** PT: League of Gods tidak cocok id epg
--  **[KS]** PT: Operation Arctic tidak cocok id epg
--  **[KS]** PT: Sinbad A Lenda dos Sete Mares tidak cocok id epg
--  **[KS]** PT: The Transporter Refueled tidak cocok id epg
--  **[KS]** RO: Arctic (2019) tidak cocok id epg
--  **[KS]** RO: Champions (2018) tidak cocok id epg
--  **[KS]** RO: Hooligan Escape The Russian Job (2018) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Dyker Upp Igen (1986) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Far Guldfeber (1984) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Och Den Svarta Diamanten (1992) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Och Dynamit-Harry (1982) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Pa Mallorca (1989) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Spelar Hogt (2000) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Varning For Jonssonligan (1981) tidak cocok id epg
--  **[KS]** SE: Jonssonligans Storsta Kupp (1995) tidak cocok id epg
--  **[KS]** SE: Lilla Jonssonligan Och Stjarnkuppen (2006) tidak cocok id epg
--  **[KS]** SE: Lyckligare Kan Ingen Vara (2018) tidak cocok id epg
--  **[KS]** TR: Arctic (2018) tidak cocok id epg
--  **[KS]** TR: Düzenbazlar Kulübü (2018) tidak cocok id epg
--  **[KS]** TR: Duzenbazlar The Hustle Altyazili (2019) tidak cocok id epg
--  **[KS]** TR: Inflame (2017) tidak cocok id epg
--  **[KS]** TR: Justice League Vs The Fatal Five (2019) tidak cocok id epg
--  **[KS]** TR: La influencia (2019) tidak cocok id epg
--  **[KS]** TR: Omen III: The Final Conflict (1981) tidak cocok id epg
--  **[KS]** XXX: Being Riley (Tushy; 2015) tidak cocok id epg
--  **[KS]** XXX: Bush League 14 tidak cocok id epg
--  **[KS]** XXX: Chubby Champions tidak cocok id epg
--  **[KS]** XXX: Gilligans Trans Adventures tidak cocok id epg
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
+-  **[KOSONG]** AFG: RTA Sport tidak cocok id epg
+-  **[KOSONG]** AF: Africa 24 Sport tidak cocok id epg
+-  **[KOSONG]** AF: Azam Sport 1 tidak cocok id epg
+-  **[KOSONG]** AF: Azam Sport 2 tidak cocok id epg
+-  **[KOSONG]** AF: Azam Sport 3 tidak cocok id epg
+-  **[KOSONG]** AF: Azam Sport 4 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 1 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 2 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 3 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 4 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 5 tidak cocok id epg
+-  **[KOSONG]** AL: ART Sport 6 tidak cocok id epg
+-  **[KOSONG]** AL: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** AL: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** AL: Kujtesa Sport 1 tidak cocok id epg
+-  **[KOSONG]** AL: Kujtesa Sport 3 tidak cocok id epg
+-  **[KOSONG]** AL: Kujtesa Sport 4 tidak cocok id epg
+-  **[KOSONG]** AL: RTSH Sport tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 1 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 2 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 3 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 4 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 5 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 6 tidak cocok id epg
+-  **[KOSONG]** AL: SuperSport 7 tidak cocok id epg
+-  **[KOSONG]** AL: Tring Sport 1 tidak cocok id epg
+-  **[KOSONG]** AL: Tring Sport 2 tidak cocok id epg
+-  **[KOSONG]** AL: Tring Sport 3 tidak cocok id epg
+-  **[KOSONG]** AL: Tring Sport 4 tidak cocok id epg
+-  **[KOSONG]** AL: CineStar TV Premiere 1 tidak cocok id epg
+-  **[KOSONG]** AL: CineStar TV Premiere 2 tidak cocok id epg
+-  **[KOSONG]** AL: #Premiere 1 tidak cocok id epg
+-  **[KOSONG]** AL: #Premiere 2 tidak cocok id epg
+-  **[KOSONG]** AL: #Premiere 3 tidak cocok id epg
+-  **[KOSONG]** AL: #Premiere 4 tidak cocok id epg
+-  **[KOSONG]** AL: #Premiere 5 tidak cocok id epg
+-  **[KOSONG]** AL: Kinema Premier tidak cocok id epg
+-  **[KOSONG]** AL: Ks Premiere 1 tidak cocok id epg
+-  **[KOSONG]** AL: Ks Premiere 2 tidak cocok id epg
+-  **[KOSONG]** AL: Ks Premiere 3 tidak cocok id epg
+-  **[KOSONG]** AL: Ks Premiere 4 tidak cocok id epg
+-  **[KOSONG]** AR: beIN Box Office 1 tidak cocok id epg
+-  **[KOSONG]** AR: beIN Box Office 2 tidak cocok id epg
+-  **[KOSONG]** ARG: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** ARG: DirecTV Sports 2 tidak cocok id epg
+-  **[KOSONG]** ARG: DirecTV Sports Plus tidak cocok id epg
+-  **[KOSONG]** ARG: Fox Sports tidak cocok id epg
+-  **[KOSONG]** ARG: Fox Sports 2 tidak cocok id epg
+-  **[KOSONG]** ARG: Fox Sports 3 tidak cocok id epg
+-  **[KOSONG]** ARG: TNT Sports tidak cocok id epg
+-  **[KOSONG]** ARG: TyC Sports tidak cocok id epg
+-  **[KOSONG]** AU: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** AU: beIN Sports 1 [vip] tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 501 tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 502 tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 503 tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 504 tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 504 AFL tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 505 tidak cocok id epg
+-  **[KOSONG]** AU: Fox Sports 507 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 1 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 2 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 3 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 5 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 6 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 7 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 8 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport 9 tidak cocok id epg
+-  **[KOSONG]** AU: Sky Sport Select tidak cocok id epg
+-  **[KOSONG]** AT: ORF Sport+ tidak cocok id epg
+-  **[KOSONG]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport 2 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 1 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 1 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 2 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 2 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 3 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 3 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 4 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 4 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 5 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 5 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 6 tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 6 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 7 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AZ: CBC Sport tidak cocok id epg
+-  **[KOSONG]** BH: Bahrain Sports 1 tidak cocok id epg
+-  **[KOSONG]** BH: Bahrain Sports 2 tidak cocok id epg
+-  **[KOSONG]** BE: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** BE: Play Sports 2 tidak cocok id epg
+-  **[KOSONG]** BE: Voo Sport World 1 tidak cocok id epg
+-  **[KOSONG]** BE: Voo Sport World 2 tidak cocok id epg
+-  **[KOSONG]** BE: Voo Sport World 3 tidak cocok id epg
+-  **[KOSONG]** BIH: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 1 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 2 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 3 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 4 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 5 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 6 tidak cocok id epg
+-  **[KOSONG]** BR: Premiere FC 7 tidak cocok id epg
+-  **[KOSONG]** BR: Band Sports tidak cocok id epg
+-  **[KOSONG]** BR: FOX SPORTS tidak cocok id epg
+-  **[KOSONG]** BR: SPORTV 3 tidak cocok id epg
+-  **[KOSONG]** BG: Diema Sport tidak cocok id epg
+-  **[KOSONG]** BG: Diema Sport 2 tidak cocok id epg
+-  **[KOSONG]** BG: Diema Sport 3 tidak cocok id epg
+-  **[KOSONG]** BG: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** BG: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** BG: Max Sport 1 tidak cocok id epg
+-  **[KOSONG]** BG: Max Sport 2 tidak cocok id epg
+-  **[KOSONG]** BG: Max Sport 3 tidak cocok id epg
+-  **[KOSONG]** BG: Max Sport 4 tidak cocok id epg
+-  **[KOSONG]** BG: Nova Sport tidak cocok id epg
+-  **[KOSONG]** BG: Auto Motor Sport tidak cocok id epg
+-  **[KOSONG]** CA: beIN Sports tidak cocok id epg
+-  **[KOSONG]** CA: SportsNet 360 tidak cocok id epg
+-  **[KOSONG]** CA: SportsNet Pacific tidak cocok id epg
+-  **[KOSONG]** CA: TVA Sports tidak cocok id epg
+-  **[KOSONG]** CA: TVA Sports 2 tidak cocok id epg
+-  **[KOSONG]** CA: SportsNet PPV tidak cocok id epg
+-  **[KOSONG]** CAR: RUSH SPORTS tidak cocok id epg
+-  **[KOSONG]** CAR: TVJ Sports tidak cocok id epg
+-  **[KOSONG]** CL: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** CL: DirecTV Sports 2 tidak cocok id epg
+-  **[KOSONG]** CL: TNT Sports Premium tidak cocok id epg
+-  **[KOSONG]** CO: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** CO: DirecTV Sports 2 tidak cocok id epg
+-  **[KOSONG]** CO: DirecTV Sports Plus tidak cocok id epg
+-  **[KOSONG]** CO: FOX Sports 3 tidak cocok id epg
+-  **[KOSONG]** CO: Win Sports tidak cocok id epg
+-  **[KOSONG]** CO: Win Sports+ tidak cocok id epg
+-  **[KOSONG]** CR: Tigo Sports tidak cocok id epg
+-  **[KOSONG]** HR: Arena Sport 10 tidak cocok id epg
+-  **[KOSONG]** HR: Max Sport 1 tidak cocok id epg
+-  **[KOSONG]** HR: Max Sport 2 tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub 1 tidak cocok id epg
+-  **[KOSONG]** HR: Sportska tidak cocok id epg
+-  **[KOSONG]** HR: CineStar TV Premiere 1 tidak cocok id epg
+-  **[KOSONG]** HR: CineStar TV Premiere 2 tidak cocok id epg
+-  **[KOSONG]** HR: Viasat Kino Premiere tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub 10 tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub 6 tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub 8 tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub 9 tidak cocok id epg
+-  **[KOSONG]** CZ: CANAL+ Sport 1 tidak cocok id epg
+-  **[KOSONG]** CZ: CT Sport tidak cocok id epg
+-  **[KOSONG]** CZ: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** CZ: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** CZ: Nova Sport 1 tidak cocok id epg
+-  **[KOSONG]** CZ: Nova Sport 3 tidak cocok id epg
+-  **[KOSONG]** CZ: Nova Sport 4 tidak cocok id epg
+-  **[KOSONG]** CZ: Sport 2 tidak cocok id epg
+-  **[KOSONG]** CZ: Sport 5 tidak cocok id epg
+-  **[KOSONG]** CZ: Canal+ Sport 3 tidak cocok id epg
+-  **[KOSONG]** CZ: Canal+ Sport 4 tidak cocok id epg
+-  **[KOSONG]** CZ: Canal+ Sport 5 tidak cocok id epg
+-  **[KOSONG]** CZ: Canal+ Sport 6 tidak cocok id epg
+-  **[KOSONG]** CZ: Canal+ Sport 7 tidak cocok id epg
+-  **[KOSONG]** DK: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** DK: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** DK: TV 2 Sport tidak cocok id epg
+-  **[KOSONG]** DK: TV 2 Sport X tidak cocok id epg
+-  **[KOSONG]** DK: TV 3 Sport tidak cocok id epg
+-  **[KOSONG]** DK: V Sport Ultra tidak cocok id epg
+-  **[KOSONG]** EC: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** EC: DirecTV Sports Plus tidak cocok id epg
+-  **[KOSONG]** EG: Nile Sport tidak cocok id epg
+-  **[KOSONG]** EG: OnTime Sports tidak cocok id epg
+-  **[KOSONG]** EG: OnTime Sports 2 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Adriatic Sport 1 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Adriatic Sport 2 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Adriatic Sport 3 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Arena Sport 6 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Cinestar TV Premiere 1 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Cinestar TV Premiere 2 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Moja TV Premijer Liga tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 2 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 3 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 4 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 5 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 7 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub 8 tidak cocok id epg
+-  **[KOSONG]** EX-YU: Sport Klub Golf tidak cocok id epg
+-  **[KOSONG]** EX-YU: Viasat Kino Premiere tidak cocok id epg
+-  **[KOSONG]** FI: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
+-  **[KOSONG]** FI: MTV Urheilu 2/C More Sport 2 tidak cocok id epg
+-  **[KOSONG]** FI: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
+-  **[KOSONG]** FI: V Sport 1 Suomi tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports 2 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports 3 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports Max 6 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports Max 7 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports Max 8 tidak cocok id epg
+-  **[KOSONG]** FR: beIN Sports Max 9 tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ MotoGP tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ Sport tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ Sport 1 tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ Sport 3 tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ Sport 4 tidak cocok id epg
+-  **[KOSONG]** FR: CANAL+ Sport 5 tidak cocok id epg
+-  **[KOSONG]** FR: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** FR: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** FR: InfoSport+ tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 1 tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 2 tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 3 tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 4 tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 5 tidak cocok id epg
+-  **[KOSONG]** FR: MultiSports 6 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 1 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 2 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 3 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 4 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 5 tidak cocok id epg
+-  **[KOSONG]** FR: RMC SPORT 9 tidak cocok id epg
+-  **[KOSONG]** FR: TRACE Sport Stars tidak cocok id epg
+-  **[KOSONG]** FR: W-SPORT tidak cocok id epg
+-  **[KOSONG]** FR: Sport tidak cocok id epg
+-  **[KOSONG]** FR: CINE+ Premier tidak cocok id epg
+-  **[KOSONG]** FR: Paris Premiere tidak cocok id epg
+-  **[KOSONG]** FR: CINE PREMIER tidak cocok id epg
+-  **[KOSONG]** FR: RMC Sport 6 tidak cocok id epg
+-  **[KOSONG]** DE: [Kinder] Kurokos Basketball 24/7 tidak cocok id epg
+-  **[KOSONG]** DE: DAZN NFL EVENT INFO CHANNEL [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN NFL Network [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 1 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 10 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 2 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 3 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 4 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 5 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 6 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 7 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 8 tidak cocok id epg
+-  **[KOSONG]** DE: RTL+ Sport Event 9 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 1 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 1 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 1 UHD [vip] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 10 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 10 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 2 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 3 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 3 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 4 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 4 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 5 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 5 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 6 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 6 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 7 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 7 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 8 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 8 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 9 [SPIELTAG] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Bundesliga 9 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 1 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 10 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 2 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 3 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 5 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 6 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 7 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 8 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport 9 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport Golf tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport Mix tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 1 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 10 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 11 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 12 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 13 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 14 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 15 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 16 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 17 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 18 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 2 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 20 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 3 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 4 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 5 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 6 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 7 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 8 tidak cocok id epg
+-  **[KOSONG]** DE: Magenta Sport 9 tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 1 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 10 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 11 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 12 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 13 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 14 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 15 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 16 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 17 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 18 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 19 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 2 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Dyn Sport 20 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 21 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 22 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 23 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 24 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 25 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 3 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 4 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 5 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 6 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 7 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 8 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN Sport 9 [vip] tidak cocok id epg
+-  **[KOSONG]** DE: DYN SPORT MIX 24/7 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Tagesschau 24 tidak cocok id epg
+-  **[KOSONG]** DE: DF1 TV tidak cocok id epg
+-  **[KOSONG]** DE: OF TV Offenbach tidak cocok id epg
+-  **[KOSONG]** DE: ORF Sport+ tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 1 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 2 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 3 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 4 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 5 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 6 tidak cocok id epg
+-  **[KOSONG]** DE: SKY BOX PREMIEREN 7 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 10 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 11 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 12 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 13 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 14 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 17 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 3 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 4 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 8 tidak cocok id epg
+-  **[KOSONG]** DE: Sky Select Premiere 9 tidak cocok id epg
+-  **[KOSONG]** DE: WEDO Sports tidak cocok id epg
+-  **[KOSONG]** DE: Auto Motor Sport tidak cocok id epg
+-  **[KOSONG]** DE: Edge Sport tidak cocok id epg
+-  **[KOSONG]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** DE: Eurosport 2 [SAT] [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 1 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 10 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 11 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 12 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 13 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 14 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 15 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 16 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 17 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 18 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 19 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 2 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 20 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 21 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 22 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 23 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 24 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 25 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 26 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 27 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 28 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 29 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 3 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 30 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 31 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 32 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 4 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 5 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 6 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 7 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 8 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: EuroSport Extra 9 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: More Than Sports TV tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 2 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 3 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 4 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 5 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 6 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
+-  **[KOSONG]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
+-  **[KOSONG]** DE: LG 710 Sport digital Free tidak cocok id epg
+-  **[KOSONG]** DE: LG 711 wedo sports tidak cocok id epg
+-  **[KOSONG]** DE: LG 712 WORLD OF FREE SPORTS tidak cocok id epg
+-  **[KOSONG]** DE: LG 713 More Than Sports TV tidak cocok id epg
+-  **[KOSONG]** DE: LG 716 Tennis Channel Deutschland tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 1 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 10 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 11 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 12 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 13 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 14 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 15 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 16 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 17 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 18 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 19 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 2 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 20 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 3 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 4 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 5 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 6 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 7 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 8 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: DAZN Event NFL 9 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: NOW TV Sky Sports+ 1 [VIP] tidak cocok id epg
+-  **[KOSONG]** DE: Sky Sport Golf HD [VIP] tidak cocok id epg
+-  **[KOSONG]** GR: AEK Super League Pass tidak cocok id epg
+-  **[KOSONG]** GR: Cablenet Sports 1 tidak cocok id epg
+-  **[KOSONG]** GR: Cablenet Sports 2 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 1 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 1 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 2 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 2 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 3 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 3 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 4 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 4 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 5 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 5 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 6 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 6 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 7 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 7 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 8 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 8 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 9 tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport 9 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Cosmote Sport Highlights tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 1 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 2 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 3 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 4 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 5 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 6 tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sports 7 tidak cocok id epg
+-  **[KOSONG]** GR: ERT Sports 2 tidak cocok id epg
+-  **[KOSONG]** GR: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** GR: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 1 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 1 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 3 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 3 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 4 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 5 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 5 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports 6 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Extra 1 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Extra 2 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Extra 3 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Extra 4 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Premier League tidak cocok id epg
+-  **[KOSONG]** GR: Nova sports Prime tidak cocok id epg
+-  **[KOSONG]** GR: Nova Sports Start tidak cocok id epg
+-  **[KOSONG]** GR: OPAP SPORT 1 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: OPAP SPORT 2 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: OPAP SPORT 3 [vip] tidak cocok id epg
+-  **[KOSONG]** GR: SportPlus tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Comedy tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Hellenic tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere History tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Mythology tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Passion tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere sci-fi tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Starz tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Thriller tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Western tidak cocok id epg
+-  **[KOSONG]** GR: Cytavision Sport 8 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 1 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 10 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 11 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 12 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 13 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 14 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 15 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 16 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 17 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 18 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 2 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 3 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 3D tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 4 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 5 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 6 UHD tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 7 UHD tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 8 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere 9 tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Action tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Adventure tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Animation tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Biography tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Fantasy tidak cocok id epg
+-  **[KOSONG]** GR: Nova Premiere Horror tidak cocok id epg
+-  **[KOSONG]** GR: Vitrína Nova Premiere tidak cocok id epg
+-  **[KOSONG]** GT: Tigo Sports tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports 1 tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports 3 tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports 4 tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports 6 tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports 7 tidak cocok id epg
+-  **[KOSONG]** HK: Now Sports PL 1 tidak cocok id epg
+-  **[KOSONG]** HU: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** HU: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** HU: M4 Sport tidak cocok id epg
+-  **[KOSONG]** HU: Sport Klub tidak cocok id epg
+-  **[KOSONG]** IN: DD Sports tidak cocok id epg
+-  **[KOSONG]** IN: Star Sports 2 tidak cocok id epg
+-  **[KOSONG]** IN: Star Sports 3 tidak cocok id epg
+-  **[KOSONG]** IN: Star Sports Select 1 tidak cocok id epg
+-  **[KOSONG]** IN: Star Sports Select 2 tidak cocok id epg
+-  **[KOSONG]** ID: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** ID: beIN Sports 3 tidak cocok id epg
+-  **[KOSONG]** ID: Indosiar tidak cocok id epg
+-  **[KOSONG]** ID: MNC Sports tidak cocok id epg
+-  **[KOSONG]** ID: MNC Sports 2 tidak cocok id epg
+-  **[KOSONG]** ID: MNC TV tidak cocok id epg
+-  **[KOSONG]** ID: NBA TV tidak cocok id epg
+-  **[KOSONG]** ID: RCTI tidak cocok id epg
+-  **[KOSONG]** ID: SCTV tidak cocok id epg
+-  **[KOSONG]** ID: TVRI Sport tidak cocok id epg
+-  **[KOSONG]** IR: GEM Sport tidak cocok id epg
+-  **[KOSONG]** IR: Persiana Sports tidak cocok id epg
+-  **[KOSONG]** IQ: Al Rabiaa Sport tidak cocok id epg
+-  **[KOSONG]** IQ: Al Rabiaa Sport 1 tidak cocok id epg
+-  **[KOSONG]** IQ: Al Rabiaa Sport 2 tidak cocok id epg
+-  **[KOSONG]** IQ: Anbar TV tidak cocok id epg
+-  **[KOSONG]** IQ: Iraqia Sport tidak cocok id epg
+-  **[KOSONG]** IE: Sky Sports Arena tidak cocok id epg
+-  **[KOSONG]** IE: Sky Sports Football tidak cocok id epg
+-  **[KOSONG]** IE: Sky Sports Golf tidak cocok id epg
+-  **[KOSONG]** IE: Sky Sports Mix tidak cocok id epg
+-  **[KOSONG]** IE: Sky Sports Racing tidak cocok id epg
+-  **[KOSONG]** IL: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 1 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 2 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 3 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 4 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 5 tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 5 Gold tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 5 Live tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 5 Plus tidak cocok id epg
+-  **[KOSONG]** IL: Yes Sport 5 Stars tidak cocok id epg
+-  **[KOSONG]** IT: ACI Sport TV tidak cocok id epg
+-  **[KOSONG]** IT: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** IT: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** IT: EuroSport 4 TimVision tidak cocok id epg
+-  **[KOSONG]** IT: EuroSport 6 TimVision tidak cocok id epg
+-  **[KOSONG]** IT: Rai Sport tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport 24 tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Calcio tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Golf tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Max tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Moto GP tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport NBA tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Uno tidak cocok id epg
+-  **[KOSONG]** IT: Sportitalia Plus tidak cocok id epg
+-  **[KOSONG]** IT: Sportitalia SoloCalcio tidak cocok id epg
+-  **[KOSONG]** IT: Sky Sport Arena tidak cocok id epg
+-  **[KOSONG]** IT: TRSport tidak cocok id epg
+-  **[KOSONG]** JO: Jordan Sport tidak cocok id epg
+-  **[KOSONG]** KZ: Setanta Sports tidak cocok id epg
+-  **[KOSONG]** KU: Aso Sport tidak cocok id epg
+-  **[KOSONG]** KU: Astera Sport tidak cocok id epg
+-  **[KOSONG]** KU: Dasinya Sport tidak cocok id epg
+-  **[KOSONG]** KU: Delal Sport tidak cocok id epg
+-  **[KOSONG]** KU: Duhok Sport tidak cocok id epg
+-  **[KOSONG]** KU: Kurdistan Sport tidak cocok id epg
+-  **[KOSONG]** KU: LD Sport 1 tidak cocok id epg
+-  **[KOSONG]** KU: MMN Sport tidak cocok id epg
+-  **[KOSONG]** KU: MTV Sport tidak cocok id epg
+-  **[KOSONG]** KU: Newline Sport tidak cocok id epg
+-  **[KOSONG]** KU: NRT Sport tidak cocok id epg
+-  **[KOSONG]** KU: Nubar Sport tidak cocok id epg
+-  **[KOSONG]** KU: See Sport 1 tidak cocok id epg
+-  **[KOSONG]** KU: See Sport 2 tidak cocok id epg
+-  **[KOSONG]** KU: See Sport 3 tidak cocok id epg
+-  **[KOSONG]** KW: KTV Sport tidak cocok id epg
+-  **[KOSONG]** KW: KTV Sport 2 tidak cocok id epg
+-  **[KOSONG]** LA: beIN Sports Xtra en Espanol tidak cocok id epg
+-  **[KOSONG]** LA: Cable Onda Sports tidak cocok id epg
+-  **[KOSONG]** LA: Claro Sports tidak cocok id epg
+-  **[KOSONG]** LA: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** LA: DirecTV Sports 2 tidak cocok id epg
+-  **[KOSONG]** LA: FOX Sports tidak cocok id epg
+-  **[KOSONG]** LA: FOX Sports 3 tidak cocok id epg
+-  **[KOSONG]** LA: Fox Sports Premium tidak cocok id epg
+-  **[KOSONG]** LA: Golden Premier tidak cocok id epg
+-  **[KOSONG]** LA: Golden Premier 2 tidak cocok id epg
+-  **[KOSONG]** LA: Tigo Sports tidak cocok id epg
+-  **[KOSONG]** LA: TNT Sports tidak cocok id epg
+-  **[KOSONG]** LA: TyC Sports tidak cocok id epg
+-  **[KOSONG]** LA: Win Sports tidak cocok id epg
+-  **[KOSONG]** LA: Win Sports+ tidak cocok id epg
+-  **[KOSONG]** LV: Go 3 Sport 1 tidak cocok id epg
+-  **[KOSONG]** LV: Go 3 Sport 2 tidak cocok id epg
+-  **[KOSONG]** LV: Go 3 Sport 3 tidak cocok id epg
+-  **[KOSONG]** LV: Sport 1 Baltic tidak cocok id epg
+-  **[KOSONG]** LY: Libya Sport TV tidak cocok id epg
+-  **[KOSONG]** LY: Libya Sport TV 2 tidak cocok id epg
+-  **[KOSONG]** MK: Cinestar TV Premiere 1 tidak cocok id epg
+-  **[KOSONG]** MK: Cinestar TV Premiere 2 tidak cocok id epg
+-  **[KOSONG]** MK: MNet Sport tidak cocok id epg
+-  **[KOSONG]** MK: Sport Klub FIGHT tidak cocok id epg
+-  **[KOSONG]** MK: Viasat Kino Premiere tidak cocok id epg
+-  **[KOSONG]** MT: TVM Sport+ tidak cocok id epg
+-  **[KOSONG]** MX: AyM Sports tidak cocok id epg
+-  **[KOSONG]** MX: Claro Sports tidak cocok id epg
+-  **[KOSONG]** MX: Claro Sports 2 tidak cocok id epg
+-  **[KOSONG]** MX: Fox Sports tidak cocok id epg
+-  **[KOSONG]** MX: Fox Sports 3 tidak cocok id epg
+-  **[KOSONG]** MX: Golden Premier tidak cocok id epg
+-  **[KOSONG]** NL: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** NL: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** NL: Extreme Sports Channel tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Docu (Ziggo Sport 5) tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Golf (Ziggo Sport 6) tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Racing (Ziggo Sport 3) tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Select tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Tennis (Ziggo Sport 4) tidak cocok id epg
+-  **[KOSONG]** NL: Ziggo Sport Voetbal (Ziggo Sport 2) tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 1 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 2 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 3 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 5 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 6 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 7 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 8 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport 9 tidak cocok id epg
+-  **[KOSONG]** NZ: Sky Sport Select tidak cocok id epg
+-  **[KOSONG]** NO: eurosport 1 tidak cocok id epg
+-  **[KOSONG]** NO: eurosport 2 tidak cocok id epg
+-  **[KOSONG]** NO: eurosport Norge tidak cocok id epg
+-  **[KOSONG]** NO: TV 2 Sport 2 tidak cocok id epg
+-  **[KOSONG]** NO: TV 2 Sport Premium tidak cocok id epg
+-  **[KOSONG]** NO: TV 2 Sport Premium 2 tidak cocok id epg
+-  **[KOSONG]** NO: V Sport 1 tidak cocok id epg
+-  **[KOSONG]** OM: Oman TV Sport tidak cocok id epg
+-  **[KOSONG]** PK: A Sports tidak cocok id epg
+-  **[KOSONG]** PK: PTV Sports tidak cocok id epg
+-  **[KOSONG]** PK: T Sports tidak cocok id epg
+-  **[KOSONG]** PK: Ten Sports tidak cocok id epg
+-  **[KOSONG]** PS: Palestine Sport tidak cocok id epg
+-  **[KOSONG]** PA: Cable Onda Sports tidak cocok id epg
+-  **[KOSONG]** PY: Tigo Sports tidak cocok id epg
+-  **[KOSONG]** PY: Tigo Sports Plus tidak cocok id epg
+-  **[KOSONG]** PE: Liga 1 Max tidak cocok id epg
+-  **[KOSONG]** PH: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** PH: beIN Sports 2 tidak cocok id epg
+-  **[KOSONG]** PH: beIN Sports 3 tidak cocok id epg
+-  **[KOSONG]** PH: One Sports tidak cocok id epg
+-  **[KOSONG]** PH: One Sports + tidak cocok id epg
+-  **[KOSONG]** PH: TAP Sports tidak cocok id epg
+-  **[KOSONG]** PL: ELEVEN SPORTS 1 tidak cocok id epg
+-  **[KOSONG]** PL: ELEVEN SPORTS 2 tidak cocok id epg
+-  **[KOSONG]** PL: ELEVEN SPORTS 3 tidak cocok id epg
+-  **[KOSONG]** PL: ELEVEN SPORTS 4 tidak cocok id epg
+-  **[KOSONG]** PL: CANAL+ Sport tidak cocok id epg
+-  **[KOSONG]** PL: CANAL+ Sport 2 tidak cocok id epg
+-  **[KOSONG]** PL: CANAL+ Sport 3 tidak cocok id epg
+-  **[KOSONG]** PL: CANAL+ Sport 4 tidak cocok id epg
+-  **[KOSONG]** PL: CANAL+ Sport 5 tidak cocok id epg
+-  **[KOSONG]** PL: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** PL: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** PL: Extreme Sports Channel tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport 1 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport 2 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport 3 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Extra tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Extra 3 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Extra 4 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport FIGHT tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Premium 1 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Premium 2 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Premium 3 tidak cocok id epg
+-  **[KOSONG]** PL: Polsat Sport Premium 4 tidak cocok id epg
+-  **[KOSONG]** PL: Sport Klub tidak cocok id epg
+-  **[KOSONG]** PL: TVP Sport tidak cocok id epg
+-  **[KOSONG]** PT: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** PT: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV + tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 1 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 2 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 3 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 5 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 6 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV 7 tidak cocok id epg
+-  **[KOSONG]** PT: SPORT TV NBA tidak cocok id epg
+-  **[KOSONG]** PT: Sporting TV tidak cocok id epg
+-  **[KOSONG]** PT: W-Sport tidak cocok id epg
+-  **[KOSONG]** PT: Kombat Sport tidak cocok id epg
+-  **[KOSONG]** PT: NBA TV tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 3 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 4 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 5 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 8 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports 9 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports AFC 1 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports AFC 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports AFC 3 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports English 1 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports English 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports Global tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports Max 1 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports Max 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Sports Max 3 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Box Office 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Series 1 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Series 2 tidak cocok id epg
+-  **[KOSONG]** QA: beIN Gourmet tidak cocok id epg
+-  **[KOSONG]** RO: Antena Sport tidak cocok id epg
+-  **[KOSONG]** RO: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** RO: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** RO: Prima Sport 4 tidak cocok id epg
+-  **[KOSONG]** RO: Realitatea Sportiva tidak cocok id epg
+-  **[KOSONG]** RO: Sport Extra tidak cocok id epg
+-  **[KOSONG]** RO: TVR Sport tidak cocok id epg
+-  **[KOSONG]** RO: Auto Motor Sport tidak cocok id epg
+-  **[KOSONG]** RO: Viasat Kino Premiere tidak cocok id epg
+-  **[KOSONG]** RU: Astrakhan Sport (Астрахань) tidak cocok id epg
+-  **[KOSONG]** RU: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** RU: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** RU: Extreme Sports Channel tidak cocok id epg
+-  **[KOSONG]** RU: Match Premier (МАТЧ! Премьер) tidak cocok id epg
+-  **[KOSONG]** RU: Viju+ Sport tidak cocok id epg
+-  **[KOSONG]** RU: Viju+ Premiere tidak cocok id epg
+-  **[KOSONG]** RU: A21 VITAL AUTOSPORT tidak cocok id epg
+-  **[KOSONG]** SA: KSA Sports 1 tidak cocok id epg
+-  **[KOSONG]** SA: KSA Sports 2 tidak cocok id epg
+-  **[KOSONG]** SA: KSA Sports 3 tidak cocok id epg
+-  **[KOSONG]** SA: SSC 4 tidak cocok id epg
+-  **[KOSONG]** SA: StarzPlay Sports 1 tidak cocok id epg
+-  **[KOSONG]** SA: StarzPlay Sports 2 tidak cocok id epg
+-  **[KOSONG]** SA: StarzPlay Sports 3 tidak cocok id epg
+-  **[KOSONG]** RS: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** RS: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** RS: Sport Klub 1 tidak cocok id epg
+-  **[KOSONG]** RS: Sport Klub 10 tidak cocok id epg
+-  **[KOSONG]** RS: Sport Klub 6 tidak cocok id epg
+-  **[KOSONG]** RS: Sport Klub 7 tidak cocok id epg
+-  **[KOSONG]** RS: Cinestar TV Premiere 1 tidak cocok id epg
+-  **[KOSONG]** RS: Cinestar TV Premiere 2 tidak cocok id epg
+-  **[KOSONG]** RS: Viasat Kino Premiere tidak cocok id epg
+-  **[KOSONG]** SI: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** SI: Sport Klub 1 tidak cocok id epg
+-  **[KOSONG]** SI: Sport Klub Golf tidak cocok id epg
+-  **[KOSONG]** SI: SPORT TV 1 tidak cocok id epg
+-  **[KOSONG]** SI: SPORT TV 3 tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Premier League tidak cocok id epg
+-  **[KOSONG]** ZA: Canal+ MotoGP tidak cocok id epg
+-  **[KOSONG]** ZA: CANAL+ Sport tidak cocok id epg
+-  **[KOSONG]** ZA: CANAL+ Sport 1 tidak cocok id epg
+-  **[KOSONG]** ZA: CANAL+ Sport 3 tidak cocok id epg
+-  **[KOSONG]** ZA: Canal+ Sport 4 tidak cocok id epg
+-  **[KOSONG]** ZA: CANAL+ Sport 5 tidak cocok id epg
+-  **[KOSONG]** ZA: NBA TV tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Blitz tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Cricket tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Golf tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Grandstand tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Maximo 2 tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Motorsport tidak cocok id epg
+-  **[KOSONG]** ES: LaLiga TV Bar tidak cocok id epg
+-  **[KOSONG]** ES: LaLiga TV Hypermotion tidak cocok id epg
+-  **[KOSONG]** ES: LaLiga TV Hypermotion 2 tidak cocok id epg
+-  **[KOSONG]** ES: LaLiga TV Hypermotion 3 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar LaLiga tidak cocok id epg
+-  **[KOSONG]** ES: Movistar LaLiga 2 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar LaLiga 3 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 2 FHD tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 3 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 4 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 5 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 6 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 7 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones 8 tidak cocok id epg
+-  **[KOSONG]** ES: Movistar Liga De Campeones FHD tidak cocok id epg
+-  **[KOSONG]** ES: DAZN LaLiga 2 tidak cocok id epg
+-  **[KOSONG]** ES: beIN Sports n tidak cocok id epg
+-  **[KOSONG]** ES: Esport 3 tidak cocok id epg
+-  **[KOSONG]** ES: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** ES: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** ES: FOX SPORTS 3 tidak cocok id epg
+-  **[KOSONG]** SUR: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** SUR: TyC Sports tidak cocok id epg
+-  **[KOSONG]** SE: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** SE: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
+-  **[KOSONG]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
+-  **[KOSONG]** SE: TV4 Sportkanalen tidak cocok id epg
+-  **[KOSONG]** SE: V Sport Hockey tidak cocok id epg
+-  **[KOSONG]** SE: V Sport Motor tidak cocok id epg
+-  **[KOSONG]** SE: V Sport Ultra tidak cocok id epg
+-  **[KOSONG]** SE: V Sport Vinter tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 1 tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 11 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 12 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 13 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 14 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 15 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 16 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 2 tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 3 tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 4 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 4 UHD [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 5 tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 7 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 8 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport 9 LIVE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport D1 tidak cocok id epg
+-  **[KOSONG]** CH: Blue Sport D2 tidak cocok id epg
+-  **[KOSONG]** CH: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** CH: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 2 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 3 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 4 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 5 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 6 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 7 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 8 tidak cocok id epg
+-  **[KOSONG]** CH: MySports 9 tidak cocok id epg
+-  **[KOSONG]** CH: MySports EDGE [vip] tidak cocok id epg
+-  **[KOSONG]** CH: V Sport Live 1 tidak cocok id epg
+-  **[KOSONG]** TH: True Premiere Football 1 tidak cocok id epg
+-  **[KOSONG]** TH: True Premiere Football 3 tidak cocok id epg
+-  **[KOSONG]** TH: True Premiere Football 4 tidak cocok id epg
+-  **[KOSONG]** TH: True Premiere Football 5 tidak cocok id epg
+-  **[KOSONG]** TH: True Sport 1 tidak cocok id epg
+-  **[KOSONG]** TH: True Sport 2 tidak cocok id epg
+-  **[KOSONG]** TH: True Sport 3 tidak cocok id epg
+-  **[KOSONG]** TH: True Sport 4 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 1 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 2 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 3 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 4 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 5 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports Max 1 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports Max 2 tidak cocok id epg
+-  **[KOSONG]** TR: CosmoSports tidak cocok id epg
+-  **[KOSONG]** TR: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** TR: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** TR: NBA TV tidak cocok id epg
+-  **[KOSONG]** TR: S Sport tidak cocok id epg
+-  **[KOSONG]** TR: S Sport 2 tidak cocok id epg
+-  **[KOSONG]** TR: Sports TV tidak cocok id epg
+-  **[KOSONG]** TR: beIN Box Office 1 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Box Office 2 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Box Office 3 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series 1 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series 2 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series 3 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series 4 tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series Comedy tidak cocok id epg
+-  **[KOSONG]** TR: beIN Series sci-fi tidak cocok id epg
+-  **[KOSONG]** TR: beIN Gurme tidak cocok id epg
+-  **[KOSONG]** TR: beIN Iz tidak cocok id epg
+-  **[KOSONG]** TR: beIN Sports 1 FEED tidak cocok id epg
+-  **[KOSONG]** TR: Exxen Sports 1 tidak cocok id epg
+-  **[KOSONG]** TR: Exxen Sports 2 tidak cocok id epg
+-  **[KOSONG]** TR: Exxen Sports 5 tidak cocok id epg
+-  **[KOSONG]** TR: Exxen Sports 6 tidak cocok id epg
+-  **[KOSONG]** TR: Max Premier tidak cocok id epg
+-  **[KOSONG]** TM: Turkmenistan Sport tidak cocok id epg
+-  **[KOSONG]** AE: Abu Dhabi Sports 1 tidak cocok id epg
+-  **[KOSONG]** AE: Abu Dhabi Sports 2 tidak cocok id epg
+-  **[KOSONG]** AE: Abu Dhabi Sports 3 tidak cocok id epg
+-  **[KOSONG]** AE: Abu Dhabi Sports Asia 1 tidak cocok id epg
+-  **[KOSONG]** AE: Abu Dhabi Sports Asia 2 tidak cocok id epg
+-  **[KOSONG]** AE: Dubai Sports tidak cocok id epg
+-  **[KOSONG]** AE: Dubai Sports 2 tidak cocok id epg
+-  **[KOSONG]** AE: Sharjah Sports TV tidak cocok id epg
+-  **[KOSONG]** AE: StarzPlay Sports 1 tidak cocok id epg
+-  **[KOSONG]** AE: OSN Premiere tidak cocok id epg
+-  **[KOSONG]** AE: StarzPlay Sports 2 tidak cocok id epg
+-  **[KOSONG]** AE: StarzPlay Sports 3 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 1 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 2 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 3 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 4 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 5 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Premier 6 tidak cocok id epg
+-  **[KOSONG]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Football tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports+ tidak cocok id epg
+-  **[KOSONG]** UK: Eurosport 1 tidak cocok id epg
+-  **[KOSONG]** UK: Eurosport 2 tidak cocok id epg
+-  **[KOSONG]** UK: Hub Sports 5 [vip] tidak cocok id epg
+-  **[KOSONG]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
+-  **[KOSONG]** UK: Setanta Sports 1 tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Action tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Action / NFL 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Arena tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Box Office tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Cricket tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Golf tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Mix tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Mix [vip] tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Racing tidak cocok id epg
+-  **[KOSONG]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: talkSPORT tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 10 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 3 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 5 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 6 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 7 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 8 tidak cocok id epg
+-  **[KOSONG]** UK: TNT Sports 9 tidak cocok id epg
+-  **[KOSONG]** UK: Viaplay xtra-FreeSports tidak cocok id epg
+-  **[KOSONG]** UK: World Of FreeSports tidak cocok id epg
+-  **[KOSONG]** UA: Setanta Sports tidak cocok id epg
+-  **[KOSONG]** UA: Setanta Sports 1 tidak cocok id epg
+-  **[KOSONG]** UA: Setanta Sports 2 tidak cocok id epg
+-  **[KOSONG]** UA: X Sport tidak cocok id epg
+-  **[KOSONG]** US: AT&T SportsNet tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Arizona Alternate tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Arizona Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Detroit tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Detroit Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Florida tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Florida Alternate tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Florida Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Indiana tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Kansas City tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Midwest tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Midwest Alternate tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Midwest Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Netbase tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports New Orleans tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports North tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports North Minnesota tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Ohio tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Ohio Cincinnati tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Ohio Cincinnati Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Ohio Cleveland tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Ohio Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Oklahoma tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports San Diego tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports San Diego Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports SoCal tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports SoCal Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports South tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Southeast tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Southwest tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Southwest Alternate tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Southwest Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Sun tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Sun Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports West tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports West Plus tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Wisconsin tidak cocok id epg
+-  **[KOSONG]** US: Bally Sports Wisconsin Plus tidak cocok id epg
+-  **[KOSONG]** US: beIN Sports tidak cocok id epg
+-  **[KOSONG]** US: beIN Sports 4 tidak cocok id epg
+-  **[KOSONG]** US: beIN Sports 5 tidak cocok id epg
+-  **[KOSONG]** US: beIN Sports 8 tidak cocok id epg
+-  **[KOSONG]** US: CBS Sports Network tidak cocok id epg
+-  **[KOSONG]** US: Fanduel Sports Network 10 tidak cocok id epg
+-  **[KOSONG]** US: Fox Sports Detroit tidak cocok id epg
+-  **[KOSONG]** US: Fox Sports Florida tidak cocok id epg
+-  **[KOSONG]** US: Fox Sports Ohio tidak cocok id epg
+-  **[KOSONG]** US: FTF Sports tidak cocok id epg
+-  **[KOSONG]** US: NBA League Pass 1 tidak cocok id epg
+-  **[KOSONG]** US: NBA TV tidak cocok id epg
+-  **[KOSONG]** US: NBC Sports Bay Area tidak cocok id epg
+-  **[KOSONG]** US: NBC Sports Boston tidak cocok id epg
+-  **[KOSONG]** US: NBC Sports Chicago tidak cocok id epg
+-  **[KOSONG]** US: NBC Sports Chicago Plus tidak cocok id epg
+-  **[KOSONG]** US: NBC Sports Washington tidak cocok id epg
+-  **[KOSONG]** US: NFL Network tidak cocok id epg
+-  **[KOSONG]** US: NFL RedZone tidak cocok id epg
+-  **[KOSONG]** US: Root Sports tidak cocok id epg
+-  **[KOSONG]** US: SportsGrid tidak cocok id epg
+-  **[KOSONG]** US: Sportsman Channel tidak cocok id epg
+-  **[KOSONG]** US: Xtrem Sports tidak cocok id epg
+-  **[KOSONG]** US: Motorsport TV tidak cocok id epg
+-  **[KOSONG]** US: Fox College Sports Atlantic tidak cocok id epg
+-  **[KOSONG]** US: Fox College Sports Pacific tidak cocok id epg
+-  **[KOSONG]** US: CineBox Premiere tidak cocok id epg
+-  **[KOSONG]** US: Universal Premiere tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 01 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 02 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 03 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 04 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 05 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 06 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 07 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 08 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 09 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 10 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 11 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 12 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 13 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 14 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 15 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 16 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 17 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 18 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 19 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: MLS LIVE 20 [VIP] tidak cocok id epg
+-  **[KOSONG]** US: beIN Sports US tidak cocok id epg
+-  **[KOSONG]** US: BEK TV Sports West tidak cocok id epg
+-  **[KOSONG]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
+-  **[KOSONG]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
+-  **[KOSONG]** VE: DirecTV Sports tidak cocok id epg
+-  **[KOSONG]** VE: Fox Sports 3 tidak cocok id epg
+-  **[KOSONG]** AL: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** AL: Arctic Dogs (2019) tidak cocok id epg
+-  **[KOSONG]** AL: Being Flynn (2012) tidak cocok id epg
+-  **[KOSONG]** AL: Being Frank (2018) tidak cocok id epg
+-  **[KOSONG]** AL: Champions (2018) tidak cocok id epg
+-  **[KOSONG]** AL: Justice League (2017) tidak cocok id epg
+-  **[KOSONG]** AL: Justice League The Flashpoint Paradox (2013) tidak cocok id epg
+-  **[KOSONG]** AL: Justice League vs the Fatal Five (2019) tidak cocok id epg
+-  **[KOSONG]** AL: Justice League; The Flashpoint Paradox (2013) tidak cocok id epg
+-  **[KOSONG]** AL: Kung Fu League (2018) tidak cocok id epg
+-  **[KOSONG]** AL: The Influence (2019) tidak cocok id epg
+-  **[KOSONG]** ANIME: Justice League vs. Teen Titans (2016) tidak cocok id epg
+-  **[KOSONG]** ANIME: Justice League: Doom (2012) tidak cocok id epg
+-  **[KOSONG]** ANIME: Justice League: The New Frontier (2008) tidak cocok id epg
+-  **[KOSONG]** ANIME: Justice League: War (2014) tidak cocok id epg
+-  **[KOSONG]** ANIME: LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout (2016) tidak cocok id epg
+-  **[KOSONG]** AR: Les Transporteurs (2002) tidak cocok id epg
+-  **[KOSONG]** AR: Shahid Machafch Haga (2012) tidak cocok id epg
+-  **[KOSONG]** EN: 20000 Leagues Under the Sea (1954) tidak cocok id epg
+-  **[KOSONG]** EN: 3D Justice League (2017) tidak cocok id epg
+-  **[KOSONG]** EN: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** EN: Being Frank The Chris Sievey Story (2018) tidak cocok id epg
+-  **[KOSONG]** EN: Cradle of Champions (2018) tidak cocok id epg
+-  **[KOSONG]** EN: DC League of Super Pets (2022) tidak cocok id epg
+-  **[KOSONG]** EN: DC League of Super-Pets (2022) tidak cocok id epg
+-  **[KOSONG]** EN: Dont Swallow My Heart Alligator Girl (2017) tidak cocok id epg
+-  **[KOSONG]** EN: Global Warning Arctic Melt (2017) tidak cocok id epg
+-  **[KOSONG]** EN: Golden Moments Of The UEFA European Football Championships (2004) tidak cocok id epg
+-  **[KOSONG]** EN: Hyundai A-League Grand Final (2007) tidak cocok id epg
+-  **[KOSONG]** EN: Justice League (2017) EN tidak cocok id epg
+-  **[KOSONG]** EN: Justice League Dark (2017) tidak cocok id epg
+-  **[KOSONG]** EN: Justice League vs the Fatal Five (2019) tidak cocok id epg
+-  **[KOSONG]** EN: Le premier oublié (2019) tidak cocok id epg
+-  **[KOSONG]** EN: League Of Gods (2016) EN tidak cocok id epg
+-  **[KOSONG]** EN: League of Legends Origins (2019) tidak cocok id epg
+-  **[KOSONG]** EN: Project Antarctica The journey of our lifetime (2018) tidak cocok id epg
+-  **[KOSONG]** EN: Sports Bloopers Incredible Football Plays (2004) tidak cocok id epg
+-  **[KOSONG]** EN: Sports Bloopers The Lighter Side Of Football (2004) tidak cocok id epg
+-  **[KOSONG]** EN: Sports Follies Greatest Sports Bloopers (2004) tidak cocok id epg
+-  **[KOSONG]** EN: Sports Follies Hillarious Sports Bloopers (2004) tidak cocok id epg
+-  **[KOSONG]** EN: The Story Of The UEFA European Football Championships (2004) tidak cocok id epg
+-  **[KOSONG]** EN: The Transporter 2 tidak cocok id epg
+-  **[KOSONG]** EN: The Unbearable Lightness of Being (1988) tidak cocok id epg
+-  **[KOSONG]** EN: Theres Something in the Pilliga (2014) tidak cocok id epg
+-  **[KOSONG]** EN: Tournament of Champions (2021) tidak cocok id epg
+-  **[KOSONG]** EN: Under an Arctic Sky (2017) tidak cocok id epg
+-  **[KOSONG]** EN: Under His Influence (2023) tidak cocok id epg
+-  **[KOSONG]** EN: Under the Influence (2023) tidak cocok id epg
+-  **[KOSONG]** EN: World Cake Championship (2019) tidak cocok id epg
+-  **[KOSONG]** EN: Zack Snyders Justice League (2021) tidak cocok id epg
+-  **[KOSONG]** ES: Arctic Dogs (2019) tidak cocok id epg
+-  **[KOSONG]** ES: Deadly Influencer (2019) tidak cocok id epg
+-  **[KOSONG]** ES: Detroit Zona de conflicto (2017) tidak cocok id epg
+-  **[KOSONG]** ES: Justice League Dark (2017) tidak cocok id epg
+-  **[KOSONG]** ES: Justice League vs. the Fatal Five (2019) tidak cocok id epg
+-  **[KOSONG]** ES: Liga de la justicia (2017) tidak cocok id epg
+-  **[KOSONG]** EX-YU: Hajde Da Se Volimo (1987) tidak cocok id epg
+-  **[KOSONG]** EX-YU: Hajde Da Se Volimo 2 (1989) tidak cocok id epg
+-  **[KOSONG]** FR: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** FR: Premieres Vacances (2018) tidak cocok id epg
+-  **[KOSONG]** FR: Premiers Crus (2015) tidak cocok id epg
+-  **[KOSONG]** FR: The Influence (2019) tidak cocok id epg
+-  **[KOSONG]** DE: Arac Attack Angriffr achtbeinigen Monster (2002) tidak cocok id epg
+-  **[KOSONG]** DE: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** DE: Arctic Dogs (2019) tidak cocok id epg
+-  **[KOSONG]** DE: Bayou Caviar Im Mauls Alligators (2018) tidak cocok id epg
+-  **[KOSONG]** DE: Das bisschen Haushalt (2003) tidak cocok id epg
+-  **[KOSONG]** DE: Die Ligar aussergewohnlichen Gentlemen (2003) tidak cocok id epg
+-  **[KOSONG]** DE: Fahnenflüchtig (2015) tidak cocok id epg
+-  **[KOSONG]** DE: Fahnenfluechtig (2015) tidak cocok id epg
+-  **[KOSONG]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot tidak cocok id epg
+-  **[KOSONG]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot (2018) tidak cocok id epg
+-  **[KOSONG]** DE: Honey 4 Lebeinen Traum (2018) tidak cocok id epg
+-  **[KOSONG]** DE: Housesitter Luegen haben schoene Beine (1992) tidak cocok id epg
+-  **[KOSONG]** DE: Justice League (2017) tidak cocok id epg
+-  **[KOSONG]** DE: Justice League Dark (2017) tidak cocok id epg
+-  **[KOSONG]** DE: La influencia Boeser Einfluss (2019) tidak cocok id epg
+-  **[KOSONG]** DE: League of Gods (2016) tidak cocok id epg
+-  **[KOSONG]** DE: Nicht meine Liga (2020) tidak cocok id epg
+-  **[KOSONG]** DE: O Palmenbaum (2000) tidak cocok id epg
+-  **[KOSONG]** DE: Red Army Hooligans (2018) tidak cocok id epg
+-  **[KOSONG]** DE: The Transporter (2002) tidak cocok id epg
+-  **[KOSONG]** DE: The Trouble with Being Born (2020) tidak cocok id epg
+-  **[KOSONG]** DE: Willkommen bein Honeckers (2017) tidak cocok id epg
+-  **[KOSONG]** DE: Wir sind Champions (2018) tidak cocok id epg
+-  **[KOSONG]** IN: Aligarh (2015) tidak cocok id epg
+-  **[KOSONG]** IN: Ranbanka (2015) tidak cocok id epg
+-  **[KOSONG]** IN: Tennis Buddies (2019) tidak cocok id epg
+-  **[KOSONG]** IT: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** IT: Champions (2018) tidak cocok id epg
+-  **[KOSONG]** IT: Influenze maligne (2019) tidak cocok id epg
+-  **[KOSONG]** IT: Justice League (2017) tidak cocok id epg
+-  **[KOSONG]** IT: Justice League Fuga da Gotham City (2016) tidak cocok id epg
+-  **[KOSONG]** IT: Justice League; Fuga da Gotham City (2016) tidak cocok id epg
+-  **[KOSONG]** IT: League Of Gods (2016) tidak cocok id epg
+-  **[KOSONG]** NO: Arctic (2019) tidak cocok id epg
+-  **[KOSONG]** NO: Arctic Apocalypse (2019) tidak cocok id epg
+-  **[KOSONG]** NO: Justice League VS The Fatal Five (2019) tidak cocok id epg
+-  **[KOSONG]** NO: Sinbad Legend Of The Seven Seas (2003) tidak cocok id epg
+-  **[KOSONG]** NO: Transporter 1 (2002) tidak cocok id epg
+-  **[KOSONG]** NO: Transporter 2 (2005) tidak cocok id epg
+-  **[KOSONG]** NO: Transporter 3 (2008) tidak cocok id epg
+-  **[KOSONG]** NO: Transporter 4 (2015) tidak cocok id epg
+-  **[KOSONG]** PL: Champions (1998) tidak cocok id epg
+-  **[KOSONG]** PL: Donbass (2018) tidak cocok id epg
+-  **[KOSONG]** PL: Znamie Dragonfly (2002) tidak cocok id epg
+-  **[KOSONG]** PT: Arctico tidak cocok id epg
+-  **[KOSONG]** PT: Champions tidak cocok id epg
+-  **[KOSONG]** PT: Dear Basketball tidak cocok id epg
+-  **[KOSONG]** PT: Justice League tidak cocok id epg
+-  **[KOSONG]** PT: Justice League Dark tidak cocok id epg
+-  **[KOSONG]** PT: Justice League vs. the Fatal Five tidak cocok id epg
+-  **[KOSONG]** PT: La Influencia tidak cocok id epg
+-  **[KOSONG]** PT: League of Gods tidak cocok id epg
+-  **[KOSONG]** PT: Operation Arctic tidak cocok id epg
+-  **[KOSONG]** PT: Sinbad A Lenda dos Sete Mares tidak cocok id epg
+-  **[KOSONG]** PT: The Transporter Refueled tidak cocok id epg
+-  **[KOSONG]** RO: Arctic (2019) tidak cocok id epg
+-  **[KOSONG]** RO: Champions (2018) tidak cocok id epg
+-  **[KOSONG]** RO: Hooligan Escape The Russian Job (2018) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Dyker Upp Igen (1986) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Far Guldfeber (1984) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Och Den Svarta Diamanten (1992) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Och Dynamit-Harry (1982) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Pa Mallorca (1989) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Spelar Hogt (2000) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligan Varning For Jonssonligan (1981) tidak cocok id epg
+-  **[KOSONG]** SE: Jonssonligans Storsta Kupp (1995) tidak cocok id epg
+-  **[KOSONG]** SE: Lilla Jonssonligan Och Stjarnkuppen (2006) tidak cocok id epg
+-  **[KOSONG]** SE: Lyckligare Kan Ingen Vara (2018) tidak cocok id epg
+-  **[KOSONG]** TR: Arctic (2018) tidak cocok id epg
+-  **[KOSONG]** TR: Düzenbazlar Kulübü (2018) tidak cocok id epg
+-  **[KOSONG]** TR: Duzenbazlar The Hustle Altyazili (2019) tidak cocok id epg
+-  **[KOSONG]** TR: Inflame (2017) tidak cocok id epg
+-  **[KOSONG]** TR: Justice League Vs The Fatal Five (2019) tidak cocok id epg
+-  **[KOSONG]** TR: La influencia (2019) tidak cocok id epg
+-  **[KOSONG]** TR: Omen III: The Final Conflict (1981) tidak cocok id epg
+-  **[KOSONG]** XXX: Being Riley (Tushy; 2015) tidak cocok id epg
+-  **[KOSONG]** XXX: Bush League 14 tidak cocok id epg
+-  **[KOSONG]** XXX: Chubby Champions tidak cocok id epg
+-  **[KOSONG]** XXX: Gilligans Trans Adventures tidak cocok id epg
 
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Linquan Zhikuang 🆚 Wuhan Golden Banks of Two Rivers🛡️|🛡️12:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Guangdong Wuchuan Youth 🆚 Guangzhou Huadu Red Treasure🛡️|🛡️12:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️South Melbourne 🆚 Tahiti United FC🛡️|🛡️14:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fuzzy] (7232)
-- ⚠️ **[EVENT]** [21 Apr 2026 13:55 WIB] otomatis masuk jadwal
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** TVRI Sports tidak cocok id epg
--  **[KS]** Historical Sports tidak cocok id epg
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** SPOTV 2+ tidak cocok id epg
--  **[KS]** SPOTV+ tidak cocok id epg
--  **[KS]** BEIN SPORTS 1 tidak cocok id epg
--  **[KS]** BEIN SPORTS 2 tidak cocok id epg
--  **[KS]** BEIN SPORTS 3 tidak cocok id epg
--  **[KS]** BEIN SPORTS 4 tidak cocok id epg
--  **[KS]** BEIN SPORTS 5 tidak cocok id epg
--  **[KS]** CBS Champions tidak cocok id epg
--  **[KS]** CBS Sports HQ tidak cocok id epg
--  **[KS]** Champions Figth tidak cocok id epg
--  **[KS]** Champions TV1 tidak cocok id epg
--  **[KS]** Champions TV2 tidak cocok id epg
--  **[KS]** Champions TV3 tidak cocok id epg
--  **[KS]** Champions TV5 tidak cocok id epg
--  **[KS]** Champions TV6 tidak cocok id epg
--  **[KS]** Dubai Sports tidak cocok id epg
--  **[KS]** Dubai Sports 2 tidak cocok id epg
--  **[KS]** Dubai Sports 3 tidak cocok id epg
--  **[KS]** FOX SPORTS 1 tidak cocok id epg
--  **[KS]** FOX SPORTS 2 tidak cocok id epg
--  **[KS]** FOX SPORTS 3 tidak cocok id epg
--  **[KS]** FOX SPORTS PREMIUM tidak cocok id epg
--  **[KS]** FUBO SPORTS 1 tidak cocok id epg
--  **[KS]** FUBO SPORTS 2 tidak cocok id epg
--  **[KS]** NBA TV tidak cocok id epg
--  **[KS]** Nova Sport 1 tidak cocok id epg
--  **[KS]** ONE SPORTS HD tidak cocok id epg
--  **[KS]** ONE SPORTS+ tidak cocok id epg
--  **[KS]** Prima Sport 1 tidak cocok id epg
--  **[KS]** Prima Sport 2 tidak cocok id epg
--  **[KS]** Prima Sport 3 tidak cocok id epg
--  **[KS]** Prima Sport 4 tidak cocok id epg
--  **[KS]** Spectrum Sportsnet La tidak cocok id epg
--  **[KS]** SPORT 1 tidak cocok id epg
--  **[KS]** SPORT 2 tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPOTV tidak cocok id epg
--  **[KS]** Tennis Channel tidak cocok id epg
--  **[KS]** TNT Sports tidak cocok id epg
--  **[KS]** TNT Sports 2 tidak cocok id epg
--  **[KS]** TNT Sports 3 tidak cocok id epg
--  **[KS]** TNT Sports 4 tidak cocok id epg
--  **[KS]** Nova Sport 2 tidak cocok id epg
--  **[KS]** INDOSIAR tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** MNCTV tidak cocok id epg
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Guangzhou Xingpai🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Lianzhen 🆚 Yantai New Area🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[FUZZY]** FIGHT SPORTS+ cocok [fuzzy] (7232)
+- ⚠️ **[EVENT]** [21 Apr 2026 16:25 WIB] otomatis masuk jadwal
+-  **[KOSONG]** Indosiar tidak cocok id epg
+-  **[KOSONG]** MNC TV tidak cocok id epg
+-  **[KOSONG]** RCTI tidak cocok id epg
+-  **[KOSONG]** SCTV tidak cocok id epg
+-  **[KOSONG]** TVRI Sports tidak cocok id epg
+-  **[KOSONG]** Historical Sports tidak cocok id epg
+-  **[KOSONG]** Indosiar tidak cocok id epg
+-  **[KOSONG]** MNC TV tidak cocok id epg
+-  **[KOSONG]** RCTI tidak cocok id epg
+-  **[KOSONG]** SCTV tidak cocok id epg
+-  **[KOSONG]** Sports TV tidak cocok id epg
+-  **[KOSONG]** Xtrem Sports tidak cocok id epg
+-  **[KOSONG]** SPOTV 2+ tidak cocok id epg
+-  **[KOSONG]** SPOTV+ tidak cocok id epg
+-  **[KOSONG]** BEIN SPORTS 1 tidak cocok id epg
+-  **[KOSONG]** BEIN SPORTS 2 tidak cocok id epg
+-  **[KOSONG]** BEIN SPORTS 3 tidak cocok id epg
+-  **[KOSONG]** BEIN SPORTS 4 tidak cocok id epg
+-  **[KOSONG]** BEIN SPORTS 5 tidak cocok id epg
+-  **[KOSONG]** CBS Champions tidak cocok id epg
+-  **[KOSONG]** CBS Sports HQ tidak cocok id epg
+-  **[KOSONG]** Champions Figth tidak cocok id epg
+-  **[KOSONG]** Champions TV1 tidak cocok id epg
+-  **[KOSONG]** Champions TV2 tidak cocok id epg
+-  **[KOSONG]** Champions TV3 tidak cocok id epg
+-  **[KOSONG]** Champions TV5 tidak cocok id epg
+-  **[KOSONG]** Champions TV6 tidak cocok id epg
+-  **[KOSONG]** Dubai Sports tidak cocok id epg
+-  **[KOSONG]** Dubai Sports 2 tidak cocok id epg
+-  **[KOSONG]** Dubai Sports 3 tidak cocok id epg
+-  **[KOSONG]** FOX SPORTS 1 tidak cocok id epg
+-  **[KOSONG]** FOX SPORTS 2 tidak cocok id epg
+-  **[KOSONG]** FOX SPORTS 3 tidak cocok id epg
+-  **[KOSONG]** FOX SPORTS PREMIUM tidak cocok id epg
+-  **[KOSONG]** FUBO SPORTS 1 tidak cocok id epg
+-  **[KOSONG]** FUBO SPORTS 2 tidak cocok id epg
+-  **[KOSONG]** NBA TV tidak cocok id epg
+-  **[KOSONG]** Nova Sport 1 tidak cocok id epg
+-  **[KOSONG]** ONE SPORTS HD tidak cocok id epg
+-  **[KOSONG]** ONE SPORTS+ tidak cocok id epg
+-  **[KOSONG]** Prima Sport 1 tidak cocok id epg
+-  **[KOSONG]** Prima Sport 2 tidak cocok id epg
+-  **[KOSONG]** Prima Sport 3 tidak cocok id epg
+-  **[KOSONG]** Prima Sport 4 tidak cocok id epg
+-  **[KOSONG]** Spectrum Sportsnet La tidak cocok id epg
+-  **[KOSONG]** SPORT 1 tidak cocok id epg
+-  **[KOSONG]** SPORT 2 tidak cocok id epg
+-  **[KOSONG]** Sports TV tidak cocok id epg
+-  **[KOSONG]** SPOTV tidak cocok id epg
+-  **[KOSONG]** Tennis Channel tidak cocok id epg
+-  **[KOSONG]** TNT Sports tidak cocok id epg
+-  **[KOSONG]** TNT Sports 2 tidak cocok id epg
+-  **[KOSONG]** TNT Sports 3 tidak cocok id epg
+-  **[KOSONG]** TNT Sports 4 tidak cocok id epg
+-  **[KOSONG]** Nova Sport 2 tidak cocok id epg
+-  **[KOSONG]** INDOSIAR tidak cocok id epg
+-  **[KOSONG]** RCTI tidak cocok id epg
+-  **[KOSONG]** SCTV tidak cocok id epg
+-  **[KOSONG]** MNCTV tidak cocok id epg
 
 ---
 
