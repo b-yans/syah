@@ -48,6 +48,6 @@ jobs:
         # Menambahkan zona waktu Jakarta (WIB) agar jam log riwayatnya pas
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add imach.pl
+          git config --local user.name "b-yansh"
+          git add imach.pl README.md playlist_termapping.m3u laporan_rumus.txt laporan_channel_m3u.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-up: $(TZ='Asia/Jakarta' date +'%Y-%m-%d %H:%M:%S WIB')" && git push)
