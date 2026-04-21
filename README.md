@@ -1,5 +1,5 @@
 # LAPORAN AUDI CH
-**Diperbarui pada:** 21-04-2026 15:28 WIB
+**Diperbarui pada:** 21-04-2026 15:41 WIB
 
 ### 📁 IMACH.OY
 - ⚠️ **[FUZZY]** AL: Arena Sport 1 cocok [fuzzy] (381850)
@@ -46,7 +46,6 @@
 - ⚠️ **[FUZZY]** HR: Sport Klub 3 cocok [fuzzy] (497508)
 - ⚠️ **[FUZZY]** HR: Sport Klub 4 cocok [fuzzy] (497489)
 - ⚠️ **[FUZZY]** HR: Sport Klub 5 cocok [fuzzy] (497507)
-- ⚠️ **[FUZZY]** HR: Sport Klub FIGHT cocok [fuzzy] (497509)
 - ⚠️ **[FUZZY]** CZ: Arena Sport 2 cocok [fuzzy] (381848)
 - ⚠️ **[FUZZY]** CZ: Arena Sport 1 cocok [fuzzy] (381850)
 - ⚠️ **[FUZZY]** CZ: Canal+ Sport 2 cocok [fuzzy] (407672)
@@ -354,6 +353,7 @@
 -  **[KOSONG]** HR: Max Sport 1 tidak cocok id epg
 -  **[KOSONG]** HR: Max Sport 2 tidak cocok id epg
 -  **[KOSONG]** HR: Sport Klub 1 tidak cocok id epg
+-  **[KOSONG]** HR: Sport Klub FIGHT tidak cocok id epg
 -  **[KOSONG]** HR: Sportska tidak cocok id epg
 -  **[KOSONG]** HR: CineStar TV Premiere 1 tidak cocok id epg
 -  **[KOSONG]** HR: CineStar TV Premiere 2 tidak cocok id epg
