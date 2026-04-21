@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 17:55 WIB
+**Diperbarui pada:** 21-04-2026 18:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -61,7 +61,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
@@ -88,7 +87,6 @@
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
-- ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
@@ -155,7 +153,6 @@
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: V Sport Football cocok [fz] (537102)
-- ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
 - ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
@@ -166,8 +163,6 @@
 - ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fz] (438445)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League 50fps [vip] cocok [fz] (438445)
 - ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fz] (537810)
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
@@ -490,6 +485,7 @@
 -  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport Premier League tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
@@ -759,6 +755,7 @@
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
 -  **[KS]** IE: Sky Sports Golf tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
+-  **[KS]** IE: Sky Sports Premier League tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
 -  **[KS]** IL: Eurosport 1 tidak cocok id epg
 -  **[KS]** IL: Yes Sport 1 tidak cocok id epg
@@ -1022,6 +1019,7 @@
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
+-  **[KS]** SE: TV4 Tennis tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
 -  **[KS]** SE: V Sport Motor tidak cocok id epg
 -  **[KS]** SE: V Sport Ultra tidak cocok id epg
@@ -1116,6 +1114,8 @@
 -  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports Premier League tidak cocok id epg
+-  **[KS]** UK: Sky Sports Premier League 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports+ tidak cocok id epg
 -  **[KS]** UK: Eurosport 1 tidak cocok id epg
 -  **[KS]** UK: Eurosport 2 tidak cocok id epg
@@ -1394,13 +1394,13 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Guangzhou Xingpai🛡️|🛡️15:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bangladesh Police Club 🆚 Bashundhara Kings🛡️|🛡️15:45 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farense U23 🆚 Estoril U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Leixoes U23 🆚 Santa Clara U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Football Club Seoul 🆚 Bucheon FC 1995🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sudeva Delhi 🆚 GMSC🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Rd32 (Crt 2) • Yonex All England Open Badminton Championships 2026 | 15:30 WIB • 21/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Gimcheon Sangmu vs Gangwon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
