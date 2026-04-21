@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 00:18 WIB
+**Diperbarui pada:** 22-04-2026 00:23 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1402,9 +1402,11 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tukums-2000 🆚 BFC Daugavpils🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IB Khemis El Khechna 🆚 NC Magra🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zira FK 🆚 Turan Tovuz🛡️|🛡️22:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Opole Women 🆚 Bielsko-Biala Women🛡️|🛡️22:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Haka 🆚 JaPS🛡️|🛡️22:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Kuressaare 🆚 Parnu JK Vaprus🛡️|🛡️22:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Diraiyah 🆚 Al-Raed SFC🛡️|🛡️22:55 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Ziraat Bankasi 🆚 Galatasaray🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Horsens 🆚 Esbjerg🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ludogorets Razgrad 🆚 CSKA Sofia🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AL Salt 🆚 Al Wehdat🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
@@ -1413,12 +1415,14 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Arabi SC(KSA) 🆚 Al Bukayriyah🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Tai 🆚 Abha🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Machida Zelvia 🆚 Shabab Al Ahli🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Machida Zelvia 🆚 Shabab Al Ahli🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Blau Weiss Linz 🆚 Wolfsberger AC🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rheindorf Altach 🆚 WSG Tirol🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arges 🆚 FC Universitatea Cluj🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Mina'a SC 🆚 Amanat Baghdad🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hajduk Split 🆚 NK Osijek🛡️|🛡️23:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CSKA Moscow 🆚 FK Rostov🛡️|🛡️23:45 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 CA Osasuna🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 CA Osasuna🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orn-Horten 🆚 FC Lyn Oslo B🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orebro 🆚 IFK Norrkoping FK🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
