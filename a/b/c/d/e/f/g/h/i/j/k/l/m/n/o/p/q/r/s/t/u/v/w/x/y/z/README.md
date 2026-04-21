@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 02:24 WIB
+**Diperbarui pada:** 22-04-2026 02:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1409,7 +1409,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vilniaus Vytis 🆚 Banga Gargzdai🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hvidovre IF 🆚 Kolding FC🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orebro 🆚 IFK Norrkoping FK🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Konyaspor 🆚 Fenerbahce🛡️|🛡️00:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Konyaspor 🆚 Fenerbahce🛡️|🛡️00:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes LP Reserves 🆚 Gimnasia LP Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rosario Central Reserves 🆚 Newell's Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MFK Karvina 🆚 Banik Ostrava🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1438,7 +1438,7 @@
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Ath Bilbao vs Osasuna • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** Mallorca vs Valencia • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Konyaspor vs Fenerbahce • Turki: Piala Turki | 00:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Konyaspor vs Fenerbahce • Turki: Piala Turki | 00:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
