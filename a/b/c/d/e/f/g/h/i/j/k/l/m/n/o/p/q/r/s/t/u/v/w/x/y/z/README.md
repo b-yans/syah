@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 06:26 WIB
+**Diperbarui pada:** 22-04-2026 06:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -64,7 +64,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[EXACT]** ID: RCTI cocok (RCTI.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
@@ -82,7 +81,6 @@
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
-- ⚠️ **[FZ]** NO: V Sport + cocok [fz] (481079)
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
@@ -727,6 +725,7 @@
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Sony Sports Ten 2 (Sony Ten 2) tidak cocok id epg
+-  **[KS]** IN: Star Sports 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports 3 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
@@ -857,6 +856,7 @@
 -  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
+-  **[KS]** NO: V Sport + tidak cocok id epg
 -  **[KS]** NO: V Sport 1 tidak cocok id epg
 -  **[KS]** OM: Oman TV Sport tidak cocok id epg
 -  **[KS]** PK: A Sports tidak cocok id epg
