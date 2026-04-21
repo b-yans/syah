@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 03:58 WIB
+**Diperbarui pada:** 22-04-2026 04:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1409,9 +1409,11 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️West Bromwich Albion 🆚 Watford🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Queens Park Rangers 🆚 Swansea City🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Norwich City 🆚 Derby County🛡️|🛡️01:45 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universitario De Vinto 🆚 Academia del Balompié Boliviano🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Vinto 🆚 Academia del Balompié Boliviano🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RC Lens 🆚 Toulouse FC🛡️|🛡️02:10 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Girona FC 🆚 Real Betis🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madrid 🆚 Deportivo Alavés🛡️|🛡️02:30 22/04/2026🛡️ otomatis masuk jadwal
@@ -1428,8 +1430,8 @@
 - ⚠️ **[BASI]** Oxford Utd vs Wrexham • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** QPR vs Swansea • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** Leicester vs Hull • Inggris: Championship | 01:45 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Brighton vs Chelsea • Inggris: Liga Primer | 02:00 WIB • 22/04/2026 otomatis masuk jadwal
-- ⚠️ **[EVENT]** Inter vs Como • Italia: Coppa Italia | 02:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Brighton vs Chelsea • Inggris: Liga Primer | 02:00 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** Inter vs Como • Italia: Coppa Italia | 02:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Lens vs Toulouse • Perancis: Coupe de France | 02:10 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Girona vs Betis • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Real Madrid vs Alaves • Spanyol: LaLiga | 02:30 WIB • 22/04/2026 otomatis masuk jadwal
