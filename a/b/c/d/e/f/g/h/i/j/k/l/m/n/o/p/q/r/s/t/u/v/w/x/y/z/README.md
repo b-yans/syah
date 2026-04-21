@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 17:17 WIB
+**Diperbarui pada:** 21-04-2026 17:22 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,8 +1393,8 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shastri FC 🆚 Garhwal Diamond🛡️|🛡️14:30 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wuhan Lianzhen 🆚 Yantai New Area🛡️|🛡️15:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Guangzhou Xingpai🛡️|🛡️15:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bangladesh Police Club 🆚 Bashundhara Kings🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Leixoes U23 🆚 Santa Clara U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farense U23 🆚 Estoril U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
