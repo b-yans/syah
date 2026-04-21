@@ -2,7 +2,7 @@ name: solar
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
   push:
     branches:
       - main
@@ -18,31 +18,31 @@ permissions:
 
 jobs:
   update-playlist:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
-      - name: 1.
+      - name: 1. Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 2.
+      - name: 2. Setup Python 3
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 3.
+      - name: 3. Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests cloudscraper
 
-      - name: 4.
+      - name: 4. Jalankan Script Pencocokan EPG
         run: |
           python imach.py
 
-      - name: 5.
+      - name: 5. Simpan Hasil M3U ke Repository
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "b-yansh[bot]@users.noreply.github.com"
           git config --local user.name "b-yansh"
           git add imach.pl README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-up: $(TZ='Asia/Jakarta' date +'%Y-%m-%d %H:%M:%S WIB')" && git push)
