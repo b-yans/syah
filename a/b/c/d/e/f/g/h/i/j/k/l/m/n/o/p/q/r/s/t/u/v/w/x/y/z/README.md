@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 01:57 WIB
+**Diperbarui pada:** 22-04-2026 02:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -26,10 +26,8 @@
 - ⚠️ **[FZ]** CA: SportsNet Ontario cocok [fz] (470571)
 - ⚠️ **[FZ]** CA: SportsNet West cocok [fz] (470443)
 - ⚠️ **[FZ]** CA: SportsNet World cocok [fz] (470920)
-- ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CL: TNT Sports 2 cocok [fz] (400480)
-- ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
@@ -47,7 +45,6 @@
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
-- ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
@@ -67,8 +64,6 @@
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
-- ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
-- ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
 - ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
@@ -87,7 +82,6 @@
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
-- ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NZ: Sky Sport 5 cocok [fz] (403249)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
@@ -115,7 +109,6 @@
 - ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
 - ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
-- ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fz] (6829)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
@@ -167,13 +160,11 @@
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
 - ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
-- ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** US: beIN Sports 7 cocok [fz] (532980)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
-- ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
@@ -330,10 +321,12 @@
 -  **[KS]** CAR: TVJ Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports 2 tidak cocok id epg
+-  **[KS]** CL: FOX SPORTS 1 tidak cocok id epg
 -  **[KS]** CL: TNT Sports Premium tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
+-  **[KS]** CO: FOX Sports 1 tidak cocok id epg
 -  **[KS]** CO: FOX Sports 3 tidak cocok id epg
 -  **[KS]** CO: Win Sports tidak cocok id epg
 -  **[KS]** CO: Win Sports+ tidak cocok id epg
@@ -356,6 +349,7 @@
 -  **[KS]** CZ: Eurosport 1 tidak cocok id epg
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 1 tidak cocok id epg
+-  **[KS]** CZ: Nova Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
 -  **[KS]** CZ: Sport 1 tidak cocok id epg
@@ -664,6 +658,8 @@
 -  **[KS]** GR: Eurosport 2 tidak cocok id epg
 -  **[KS]** GR: Nova Sports 1 tidak cocok id epg
 -  **[KS]** GR: Nova Sports 1 [vip] tidak cocok id epg
+-  **[KS]** GR: Nova sports 2 tidak cocok id epg
+-  **[KS]** GR: Nova sports 2 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports 3 tidak cocok id epg
 -  **[KS]** GR: Nova Sports 3 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports 4 tidak cocok id epg
@@ -841,6 +837,7 @@
 -  **[KS]** NL: Eurosport 1 tidak cocok id epg
 -  **[KS]** NL: Eurosport 2 tidak cocok id epg
 -  **[KS]** NL: Extreme Sports Channel tidak cocok id epg
+-  **[KS]** NL: Fox Sports 1 tidak cocok id epg
 -  **[KS]** NL: Ziggo Sport tidak cocok id epg
 -  **[KS]** NL: Ziggo Sport Docu (Ziggo Sport 5) tidak cocok id epg
 -  **[KS]** NL: Ziggo Sport Golf (Ziggo Sport 6) tidak cocok id epg
@@ -941,6 +938,7 @@
 -  **[KS]** RO: Antena Sport tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
+-  **[KS]** RO: Prima Sport 5 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
 -  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
@@ -1149,6 +1147,7 @@
 -  **[KS]** UK: TNT Sports 8 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
 -  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
+-  **[KS]** UK: Ginx eSports tidak cocok id epg
 -  **[KS]** UK: World Of FreeSports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports 1 tidak cocok id epg
@@ -1198,6 +1197,7 @@
 -  **[KS]** US: beIN Sports 8 tidak cocok id epg
 -  **[KS]** US: CBS Sports Network tidak cocok id epg
 -  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
+-  **[KS]** US: Fox Sports 1 tidak cocok id epg
 -  **[KS]** US: Fox Sports Detroit tidak cocok id epg
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
@@ -1390,54 +1390,54 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Diraiyah 🆚 Al-Raed SFC🛡️|🛡️22:55 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atomsfera Mazeikiai 🆚 FK Zalgiris Vilnius🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AL Salt 🆚 Al Wehdat🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ludogorets Razgrad 🆚 CSKA Sofia🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Horsens 🆚 Esbjerg🛡️|🛡️23:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Arabi SC(KSA) 🆚 Al Bukayriyah🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Batin 🆚 Al-Anwar Club🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Arabi SC(KSA) 🆚 Al Bukayriyah🛡️|🛡️23:05 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Tai 🆚 Abha🛡️|🛡️23:15 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arges 🆚 FC Universitatea Cluj🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rheindorf Altach 🆚 WSG Tirol🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Blau Weiss Linz 🆚 Wolfsberger AC🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Mina'a SC 🆚 Amanat Baghdad🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rheindorf Altach 🆚 WSG Tirol🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arges 🆚 FC Universitatea Cluj🛡️|🛡️23:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CSKA Moscow 🆚 FK Rostov🛡️|🛡️23:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hajduk Split 🆚 NK Osijek🛡️|🛡️23:45 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SG Barockstadt Fulda-Lehnerz 🆚 Hessen Kassel🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vilniaus Vytis 🆚 Banga Gargzdai🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RCD Mallorca 🆚 Valencia CF🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Braga U23 🆚 Academico Viseu U23🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orebro 🆚 IFK Norrkoping FK🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Freiburg II 🆚 Bahlinger🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 CA Osasuna🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC 08 Homburg 🆚 Eintracht Trier🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Astoria Walldorf 🆚 Bayern Alzenau🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mainz II 🆚 SV Sandhausen🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jelgava 🆚 FK Auda Riga🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Torpedo Kutaisi 🆚 Samgurali Tskh🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hvidovre IF 🆚 Kolding FC🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orn-Horten 🆚 FC Lyn Oslo B🛡️|🛡️00:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orn-Horten 🆚 FC Lyn Oslo B🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Freiburg II 🆚 Bahlinger🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Astoria Walldorf 🆚 Bayern Alzenau🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC 08 Homburg 🆚 Eintracht Trier🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Torpedo Kutaisi 🆚 Samgurali Tskh🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RCD Mallorca 🆚 Valencia CF🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hvidovre IF 🆚 Kolding FC🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orebro 🆚 IFK Norrkoping FK🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Braga U23 🆚 Academico Viseu U23🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SG Barockstadt Fulda-Lehnerz 🆚 Hessen Kassel🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vilniaus Vytis 🆚 Banga Gargzdai🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mainz II 🆚 SV Sandhausen🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jelgava 🆚 FK Auda Riga🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 CA Osasuna🛡️|🛡️00:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Konyaspor 🆚 Fenerbahce🛡️|🛡️00:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MFK Karvina 🆚 Banik Ostrava🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hillerod Fodbold 🆚 Lyngby🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigre Reserves 🆚 Defensa y Justicia Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes LP Reserves 🆚 Gimnasia LP Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rosario Central Reserves 🆚 Newell's Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigre Reserves 🆚 Defensa y Justicia Reserves🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hillerod Fodbold 🆚 Lyngby🛡️|🛡️01:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Ried 🆚 Grazer AK🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Racing Genk 🆚 RC Sporting Charleroi🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oud-Heverlee Leuven 🆚 KVC Westerlo🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Standard Liege 🆚 Royal Antwerp🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stevenage Borough 🆚 Barnsley🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oud-Heverlee Leuven 🆚 KVC Westerlo🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Ried 🆚 Grazer AK🛡️|🛡️01:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️West Bromwich Albion 🆚 Watford🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Norwich City 🆚 Derby County🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oxford United 🆚 Wrexham🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queens Park Rangers 🆚 Swansea City🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stoke City 🆚 Millwall🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Southampton 🆚 Bristol City🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dunfermline Athletic 🆚 Saint Johnstone🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Coventry City 🆚 Portsmouth🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stevenage Borough 🆚 Barnsley🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Hull City🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Southampton 🆚 Bristol City🛡️|🛡️01:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Milan 🆚 Como🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brighton Hove Albion 🆚 Chelsea🛡️|🛡️02:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Ath Bilbao vs Osasuna • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 otomatis masuk jadwal
-- ⚠️ **[EVENT]** Mallorca vs Valencia • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Ath Bilbao vs Osasuna • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** Mallorca vs Valencia • Spanyol: LaLiga | 00:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Konyaspor vs Fenerbahce • Turki: Piala Turki | 00:30 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
