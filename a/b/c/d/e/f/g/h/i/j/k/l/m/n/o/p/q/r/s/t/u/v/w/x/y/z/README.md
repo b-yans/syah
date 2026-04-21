@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 20:08 WIB
+**Diperbarui pada:** 21-04-2026 20:14 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,19 +1390,20 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sudeva Delhi 🆚 GMSC🛡️|🛡️17:30 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sigma Olomouc U19 🆚 Mlada Boleslav U19🛡️|🛡️18:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City 🆚 Beijing Guoan🛡️|🛡️18:00 21/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns 🆚 Zhejiang Professional FC🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Chongqing Tonglianglong🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger 🆚 Shandong Taishan🛡️|🛡️19:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Karbi Anglong 🆚 FC Bengaluru United🛡️|🛡️19:30 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Olympic MobiUz 🆚 Respublika FA🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Tauras Taurage 🆚 Hegelmann Litauen🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Juventus SP 🆚 CA Votuporanguense SP🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Famalicao U23 🆚 Torreense U23🛡️|🛡️20:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Rd32 (Crt 2) • Yonex All England Open Badminton Championships 2026 | 15:30 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[BASI]** Gimcheon Sangmu vs Gangwon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 diblokir (KADALUARSA)
