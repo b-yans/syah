@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 18:23 WIB
+**Diperbarui pada:** 21-04-2026 18:28 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1406,7 +1406,7 @@
 - ⚠️ **[EVENT]** Gimcheon Sangmu vs Gangwon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Jeonbuk vs Incheon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Seoul vs Bucheon FC 1995 • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
-- ⚠️ **[EVENT]** [21 Apr 2026 16:25 WIB] otomatis masuk jadwal
+- ⚠️ **[BASI]** [21 Apr 2026 16:25 WIB] diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
