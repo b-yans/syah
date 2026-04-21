@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 21-04-2026 18:34 WIB
+**Diperbarui pada:** 21-04-2026 18:40 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1394,13 +1394,14 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bangladesh Police Club 🆚 Bashundhara Kings🛡️|🛡️15:45 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farense U23 🆚 Estoril U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Leixoes U23 🆚 Santa Clara U23🛡️|🛡️17:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Football Club Seoul 🆚 Bucheon FC 1995🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Incheon United Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimcheon Sangmu Football Club 🆚 Gangwon Football Club🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sudeva Delhi 🆚 GMSC🛡️|🛡️17:30 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City 🆚 Beijing Guoan🛡️|🛡️18:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sigma Olomouc U19 🆚 Mlada Boleslav U19🛡️|🛡️18:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City 🆚 Beijing Guoan🛡️|🛡️18:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns 🆚 Zhejiang Professional FC🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Yunnan Yukun🛡️|🛡️18:35 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Rd32 (Crt 2) • Yonex All England Open Badminton Championships 2026 | 15:30 WIB • 21/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Gimcheon Sangmu vs Gangwon • Korea Selatan: K League 1 | 17:30 WIB • 21/04/2026 otomatis masuk jadwal
