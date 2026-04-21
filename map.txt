@@ -44,7 +44,7 @@ conference league = uecl, uefa conference league
 uefa nations league = unl
 
 [LEAGUES_ASIA_INDO]
-liga 1 = bri, bri liga 1, liga indonesia, liga 1 indonesia
+liga 1 = bri, bri liga 1, liga indonesia, liga 1 indonesia, indosiar
 liga 2 = pegadaian liga 2, liga 2 indonesia
 piala presiden = pilpres, piala presiden indonesia
 afc champions league = acl, afc champions, liga champions asia

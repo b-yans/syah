@@ -27,7 +27,7 @@ EPG_URLS = [
 ]
 
 MAP_URL = "https://raw.githubusercontent.com/b-yans/syah/main/map.txt"
-OUTPUT_FILE = "imach.pl"
+OUTPUT_FILE = "a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/imach.pl"
 LINK_STANDBY = "https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php" 
 LINK_UPCOMING = "https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php" 
 
@@ -429,12 +429,12 @@ for url in M3U_URLS:
                             keranjang_match[key]["links"].append({"prio": 1, "data": [inf, f"{LINK_UPCOMING}?m={key}"]})
                     
                     if punya_jadwal:
-                        if metode == "FUZZY": audit_m3u[provider_name].append(f"⚠️ **[FZ]** {m3u_name} cocok [fuzzy] ({id_epg_terpilih})")
-                        else: audit_m3u[provider_name].append(f"⚠️ **[EX]** {m3u_name} cocok ({id_epg_terpilih})")
+                        if metode == "FUZZY": audit_m3u[provider_name].append(f"⚠️ **[FUZZY]** {m3u_name} cocok [fuzzy] ({id_epg_terpilih})")
+                        else: audit_m3u[provider_name].append(f"⚠️ **[EXACT]** {m3u_name} cocok ({id_epg_terpilih})")
                     else:
-                        audit_m3u[provider_name].append(f" **[KS]** {m3u_name} tidak ada jadwal target")
+                        audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak ada jadwal target")
                 else:
-                    audit_m3u[provider_name].append(f" **[KS]** {m3u_name} tidak cocok id epg")
+                    audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak cocok id epg")
                     
     except Exception as e:
         print(f"Error memproses M3U {url}: {e}")
