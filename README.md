@@ -1,5 +1,5 @@
 # LAPORAN AUDI CH
-**Diperbarui pada:** 21-04-2026 16:18 WIB
+**Diperbarui pada:** 21-04-2026 16:23 WIB
 
 ### 📁 IMACH.OY
 - ⚠️ **[FUZZY]** AL: Arena Sport 1 cocok [fuzzy] (381850)
@@ -1394,8 +1394,8 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shastri FC 🆚 Garhwal Diamond🛡️|🛡️14:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Guangzhou Xingpai🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Lianzhen 🆚 Yantai New Area🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bangladesh Police Club 🆚 Bashundhara Kings🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FUZZY]** FIGHT SPORTS+ cocok [fuzzy] (7232)
 - ⚠️ **[EVENT]** [21 Apr 2026 16:25 WIB] otomatis masuk jadwal
