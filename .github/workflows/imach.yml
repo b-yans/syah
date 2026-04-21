@@ -2,20 +2,20 @@ name: solar
 
 on:
   schedule:
-    # Berjalan otomatis setiap 10 menit
+  
     - cron: '*/5 * * * *'
   push:
     branches:
       - main
       - master
-    # Mencegah infinite loop (action berjalan berulang kali saat file M3U di-push oleh bot)
+      
     paths-ignore:
       - '*.m3u'
       - '*.m3u8'
-  # Memungkinkan Anda menjalankan script secara manual via tombol "Run workflow" di tab Actions
+      
   workflow_dispatch:
 
-# MEMBERIKAN IZIN OTOMATIS KEPADA BOT UNTUK MENYIMPAN FILE (Wajib ada!)
+
 permissions:
   contents: write
 
@@ -40,14 +40,14 @@ jobs:
           pip install requests cloudscraper
 
       - name: 4. Jalankan Script Pencocokan EPG
-        # Pastikan nama file python di bawah ini sesuai dengan yang ada di repository Bosku
+      
         run: |
           python imach.py
 
       - name: 5. Simpan Hasil M3U ke Repository
-        # Menambahkan zona waktu Jakarta (WIB) agar jam log riwayatnya pas
+      
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "b-yansh"
-          git add imach.pl README.md playlist_termapping.m3u laporan_rumus.txt laporan_channel_m3u.txt
+          git add imach.pl README.md laporan_rumus.txt laporan_channel_m3u.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-up: $(TZ='Asia/Jakarta' date +'%Y-%m-%d %H:%M:%S WIB')" && git push)
