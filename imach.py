@@ -20,6 +20,9 @@ M3U_URLS = [
 EPG_URLS = [
     "https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_ALL_SPORTS.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz",
+    "https://iptv-epg.org/files/epg-id.xml",
+    "https://iptv-epg.org/files/epg-my.xml",
     "https://epg.pw/xmltv/epg.xml.gz"
 ]
 
@@ -361,9 +364,9 @@ for url in M3U_URLS:
                             inf = f'#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="{orig_logo}", {judul}'
                             keranjang_match[key]["links"].append({"prio": 0, "data": [inf, f"{LINK_UPCOMING}?m={key}"]})
                         
-                        audit_m3u[provider_name].append(f"🟣 **[EVENT]** {m3u_name} otomatis masuk jadwal")
+                        audit_m3u[provider_name].append(f"⚠️ **[EVENT]** {m3u_name} otomatis masuk jadwal")
                     else:
-                        audit_m3u[provider_name].append(f"🟤 **[BASI]** {m3u_name} diblokir (KADALUARSA)")
+                        audit_m3u[provider_name].append(f"⚠️ **[BASI]** {m3u_name} diblokir (KADALUARSA)")
                     continue
 
                 tvg_id_match = re.search(r'tvg-id="([^"]*)"', raw_attrs)
@@ -426,12 +429,12 @@ for url in M3U_URLS:
                             keranjang_match[key]["links"].append({"prio": 1, "data": [inf, f"{LINK_UPCOMING}?m={key}"]})
                     
                     if punya_jadwal:
-                        if metode == "FUZZY": audit_m3u[provider_name].append(f"🟡 **[FUZZY]** {m3u_name} cocok [fuzzy] ({id_epg_terpilih})")
-                        else: audit_m3u[provider_name].append(f"🟢 **[EXACT]** {m3u_name} cocok ({id_epg_terpilih})")
+                        if metode == "FUZZY": audit_m3u[provider_name].append(f"⚠️ **[FZ]** {m3u_name} cocok [fuzzy] ({id_epg_terpilih})")
+                        else: audit_m3u[provider_name].append(f"⚠️ **[EX]** {m3u_name} cocok ({id_epg_terpilih})")
                     else:
-                        audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak ada jadwal target")
+                        audit_m3u[provider_name].append(f" **[KS]** {m3u_name} tidak ada jadwal target")
                 else:
-                    audit_m3u[provider_name].append(f" **[KOSONG]** {m3u_name} tidak cocok id epg")
+                    audit_m3u[provider_name].append(f" **[KS]** {m3u_name} tidak cocok id epg")
                     
     except Exception as e:
         print(f"Error memproses M3U {url}: {e}")
@@ -470,16 +473,16 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("\n".join(it["data"]) + "\n")
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write("# LAPORAN AUDI CH SPORTS\n")
+    f.write("# LAPORAN AUDI CH\n")
     f.write(f"**Diperbarui pada:** {now_wib.strftime('%d-%m-%Y %H:%M WIB')}\n\n")
     
     for provider, laporan in audit_m3u.items():
-        f.write(f"### 📁 SUMBER: {provider}\n")
+        f.write(f"### 📁 {provider}\n")
         
         if not laporan:
-            f.write("- ⚪ Tidak ada channel olahraga target atau link mati.\n")
+            f.write("- ⚠️ Tidak ada channel olahraga target atau link mati.\n")
         else:
-            laporan_sorted = sorted(laporan, key=lambda x: 0 if "🟢" in x or "🟡" in x or "🟣" in x else 1)
+            laporan_sorted = sorted(laporan, key=lambda x: 0 if "⚠️" in x or "⚠️" in x or "⚠️" in x else 1)
             for baris in laporan_sorted:
                 f.write(f"- {baris}\n")
         f.write("\n---\n\n")
