@@ -1,5 +1,5 @@
 # LAPORAN AUDI CH
-**Diperbarui pada:** 21-04-2026 15:41 WIB
+**Diperbarui pada:** 21-04-2026 16:08 WIB
 
 ### 📁 IMACH.OY
 - ⚠️ **[FUZZY]** AL: Arena Sport 1 cocok [fuzzy] (381850)
@@ -8,7 +8,6 @@
 - ⚠️ **[FUZZY]** AL: Arena Sport 5 cocok [fuzzy] (381854)
 - ⚠️ **[FUZZY]** AU: Fox Sports 506 cocok [fuzzy] (537794)
 - ⚠️ **[FUZZY]** AU: Sky Sport 4 cocok [fuzzy] (403248)
-- ⚠️ **[FUZZY]** AT: Sky Sport Austria 8 [SPIELTAG] [VIP] cocok [fuzzy] (438448)
 - ⚠️ **[FUZZY]** BE: Eleven Sports 1 cocok [fuzzy] (6338)
 - ⚠️ **[FUZZY]** BE: Eleven Sports 2 cocok [fuzzy] (6340)
 - ⚠️ **[FUZZY]** BE: Eleven Sports 3 cocok [fuzzy] (6339)
@@ -149,7 +148,6 @@
 - ⚠️ **[FUZZY]** SI: Sport Klub 4 cocok [fuzzy] (497489)
 - ⚠️ **[FUZZY]** SI: Sport Klub 5 cocok [fuzzy] (497507)
 - ⚠️ **[FUZZY]** SI: SPORT TV 2 cocok [fuzzy] (444123)
-- ⚠️ **[FUZZY]** ZA: SuperSport Football cocok [fuzzy] (463676)
 - ⚠️ **[FUZZY]** ZA: CANAL+ Premier League cocok [fuzzy] (430106)
 - ⚠️ **[FUZZY]** ZA: CANAL+ Sport 2 cocok [fuzzy] (407672)
 - ⚠️ **[FUZZY]** ZA: CANAL+ Sport 360 cocok [fuzzy] (516373)
@@ -165,6 +163,7 @@
 - ⚠️ **[FUZZY]** SE: V Sport Golf cocok [fuzzy] (68311)
 - ⚠️ **[FUZZY]** SE: V Sport Premium cocok [fuzzy] (537119)
 - ⚠️ **[FUZZY]** CH: MySports 1 cocok [fuzzy] (76707)
+- ⚠️ **[FUZZY]** CH: V Sport Live 1 cocok [fuzzy] (12160)
 - ⚠️ **[FUZZY]** CH: V Sport Live 2 cocok [fuzzy] (407559)
 - ⚠️ **[FUZZY]** CH: V Sport Live 3 cocok [fuzzy] (407581)
 - ⚠️ **[FUZZY]** TR: beIN Sports Haber cocok [fuzzy] (522582)
@@ -301,6 +300,7 @@
 -  **[KOSONG]** AT: Sky Sport Austria 6 tidak cocok id epg
 -  **[KOSONG]** AT: Sky Sport Austria 6 [SPIELTAG] [VIP] tidak cocok id epg
 -  **[KOSONG]** AT: Sky Sport Austria 7 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KOSONG]** AT: Sky Sport Austria 8 [SPIELTAG] [VIP] tidak cocok id epg
 -  **[KOSONG]** AZ: CBC Sport tidak cocok id epg
 -  **[KOSONG]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KOSONG]** BH: Bahrain Sports 2 tidak cocok id epg
@@ -978,6 +978,7 @@
 -  **[KOSONG]** SI: Sport Klub Golf tidak cocok id epg
 -  **[KOSONG]** SI: SPORT TV 1 tidak cocok id epg
 -  **[KOSONG]** SI: SPORT TV 3 tidak cocok id epg
+-  **[KOSONG]** ZA: SuperSport Football tidak cocok id epg
 -  **[KOSONG]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KOSONG]** ZA: Canal+ MotoGP tidak cocok id epg
 -  **[KOSONG]** ZA: CANAL+ Sport tidak cocok id epg
@@ -1053,7 +1054,6 @@
 -  **[KOSONG]** CH: MySports 8 tidak cocok id epg
 -  **[KOSONG]** CH: MySports 9 tidak cocok id epg
 -  **[KOSONG]** CH: MySports EDGE [vip] tidak cocok id epg
--  **[KOSONG]** CH: V Sport Live 1 tidak cocok id epg
 -  **[KOSONG]** TH: True Premiere Football 1 tidak cocok id epg
 -  **[KOSONG]** TH: True Premiere Football 3 tidak cocok id epg
 -  **[KOSONG]** TH: True Premiere Football 4 tidak cocok id epg
@@ -1390,9 +1390,13 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️South Melbourne 🆚 Tahiti United FC🛡️|🛡️14:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️South Melbourne 🆚 Tahiti United FC🛡️|🛡️14:00 21/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shastri FC 🆚 Garhwal Diamond🛡️|🛡️14:30 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Guangzhou Xingpai🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Lianzhen 🆚 Yantai New Area🛡️|🛡️15:00 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Mohammedan Dhaka🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bangladesh Police Club 🆚 Bashundhara Kings🛡️|🛡️15:45 21/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Criacao Shinjuku 🆚 Iwate Grulla Morioka🛡️|🛡️16:00 21/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FUZZY]** FIGHT SPORTS+ cocok [fuzzy] (7232)
 - ⚠️ **[EVENT]** [21 Apr 2026 16:25 WIB] otomatis masuk jadwal
 -  **[KOSONG]** Indosiar tidak cocok id epg
