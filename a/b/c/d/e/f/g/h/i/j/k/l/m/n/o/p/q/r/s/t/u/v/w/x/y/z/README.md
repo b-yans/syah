@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 19:26 WIB
+**Diperbarui pada:** 22-04-2026 19:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -29,7 +29,6 @@
 - ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** CO: FOX Sports 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** HR: Arena Sport 10 cocok [fz] (410630)
 - ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
@@ -61,7 +60,6 @@
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
-- ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
@@ -78,10 +76,8 @@
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** LA: FOX Sports 3 cocok [fz] (431616)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** MX: Fox Sports 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
@@ -134,7 +130,6 @@
 - ⚠️ **[FZ]** ES: DAZN LaLiga 2 cocok [fz] (406530)
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
-- ⚠️ **[FZ]** ES: FOX SPORTS 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** SE: V Sport Football cocok [fz] (537102)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
 - ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
@@ -176,7 +171,6 @@
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** VE: Fox Sports 3 cocok [fz] (431616)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -326,6 +320,7 @@
 -  **[KS]** CO: DirecTV Sports tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
+-  **[KS]** CO: FOX Sports 3 tidak cocok id epg
 -  **[KS]** CO: Win Sports tidak cocok id epg
 -  **[KS]** CO: Win Sports+ tidak cocok id epg
 -  **[KS]** CR: Tigo Sports tidak cocok id epg
@@ -717,6 +712,7 @@
 -  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
 -  **[KS]** HK: Now Sports 1 tidak cocok id epg
+-  **[KS]** HK: Now Sports 2 tidak cocok id epg
 -  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 4 tidak cocok id epg
 -  **[KS]** HK: Now Sports 6 tidak cocok id epg
@@ -807,6 +803,7 @@
 -  **[KS]** LA: DirecTV Sports tidak cocok id epg
 -  **[KS]** LA: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** LA: FOX Sports tidak cocok id epg
+-  **[KS]** LA: FOX Sports 3 tidak cocok id epg
 -  **[KS]** LA: Fox Sports Premium tidak cocok id epg
 -  **[KS]** LA: Golden Premier tidak cocok id epg
 -  **[KS]** LA: Golden Premier 2 tidak cocok id epg
@@ -831,6 +828,7 @@
 -  **[KS]** MX: Claro Sports tidak cocok id epg
 -  **[KS]** MX: Claro Sports 2 tidak cocok id epg
 -  **[KS]** MX: Fox Sports tidak cocok id epg
+-  **[KS]** MX: Fox Sports 3 tidak cocok id epg
 -  **[KS]** MX: Golden Premier tidak cocok id epg
 -  **[KS]** NL: Eurosport 1 tidak cocok id epg
 -  **[KS]** NL: Eurosport 2 tidak cocok id epg
@@ -1014,6 +1012,7 @@
 -  **[KS]** ES: Esport 3 tidak cocok id epg
 -  **[KS]** ES: Eurosport 1 tidak cocok id epg
 -  **[KS]** ES: Eurosport 2 tidak cocok id epg
+-  **[KS]** ES: FOX SPORTS 3 tidak cocok id epg
 -  **[KS]** SUR: DirecTV Sports tidak cocok id epg
 -  **[KS]** SUR: TyC Sports tidak cocok id epg
 -  **[KS]** SE: Eurosport 1 tidak cocok id epg
@@ -1245,6 +1244,7 @@
 -  **[KS]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
 -  **[KS]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
 -  **[KS]** VE: DirecTV Sports tidak cocok id epg
+-  **[KS]** VE: Fox Sports 3 tidak cocok id epg
 -  **[KS]** AL: Arctic (2018) tidak cocok id epg
 -  **[KS]** AL: Arctic Dogs (2019) tidak cocok id epg
 -  **[KS]** AL: Being Flynn (2012) tidak cocok id epg
@@ -1393,9 +1393,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️BRTC Sports Club 🆚 Khelaghar Samaj Kalyan Samiti🛡️|🛡️16:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Khoromkhon FC 🆚 Hunters FC🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sejong Sportstoto WFC 🆚 Suwon FC Women🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vatika FC 🆚 Royal Rangers FC🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pohang Steelers 🆚 Gwangju Football Club🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vatika FC 🆚 Royal Rangers FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Pohang Steelers 🆚 Gwangju Football Club🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Darwin Hearts 🆚 Casuarina FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Subiaco AFC 🆚 Quinns FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
