@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 09:25 WIB
+**Diperbarui pada:** 22-04-2026 09:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -31,6 +31,7 @@
 - ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CO: FOX Sports 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
+- ⚠️ **[FZ]** HR: Arena Sport 10 cocok [fz] (410630)
 - ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** HR: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** HR: Arena Sport 4 cocok [fz] (381853)
@@ -47,6 +48,7 @@
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
+- ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
@@ -71,7 +73,6 @@
 - ⚠️ **[FZ]** GR: Cosmote Sport 4 cocok [fz] (476565)
 - ⚠️ **[FZ]** GR: Cosmote Sport 4 [vip] cocok [fz] (476565)
 - ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
-- ⚠️ **[FZ]** HK: Now Sports 3 cocok [fz] (532233)
 - ⚠️ **[FZ]** HK: Now Sports 4 cocok [fz] (532220)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
@@ -103,6 +104,7 @@
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
+- ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
 - ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** QA: beIN Sports 7 cocok [fz] (532980)
@@ -161,6 +163,7 @@
 - ⚠️ **[FZ]** SE: V Sport Football cocok [fz] (537102)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
 - ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
+- ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
@@ -352,7 +355,6 @@
 -  **[KS]** CO: Win Sports tidak cocok id epg
 -  **[KS]** CO: Win Sports+ tidak cocok id epg
 -  **[KS]** CR: Tigo Sports tidak cocok id epg
--  **[KS]** HR: Arena Sport 10 tidak cocok id epg
 -  **[KS]** HR: Max Sport 1 tidak cocok id epg
 -  **[KS]** HR: Max Sport 2 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 1 tidak cocok id epg
@@ -385,7 +387,6 @@
 -  **[KS]** DK: TV 2 Sport tidak cocok id epg
 -  **[KS]** DK: TV 2 Sport X tidak cocok id epg
 -  **[KS]** DK: TV 3 Sport tidak cocok id epg
--  **[KS]** DK: V Sport Golf tidak cocok id epg
 -  **[KS]** DK: V Sport Ultra tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
@@ -731,6 +732,7 @@
 -  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
 -  **[KS]** HK: Now Sports 1 tidak cocok id epg
+-  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 6 tidak cocok id epg
 -  **[KS]** HK: Now Sports 7 tidak cocok id epg
 -  **[KS]** HK: Now Sports PL 1 tidak cocok id epg
@@ -868,7 +870,6 @@
 -  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
 -  **[KS]** NO: V Sport + tidak cocok id epg
 -  **[KS]** NO: V Sport 1 tidak cocok id epg
--  **[KS]** NO: V Sport Golf tidak cocok id epg
 -  **[KS]** OM: Oman TV Sport tidak cocok id epg
 -  **[KS]** PK: A Sports tidak cocok id epg
 -  **[KS]** PK: PTV Sports tidak cocok id epg
@@ -1021,7 +1022,6 @@
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
--  **[KS]** SE: V Sport Golf tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
 -  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
@@ -1390,10 +1390,10 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Paysandu Para 🆚 Vasco da Gama Saf - RJ🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC San Nicolas 🆚 SV Caravel🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tecnico Universitario 🆚 Club Sport Emelec🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Corinthians - SP🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Paysandu Para 🆚 Vasco da Gama Saf - RJ🛡️|🛡️07:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC San Nicolas 🆚 SV Caravel🛡️|🛡️07:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tecnico Universitario 🆚 Club Sport Emelec🛡️|🛡️07:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Corinthians - SP🛡️|🛡️07:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pumas U.N.A.M. 🆚 FC Juarez🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queretaro FC 🆚 Cruz Azul🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Andrew Lions 🆚 Wotton FC🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1401,7 +1401,7 @@
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[BASI]** San Antonio Spurs vs Portland Trail Blazers • National Basketball Association | 07:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** San Nicolas vs SV Caravel • Aruba: Division di Honor | 07:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** San Nicolas vs SV Caravel • Aruba: Division di Honor | 07:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Queretaro vs Cruz Azul • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** U.N.A.M.- Pumas vs Juarez • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
