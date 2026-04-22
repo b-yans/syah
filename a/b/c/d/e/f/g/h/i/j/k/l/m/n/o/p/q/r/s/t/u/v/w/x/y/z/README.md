@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 15:18 WIB
+**Diperbarui pada:** 22-04-2026 15:23 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -192,14 +192,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
@@ -1392,6 +1392,9 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
