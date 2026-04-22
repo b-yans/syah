@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 02:16 WIB
+**Diperbarui pada:** 23-04-2026 02:21 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -68,6 +68,9 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
+- ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
+- ⚠️ **[FZ]** ID: MNC TV cocok [fz] (MNCTV.id)
+- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
@@ -718,15 +721,12 @@
 -  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 3 tidak cocok id epg
--  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
--  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: RCTI tidak cocok id epg
 -  **[KS]** ID: SCTV tidak cocok id epg
 -  **[KS]** ID: SpoTV tidak cocok id epg
--  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
 -  **[KS]** IR: Persiana Sports tidak cocok id epg
