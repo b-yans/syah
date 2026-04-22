@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 03:39 WIB
+**Diperbarui pada:** 23-04-2026 03:44 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,42 +1390,42 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Differdange 03 🆚 Racing Union Luxemburg🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Godoy Cruz Reserves 🆚 San Martin de San Juan Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Banfield Reserves 🆚 Lanus Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quilmes Reserves 🆚 CA Aldosivi Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Telstar 🆚 Sparta Rotterdam🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Sociedad 🆚 Getafe🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Akranes 🆚 KA Akureyri🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Viborg 🆚 Brondby IF🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferro Carril Oeste Reserves 🆚 Velez Sarsfield Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Alianza Atletico Sullana🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Rafaela Reserves 🆚 Sarmiento Junin Reserve🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Smouha SC 🆚 Ceramica Cleopatra FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️US Feulen 🆚 Victoria Rosport🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fola Esch 🆚 Rodange 91🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atert Bissen 🆚 Progres Niedercorn🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferencvarosi TC 🆚 Győri ETO FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Alianza Atletico Sullana🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quilmes Reserves 🆚 CA Aldosivi Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Differdange 03 🆚 Racing Union Luxemburg🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Telstar 🆚 Sparta Rotterdam🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Santa Fe Reserves 🆚 Colon Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Viborg 🆚 Brondby IF🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️US Feulen 🆚 Victoria Rosport🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Banfield Reserves 🆚 Lanus Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Sociedad 🆚 Getafe🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferencvarosi TC 🆚 Győri ETO FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atert Bissen 🆚 Progres Niedercorn🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Rafaela Reserves 🆚 Sarmiento Junin Reserve🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferro Carril Oeste Reserves 🆚 Velez Sarsfield Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Akranes 🆚 KA Akureyri🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fola Esch 🆚 Rodange 91🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Delfin SC 🆚 Independiente del Valle🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Godoy Cruz Reserves 🆚 San Martin de San Juan Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Istra 1961 🆚 Dinamo Zagreb🛡️|🛡️01:15 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Numia Vero Volley Milano Women 🆚 Imoco Volley Conegliano Women🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayer 04 Leverkusen 🆚 FC Bayern Munich🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cardiff City 🆚 Port Vale🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birmingham City 🆚 Preston North End🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlton Athletic 🆚 Ipswich Town🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birmingham City 🆚 Preston North End🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayer 04 Leverkusen 🆚 FC Bayern Munich🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayer 04 Leverkusen 🆚 FC Bayern Munich🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Sheffield Wednesday🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bournemouth AFC 🆚 Leeds United🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cardiff City 🆚 Port Vale🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Burnley 🆚 Manchester City🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bournemouth AFC 🆚 Leeds United🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Barcelona 🆚 RC Celta🛡️|🛡️02:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Sporting Cristal🛡️|🛡️03:15 23/04/2026🛡️ otomatis masuk jadwal

@@ -30,44 +30,44 @@ http://eyay.gw.lt:80///kontol8/308118
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6686.drm|1777495168
-https://maling.pl/6686.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6686.drm|1777495487
+https://maling.pl/6686.mpd|1777495487
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/JkhgO7kB-pblFqjzmy9vlJJt_UQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022003/02034b.jpg", ⚠️  01:45-03:45 WIB - 23/04/26 Charlton Athletic vs Ipswich - EFL Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6686.drm|1777495168
-https://bostv.maling.pl/6686.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6686.drm|1777495487
+https://bostv.maling.pl/6686.mpd|1777495487
 #EXTINF:-1 tvg-uid="a9c83b5a5d4e6568e19cd90e38e6ba6a" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/wjrnk57tebl63z.png", ⚠️  01:45-03:45 WIB - ) Charlton Athletic vs Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/2/chunks.m3u8?is_vip=true&token=dara-rhxt9of9&x-sign=2be9bfe9528d59f4016a2dfe1232de0f&x-time=1776890220
+https://livecdn-bp-dara.maypn.stream/stream/2/chunks.m3u8?is_vip=true&token=dara-6l1idtko&x-sign=663e33f4647ac6b420537278dae68ef2&x-time=1776890520
 #EXTINF:-1 tvg-uid="6e83cead98d59c083f647b28b0a4b617" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghedzq82w/image/small", ⚠️  01:45-03:45 WIB - CHARLTON ATHLETIC VS IPSWICH TOWN
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=0e1f19c514689d0942665696b7beef74&wsABSTime=1776933345
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=370558a2d56911408ac1e8b23b8dc768&wsABSTime=1776933645
 #EXTINF:-1 tvg-uid="391ed3b0e72d26c7e9937c87065b9f61" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/4oybxlbge4w78s.png", ⚠️  01:45-03:45 WIB - ) Bayer Leverkusen vs Bayern Munich
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112521_hd/index.m3u8?is_vip=true&token=dara-0yius8ge&x-sign=2683dbb22b541a36f55c1ba37486d436&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112521_hd/index.m3u8?is_vip=true&token=dara-sf494jvc&x-sign=7075973c5df5a0a0a9033711ca4e5b1b&x-time=1776890520
 #EXTINF:-1 tvg-uid="f38370bf16843b696b11665d51d7aebd" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small", ⚠️  01:45-03:45 WIB - BAYER LEVERKUSEN VS BAYERN MUNICH
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=e97cf0baf0ee66fd6fdfefa0d145d098&wsABSTime=1776933342
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=1e9c7fff62861d40b1965353564590fe&wsABSTime=1776933642
 #EXTINF:-1 tvg-uid="53cb26b812a49236d1d9db23f027178e" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjx1q0j6/image/small", ⚠️  01:45-03:45 WIB - SHEFFIELD UNITED VS BLACKBURN ROVERS
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=949e3445c84317d1df4a0b05c97233b1&wsABSTime=1776933345
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=799c037284c2049f065b71fef585476d&wsABSTime=1776933645
 #EXTINF:-1 tvg-uid="41ffc2ae8639fba08d2965c135d4500c" data-source="AXSPORTS Event" tvg-timestamp="1776883500" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20VS%20Ipswich%20%20Championship%20%5BServer%201%5D.jpg", ⚠️  01:45-03:45 WIB - ]  Charlton vs Ipswich
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -84,14 +84,6 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/112521_hd/index.m3u8?is_vip=false&
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz/
 https://mainstreams.pro/hls/ueyeztrazb4.m3u8?st=e67Fji4irV_jyAPoxmEAnBRYLyD6miiwtENHjxKaEQM&e=1776897895
-#EXTINF:-1 tvg-expire="1776901500" tvg-start="1776883500" tvg-uid="81cf76ae88f8f19d3652f4d512ddbcf2" data-source="khandai nguyenn" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/66fe7f8f436a2c7b27e21e2bd4a4ffe7/image/small?v=1768601124", ⚠️  01:45-03:45 WIB - ]   Bayer 04 Leverkusen vs FC Bayern Munich
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/truc-tiep/bayer-04-leverkusen-vs-fc-bayern-munich-318q66hxx3y5qo9
-#EXTVLCOPT:http-origin=https://khandaia2.me
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/truc-tiep/bayer-04-leverkusen-vs-fc-bayern-munich-318q66hxx3y5qo9
-#EXTVLCOPT:http-origin=https://khandaia2.me/truc-tiep/bayer-04-leverkusen-vs-fc-bayern-munich-318q66hxx3y5qo9
-https://live.alilicloud.com/live/9251e9ad62d505072d2b28bf25896fed/playlist.m3u8
 #EXTINF:-1 tvg-uid="15a4255e3c8a4bb76f87545b9260e2ba" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80", ⚠️  01:45-03:45 WIB - ) Bayer 04 Leverkusen vs Bayern München
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -102,12 +94,12 @@ https://live5.msrktz.app/live/43612277.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/66fe7f8f436a2c7b27e21e2bd4a4ffe7/image/small?v=1768601124", ⚠️  01:45-03:45 WIB - 23/04/2026🛡️
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/5a48a7936127dabcee8e5e031da4f469/image/small?v=1768601124", ⚠️  01:45-03:45 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 #EXTVLCOPT:http-origin=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/3817acace7d14568922399844f5e6d68/index.m3u8
+https://live.alilicloud.com/live/1105828bb5b36d993d160006c80c3171/playlist.m3u8
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/96ce98887ba768b92c19161f06397552/image/small?v=1768601124", ⚠️  01:45-03:45 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -121,15 +113,15 @@ http://eyay.gw.lt:80///kontol8/6275
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18796.drm|1777495168
-https://maling.pl/18796.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18796.drm|1777495487
+https://maling.pl/18796.mpd|1777495487
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/qUU4L3uDMOLXrgtdpHDJJLXHIB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021457/84ed9b.jpg", ⚠️  01:50-03:50 WIB - 23/04/26 Bournemouth vs Leeds United - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18796.drm|1777495168
-https://bostv.maling.pl/18796.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18796.drm|1777495487
+https://bostv.maling.pl/18796.mpd|1777495487
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381850" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png", ⚠️  02:00-04:00 WIB - Aston Villa – Sunderland. Sepakbola. Liga Inggris [AL: Arena Sport 1]
 http://eyay.gw.lt:80///kontol8/193741
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381850" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7080764e6e3bb36c4c2cf7018076670a.png", ⚠️  02:00-04:00 WIB - Aston Villa – Sunderland. Sepakbola. Liga Inggris [BIH: Arena Sport 1]
@@ -152,19 +144,19 @@ http://eyay.gw.lt:80///kontol8/71459
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144256_hd/index.m3u8?is_vip=true&token=dara-9lnklnfs&x-sign=bf1efad1b235c2568d0df7f720c47031&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144256_hd/index.m3u8?is_vip=true&token=dara-qt6i4lc7&x-sign=f48cf8827933c080550a8d3f15e2cc25&x-time=1776890520
 #EXTINF:-1 tvg-uid="7d65affb64257ea4ecc45c3510adde14" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small", ⚠️  02:00-04:00 WIB - AFC BOURNEMOUTH VS LEEDS UNITED
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=601fb4cda3801de7ad72b4ef270b778f&wsABSTime=1776933343
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=650fe15cf1628be08d4763fd3562d0f5&wsABSTime=1776933643
 #EXTINF:-1 tvg-uid="def1b99df011ff8754a642de28032bef" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/wfqsgk7c7g9kri.png", ⚠️  02:00-04:00 WIB - ) Atalanta vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/1/chunks.m3u8?is_vip=true&token=dara-xufk9jjb&x-sign=ce33cf37e698d7a82cda1c047070ba59&x-time=1776890220
+https://livecdn-bp-dara.maypn.stream/stream/1/chunks.m3u8?is_vip=true&token=dara-r9f3qlez&x-sign=826523f4d54b0c7e3cac5d018f219865&x-time=1776890520
 #EXTINF:-1 tvg-uid="5e3954a230fba697185c7c1118a0a692" data-source="AXSPORTS Event" tvg-timestamp="1776884400" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atalanta%20VS%20Lazio%20%20Coppa%20Italia%20%5BServer%201%5D.jpg", ⚠️  02:00-04:00 WIB - ]  Atalanta vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -177,7 +169,7 @@ https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&tok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/450_hd/index.m3u8?is_vip=true&token=dara-itefgywe&x-sign=48873ab3ad19b2433261afb8215a185b&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/450_hd/index.m3u8?is_vip=true&token=dara-aiwnqubb&x-sign=871194f65c2a2fde8e4ab68e8b4d3d08&x-time=1776890520
 #EXTINF:-1 tvg-uid="8820ae8880a8fc86bb1652a0f50fdb71" data-source="AXSPORTS Event" tvg-timestamp="1776884400" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Nice%20%20Coupe%20de%20France%20%5BServer%201%5D.jpg", ⚠️  02:00-04:00 WIB - ]  Strasbourg vs Nice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -190,12 +182,12 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&tok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144253_hd/index.m3u8?is_vip=true&token=dara-2ghq04av&x-sign=bd1eb1a90f18bd780f332293ed26dca3&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144253_hd/index.m3u8?is_vip=true&token=dara-bydkxl4w&x-sign=4f8f826275c256d0371ff71ac2f2dee3&x-time=1776890520
 #EXTINF:-1 tvg-uid="6ea81f0b1f04060db6139d9e30fd65c0" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh954r1ge/image/small", ⚠️  02:00-04:00 WIB - BURNLEY VS MANCHESTER CITY
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=a8e5671ac21558e1aec8eb21ce3578a2&wsABSTime=1776933342
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=260b8876c2e5ef7c30753054b6ce6b7b&wsABSTime=1776933642
 #EXTINF:-1 tvg-uid="7f4b90ef456f04fbd2e32176df053167" data-source="AXSPORTS Event" tvg-timestamp="1776884400" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Leeds%20%20Premier%20League%20%5BServer%201%5D.jpg", ⚠️  02:00-04:00 WIB - ]  Bournemouth vs Leeds
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -243,18 +235,18 @@ https://live5.msrktz.app/live/87547578.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/11cb134e32330cfea63c72e23a1cc477/image/small?v=1768601124", ⚠️  02:00-04:00 WIB - 23/04/2026🛡️
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-#EXTVLCOPT:http-origin=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/1f2a2b7237994863a397f20cd9f05b95/index.m3u8
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/90613d234de687535ade0a30f8a1b115/image/small?v=1768601124", ⚠️  02:00-04:00 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 #EXTVLCOPT:http-origin=https://khandaia2.me/
 https://live.alilicloud.com/live/a177be34c26b4f0c5c3564bff4e482a3/playlist.m3u8
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/8ac20887c970da87f1f076b6f68795b7/image/small?v=1768601124", ⚠️  02:00-04:00 WIB - 23/04/2026🛡️
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+#EXTVLCOPT:http-origin=https://khandaia2.me/
+https://live.alilicloud.com/live/910a05153c4f0a82392fd84e7884e2ec/playlist.m3u8
 #EXTINF:-1 tvg-expire="1776902820" tvg-start="1776884820" tvg-uid="b56f32b54def416940f02305145eb532" data-source="Roxie" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png", ⚠️  02:07-04:07 WIB - ] Toronto Blue Jays vs Los Angeles Angels
 https://602.underupturnip.net/mlb5.m3u8
 #EXTINF:-1 tvg-expire="1776902820" tvg-start="1776884820" tvg-uid="69481677cf8e8209a4cb7b465bef1252" data-source="sportir" tvg-chno="1" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png", ⚠️  02:07-04:07 WIB - ]  Toronto Blue Jays vs Los Angeles Angels
@@ -271,15 +263,15 @@ https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=iI68GQgzd9qiERcWl_kBGgZOhdq4kLN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777495168
-https://maling.pl/6299.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777495487
+https://maling.pl/6299.mpd|1777495487
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/IT-IVV4HWrOwDZYs4KsPEnHwwDo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021452/9b7e5d.jpg", ⚠️  02:25-04:25 WIB - 23/04/26 Barcelona vs Celta Vigo - LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777495168
-https://bostv.maling.pl/6299.mpd|1777495168
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777495487
+https://bostv.maling.pl/6299.mpd|1777495487
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="503053" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg", ⚠️  02:30-04:45 WIB - Premier League [NO: V Sport Premier League]
 http://eyay.gw.lt:80///kontol8/304581
 #EXTINF:-1 tvg-uid="c14a580c9b0d3bed88cb4a3d1c28ed6b" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/s78qbu3fvh7wdc.png", ⚠️  02:30-04:30 WIB - ) Barcelona vs Celta  Vigo
@@ -288,7 +280,7 @@ http://eyay.gw.lt:80///kontol8/304581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-qkyn5kus&x-sign=7fdf595b5ad638a38f34511688d51385&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-mj2dw8gu&x-sign=30c85da54a24bf6cd9c9d7eeb4587d45&x-time=1776890520
 #EXTINF:-1 tvg-uid="e62941408822f80a4e5ebb5b1aaff575" data-source="AXSPORTS Event" tvg-timestamp="1776886200" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20VS%20Celta%20Vigo%20%20La%20Liga%20%5BServer%201%5D.jpg", ⚠️  02:30-04:30 WIB - ]  Barcelona vs Celta Vigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -299,12 +291,12 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=eafc7ba03783a498480bab50b1bc8594&wsABSTime=1776933344
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=131c658fb9efd4efbc8bda8df80d4644&wsABSTime=1776933644
 #EXTINF:-1 tvg-uid="cb8ec18e3dcbe3c82ad129758117f5df" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small", ⚠️  02:30-04:30 WIB - BARCELONA VS RC CELTA
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=a042fb2bc9073b710414bc9052479a25&wsABSTime=1776933344
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=1cb694a51fae5ba2ea60202b90f87b35&wsABSTime=1776933644
 #EXTINF:-1 tvg-expire="1776904200" tvg-start="1776886200" tvg-uid="3fd6287ded1bd01e2c69bd66f6befb2f" data-source="Center" tvg-chno="16" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png", ⚠️  02:30-04:30 WIB - ]  Celta Vigo at Barcelona
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz/
@@ -336,12 +328,12 @@ http://eyay.gw.lt:80///kontol8/290539
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-la0dlmf7&x-sign=be302b15e813403a3a913d7a99b5f461&x-time=1776890220
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-v3r5h4ty&x-sign=e4ccc5971db1209f57c2df5f5f568a3b&x-time=1776890520
 #EXTINF:-1 tvg-uid="b1ed35cadb3dd829fc8f93ea3f1d43c1" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwl4ryk0/image/small", ⚠️  02:45-04:45 WIB - FC PORTO VS SPORTING CP
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=4adf7f3cbbefcb733cc5accf2c229751&wsABSTime=1776933348
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=0ac168f9fdcbc4293f11035449d9a03a&wsABSTime=1776933648
 #EXTINF:-1 tvg-uid="ade636ac1055ba9ef201a4747aaa8921" data-source="AXSPORTS Event" tvg-timestamp="1776887100" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20VS%20Sporting%20CP%20%20Ta%C3%A7a%20de%20Portugal%20%5BServer%201%5D.jpg", ⚠️  02:45-04:45 WIB - ]  FC Porto vs Sporting CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -406,10 +398,10 @@ http://eyay.gw.lt:80///kontol8/297626
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 #EXTVLCOPT:http-origin=https://khandaia2.me/
 https://live.alilicloud.com/live/74d7cc2a34cf0be1aacc3212b2fd810d/playlist.m3u8
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png", ⚠️ ⏳ 03:45-05:45 WIB - Gladbach – Mainz – Meci Fotbal Bundesliga
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=gladbachmainzmecifotbalbundesliga_1776915900.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png", 🇬🇧 ⏳ 03:45-06:00 WIB - Justice League
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=justiceleague_1776915900.0
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6829" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png", ⚠️  03:45-05:45 WIB - Gladbach – Mainz – Meci Fotbal Bundesliga [RO: Prima Sport 5]
+http://eyay.gw.lt:80///kontol8/298628
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="494413" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png", 🇬🇧  03:45-06:00 WIB - Justice League [UK: Sky Sports Action]
+http://eyay.gw.lt:80///kontol8/268
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3fd301641bce0168b1acca2acfd8c8f7.jpg", 🇮🇩 ⏳ 04:00-05:00 WIB - 2025 World Taekwondo Championships: Women -73kg Final & Men -54kg Final, Men-87kg Final, Day 3
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2025worldtaekwondochampionshipswomen73kgfinalmen54kgfinalmen87kgfinalday_1776916800.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png", ⚠️ ⏳ 04:00-06:00 WIB - Alba – Bonn. Basket. Liga Jerman
@@ -476,6 +468,8 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=pittsburghpe
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=minnesotatwinsatnewyorkmets_1776924600.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/JmVAqgWYIRMrbs6OCrjs_oAS0zc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020796/f4cd73.jpg", ⚠️ ⏳ 06:15-08:15 WIB - 23/04/26 Liputan 6 Pagi Moji
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=230426liputan6pagimoji_1776924900.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png", ⚠️ ⏳ 06:40-08:40 WIB - ]  Philadelphia Phillies at Chicago Cubs
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=philadelphiaphilliesatchicagocubs_1776926400.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/9a3428ce7c421d059343763e929f2ad4.jpg", ⚠️ ⏳ 06:55-09:00 WIB - ⋗ Fotball – NM menn (cupen)
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=fotballnmmenn_1776927300.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png", 🇮🇩 ⏳ 07:00-10:00 WIB - ⋗ Baseball: MLB (Miami Marlins / St. Louis Cardinals. Saison régulière)
