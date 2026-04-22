@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 11:24 WIB
+**Diperbarui pada:** 22-04-2026 11:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -47,7 +47,6 @@
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
-- ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
@@ -77,7 +76,6 @@
 - ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
 - ⚠️ **[FZ]** HK: Now Sports 4 cocok [fz] (532220)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
-- ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
@@ -375,6 +373,7 @@
 -  **[KS]** CZ: Nova Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
+-  **[KS]** CZ: Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Sport 5 tidak cocok id epg
 -  **[KS]** CZ: Canal+ Sport 3 tidak cocok id epg
@@ -737,6 +736,7 @@
 -  **[KS]** HU: Eurosport 1 tidak cocok id epg
 -  **[KS]** HU: Eurosport 2 tidak cocok id epg
 -  **[KS]** HU: M4 Sport tidak cocok id epg
+-  **[KS]** HU: Sport 1 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
@@ -1394,7 +1394,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leon 🆚 Club America🛡️|🛡️10:06 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** Club Leon vs Club America • Meksiko: Liga MX | 10:10 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
