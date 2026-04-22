@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 21:01 WIB
+**Diperbarui pada:** 22-04-2026 21:06 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1396,6 +1396,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Qingdao West Coast 🆚 Henan FC🛡️|🛡️18:35 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
