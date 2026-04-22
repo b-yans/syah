@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 16:12 WIB
+**Diperbarui pada:** 22-04-2026 16:18 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -42,7 +42,6 @@
 - ⚠️ **[FZ]** HR: Arena Sport 9 cocok [fz] (410631)
 - ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** HR: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** HR: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
@@ -129,13 +128,11 @@
 - ⚠️ **[FZ]** RS: Arena Sport 9 cocok [fz] (410631)
 - ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** RS: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** RS: Sport Klub ESports cocok [fz] (497492)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
@@ -343,6 +340,7 @@
 -  **[KS]** HR: Max Sport 1 tidak cocok id epg
 -  **[KS]** HR: Max Sport 2 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 1 tidak cocok id epg
+-  **[KS]** HR: Sport Klub 4 tidak cocok id epg
 -  **[KS]** HR: Sport Klub FIGHT tidak cocok id epg
 -  **[KS]** HR: Sportska tidak cocok id epg
 -  **[KS]** HR: CineStar TV Premiere 1 tidak cocok id epg
@@ -967,6 +965,7 @@
 -  **[KS]** RS: Eurosport 2 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 1 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 10 tidak cocok id epg
+-  **[KS]** RS: Sport Klub 4 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 6 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 7 tidak cocok id epg
 -  **[KS]** RS: Cinestar TV Premiere 1 tidak cocok id epg
@@ -974,6 +973,7 @@
 -  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
 -  **[KS]** SI: Eurosport 2 tidak cocok id epg
 -  **[KS]** SI: Sport Klub 1 tidak cocok id epg
+-  **[KS]** SI: Sport Klub 4 tidak cocok id epg
 -  **[KS]** SI: Sport Klub Golf tidak cocok id epg
 -  **[KS]** SI: SPORT TV 1 tidak cocok id epg
 -  **[KS]** SI: SPORT TV 3 tidak cocok id epg
