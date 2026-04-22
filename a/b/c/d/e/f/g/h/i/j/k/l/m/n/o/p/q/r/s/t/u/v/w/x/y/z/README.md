@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 08:03 WIB
+**Diperbarui pada:** 22-04-2026 08:08 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -52,6 +52,8 @@
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
+- ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
+- ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
@@ -582,8 +584,6 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: Sport 1 tidak cocok id epg
 -  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sportdigital 1+ tidak cocok id epg
--  **[KS]** DE: Sportdigital 1+ [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
