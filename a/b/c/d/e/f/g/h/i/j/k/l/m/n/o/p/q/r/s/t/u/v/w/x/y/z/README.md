@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 11:32 WIB
+**Diperbarui pada:** 22-04-2026 11:37 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,6 +1393,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CS Cartagines 🆚 AD San Carlos🛡️|🛡️09:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leon 🆚 Club America🛡️|🛡️10:06 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️11:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 otomatis masuk jadwal
