@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 05:06 WIB
+**Diperbarui pada:** 23-04-2026 05:11 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,13 +1390,12 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Sporting Cristal🛡️|🛡️03:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cuenca 🆚 Orense SC🛡️|🛡️03:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Potosi 🆚 Club Guabira🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 Botafogo PB🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Gimnasia La Plata🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [23 Apr 2026 12:00 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
