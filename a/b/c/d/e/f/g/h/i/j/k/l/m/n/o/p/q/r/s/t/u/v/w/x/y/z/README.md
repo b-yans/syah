@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 10:45 WIB
+**Diperbarui pada:** 22-04-2026 10:51 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1397,11 +1397,9 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leon 🆚 Club America🛡️|🛡️10:06 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
-- ⚠️ **[BASI]** San Antonio Spurs vs Portland Trail Blazers • National Basketball Association | 07:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** San Nicolas vs SV Caravel • Aruba: Division di Honor | 07:30 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** Queretaro vs Cruz Azul • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** U.N.A.M.- Pumas vs Juarez • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Club Leon vs Club America • Meksiko: Liga MX | 10:10 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1462,15 +1460,9 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Politeknik Perkapalan Negeri Surabaya vs Universitas Ciputra Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Universitas Kristen Petra vs Universitas Widya Kartika Grup B Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Semifinal Laos vs Malaysia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
--  **[KS]** Halkbank vs Spor Toto Turkish Mens Volleyball League tidak cocok id epg
--  **[KS]** Elche vs Atletico Madrid LaLiga tidak cocok id epg
--  **[KS]** Real Sociedad vs Getafe LaLiga tidak cocok id epg
--  **[KS]** Burnley vs Man City Premier League tidak cocok id epg
--  **[KS]** Charlton Athletic vs Ipswich EFL Championship tidak cocok id epg
--  **[KS]** Bournemouth vs Leeds United Premier League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
 -  **[KS]** PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
 -  **[KS]** PERSIS vs Bhayangkara Presisi Lampung FC BRI Super League tidak cocok id epg
