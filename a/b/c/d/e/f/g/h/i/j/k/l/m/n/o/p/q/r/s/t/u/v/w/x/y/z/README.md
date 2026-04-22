@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 01:05 WIB
+**Diperbarui pada:** 23-04-2026 01:10 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1414,6 +1414,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nomme JK Kalju 🆚 FC Nomme United🛡️|🛡️22:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Riga FC 🆚 Ogre United🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leones del Norte 🆚 Manta FC🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Halkbank 🆚 Spor Toto🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hobro 🆚 Herfolge Boldklub Koge🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Neptunas Klaipeda 🆚 Dziugas Telsiai🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stromsgodset (W) 🆚 Odd BK Women🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1440,6 +1441,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arsenal Tula 🆚 FK Chelyabinsk🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Harju JK Laagri 🆚 Paide Linnameeskond🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Nassr FC 🆚 Al-Ahli Doha🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Nassr FC 🆚 Al-Ahli Doha🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️HSC Hannover 🆚 SV Drochtersen/Assel🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeddah Sports Club 🆚 Al-Faisaly Harmah🛡️|🛡️23:25 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Orobah FC 🆚 Al Zulfi🛡️|🛡️23:25 22/04/2026🛡️ otomatis masuk jadwal
@@ -1458,6 +1460,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Montpellier Women 🆚 Paris FC Women🛡️|🛡️23:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RCD Espanyol Women 🆚 Barcelona Women🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oliveirense 🆚 SL Benfica B🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Zeleznicar Pancevo 🆚 Crvena Zvezda🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TSV Steinbach Haiger 🆚 TSV Schott Mainz🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
@@ -1466,6 +1469,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Schoningen08 🆚 VfB Oldenburg🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Olympique de Safi 🆚 Renaissance Zmamra🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elfsborg 🆚 Djurgardens🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orgryte 🆚 Brommapojkarna🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OFK Beograd 🆚 FK Čukarički🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
@@ -1481,6 +1485,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarau 🆚 Stade Ouchy🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SSVg Velbert 🆚 Borussia Dortmund II🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yverdon 🆚 Neuchatel Xamax🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Piacenza 🆚 Luneburg🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
