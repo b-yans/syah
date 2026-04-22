@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 02:54 WIB
+**Diperbarui pada:** 23-04-2026 03:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -136,6 +136,7 @@
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
+- ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
@@ -159,7 +160,6 @@
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
-- ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -1060,7 +1060,6 @@
 -  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
--  **[KS]** TR: beIN Sports Haber tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
 -  **[KS]** TR: CosmoSports tidak cocok id epg
@@ -1210,6 +1209,7 @@
 -  **[KS]** US: NFL Network tidak cocok id epg
 -  **[KS]** US: NFL RedZone tidak cocok id epg
 -  **[KS]** US: Root Sports tidak cocok id epg
+-  **[KS]** US: Spectrum SportsNet tidak cocok id epg
 -  **[KS]** US: SportsGrid tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
 -  **[KS]** US: Tennis Channel tidak cocok id epg
@@ -1414,24 +1414,24 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Keflavik 🆚 Breidablik🛡️|🛡️00:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yverdon 🆚 Neuchatel Xamax🛡️|🛡️00:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SSVg Velbert 🆚 Borussia Dortmund II🛡️|🛡️00:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union Santa Fe Reserves 🆚 Colon Reserves🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ferro Carril Oeste Reserves 🆚 Velez Sarsfield Reserves🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Telstar 🆚 Sparta Rotterdam🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akranes 🆚 KA Akureyri🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Banfield Reserves 🆚 Lanus Reserves🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Rafaela Reserves 🆚 Sarmiento Junin Reserve🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Alianza Atletico Sullana🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ferencvarosi TC 🆚 Győri ETO FC🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quilmes Reserves 🆚 CA Aldosivi Reserves🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Sociedad 🆚 Getafe🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Differdange 03 🆚 Racing Union Luxemburg🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Godoy Cruz Reserves 🆚 San Martin de San Juan Reserves🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atert Bissen 🆚 Progres Niedercorn🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Smouha SC 🆚 Ceramica Cleopatra FC🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fola Esch 🆚 Rodange 91🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Viborg 🆚 Brondby IF🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️US Feulen 🆚 Victoria Rosport🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Delfin SC 🆚 Independiente del Valle🛡️|🛡️01:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Santa Fe Reserves 🆚 Colon Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferro Carril Oeste Reserves 🆚 Velez Sarsfield Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Telstar 🆚 Sparta Rotterdam🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Akranes 🆚 KA Akureyri🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Banfield Reserves 🆚 Lanus Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Rafaela Reserves 🆚 Sarmiento Junin Reserve🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Alianza Atletico Sullana🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferencvarosi TC 🆚 Győri ETO FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quilmes Reserves 🆚 CA Aldosivi Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Sociedad 🆚 Getafe🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Differdange 03 🆚 Racing Union Luxemburg🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Godoy Cruz Reserves 🆚 San Martin de San Juan Reserves🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atert Bissen 🆚 Progres Niedercorn🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Smouha SC 🆚 Ceramica Cleopatra FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fola Esch 🆚 Rodange 91🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Viborg 🆚 Brondby IF🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️US Feulen 🆚 Victoria Rosport🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Delfin SC 🆚 Independiente del Valle🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Istra 1961 🆚 Dinamo Zagreb🛡️|🛡️01:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
