@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 05:58 WIB
+**Diperbarui pada:** 23-04-2026 06:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -74,7 +74,6 @@
 - ⚠️ **[FZ]** ID: MNC TV cocok [fz] (MNCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
@@ -145,11 +144,9 @@
 - ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fz] (537810)
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
-- ⚠️ **[FZ]** UK: Sky Sports Action cocok [fz] (494413)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
@@ -739,6 +736,7 @@
 -  **[KS]** IQ: Al Rabiaa Sport 2 tidak cocok id epg
 -  **[KS]** IQ: Anbar TV tidak cocok id epg
 -  **[KS]** IQ: Iraqia Sport tidak cocok id epg
+-  **[KS]** IE: Premier Sports 2 tidak cocok id epg
 -  **[KS]** IE: Sky Sports Arena tidak cocok id epg
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
 -  **[KS]** IE: Sky Sports Golf tidak cocok id epg
@@ -1106,6 +1104,7 @@
 -  **[KS]** UK: Hub Premier 5 tidak cocok id epg
 -  **[KS]** UK: Hub Premier 6 tidak cocok id epg
 -  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Premier Sports 2 tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Premier League tidak cocok id epg
@@ -1116,6 +1115,7 @@
 -  **[KS]** UK: Hub Sports 5 [vip] tidak cocok id epg
 -  **[KS]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
 -  **[KS]** UK: Setanta Sports 1 tidak cocok id epg
+-  **[KS]** UK: Sky Sports Action tidak cocok id epg
 -  **[KS]** UK: Sky Sports Action / NFL 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Arena tidak cocok id epg
 -  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
@@ -1395,8 +1395,8 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Potosi 🆚 Club Guabira🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 Botafogo PB🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Gimnasia La Plata🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Remo - PA🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Goiás EC 🆚 Cruzeiro - MG🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Remo - PA🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sarasota Paradise 🆚 Corpus Christi FC🛡️|🛡️05:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [23 Apr 2026 12:00 WIB] otomatis masuk jadwal
