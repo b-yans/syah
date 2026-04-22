@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 15:29 WIB
+**Diperbarui pada:** 22-04-2026 15:34 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,8 +1392,8 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
@@ -1459,10 +1459,9 @@
 -  **[KS]** Universitas Surabaya vs Universitas Negeri Surabaya Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Semifinal Laos vs Malaysia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
--  **[KS]** PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
--  **[KS]** Jelang Kick Off PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
--  **[KS]** PERSIS vs Bhayangkara Presisi Lampung FC BRI Super League tidak cocok id epg
 -  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
+-  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
+-  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 
 ---
