@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:26 WIB
+**Diperbarui pada:** 23-04-2026 00:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -66,7 +66,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
-- ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
@@ -142,7 +141,6 @@
 - ⚠️ **[FZ]** UK: Sky Sports Action cocok [fz] (494413)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
-- ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
@@ -725,6 +723,7 @@
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: RCTI tidak cocok id epg
 -  **[KS]** ID: SCTV tidak cocok id epg
+-  **[KS]** ID: SpoTV tidak cocok id epg
 -  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
@@ -1130,6 +1129,7 @@
 -  **[KS]** UK: Sky Sports Racing tidak cocok id epg
 -  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: talkSPORT tidak cocok id epg
+-  **[KS]** UK: TNT Sports 1 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 10 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 2 tidak cocok id epg
