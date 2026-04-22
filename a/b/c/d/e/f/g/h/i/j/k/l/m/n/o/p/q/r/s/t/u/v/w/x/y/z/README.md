@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 13:57 WIB
+**Diperbarui pada:** 22-04-2026 14:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -26,9 +26,7 @@
 - ⚠️ **[FZ]** CA: SportsNet West cocok [fz] (470443)
 - ⚠️ **[FZ]** CA: SportsNet World cocok [fz] (470920)
 - ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CO: FOX Sports 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** HR: Arena Sport 10 cocok [fz] (410630)
@@ -88,10 +86,8 @@
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
-- ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** LA: FOX Sports 3 cocok [fz] (431616)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
-- ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Fox Sports 3 cocok [fz] (431616)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
@@ -184,7 +180,6 @@
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
 - ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
 - ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
@@ -194,16 +189,15 @@
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** VE: Fox Sports 3 cocok [fz] (431616)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
@@ -340,11 +334,13 @@
 -  **[KS]** CAR: TVJ Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports 2 tidak cocok id epg
+-  **[KS]** CL: FOX SPORTS 2 tidak cocok id epg
 -  **[KS]** CL: TNT Sports 2 tidak cocok id epg
 -  **[KS]** CL: TNT Sports Premium tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
+-  **[KS]** CO: Fox Sports 2 tidak cocok id epg
 -  **[KS]** CO: Win Sports tidak cocok id epg
 -  **[KS]** CO: Win Sports+ tidak cocok id epg
 -  **[KS]** CR: Tigo Sports tidak cocok id epg
@@ -815,6 +811,7 @@
 -  **[KS]** LA: DirecTV Sports tidak cocok id epg
 -  **[KS]** LA: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** LA: FOX Sports tidak cocok id epg
+-  **[KS]** LA: FOX Sports 2 tidak cocok id epg
 -  **[KS]** LA: Fox Sports Premium tidak cocok id epg
 -  **[KS]** LA: Golden Premier tidak cocok id epg
 -  **[KS]** LA: Golden Premier 2 tidak cocok id epg
@@ -839,6 +836,7 @@
 -  **[KS]** MX: Claro Sports tidak cocok id epg
 -  **[KS]** MX: Claro Sports 2 tidak cocok id epg
 -  **[KS]** MX: Fox Sports tidak cocok id epg
+-  **[KS]** MX: Fox Sports 2 tidak cocok id epg
 -  **[KS]** MX: Golden Premier tidak cocok id epg
 -  **[KS]** NL: Eurosport 1 tidak cocok id epg
 -  **[KS]** NL: Eurosport 2 tidak cocok id epg
@@ -1197,6 +1195,7 @@
 -  **[KS]** US: beIN Sports 8 tidak cocok id epg
 -  **[KS]** US: CBS Sports Network tidak cocok id epg
 -  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
+-  **[KS]** US: Fox Sports 2 tidak cocok id epg
 -  **[KS]** US: Fox Sports Detroit tidak cocok id epg
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
@@ -1245,6 +1244,7 @@
 -  **[KS]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
 -  **[KS]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
 -  **[KS]** VE: DirecTV Sports tidak cocok id epg
+-  **[KS]** VE: Fox Sports 2 tidak cocok id epg
 -  **[KS]** AL: Arctic (2018) tidak cocok id epg
 -  **[KS]** AL: Arctic Dogs (2019) tidak cocok id epg
 -  **[KS]** AL: Being Flynn (2012) tidak cocok id epg
@@ -1390,9 +1390,8 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fu Jen University 🆚 National Chung Hsing University🛡️|🛡️11:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
@@ -1454,11 +1453,11 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Kristen Petra vs Universitas Widya Kartika Grup B Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Universitas Surabaya vs Universitas Negeri Surabaya Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Semifinal Laos vs Malaysia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
--  **[KS]** Jelang Kick Off PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
 -  **[KS]** PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
+-  **[KS]** Jelang Kick Off PSIM Jogja vs PERSIJA BRI Super League tidak cocok id epg
 -  **[KS]** PERSIS vs Bhayangkara Presisi Lampung FC BRI Super League tidak cocok id epg
 -  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
