@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:15 WIB
+**Diperbarui pada:** 23-04-2026 00:21 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1421,7 +1421,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jedinstvo UB 🆚 FK Vozdovac Beograd🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grobina 🆚 Rigas Futbola Skola🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Masry 🆚 Enppi🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Rzeszow Women 🆚 Budowlani Lodz Women🛡️|🛡️22:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Varteks Varazdin 🆚 Rijeka🛡️|🛡️22:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nomme JK Kalju 🆚 FC Nomme United🛡️|🛡️22:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Riga FC 🆚 Ogre United🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1429,7 +1428,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leones del Norte 🆚 Manta FC🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Arendal (W) 🆚 Start Kristiansand Women🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Amazon Grimstad (w) 🆚 Bryne Women🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Halkbank 🆚 Spor Toto🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Werder Bremen Women 🆚 VfL Wolfsburg Women🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arda 🆚 Lokomotiv Plovdiv🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Trnava 🆚 Dunajska Streda🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1446,8 +1444,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus Fremad 🆚 Middelfart Boldklub🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Steinkjer (W) 🆚 Tiller (W)🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Nassr FC 🆚 Al-Ahli Doha🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Nassr FC 🆚 Al-Ahli Doha🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Zenit St. Petersburg 🆚 Novosibirsk🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Copenhagen 🆚 Odense BK🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Flora Tallinn 🆚 Trans Narva🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arsenal Tula 🆚 FK Chelyabinsk🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
@@ -1464,11 +1460,8 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Karkh 🆚 Al Karma🛡️|🛡️23:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stade Malien 🆚 Afrique Football Elite🛡️|🛡️23:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Hari ke-1 Kompetisi Olahraga Jeollanam-do untuk Penyandang Disabilitas (Biliar) ke-34 | 10.45 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1482,11 +1475,6 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** INDOSIAR+ tidak cocok id epg
--  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1523,7 +1511,6 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
