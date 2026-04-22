@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 12:09 WIB
+**Diperbarui pada:** 22-04-2026 12:14 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1396,7 +1396,7 @@
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Club Leon vs Club America • Meksiko: Liga MX | 10:10 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Club Leon vs Club America • Meksiko: Liga MX | 10:10 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
