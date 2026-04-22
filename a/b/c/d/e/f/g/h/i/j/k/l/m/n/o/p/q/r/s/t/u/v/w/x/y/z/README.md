@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 04:12 WIB
+**Diperbarui pada:** 23-04-2026 04:17 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,19 +1390,18 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Istra 1961 🆚 Dinamo Zagreb🛡️|🛡️01:15 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Sheffield Wednesday🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Birmingham City 🆚 Preston North End🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Charlton Athletic 🆚 Ipswich Town🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Sheffield Wednesday🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cardiff City 🆚 Port Vale🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Birmingham City 🆚 Preston North End🛡️|🛡️01:45 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Barcelona 🆚 RC Celta🛡️|🛡️02:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ otomatis masuk jadwal
