@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:59 WIB
+**Diperbarui pada:** 23-04-2026 01:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -144,6 +144,7 @@
 - ⚠️ **[FZ]** UK: Sky Sports Action cocok [fz] (494413)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
+- ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
 - ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
@@ -1141,7 +1142,6 @@
 -  **[KS]** UK: TNT Sports 4 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 5 tidak cocok id epg
--  **[KS]** UK: TNT Sports 6 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 7 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 8 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
@@ -1482,7 +1482,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SSVg Velbert 🆚 Borussia Dortmund II🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yverdon 🆚 Neuchatel Xamax🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1542,6 +1541,18 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
+-  **[KS]** Halkbank vs Spor Toto Turkish Mens Volleyball League tidak cocok id epg
+-  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
+-  **[KS]** Elche vs Atletico Madrid LaLiga tidak cocok id epg
+-  **[KS]** Real Sociedad vs Getafe LaLiga tidak cocok id epg
+-  **[KS]** Burnley vs Man City Premier League tidak cocok id epg
+-  **[KS]** Charlton Athletic vs Ipswich EFL Championship tidak cocok id epg
+-  **[KS]** Bournemouth vs Leeds United Premier League tidak cocok id epg
+-  **[KS]** Universitas Airlangga vs Universitas Cenderawasih Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
+-  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
+-  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
+-  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 
 ---
 
