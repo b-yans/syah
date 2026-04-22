@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 16:51 WIB
+**Diperbarui pada:** 22-04-2026 16:56 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,9 +1392,9 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmerston 🆚 Port Darwin FC🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhytomyr Women 🆚 Pantery Uman Women🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
