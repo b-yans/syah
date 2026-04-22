@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 07:20 WIB
+**Diperbarui pada:** 22-04-2026 07:25 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -55,8 +55,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (427666)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
@@ -591,6 +589,8 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: Sport 1 tidak cocok id epg
 -  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sportdigital 1+ tidak cocok id epg
+-  **[KS]** DE: Sportdigital 1+ [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
@@ -1393,9 +1393,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Merlo 🆚 Comunicaciones BsAs🛡️|🛡️05:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Juventude🛡️|🛡️05:15 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grêmio - RS 🆚 AD Confiança🛡️|🛡️05:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn FC 🆚 Sacramento Republic FC🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brittons Hill 🆚 Bagatelle SS🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Reserves 🆚 Racing Club Reserves🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn FC 🆚 Sacramento Republic FC🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** Sao Paulo vs Juventude • Brazil: Copa do Brasil | 05:15 WIB • 22/04/2026 diblokir (KADALUARSA)
