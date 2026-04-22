@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 16:29 WIB
+**Diperbarui pada:** 22-04-2026 16:34 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -50,7 +50,6 @@
 - ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
-- ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
@@ -74,7 +73,6 @@
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[EXACT]** ID: RCTI cocok (RCTI.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
-- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
@@ -97,7 +95,6 @@
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
 - ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** QA: beIN Sports 7 cocok [fz] (532980)
-- ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fz] (381835)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 3 cocok [fz] (381834)
@@ -401,6 +398,7 @@
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 4 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
@@ -745,6 +743,7 @@
 -  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: SCTV tidak cocok id epg
+-  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
 -  **[KS]** IR: Persiana Sports tidak cocok id epg
@@ -934,6 +933,7 @@
 -  **[KS]** QA: beIN Sports Max 1 tidak cocok id epg
 -  **[KS]** QA: beIN Sports Max 2 tidak cocok id epg
 -  **[KS]** QA: beIN Sports Max 3 tidak cocok id epg
+-  **[KS]** QA: beIN Sports Max 4 tidak cocok id epg
 -  **[KS]** QA: beIN Box Office 2 tidak cocok id epg
 -  **[KS]** QA: beIN Series 1 tidak cocok id epg
 -  **[KS]** QA: beIN Series 2 tidak cocok id epg
@@ -1391,7 +1391,7 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
