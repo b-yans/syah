@@ -3,34 +3,16 @@
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="537102" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png", ⚠️  12:45-00:50 WIB - EFL Championship [SE: V Sport Football]
 http://eyay.gw.lt:80///kontol8/6272
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="465248" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a35839fb13028801825bc2a1c8517aa4.png", ⚠️  17:00-20:00 WIB - NASCAR Cup Series [CL: FOX SPORTS 1]
-http://eyay.gw.lt:80///kontol8/169069
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="465248" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/79c2562a3f4351f12f2c4381c11c1d39.png", ⚠️  17:00-20:00 WIB - NASCAR Cup Series [CO: FOX Sports 1]
-http://eyay.gw.lt:80///kontol8/65949
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="457028" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png", ⚠️  17:00-09:30 WIB - Rayo Vallecano – Espanyol. Sepakbola. Liga Spanyol [RS: Arena Sport 1x2]
 http://eyay.gw.lt:80///kontol8/296564
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="SPOTV.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png", ⚠️  17:30-20:30 WIB - 2026 Senior PGA Championship [ID: SpoTV]
 http://eyay.gw.lt:80///kontol8/165105
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="470920" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/dfe331d195b301431fef3cd4c927ae87.png", ⚠️  18:00-20:00 WIB - FA Youth Cup Soccer [CA: SportsNet World]
-http://eyay.gw.lt:80///kontol8/280568
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="537810" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f1d12bd490928de163de261dd7590183.png", ⚠️  18:00-21:00 WIB - Singapore Premier League 2025/26 Lion City Sailors vs Young Lions – Lion City Sailors vs Young Lions [HU: Sport 2]
 http://eyay.gw.lt:80///kontol8/14988
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="537810" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  18:00-21:00 WIB - Singapore Premier League 2025/26 Lion City Sailors vs Young Lions – Lion City Sailors vs Young Lions [UK: Hub Sports 2 vip]
 http://eyay.gw.lt:80///kontol8/305448
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="537754" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  18:00-00:00 WIB - LPGA Tour 2026 – JM Eagle LA Championship p/b Plastpro Round 3 [UK: Hub Sports 3 vip]
 http://eyay.gw.lt:80///kontol8/305447
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/8c03a5b1db88aadf61c5672af2d3f8ba/image/small?v=1768601124", ⚠️  18:00-20:00 WIB - 22/04/2026🛡️
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-#EXTVLCOPT:http-origin=https://khandaia2.me/
-https://live.alilicloud.com/live/2a55dc5d8a35cde17a1d28b891250f47/playlist.m3u8
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/2d5c1c949a2720b65aced4dbdedb24f2/image/small?v=1768601124", ⚠️  18:00-20:00 WIB - 22/04/2026🛡️
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-#EXTVLCOPT:http-origin=https://khandaia2.me/
-https://live.alilicloud.com/live/a5e36baf69ea8b571a2f4a041129760c/playlist.m3u8
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="406566" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png", ⚠️  18:10-20:15 WIB - LALIGA HYPERMOTION (T25/26): Deportivo – Mirandés [ES: M+ LaLiga]
 http://eyay.gw.lt:80///kontol8/302296
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="12160" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/5e23feca6c940eaf37b220fa1b72c6ad.svg", ⚠️  18:25-20:35 WIB - LALIGA: Real Madrid v Alaves [CH: V Sport Live 1]
@@ -89,8 +71,6 @@ http://eyay.gw.lt:80///kontol8/27391
 http://eyay.gw.lt:80///kontol8/297787
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="406588" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-03/7588b7c0649b5bbed47915b55ebe8712.jpg", ⚠️  19:00-01:00 WIB - DAZN LALIGA [ES: DAZN LaLiga 1 FHD VIP]
 http://eyay.gw.lt:80///kontol8/309520
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="400477" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", ⚠️  19:00-20:00 WIB - Serie A [UK: TNT Sports 1]
-http://eyay.gw.lt:80///kontol8/270
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="465271" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/4a4b6eef23911770bca7ea1bc91bff71.png", ⚠️  19:00-22:00 WIB - MLB Baseball [US: Marquee Sports Network]
 http://eyay.gw.lt:80///kontol8/150609
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="465037" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/53277c8cf985c2454ce7394e4c8c5a94.jpeg", ⚠️  19:00-21:30 WIB - MLB Baseball [US: NBC Sports Philadelphia]
@@ -233,6 +213,8 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=athleticosas
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=atlticomadridfcbarcelonauefachampionsleague_1776900600.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png", ⚠️ ⏳ 23:30-01:30 WIB - Liga Profesional de Fútbol. Rosario Central v Sarmiento
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=ligaprofesionaldeftbolrosariocentralsarmiento_1776900600.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", ⚠️ ⏳ 23:30-00:30 WIB - Serie A (?)
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=seriea_1776900600.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg", 🇮🇩 ⏳ 23:55-02:00 WIB - LaLiga : Elche Vs Atletico Madrid ᴸᶦᵛᵉ
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=laligaelcheatleticomadrid_1776902100.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/322021fc3fa230a288ac966a1b600955.png", ⚠️ ⏳ 00:00-01:00 WIB - Sepakbola. SAŽETAK. Europa Liga
@@ -261,6 +243,8 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=tataindianpr
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2026iihfu18menshockeychampionshipcanadaslovakia_1776902400.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg", ⚠️ ⏳ 00:15-02:30 WIB - Premier League
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=premierleague_1776903300.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", ⚠️ ⏳ 00:30-01:30 WIB - Serie A (?)
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=seriea_1776904200.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e326a62a0113f1ce66bf3a143b614ab6.jpg", ⚠️ ⏳ 00:40-02:40 WIB - Premier League. Manchester City – Arsenal
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=premierleaguemanchestercityarsenal_1776904800.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/116ec7962a9e3021b531e9615aa14e9a.png", 🇬🇧 ⏳ 00:45-02:45 WIB - Real Sociedad vs. Deportivo Ala
@@ -601,3 +585,7 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=professional
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=laligabest11davidalbelda_1776973200.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/95c28cbeff8963bb8198414162661ec9.png", ⚠️ ⏳ 19:45-21:45 WIB - Meci Fotbal Superliga 1
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=mecifotbalsuperliga_1776973500.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️ ⏳ 20:00-00:00 WIB - TATA Indian Premier League 2026 – M25: Gujarat Titans vs Kolkata Knight Riders
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=tataindianpremierleague2026m25gujarattitanskolkataknightriders_1776974400.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://i.ibb.co.com/Pzh0D80f/fight-sports.png", ⚠️ ⏳ 20:00-22:30 WIB - 2026 IIHF U18 Men's Hockey Championship: Canada vs. Latvia
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2026iihfu18menshockeychampionshipcanadalatvia_1776974400.0
