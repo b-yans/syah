@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 15:40 WIB
+**Diperbarui pada:** 22-04-2026 15:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -61,8 +61,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
 - ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
 - ⚠️ **[FZ]** HK: Now Sports 4 cocok [fz] (532220)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
@@ -602,6 +600,8 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: Sport 1 tidak cocok id epg
 -  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
+-  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
 -  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
 -  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
@@ -1392,9 +1392,9 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
