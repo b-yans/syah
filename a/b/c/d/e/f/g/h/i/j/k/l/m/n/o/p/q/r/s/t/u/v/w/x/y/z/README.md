@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 13:19 WIB
+**Diperbarui pada:** 22-04-2026 13:24 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -55,7 +55,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
-- ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
@@ -147,7 +146,6 @@
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
-- ⚠️ **[FZ]** ZA: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
@@ -206,14 +204,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
@@ -416,6 +414,7 @@
 -  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
+-  **[KS]** FR: CANAL+ Sport tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 360 tidak cocok id epg
@@ -982,6 +981,7 @@
 -  **[KS]** ZA: SuperSport Football tidak cocok id epg
 -  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
+-  **[KS]** ZA: CANAL+ Sport tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 360 tidak cocok id epg
@@ -1391,8 +1391,8 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fu Jen University 🆚 National Chung Hsing University🛡️|🛡️11:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
