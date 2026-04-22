@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 11:59 WIB
+**Diperbarui pada:** 22-04-2026 12:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -53,7 +53,6 @@
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
-- ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
 - ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
 - ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
@@ -202,11 +201,11 @@
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
+- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
+- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
@@ -414,6 +413,7 @@
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
@@ -1390,13 +1390,12 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CS Cartagines 🆚 AD San Carlos🛡️|🛡️09:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Leon 🆚 Club America🛡️|🛡️10:06 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️11:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Los Angeles Lakers vs Houston Rockets • National Basketball Association | 09:30 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Monterrey vs Puebla • Meksiko: Liga MX | 10:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Club Leon vs Club America • Meksiko: Liga MX | 10:10 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
