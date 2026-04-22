@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 19:15 WIB
+**Diperbarui pada:** 22-04-2026 19:21 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -42,7 +42,6 @@
 - ⚠️ **[FZ]** HR: Arena Sport 9 cocok [fz] (410631)
 - ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** HR: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
@@ -123,11 +122,9 @@
 - ⚠️ **[FZ]** RS: Arena Sport 9 cocok [fz] (410631)
 - ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** ZA: SuperSport Action cocok [fz] (463710)
@@ -180,13 +177,13 @@
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** VE: Fox Sports 3 cocok [fz] (431616)
-- ⚠️ **[BASI]** AL: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: The 15.17 To Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
-- ⚠️ **[BASI]** PT: The 15:17 to Paris diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
@@ -336,6 +333,7 @@
 -  **[KS]** HR: Max Sport 2 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 1 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 4 tidak cocok id epg
+-  **[KS]** HR: Sport Klub 5 tidak cocok id epg
 -  **[KS]** HR: Sport Klub FIGHT tidak cocok id epg
 -  **[KS]** HR: Sportska tidak cocok id epg
 -  **[KS]** HR: CineStar TV Premiere 1 tidak cocok id epg
@@ -966,6 +964,7 @@
 -  **[KS]** RS: Sport Klub 1 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 10 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 4 tidak cocok id epg
+-  **[KS]** RS: Sport Klub 5 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 6 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 7 tidak cocok id epg
 -  **[KS]** RS: Sport Klub ESports tidak cocok id epg
@@ -975,6 +974,7 @@
 -  **[KS]** SI: Eurosport 2 tidak cocok id epg
 -  **[KS]** SI: Sport Klub 1 tidak cocok id epg
 -  **[KS]** SI: Sport Klub 4 tidak cocok id epg
+-  **[KS]** SI: Sport Klub 5 tidak cocok id epg
 -  **[KS]** SI: Sport Klub Golf tidak cocok id epg
 -  **[KS]** SI: SPORT TV 1 tidak cocok id epg
 -  **[KS]** SI: SPORT TV 3 tidak cocok id epg
