@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 10:14 WIB
+**Diperbarui pada:** 22-04-2026 10:19 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -185,7 +185,6 @@
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
-- ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
 - ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
@@ -1141,6 +1140,7 @@
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: TNT Sports 4 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 5 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 6 tidak cocok id epg
