@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 17:01 WIB
+**Diperbarui pada:** 22-04-2026 17:07 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,18 +1390,16 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Laos U17 🆚 Malaysia U17🛡️|🛡️15:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmerston 🆚 Port Darwin FC🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhytomyr Women 🆚 Pantery Uman Women🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmerston 🆚 Port Darwin FC🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BRTC Sports Club 🆚 Khelaghar Samaj Kalyan Samiti🛡️|🛡️16:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sejong Sportstoto WFC 🆚 Suwon FC Women🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Hari ke-2 Kompetisi Olahraga Jeollanam-do untuk Penyandang Disabilitas (Biliar) ke-34 | 07.15 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1415,11 +1413,6 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** INDOSIAR+ tidak cocok id epg
--  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1456,7 +1449,6 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
@@ -1468,12 +1460,12 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Surabaya vs Universitas Negeri Surabaya Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Universitas Negeri Malang vs Universitas Ma Chung Grup C Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Semifinal Laos vs Malaysia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
+-  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
 -  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
--  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 
 ---
