@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 08:58 WIB
+**Diperbarui pada:** 22-04-2026 09:03 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -69,7 +69,6 @@
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (427666)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
-- ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NZ: Sky Sport 5 cocok [fz] (403249)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
@@ -827,6 +826,7 @@
 -  **[KS]** MX: Fox Sports tidak cocok id epg
 -  **[KS]** MX: Fox Sports 2 tidak cocok id epg
 -  **[KS]** MX: Fox Sports 3 tidak cocok id epg
+-  **[KS]** MX: Sky Sports LaLiga tidak cocok id epg
 -  **[KS]** MX: Golden Premier tidak cocok id epg
 -  **[KS]** NL: Eurosport 1 tidak cocok id epg
 -  **[KS]** NL: Eurosport 2 tidak cocok id epg
@@ -1401,10 +1401,11 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queretaro FC 🆚 Cruz Azul🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pumas U.N.A.M. 🆚 FC Juarez🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Queretaro vs Cruz Azul • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
-- ⚠️ **[BASI]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[BASI]** Boston Celtics vs Philadelphia 76ers • National Basketball Association | 06:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** San Antonio Spurs vs Portland Trail Blazers • National Basketball Association | 07:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** San Antonio Spurs vs Portland Trail Blazers • National Basketball Association | 07:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1417,6 +1418,11 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
+-  **[KS]** INDOSIAR+ tidak cocok id epg
+-  **[KS]** SCTV+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 2+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1453,6 +1459,7 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
+-  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
