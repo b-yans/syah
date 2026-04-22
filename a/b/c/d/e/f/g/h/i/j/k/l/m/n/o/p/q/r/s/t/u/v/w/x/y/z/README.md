@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 13:13 WIB
+**Diperbarui pada:** 22-04-2026 13:19 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,8 +1390,6 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterrey 🆚 Puebla🛡️|🛡️10:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Leon 🆚 Club America🛡️|🛡️10:06 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fu Jen University 🆚 National Chung Hsing University🛡️|🛡️11:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ otomatis masuk jadwal
