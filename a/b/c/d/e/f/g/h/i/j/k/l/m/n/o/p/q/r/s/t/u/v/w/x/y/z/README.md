@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 18:37 WIB
+**Diperbarui pada:** 22-04-2026 18:43 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1465,12 +1465,15 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Negeri Malang vs Universitas Ma Chung Grup C Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Semifinal Laos vs Malaysia ASEAN U17 Boys Championship tidak cocok id epg
+-  **[KS]** Institut Teknologi Sepuluh Nopember vs Universitas Wijaya Kusuma Grup D Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 2 tidak cocok id epg
--  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
--  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
+-  **[KS]** Semifinal Vietnam vs Australia ASEAN U17 Boys Championship tidak cocok id epg
+-  **[KS]** Halkbank vs Spor Toto Turkish Mens Volleyball League tidak cocok id epg
+-  **[KS]** Elche vs Atletico Madrid LaLiga tidak cocok id epg
+-  **[KS]** Real Sociedad vs Getafe LaLiga tidak cocok id epg
 -  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
+-  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
+-  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 
 ---
