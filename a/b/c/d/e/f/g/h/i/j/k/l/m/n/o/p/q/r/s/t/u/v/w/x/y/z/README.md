@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 03:28 WIB
+**Diperbarui pada:** 23-04-2026 03:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -9,6 +9,7 @@
 - ⚠️ **[FZ]** AU: Fox Sports 502 cocok [fz] (537762)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
+- ⚠️ **[FZ]** AU: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
@@ -65,7 +66,6 @@
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
@@ -82,6 +82,7 @@
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
+- ⚠️ **[FZ]** NZ: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
@@ -95,6 +96,8 @@
 - ⚠️ **[FZ]** QA: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** QA: beIN Sports Xtra 2 cocok [fz] (413152)
 - ⚠️ **[FZ]** QA: beIN Sports Xtra 3 cocok [fz] (413152)
+- ⚠️ **[FZ]** RO: DIGI Sport 1 cocok [fz] (5862)
+- ⚠️ **[FZ]** RO: DIGI Sport 1 4K cocok [fz] (5862)
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
@@ -245,7 +248,6 @@
 -  **[KS]** AU: Sky Sport 7 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 8 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 9 tidak cocok id epg
--  **[KS]** AU: Sky Sport Select tidak cocok id epg
 -  **[KS]** AT: ORF Sport+ tidak cocok id epg
 -  **[KS]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
 -  **[KS]** AT: Sky Sport 2 tidak cocok id epg
@@ -713,6 +715,7 @@
 -  **[KS]** HU: Sport 1 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
+-  **[KS]** IN: Sony Sports Ten 2 (Sony Ten 2) tidak cocok id epg
 -  **[KS]** IN: Sony Sports Ten 3 (Sony Ten 3) tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports 3 tidak cocok id epg
@@ -838,7 +841,6 @@
 -  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 8 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 9 tidak cocok id epg
--  **[KS]** NZ: Sky Sport Select tidak cocok id epg
 -  **[KS]** NO: eurosport 1 tidak cocok id epg
 -  **[KS]** NO: eurosport 2 tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
@@ -925,8 +927,6 @@
 -  **[KS]** QA: beIN Series 2 tidak cocok id epg
 -  **[KS]** QA: beIN Gourmet tidak cocok id epg
 -  **[KS]** RO: Antena Sport tidak cocok id epg
--  **[KS]** RO: DIGI Sport 1 tidak cocok id epg
--  **[KS]** RO: DIGI Sport 1 4K tidak cocok id epg
 -  **[KS]** RO: DIGI Sport 3 tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
@@ -1414,10 +1414,10 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atert Bissen 🆚 Progres Niedercorn🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ferencvarosi TC 🆚 Győri ETO FC🛡️|🛡️01:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Istra 1961 🆚 Dinamo Zagreb🛡️|🛡️01:15 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Sheffield Wednesday🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cardiff City 🆚 Port Vale🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
