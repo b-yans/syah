@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 07:52 WIB
+**Diperbarui pada:** 22-04-2026 07:57 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1396,6 +1396,8 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Reserves 🆚 Racing Club Reserves🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn FC 🆚 Sacramento Republic FC🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brittons Hill 🆚 Bagatelle SS🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tecnico Universitario 🆚 Club Sport Emelec🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Paysandu Para 🆚 Vasco da Gama Saf - RJ🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC San Nicolas 🆚 SV Caravel🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Corinthians - SP🛡️|🛡️07:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
