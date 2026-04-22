@@ -50,15 +50,15 @@ https://live.alilicloud.com/live/8dee0d433a9bb9eea22037a427e0c543/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=8d7fb47c03e18a31c1b22f6950c624299c197b6fae9bc99bed29a56258347310|1777454632
-https://maling.pl/19354.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=8d7fb47c03e18a31c1b22f6950c624299c197b6fae9bc99bed29a56258347310|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=1edeea414cf563d8c392d1affbab39e247c354fd37528f82e21b37bb5312bba9|1777454956
+https://maling.pl/19354.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=1edeea414cf563d8c392d1affbab39e247c354fd37528f82e21b37bb5312bba9|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/gjONWS-GQ_akDxYQDhZKaOxnsnI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020469/dca6fa.jpg", ⚠️  14:56-16:56 WIB - 22/04/26 PSIM Jogja vs PERSIJA - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/19354.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=78636d186b1847a25aab4de8f7ed45c53209300acf8be02f19e0103d69bdf159|1777454632
-https://aspaltvpasti.top/3TULAR/19354.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=4c1505e91d51bc39f903cf93d3604ebea7a5ce641c68905bf7cafe53b2e637d7|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/19354.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=efb773ab58150811bde210769dc1c6783915fc41051d747caa7e9508deb00e1d|1777454956
+https://aspaltvpasti.top/3TULAR/19354.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=99c4e49fb195b3adf568c1c23a4c0a5592de63afeaa09eeb1b42af2da9711a01|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="413152" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg", 🇮🇩  15:00-17:00 WIB - 2025 World Taekwondo Championships: Men-63kg Final & Women -49kg Final, Day 2 [QA: beIN Sports Xtra 1]
 http://eyay.gw.lt:80///kontol8/290037
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="413152" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg", 🇮🇩  15:00-17:00 WIB - 2025 World Taekwondo Championships: Men-63kg Final & Women -49kg Final, Day 2 [QA: beIN Sports Xtra 2]
@@ -80,20 +80,20 @@ http://eyay.gw.lt:80///kontol8/147553
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19538.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=f6c023adc0a45dafe68b64967bc8e558eb0fc107023d367395c314be61626321|1777454632
-https://maling.pl/19538.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=f6c023adc0a45dafe68b64967bc8e558eb0fc107023d367395c314be61626321|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19538.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=5243bc0ce1cc189645d74d32dea7c7f3a6c0c8650723e6956f845f7fbb85e7b7|1777454956
+https://maling.pl/19538.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=5243bc0ce1cc189645d74d32dea7c7f3a6c0c8650723e6956f845f7fbb85e7b7|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg", ⚠️  15:00-17:00 WIB - 16/09/25 Liga 25/26: Villarreal vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/19538.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=ead12d8968b913934aef9042aba98624d63819f97507f53766bf0614283a0b5d|1777454632
-https://aspaltvpasti.top/3TULAR/19538.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=9271da0f8f9351988effad13f4aefe3ff6f6da3a3a492cbddb436d3e95bc51b8|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/19538.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=4b5673d3a067699cce1d8ebec93e102c60528e30855cb6f168977bba85c77a6a|1777454956
+https://aspaltvpasti.top/3TULAR/19538.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=2fd32b935d1556af97b5dd0d648168c53118ca28b4c20043c0d776376e95865e|1777454956
 #EXTINF:-1 tvg-uid="6ccb6d93ae77747e6f4ab1e5a2940ae6" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whg9eoryox/image/small", ⚠️  15:00-17:00 WIB - HEFEI CITY VS KUNSHAN ZHANGPU
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=147c7dcc94140859ebd8d730df4c6d4a&wsABSTime=1776892848
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=8c07215ee95eb7d3b0caabf322d8a812&wsABSTime=1776893148
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/752ee05fc02a9c5ced0499d8f4e35538/image/small?v=1768601124", ⚠️  15:00-17:00 WIB - 22/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -111,15 +111,15 @@ https://live.alilicloud.com/live/7a9e875abe5a6272f5f02f9badceb901/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20240.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=161e676cf88daf39260970e5f5845ea64f868d7f12d9332a39e9dbe576f4af0e|1777454632
-https://maling.pl/20240.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=161e676cf88daf39260970e5f5845ea64f868d7f12d9332a39e9dbe576f4af0e|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20240.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=0e02019631b9fdec85729639a98daf6b896cf44b5f1cc5365b7afa7e4cd0baab|1777454956
+https://maling.pl/20240.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=0e02019631b9fdec85729639a98daf6b896cf44b5f1cc5365b7afa7e4cd0baab|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/LL1Q4OzodvGT9r3EWtfjQjPiel0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022112/521bd9.jpg", ⚠️  15:14-17:14 WIB - 22/04/26 Bronze Final - Game 2: Jakarta Garuda Jaya vs Surabaya Samator - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20240.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=a8baf81dafeb1373f5357cf5af277c6ed422d6026e2a6c6dc997f07d0e0bbf87|1777454632
-https://aspaltvpasti.top/3TULAR/20240.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=904836bc5dbb58c9e35c76384cfac0d4aafc268e4b160e539606cbb05b8d85ec|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20240.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=589b7049b00679ff93532566b2f1a0bd6a09876575c3a6dfcb8aecf40e453362|1777454956
+https://aspaltvpasti.top/3TULAR/20240.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=46a1314012eb5f9b0fbaf04e9dc439e544bf62968da22802004cd49429f45146|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="532980" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png", 🇮🇩  15:15-18:15 WIB - Jannik Sinner (ITA) vs Carlos Alcaraz (ESP) – Final [QA: beIN Sports 7]
 http://eyay.gw.lt:80///kontol8/106
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="532980" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png", 🇮🇩  15:15-18:15 WIB - Jannik Sinner (ITA) vs Carlos Alcaraz (ESP) – Final [US: beIN Sports 7]
@@ -133,23 +133,23 @@ http://aflaxtv.xyz:8080/movie/F36591/3f1a2b5c/85923.mp4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/21209.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=a4e62029138481a7e3b3130b524b8ba1ffe0c320e1d8e94ba7d2c441b05ba0ab|1777454632
-https://maling.pl/21209.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=a4e62029138481a7e3b3130b524b8ba1ffe0c320e1d8e94ba7d2c441b05ba0ab|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/21209.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=cd98815f106b7007791ebae2b203a971fbb940557397a4c20f9277ec2f93ee7a|1777454956
+https://maling.pl/21209.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=cd98815f106b7007791ebae2b203a971fbb940557397a4c20f9277ec2f93ee7a|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/1JFGH6AcGuNnsQgKrmci1F327n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022005/6a5bc8.jpg", 🇲🇾  15:20-17:20 WIB - 22/04/26 Semifinal: Laos vs Malaysia - ASEAN U17 Boys' Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/21209.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=b892e7c3cbe58333a66902807e20e53980bf5dc9f8cffce7bda6c5bbf69fc0d4|1777454632
-https://aspaltvpasti.top/3TULAR/21209.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=16b20bdf67741f39dd6f5ae5678ea66ea307f87c39a1289cfd2952f5e1ee6cd1|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/21209.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=0d1b49f53d7eb8d42e91572df16ea888c97c6b1b70314d96e060870b8e674f2e|1777454956
+https://aspaltvpasti.top/3TULAR/21209.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=20b2a41497c9229a4e07ad8079ff2d726c676b57c08470e15bd6a8254e6761de|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CK8qC_mG8zsvumw0gWPxL3DnfnU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020472/57608f.jpg", ⚠️  15:22-17:22 WIB - 22/04/26 PERSIS vs Bhayangkara Presisi Lampung FC - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://maling.pl/19385.m3u8?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=52053c12fcdd668942f45edbd36ebd05b3bdd7e654e3a1153312a598d4cc0f56|1777454632
+https://maling.pl/19385.m3u8?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=c6837b1db8898718f9292ef4193145c4487ce91586df6c7aee11b67eb70e1186|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CK8qC_mG8zsvumw0gWPxL3DnfnU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020472/57608f.jpg", ⚠️  15:22-17:22 WIB - 22/04/26 PERSIS vs Bhayangkara Presisi Lampung FC - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://maling.pl/19385.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=52053c12fcdd668942f45edbd36ebd05b3bdd7e654e3a1153312a598d4cc0f56|1777454632
+https://maling.pl/19385.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=c6837b1db8898718f9292ef4193145c4487ce91586df6c7aee11b67eb70e1186|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381854" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png", ⚠️  15:30-19:00 WIB - Šenžen, četvrtfinala, polufinala i finale. Basket 3x3. FIBA 3x3 World Tour [AL: Arena Sport 5]
 http://eyay.gw.lt:80///kontol8/57711
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381854" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1fa675e6620c0ae5a8bf4f9d47e6b48d.png", ⚠️  15:30-19:00 WIB - Šenžen, četvrtfinala, polufinala i finale. Basket 3x3. FIBA 3x3 World Tour [BIH: Arena Sport 5]
@@ -162,7 +162,7 @@ http://eyay.gw.lt:80///kontol8/10752
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=d9dae4aa09b2c858f2e191341b1a79b0&wsABSTime=1776892849
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=5136611b1a5fb09fedf4ca6b1075f58c&wsABSTime=1776893149
 #EXTINF:-1 tvg-uid="ed050ba5187b3a842f5ace87f79c5c70" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80", ⚠️  15:30-17:30 WIB - ) PSIM Yogyakarta vs Persija Jakarta
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -172,7 +172,7 @@ https://live5.msrktz.app/live/14707124.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=94e329a765ed0047f88e975ca5337c22&wsABSTime=1776892850
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=d3be7852bc34a3f268ff55a12ce0ef23&wsABSTime=1776893150
 #EXTINF:-1 tvg-uid="8ac25f22df13b864ad20251ac7a5aa0e" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80", ⚠️  15:30-17:30 WIB - ) Persis Solo vs Bhayangkara Solo
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -205,7 +205,7 @@ https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=0018c660891f53db465640
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=0d7c58af2adc52f886d77ff47dcca262&wsABSTime=1776892850
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=32b7c491c70c774cea2e2c21d4b48d51&wsABSTime=1776893150
 #EXTINF:-1 tvg-expire="1776864600" tvg-start="1776846600" tvg-uid="41700e3a44184deeb70a0c58542648fb" data-source="khandai nguyenn" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/c3482b719c4c09028a41230471ae22e5/image/small?v=1768601124", 🇲🇾  15:30-17:30 WIB - ]   Laos U17 vs Malaysia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/truc-tiep/laos-u17-vs-malaysia-u17-pxwrxlhyndg0ryk
@@ -219,8 +219,6 @@ https://pull-kda.fastestcdn-global.com/live/89fbbdd08ec542e0a30059ed20cca595/ind
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6336" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/85d3fdd66aaece206c93c8f7bdb19b5c.png", ⚠️  15:35-16:25 WIB - Z archiwum LaLiga [US: Eleven Sports]
-http://eyay.gw.lt:80///kontol8/7765
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6830" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/12220d6c3da513e84ff5d8ac001fd992.png", ⚠️  15:45-16:30 WIB - Rezumate Superliga [RO: Prima Sport 2]
 http://eyay.gw.lt:80///kontol8/147299
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NK2d9gs3KW_3KI_dJGGcRdKsfaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022212/c905cc.jpg", ⚠️  15:45-17:45 WIB - 22/04/26 Zizou Bergs vs Marin Cilic - Round 1  | ATP 1000: Mutua Madrid Open 2026
@@ -228,29 +226,29 @@ http://eyay.gw.lt:80///kontol8/147299
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20885.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=abed21a7c6474c81dbb6579167043f845827ee64e37cf6284e92d417016cee71|1777454632
-https://maling.pl/20885.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=abed21a7c6474c81dbb6579167043f845827ee64e37cf6284e92d417016cee71|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20885.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=e6250f26f9d819d5a9a5a4be18b41408a00e5301499d63e4ba191b1a09ba0763|1777454956
+https://maling.pl/20885.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=e6250f26f9d819d5a9a5a4be18b41408a00e5301499d63e4ba191b1a09ba0763|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NK2d9gs3KW_3KI_dJGGcRdKsfaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022212/c905cc.jpg", ⚠️  15:45-17:45 WIB - 22/04/26 Zizou Bergs vs Marin Cilic - Round 1  | ATP 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20885.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=f9cea76c37b37bc8361e6d50da4c96f40e99c271324ff3b8a5e748013e7d5dab|1777454632
-https://aspaltvpasti.top/3TULAR/20885.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=e79cb4f49779357e0a02f8e282f50554f81c258ebe635dcc8d6467ba9e934747|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20885.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=6574786dbef6a13c50ff56d26a8b99b4f1636b8f22c8b128aa3c20ba22c44269|1777454956
+https://aspaltvpasti.top/3TULAR/20885.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=ea03d63782cc1a85b367b8521abd3886aa80c17fddb4826067eed94e0532ba09|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/y4iRP03bcAwLU_r3f1f163T9nOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020955/7e5c16.jpg", ⚠️  15:45-17:45 WIB - 22/04/26 FTV Sore: I Love You 1 Miliar Dibayar Tunai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/204.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=ebc979d5072a76d77cccae565ca4699ec594124584922d7758f348fd302a9c70|1777454632
-https://maling.pl/204.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=ebc979d5072a76d77cccae565ca4699ec594124584922d7758f348fd302a9c70|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/204.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=db4cf682ae8811b5673ebb61295186fc607b7e9f05fa7c584e23d43055fe0308|1777454956
+https://maling.pl/204.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=db4cf682ae8811b5673ebb61295186fc607b7e9f05fa7c584e23d43055fe0308|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/y4iRP03bcAwLU_r3f1f163T9nOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020955/7e5c16.jpg", ⚠️  15:45-17:45 WIB - 22/04/26 FTV Sore: I Love You 1 Miliar Dibayar Tunai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/204.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=a00d6515e7ba0957d75e6e74a5425d4fa296a033fab56523ce8a0a1b4072067b|1777454632
-https://aspaltvpasti.top/3TULAR/204.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=227d4910db0b8500f19d7e5e35e76499ff4bd46c2e9db590a6dfedfe5a46e5cc|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/204.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=c0fe0206a653feea909ec19ad50ad7f90f31d65ad7c4f3a423b2eadb95649194|1777454956
+https://aspaltvpasti.top/3TULAR/204.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=0bb831ce800d9abef27e2911d6e9fbf1a3aefa83663149bb8eea999705786659|1777454956
 #EXTINF:-1 tvg-uid="7498f6dd34150550ce6e0e3553f0bc84" data-source="AXSPORTS Event" tvg-timestamp="1776847500" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Hanshin%20Tigers%20%20NPB%20%5BServer%201%5D.jpg", ⚠️  15:45-17:45 WIB - ]  Yokohama DeNA BayStars vs Hanshin Tigers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -264,29 +262,29 @@ http://eyay.gw.lt:80///kontol8/1672
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20890.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b81211d6db7ee6575f319a2d9f709393cf3c8a635071c5e0051d23c30f2736f1|1777454632
-https://maling.pl/20890.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b81211d6db7ee6575f319a2d9f709393cf3c8a635071c5e0051d23c30f2736f1|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20890.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=395f2633943038a3304980d4bc35d061d35c2982a4fada23bc6f2150c4fac926|1777454956
+https://maling.pl/20890.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=395f2633943038a3304980d4bc35d061d35c2982a4fada23bc6f2150c4fac926|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/8XaYKUp34K5XPu1IvhAC36yDv_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022267/5a2ff1.jpg", ⚠️  15:49-17:49 WIB - 22/04/26 Jenson Brooksby vs Emilio Nava - Round 1  | ATP 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20890.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=a4198c69d586fa0911d064a5b3f1b820d349715ae565c235568749d436d766d0|1777454632
-https://aspaltvpasti.top/3TULAR/20890.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=468a1b70d33f3755d18b1e8ba252c9bce700efdcc5ee5668f720778f508e82a5|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20890.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=b0ad0f2600cd432208892656386968834ce5d27935c067cb2fd598ac4df11675|1777454956
+https://aspaltvpasti.top/3TULAR/20890.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=e701592a6b960bf5f380c9856057baadd8db2fd502e976ba70b3232c252a41c1|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/y4U-dVZ7FknCgrJ2S4nglsG1hnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022262/84e781.jpg", ⚠️  15:49-17:49 WIB - 22/04/26 Zhizhen Zhang vs Vit Kopriva - Round 1  | ATP 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20887.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=d063d136e9863a1fb3b356be6c8d0648d799c93595848b55ec88680972bd568b|1777454632
-https://maling.pl/20887.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=d063d136e9863a1fb3b356be6c8d0648d799c93595848b55ec88680972bd568b|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20887.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=83f5c82622f2802b48561ea841230e90c50794f378588b342e717e5d81cac6a4|1777454956
+https://maling.pl/20887.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=83f5c82622f2802b48561ea841230e90c50794f378588b342e717e5d81cac6a4|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/y4U-dVZ7FknCgrJ2S4nglsG1hnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022262/84e781.jpg", ⚠️  15:49-17:49 WIB - 22/04/26 Zhizhen Zhang vs Vit Kopriva - Round 1  | ATP 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20887.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=de0eabfcc016b7f6215bed20f5b8873937bb38650a84182beb8a397c9ad3ff4d|1777454632
-https://aspaltvpasti.top/3TULAR/20887.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=3e748d6c3053174ad5bb5862b202c836bb48ae5a144a4ae0be76ffc1f7effc94|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20887.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=28c4b4c6d1dc1be870a4f1d0ea547b414724be0ec386e4fbc86f519a7a1d41e3|1777454956
+https://aspaltvpasti.top/3TULAR/20887.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=7c564f2a9d1ad3c90bf3a3b8695144e5c828a05723aaaa729af2b9dc972b43c3|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="beINSports.my" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg", 🇮🇩  15:50-17:40 WIB - LaLiga : Girona Vs Real Betis [MY: beIN Sports]
 http://eyay.gw.lt:80///kontol8/157561
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="12160" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/5e23feca6c940eaf37b220fa1b72c6ad.svg", ⚠️  15:55-18:05 WIB - LALIGA: Athletic Club v Osasuna [CH: V Sport Live 1]
@@ -307,108 +305,108 @@ http://eyay.gw.lt:80///kontol8/295312
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20955.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=db839a05c0915c1b974a1416a675fd3d3a8649cc520ffc65b72b55fc65b1b616|1777454632
-https://maling.pl/20955.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=db839a05c0915c1b974a1416a675fd3d3a8649cc520ffc65b72b55fc65b1b616|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/20955.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=e3b5188aaa53aa9c9e6e8579c24d57b60b49f2fc236eb8a89d41563be7ab4ee5|1777454956
+https://maling.pl/20955.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=e3b5188aaa53aa9c9e6e8579c24d57b60b49f2fc236eb8a89d41563be7ab4ee5|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VJXW3ybySLopg-b6jJ86yLCH8AM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022272/c5a5a6.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Zizou Bergs vs Marin Cilic - Round 1 | ATP 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20955.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=25bf53ffcb74b514adf859a17abf2b2725f22e5cd4f47a96e9897afec8f267dc|1777454632
-https://aspaltvpasti.top/3TULAR/20955.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=2d795f4da07b9c4169f7265783ec92b850e3862949197db181064e2167c4ebac|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/20955.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=70a425e31a2b7077367c080d6119c4b35b23656cdf487f1b9dc57e9aa490f441|1777454956
+https://aspaltvpasti.top/3TULAR/20955.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=e035d1e439aca45c8b4d5794b0eb568d0269ad4add8c5f07cbdde3cef430c38c|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/uEV9AL1Fx_16x9GjkQEKVQu-wVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020473/68b405.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Brussels P2 Premier Padel 2026 - Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/17875.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=987fa5d72c9d05ec6d4451ef76af2da4ba151e061302eeadb7fa298d3c717e36|1777454632
-https://maling.pl/17875.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=987fa5d72c9d05ec6d4451ef76af2da4ba151e061302eeadb7fa298d3c717e36|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/17875.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=2b9743a5b74aa050845ec51ca5a14099dc44d2eaf418470bd0188652fb223343|1777454956
+https://maling.pl/17875.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=2b9743a5b74aa050845ec51ca5a14099dc44d2eaf418470bd0188652fb223343|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/uEV9AL1Fx_16x9GjkQEKVQu-wVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020473/68b405.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Brussels P2 Premier Padel 2026 - Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/17875.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=d68e69c9d85b3c2a066cb5a1079773cae717157c90d1857ef12e7991e36974c7|1777454632
-https://aspaltvpasti.top/3TULAR/17875.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=1d5b5bd2d9e14759a64bc34439cd3abeab20474d95f57521ad42274fb0b93930|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/17875.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=2f33a031cd30e316a97b3e31a437466cb0a1c90ae500d97ad3fc45e1281e61cc|1777454956
+https://aspaltvpasti.top/3TULAR/17875.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=0abc1376de0199aff86ef6c991a371c395498bb3e2077d231f0ac9f5b35348bd|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/LqB2ZF24mGloUpTm_CLW7858IAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021677/2d690e.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Day 1 - WTA 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6786.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b8f159f9b5ed20f39ac10b9d44ad60d95691f97a221345107a89e4143364630e|1777454632
-https://maling.pl/6786.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b8f159f9b5ed20f39ac10b9d44ad60d95691f97a221345107a89e4143364630e|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6786.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=d7728b8f1e5bcd72cd4e0b3904eebf1d23c1356f25da607ad6ee9bfc48b03140|1777454956
+https://maling.pl/6786.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=d7728b8f1e5bcd72cd4e0b3904eebf1d23c1356f25da607ad6ee9bfc48b03140|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/LqB2ZF24mGloUpTm_CLW7858IAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021677/2d690e.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Day 1 - WTA 1000: Mutua Madrid Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/6786.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=098633da4d7ca0875121c3c9e6cbefd75c6410c74b2fe356693aece0b279aa76|1777454632
-https://aspaltvpasti.top/3TULAR/6786.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=26ee4173b9cb5db748ee0e796a909ad7a7e5cecdc813503b6934de9352ae3c4a|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/6786.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=3f3a8e105215782bcea6e0ce87524e018ea1ae5007d5444b980eb8de751ed2a2|1777454956
+https://aspaltvpasti.top/3TULAR/6786.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=a1c12c9d4509011950308f00cde6464a83b2e882be4e5d041a36554d3a5bd87d|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/IehD7pkq0_ZoC5jgFAEXAyRf15A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021948/4b51af.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Vasudha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b545eee2794b8c1c1947ad4534f6cdaabda5b146e896cc2fb839d8da908a4cb8|1777454632
-https://maling.pl/782.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=b545eee2794b8c1c1947ad4534f6cdaabda5b146e896cc2fb839d8da908a4cb8|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=1fd5ff5f459515d5bf52d782d51c63c09f1982947fb8607ae05dea55293e369d|1777454956
+https://maling.pl/782.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=1fd5ff5f459515d5bf52d782d51c63c09f1982947fb8607ae05dea55293e369d|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/IehD7pkq0_ZoC5jgFAEXAyRf15A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021948/4b51af.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Vasudha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/782.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=0056abbbf2d23838043858d338183adfa1d06eaa181ffc227dc12ea3ad70c20e|1777454632
-https://aspaltvpasti.top/3TULAR/782.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=773f2f19c1e6893ebf1d0f7a140359b440e5bb89de066ec95fe6aeb018455f73|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/782.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=5f2e726c8213a60adee939683888fa766437e553620833e3d6210fb547d6d628|1777454956
+https://aspaltvpasti.top/3TULAR/782.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=a1fb39a6b881ddf389c97f4c5f0e8116e5b4db66ce88bc5ba23aa4347ba66a12|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Y3xnlO-6Mow7Sp4x69Kq1VHkjT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018390/108c6b.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Makan Receh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/734.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=a42ac1a91a56527bd826ef30740309851c8ff81c31dd965cd451cd81b1beda56|1777454632
-https://maling.pl/734.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=a42ac1a91a56527bd826ef30740309851c8ff81c31dd965cd451cd81b1beda56|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/734.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=09fea966b17796cb903d60c9e37e2dc7abb0e3a38bc5aac98cbe97508dcee2d1|1777454956
+https://maling.pl/734.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=09fea966b17796cb903d60c9e37e2dc7abb0e3a38bc5aac98cbe97508dcee2d1|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Y3xnlO-6Mow7Sp4x69Kq1VHkjT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018390/108c6b.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Makan Receh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/734.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=59e9d6b5b48a8371f29c1d8850deb97679b587aefa88b486ae0e2b3c90211f26|1777454632
-https://aspaltvpasti.top/3TULAR/734.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=1963f7d37389e2ce9229b8cbf5c08b09280df26700ccf67d1dc13d3a88ee81bc|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/734.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=c2e628f8e482143a968cd83e09ca79aca81675debce6086c2a278556378debf8|1777454956
+https://aspaltvpasti.top/3TULAR/734.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=83123b7ba03cbc6f3c0392a2f4e5dbed23a2e3f7303436db32b2132407e7135c|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/EKQeLexnMd2oHLq8J46_-qFEQm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021526/f611f7.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Kabar Petang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/783.drm?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=4b39c777b82e49b40bac2d81dd4d40f39ba030d506b6153349ec29cce1547672|1777454632
-https://maling.pl/783.mpd?dev_kaki_09&t=1776860632&uip=2a06:98c0:3600::103&h=4b39c777b82e49b40bac2d81dd4d40f39ba030d506b6153349ec29cce1547672|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/783.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=bbc93630a90554e20ac34f60b20b02f2bc09d22a8402993fbd7e6ea9818c8591|1777454956
+https://maling.pl/783.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=bbc93630a90554e20ac34f60b20b02f2bc09d22a8402993fbd7e6ea9818c8591|1777454956
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/EKQeLexnMd2oHLq8J46_-qFEQm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021526/f611f7.jpg", ⚠️  16:00-18:00 WIB - 22/04/26 Kabar Petang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/783.drm?exp=1776860632&uip=2a06:98c0:3600::103&sign=6312e2f49659e315a550ea14bb09d0c224cc46d7871f3f543ac5cc0d67eeb949|1777454632
-https://aspaltvpasti.top/3TULAR/783.mpd?exp=1776860632&uip=2a06:98c0:3600::103&sign=39547ec975d958d6bc503ead4380c5011fde509af77b5d6262c392ed807f17d2|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/783.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=132345e27e9b804d5402dc9926b883834195bc4ceee898fe3cf58f1e5a8cb9e5|1777454956
+https://aspaltvpasti.top/3TULAR/783.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=f5e2a4ea5133151a6a30272aecd910551e08485239aa98404d5a4e95aa5d77c5|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/559/726559-SNAPSHOT-m.jpg", ⚠️  16:00-18:00 WIB - • 22/04)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/112.mancok?exp=1776860632&sign=aebf73ffe00c3ea205b36c3915a73e730e6a069e5bbe2c5bdd61962021056e8c|1777454632
-https://vision.xxx3x.workers.dev/112.mpd?exp=1776860632&sign=42e2641c2e9d4193be080543e43f815d53e93f0573e5b241f3899912874c6392|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/112.mancok?exp=1776860956&sign=759cf4cd99b79e835c33649d3fdb43fa2e14484c611b16eeb3650dbf9dc336ac|1777454956
+https://vision.xxx3x.workers.dev/112.mpd?exp=1776860956&sign=c2e090903a4ff2f8d7229440acd14d0a458f27579030b5308dc3ae9871958653|1777454956
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/531/725531-SNAPSHOT-m.jpg", ⚠️  16:00-18:00 WIB - • 22/04)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/123.mancok?exp=1776860632&sign=f3e2bd7e170af6532b3ba12001a1c799467b72e3639bf796fef3c7e8d6296fa7|1777454632
-https://vision.xxx3x.workers.dev/123.mpd?exp=1776860632&sign=8e08796250612cf6b0b406c768555e674af0167de3a71f0f00b49b07b375304e|1777454632
+#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/123.mancok?exp=1776860956&sign=2ed961b6ffad5e26ce288fe4190bf2286a9cb2a4c1377aec9ff5a412266b3e6b|1777454956
+https://vision.xxx3x.workers.dev/123.mpd?exp=1776860956&sign=50c71964831a151cc399887d105c24cd8b7afa65c54f4ec071b16e4a1bef8951|1777454956
 #EXTINF:-1 tvg-uid="8eb7199ba26d7a835bc2bd102b516946" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/vb1iitidxqz42m.png", ⚠️  16:00-18:00 WIB - ) Mutua Madrid Open: Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/6/chunks.m3u8?is_vip=true&token=dara-jvppcmoc&x-sign=1d5134320a9e9c94bda5dcd491ff50ce&x-time=1776849600
+https://livecdn-bp-dara.maypn.stream/stream/6/chunks.m3u8?is_vip=true&token=dara-bsgrwti4&x-sign=51ee5a8f1f451ff3c4e96cbde1db98e2&x-time=1776849900
 #EXTINF:-1 tvg-uid="8c6538237906f2d881c4033c08dea649" data-source="AXSPORTS Event" tvg-timestamp="1776848400" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB%20%5BServer%201%5D.jpg", ⚠️  16:00-18:00 WIB - ]  Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -443,14 +441,28 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&
 http://eyay.gw.lt:80///kontol8/71457
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="5862" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  16:15-18:00 WIB - Cupa Romaniei: FC Arges-Universitatea Cluj Semifinale [RO: DIGI Sport 1 4K]
 http://eyay.gw.lt:80///kontol8/267997
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png", ⚠️ ⏳ 16:30-19:30 WIB - MLB Baseball
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=mlbbaseball_1776875400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/bo2tmgCDXgX4kxBviRmEW1NmU0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021374/bc2d8f.jpg", 🇮🇩 ⏳ 16:30-18:30 WIB - 22/04/26 Dream Box Indonesia
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=220426dreamboxindonesia_1776875400.0
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="470873" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a53f84431bcf29de008a0011c8ff5c64.png", ⚠️  16:30-19:30 WIB - MLB Baseball [CA: SportsNet One]
+http://eyay.gw.lt:80///kontol8/3378
+#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="465163" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png", ⚠️  16:30-19:30 WIB - MLB Baseball [US: NBC Sports Bay Area]
+http://eyay.gw.lt:80///kontol8/45785
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/bo2tmgCDXgX4kxBviRmEW1NmU0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021374/bc2d8f.jpg", 🇮🇩  16:30-18:30 WIB - 22/04/26 Dream Box Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/733.drm?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=8c17a814f9ba467393a0da1c87395cdcf2525ed86baf7e7a31a1cbdcb76bd9df|1777454956
+https://maling.pl/733.mpd?dev_kaki_09&t=1776860956&uip=2a06:98c0:3600::103&h=8c17a814f9ba467393a0da1c87395cdcf2525ed86baf7e7a31a1cbdcb76bd9df|1777454956
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/bo2tmgCDXgX4kxBviRmEW1NmU0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021374/bc2d8f.jpg", 🇮🇩  16:30-18:30 WIB - 22/04/26 Dream Box Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/3TULAR/733.drm?exp=1776860956&uip=2a06:98c0:3600::103&sign=11a11d0d45439bd940fdb220e89e832f80f094feb26227712e3ce56664e3d5a0|1777454956
+https://aspaltvpasti.top/3TULAR/733.mpd?exp=1776860956&uip=2a06:98c0:3600::103&sign=b94e1d99cbf1d118d1814066403269ee7d39717de7c8d1c3b232a3a7dee52508|1777454956
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/8CRYe5RTQZytNJPz7Db-H-PPfu4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017554/af0647.jpg", ⚠️ ⏳ 16:35-18:35 WIB - 22/04/26 Adit Sopo Jarwo
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=220426aditsopojarwo_1776875700.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg", ⚠️ ⏳ 16:54-18:54 WIB - 14/04/26 All In Buat Neng Salad Buah
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=140426allinbuatnengsaladbuah_1776876840.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg", ⚠️ ⏳ 16:54-18:54 WIB - 14/04/26 Kopi & Susu Aja Bisa Bersatu, Aku & Kamu Kapan?
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=140426kopisusuajabisabersatuakukamukapan_1776876840.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png", 🇮🇩 ⏳ 17:00-19:00 WIB - Joventut – Baskonia. Basket. Liga Spanyol
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=joventutbaskoniabasketligaspanyol_1776877200.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0cbb5978c829aecd89ee19dffae6bb33.png", ⚠️ ⏳ 17:00-19:00 WIB - Newcastle – Bournemouth. Sepakbola. Liga Inggris
@@ -935,8 +947,8 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=iemriofalcon
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=motogpusasgprace_1776938400.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg", ⚠️ ⏳ 10:00-12:00 WIB - 0 Timmar
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0timmar_1776938400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg", ⚠️ ⏳ 10:00-12:00 WIB - 02/05/24 La Petite Pokou
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=020524lapetitepokou_1776938400.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg", ⚠️ ⏳ 10:00-12:00 WIB - 02/05/24 Il Etait Une Fois... Ces Droles D'Objets
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=020524iletaitunefoiscesdrolesdobjets_1776938400.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg", ⚠️ ⏳ 10:00-12:00 WIB - 21/10/20 Celebrity Fresh
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=211020celebrityfresh_1776938400.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png", ⚠️ ⏳ 10:24-12:30 WIB - LALIGA EA SPORTS (T25/26): Barcelona – Celta
