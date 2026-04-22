@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 17:07 WIB
+**Diperbarui pada:** 22-04-2026 17:13 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -126,7 +126,6 @@
 - ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
 - ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** RS: Sport Klub ESports cocok [fz] (497492)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
@@ -968,6 +967,7 @@
 -  **[KS]** RS: Sport Klub 4 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 6 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 7 tidak cocok id epg
+-  **[KS]** RS: Sport Klub ESports tidak cocok id epg
 -  **[KS]** RS: Cinestar TV Premiere 1 tidak cocok id epg
 -  **[KS]** RS: Cinestar TV Premiere 2 tidak cocok id epg
 -  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
