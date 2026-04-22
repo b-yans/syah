@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 11:43 WIB
+**Diperbarui pada:** 22-04-2026 11:48 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -71,8 +71,6 @@
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
-- ⚠️ **[FZ]** GR: Cosmote Sport 4 cocok [fz] (476565)
-- ⚠️ **[FZ]** GR: Cosmote Sport 4 [vip] cocok [fz] (476565)
 - ⚠️ **[FZ]** HK: Now Sports 2 cocok [fz] (532221)
 - ⚠️ **[FZ]** HK: Now Sports 4 cocok [fz] (532220)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
@@ -649,6 +647,8 @@
 -  **[KS]** GR: Cosmote Sport 2 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 3 tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 3 [vip] tidak cocok id epg
+-  **[KS]** GR: Cosmote Sport 4 tidak cocok id epg
+-  **[KS]** GR: Cosmote Sport 4 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 5 tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 5 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 6 tidak cocok id epg
