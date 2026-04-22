@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 22:55 WIB
+**Diperbarui pada:** 22-04-2026 23:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -48,8 +48,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
-- ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
@@ -69,7 +67,6 @@
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
-- ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
@@ -83,7 +80,6 @@
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
 - ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fz] (532979)
-- ⚠️ **[FZ]** QA: beIN Sports 7 cocok [fz] (532980)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fz] (381835)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 3 cocok [fz] (381834)
@@ -140,14 +136,12 @@
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Sky Sports Action cocok [fz] (494413)
-- ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
-- ⚠️ **[FZ]** US: beIN Sports 7 cocok [fz] (532980)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
 - ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
@@ -460,6 +454,8 @@
 -  **[KS]** DE: Sky Sport 7 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 8 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 9 tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Golf tidak cocok id epg
 -  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
@@ -761,6 +757,7 @@
 -  **[KS]** IT: Rai Sport tidak cocok id epg
 -  **[KS]** IT: Sky Sport 24 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
+-  **[KS]** IT: Sky Sport F1 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Golf tidak cocok id epg
 -  **[KS]** IT: Sky Sport Max tidak cocok id epg
 -  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
@@ -911,6 +908,7 @@
 -  **[KS]** QA: beIN Sports 3 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 4 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 5 tidak cocok id epg
+-  **[KS]** QA: beIN Sports 7 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 8 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 9 tidak cocok id epg
 -  **[KS]** QA: beIN Sports AFC 1 tidak cocok id epg
@@ -1122,6 +1120,7 @@
 -  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports F1 tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
@@ -1191,6 +1190,7 @@
 -  **[KS]** US: beIN Sports tidak cocok id epg
 -  **[KS]** US: beIN Sports 4 tidak cocok id epg
 -  **[KS]** US: beIN Sports 5 tidak cocok id epg
+-  **[KS]** US: beIN Sports 7 tidak cocok id epg
 -  **[KS]** US: beIN Sports 8 tidak cocok id epg
 -  **[KS]** US: CBS Sports Network tidak cocok id epg
 -  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
@@ -1393,12 +1393,12 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Spartak Kostroma 🆚 SKA Khabarovsk🛡️|🛡️20:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Panserraikos 🆚 Atromitos Athens🛡️|🛡️20:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️HNK Vukovar 1991 🆚 HNK Gorica🛡️|🛡️20:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ural Yekaterinburg 🆚 Torpedo Moscow🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 AE Kifisias🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mosul FC 🆚 Al-Naft SC🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Ufa 🆚 KAMAZ Naberezhnye Chelny🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mexico U16 🆚 England U16🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Metalist 1925 Kharkiv 🆚 FC Chernigiv🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ural Yekaterinburg 🆚 Torpedo Moscow🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 AE Kifisias🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mosul FC 🆚 Al-Naft SC🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Ufa 🆚 KAMAZ Naberezhnye Chelny🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mexico U16 🆚 England U16🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Metalist 1925 Kharkiv 🆚 FC Chernigiv🛡️|🛡️21:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Neftekhimik Nizhnekamsk 🆚 Chernomorets Novorossijsk🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TJ Start Brno 🆚 Hodonin Sardice🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain Women 🆚 RC Saint Etienne Women🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
