@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 03:05 WIB
+**Diperbarui pada:** 23-04-2026 03:11 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1416,23 +1416,29 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Istra 1961 🆚 Dinamo Zagreb🛡️|🛡️01:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sturm Graz 🆚 LASK Linz🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Fenix Pilar 🆚 El Porvenir🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Numia Vero Volley Milano Women 🆚 Imoco Volley Conegliano Women🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Brugge 🆚 KV Mechelen🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union Saint-Gilloise 🆚 KAA Gent🛡️|🛡️01:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlton Athletic 🆚 Ipswich Town🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cardiff City 🆚 Port Vale🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayer 04 Leverkusen 🆚 FC Bayern Munich🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayer 04 Leverkusen 🆚 FC Bayern Munich🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birmingham City 🆚 Preston North End🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Sheffield Wednesday🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sheffield United 🆚 Blackburn Rovers🛡️|🛡️01:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Burnley 🆚 Manchester City🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Burnley 🆚 Manchester City🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bournemouth AFC 🆚 Leeds United🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bournemouth AFC 🆚 Leeds United🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Barcelona 🆚 RC Celta🛡️|🛡️02:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Barcelona 🆚 RC Celta🛡️|🛡️02:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Hari ke-1 Kompetisi Olahraga Jeollanam-do untuk Penyandang Disabilitas (Biliar) ke-34 | 10.45 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1445,6 +1451,11 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
+-  **[KS]** INDOSIAR+ tidak cocok id epg
+-  **[KS]** SCTV+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 2+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1481,6 +1492,7 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
+-  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
