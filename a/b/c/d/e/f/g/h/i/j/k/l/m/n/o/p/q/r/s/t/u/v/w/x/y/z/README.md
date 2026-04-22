@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 09:10 WIB
+**Diperbarui pada:** 22-04-2026 09:15 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1398,10 +1398,12 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pumas U.N.A.M. 🆚 FC Juarez🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Andrew Lions 🆚 Wotton FC🛡️|🛡️08:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 otomatis masuk jadwal
-- ⚠️ **[BASI]** Boston Celtics vs Philadelphia 76ers • National Basketball Association | 06:00 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** San Antonio Spurs vs Portland Trail Blazers • National Basketball Association | 07:00 WIB • 22/04/2026 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** San Nicolas vs SV Caravel • Aruba: Division di Honor | 07:30 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** Queretaro vs Cruz Azul • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** U.N.A.M.- Pumas vs Juarez • Meksiko: Liga MX | 08:00 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
