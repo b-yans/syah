@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 14:56 WIB
+**Diperbarui pada:** 22-04-2026 15:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -59,10 +59,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
-- ⚠️ **[FZ]** DE: ESports 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: ESports 1 [SAT] [VIP] cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fz] (76707)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
@@ -156,7 +152,6 @@
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
 - ⚠️ **[FZ]** SE: V Sport Ultra cocok [fz] (480584)
-- ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
@@ -558,6 +553,8 @@
 -  **[KS]** DE: Auto Motor Sport tidak cocok id epg
 -  **[KS]** DE: Edge Sport tidak cocok id epg
 -  **[KS]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: ESports 1 tidak cocok id epg
+-  **[KS]** DE: ESports 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 2 tidak cocok id epg
@@ -603,6 +600,8 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
+-  **[KS]** DE: Sport 1 tidak cocok id epg
+-  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
 -  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
 -  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
@@ -1041,6 +1040,7 @@
 -  **[KS]** CH: Blue Sport D2 tidak cocok id epg
 -  **[KS]** CH: Eurosport 1 tidak cocok id epg
 -  **[KS]** CH: Eurosport 2 tidak cocok id epg
+-  **[KS]** CH: MySports 1 tidak cocok id epg
 -  **[KS]** CH: MySports 2 tidak cocok id epg
 -  **[KS]** CH: MySports 3 tidak cocok id epg
 -  **[KS]** CH: MySports 4 tidak cocok id epg
@@ -1395,7 +1395,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 🛡️|🛡️14:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️National United SC 🆚 Sudeva Delhi🛡️|🛡️14:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Hari ke-2 Festival Olahraga Jeollanam-do untuk Penyandang Cacat ke-34, Gurye-gun | 07.15 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1409,11 +1408,6 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** INDOSIAR+ tidak cocok id epg
--  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1450,7 +1444,6 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
