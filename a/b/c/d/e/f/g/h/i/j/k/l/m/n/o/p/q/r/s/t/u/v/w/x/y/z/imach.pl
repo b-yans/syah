@@ -39,17 +39,17 @@ http://eyay.gw.lt:80///kontol8/7765
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=39e5b2837fd0e2bdff94d07e0ec4e11e&wsABSTime=1776943542
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=63448d96f977f53a5c3dcb90a1af49ce&wsABSTime=1776944442
 #EXTINF:-1 tvg-uid="af7378ea4ce2a4ae620304152eac3ece" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpp5m7vx/image/small", ⚠️  05:00-07:00 WIB - GOIAS EC VS CRUZEIRO
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=4d598a770c99f0460f9ffd5a280d66bf&wsABSTime=1776943543
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=879f09cef6d8b74a7b5436692c4b3304&wsABSTime=1776944442
 #EXTINF:-1 tvg-uid="a97debd6e00c5a1b19ffb4accf6fe82a" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghj8lpq82w/image/small", ⚠️  05:00-07:00 WIB - CLUB ATLETICO ACASSUSO VS GIMNASIA LA PLATA
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=47fa06501a8c78fb3c1024d04adb0143&wsABSTime=1776943543
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=e1a76c5e19bc959e7ff304455ade880a&wsABSTime=1776944443
 #EXTINF:-1 tvg-uid="c8fc7a11725aacba26bdb30300bf24a9" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80", ⚠️  05:00-07:00 WIB - ) Bahia vs Remo Belem
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -77,7 +77,7 @@ http://eyay.gw.lt:80///kontol8/296560
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=a9a4297ce966eb0e58ac44c770e11910&wsABSTime=1776943544
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=81d6e619075a6eaec659006cb12291f1&wsABSTime=1776944444
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/27d3d3a92099a018adc8378454554d1e/image/small?v=1768601124", ⚠️  05:30-07:30 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -144,25 +144,15 @@ http://eyay.gw.lt:80///kontol8/71459
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm|1777506100
-https://maling.pl/782.mpd|1777506100
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm|1777506414
+https://maling.pl/782.mpd|1777506414
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/937uAexfs8ETnyKOgM1vvRvv42k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022189/ff203e.jpg", ⚠️  06:00-08:00 WIB - 23/04/26 Kasautii
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/782.drm|1777506100
-https://bostv.maling.pl/782.mpd|1777506100
-#EXTINF:-1 tvg-uid="106b1a2b2afaa4a293d7e11c4aa11021" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/jednm9ktl5gryox/image/small", ⚠️  06:00-08:00 WIB - DETROIT PISTONS VS ORLANDO MAGIC
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=73c869fdcc21d3bb19096a2ce3457307&wsABSTime=1776943547
-#EXTINF:-1 tvg-uid="34b5461fb7092ac381e094fec5bd0e7c" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80", ⚠️  06:00-08:00 WIB - ) Detroit Pistons vs Orlando Magic
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/90865415.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/782.drm|1777506414
+https://bostv.maling.pl/782.mpd|1777506414
 #EXTINF:-1 tvg-expire="1776916800" tvg-start="1776898800" tvg-uid="0da356a1da0b3013f51eabd1a2640dab" data-source="Center" tvg-chno="10" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png", ⚠️  06:00-08:00 WIB - ]  Orlando Magic at Detroit Pistons
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz/
@@ -171,6 +161,11 @@ https://edge2caster.pro/hls/mlkijfezag65.m3u8?st=cizumVJyanYHHoDPuUt7_KKxgzHewOI
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz/
 https://edge2caster.pro/hls/uyopzarf50.m3u8?st=mCDqRJqqiI2D1ZeFSaUXEcoL-Zd8-hnjIeqEJu_JUxk&e=1776909652
+#EXTINF:-1 tvg-uid="34b5461fb7092ac381e094fec5bd0e7c" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80", ⚠️  06:00-08:00 WIB - ) Detroit Pistons vs Orlando Magic
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124", ⚠️  06:00-08:00 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -197,15 +192,15 @@ https://mainstreams.pro/hls/fskjanach24.m3u8?st=qlFRmxgr1G-mBRvqi3bSRb0WP5LacECx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/206.drm|1777506100
-https://maling.pl/206.mpd|1777506100
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/206.drm|1777506414
+https://maling.pl/206.mpd|1777506414
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/JmVAqgWYIRMrbs6OCrjs_oAS0zc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020796/f4cd73.jpg", ⚠️  06:15-08:15 WIB - 23/04/26 Liputan 6 Pagi Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/206.drm|1777506100
-https://bostv.maling.pl/206.mpd|1777506100
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/206.drm|1777506414
+https://bostv.maling.pl/206.mpd|1777506414
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/0980e8c4933b10aca16e3ba5b123f4f6/image/small?v=1768601124", ⚠️  06:20-08:20 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -216,7 +211,7 @@ https://live.alilicloud.com/live/50b64c4ed184c11ebf6a54e826b6e792/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=b63c11181ad85a54d969992b31974ffd&wsABSTime=1776943546
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=f89f6e13c940455835d70763f8ba4e58&wsABSTime=1776944446
 #EXTINF:-1 tvg-uid="f757e22f18dd544d589dbb8edd4c2158" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80", ⚠️  06:30-08:30 WIB - ) Columbus Crew vs LA Galaxy
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -226,7 +221,7 @@ https://live5.msrktz.app/live/14707124.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=1435670d0ff4ca63e21cb175b5757150&wsABSTime=1776943547
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=6968dac55149b5892897c1280bc106e4&wsABSTime=1776944447
 #EXTINF:-1 tvg-uid="c75e432c4000746d5304e8692e085ccc" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80", ⚠️  06:30-08:30 WIB - ) New York City vs Cincinnati
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
