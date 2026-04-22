@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 14:13 WIB
+**Diperbarui pada:** 22-04-2026 14:18 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,8 +1390,8 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nanjing Longsheng 🆚 Ji'nan Linksafe🛡️|🛡️12:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yangzhou Sanwan Ledao 🆚 Shanghai Zetian🛡️|🛡️12:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
