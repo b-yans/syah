@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 06:25 WIB
+**Diperbarui pada:** 23-04-2026 06:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -69,7 +69,6 @@
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[FZ]** ID: MNC TV cocok [fz] (MNCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
@@ -717,6 +716,7 @@
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Sony Sports Ten 2 (Sony Ten 2) tidak cocok id epg
 -  **[KS]** IN: Sony Sports Ten 3 (Sony Ten 3) tidak cocok id epg
+-  **[KS]** IN: Star Sports 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports 3 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
