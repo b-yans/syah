@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 17:28 WIB
+**Diperbarui pada:** 22-04-2026 17:37 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -70,7 +70,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
-- ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[EXACT]** ID: RCTI cocok (RCTI.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
@@ -737,6 +736,7 @@
 -  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 3 tidak cocok id epg
+-  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
 -  **[KS]** ID: MNC TV tidak cocok id epg
@@ -1394,6 +1394,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Farul Constanta Women 🆚 Olimpia Cluj Women🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Kunshan Zhangpu🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Jiangsu Changjin🛡️|🛡️15:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Laos U17 🆚 Malaysia U17🛡️|🛡️15:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmerston 🆚 Port Darwin FC🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhytomyr Women 🆚 Pantery Uman Women🛡️|🛡️16:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BRTC Sports Club 🆚 Khelaghar Samaj Kalyan Samiti🛡️|🛡️16:30 22/04/2026🛡️ otomatis masuk jadwal
