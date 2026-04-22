@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 07:09 WIB
+**Diperbarui pada:** 22-04-2026 07:15 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,14 +1391,14 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Merlo 🆚 Comunicaciones BsAs🛡️|🛡️05:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Juventude🛡️|🛡️05:15 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Juventude🛡️|🛡️05:15 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grêmio - RS 🆚 AD Confiança🛡️|🛡️05:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn FC 🆚 Sacramento Republic FC🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Reserves 🆚 Racing Club Reserves🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brittons Hill 🆚 Bagatelle SS🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Reserves 🆚 Racing Club Reserves🛡️|🛡️06:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** Rd16 (Crt 1) • Yonex All England Open Badminton Championships 2026 | 05:00 WIB • 22/04/2026 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** Sao Paulo vs Juventude • Brazil: Copa do Brasil | 05:15 WIB • 22/04/2026 otomatis masuk jadwal
+- ⚠️ **[BASI]** Sao Paulo vs Juventude • Brazil: Copa do Brasil | 05:15 WIB • 22/04/2026 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Boston Celtics vs Philadelphia 76ers • National Basketball Association | 06:00 WIB • 22/04/2026 otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
