@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 06:46 WIB
+**Diperbarui pada:** 23-04-2026 06:52 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1398,15 +1398,17 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sarasota Paradise 🆚 Corpus Christi FC🛡️|🛡️05:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Santos Fc - SP 🆚 Coritiba SAF - PR🛡️|🛡️05:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 FC Cajamarca🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barcelona SC(ECU) 🆚 Mushuc Runa🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️DC Power Women 🆚 Fort Lauderdale Utd (W)🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barcelona SC(ECU) 🆚 Mushuc Runa🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Boyaca Chico🛡️|🛡️06:20 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Columbus Crew 🆚 Los Angeles Galaxy🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York Red Bulls 🆚 DC United🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orlando City 🆚 Charlotte FC🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 Internacional - RS🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York City FC 🆚 FC Cincinnati🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rhode Island 🆚 Charleston Battery🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Toronto FC 🆚 Philadelphia Union🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York City FC 🆚 FC Cincinnati🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlanta United 🆚 New England Revolution🛡️|🛡️06:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [23 Apr 2026 12:00 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
