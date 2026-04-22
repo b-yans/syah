@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:48 WIB
+**Diperbarui pada:** 23-04-2026 00:54 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -126,7 +126,6 @@
 - ⚠️ **[FZ]** ES: DAZN LaLiga 2 cocok [fz] (406530)
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
-- ⚠️ **[FZ]** SE: V Sport Football cocok [fz] (537102)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
 - ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
@@ -1010,6 +1009,7 @@
 -  **[KS]** ES: FOX SPORTS 3 tidak cocok id epg
 -  **[KS]** SUR: DirecTV Sports tidak cocok id epg
 -  **[KS]** SUR: TyC Sports tidak cocok id epg
+-  **[KS]** SE: V Sport Football tidak cocok id epg
 -  **[KS]** SE: Eurosport 1 tidak cocok id epg
 -  **[KS]** SE: Eurosport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
