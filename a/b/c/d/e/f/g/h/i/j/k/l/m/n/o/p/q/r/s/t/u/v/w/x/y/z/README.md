@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 04:55 WIB
+**Diperbarui pada:** 23-04-2026 05:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,10 +1390,10 @@
 ---
 
 ### 📁 ?PEEL=ON
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Always Ready 🆚 Oriente Petrolero🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atalanta 🆚 Lazio🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS FAR Rabat 🆚 Renaissance de Berkane🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RC Strasbourg Alsace 🆚 OGC Nice🛡️|🛡️02:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Sporting Cristal🛡️|🛡️03:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cuenca 🆚 Orense SC🛡️|🛡️03:30 23/04/2026🛡️ otomatis masuk jadwal
