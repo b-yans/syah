@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 21:33 WIB
+**Diperbarui pada:** 22-04-2026 21:39 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,29 +1390,31 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preah Khan Reach Svay Rieng FC 🆚 Bangkok United FC🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Qingdao West Coast 🆚 Henan FC🛡️|🛡️18:35 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vietnam U17 🆚 Australia U17🛡️|🛡️19:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Balcatta Women 🆚 Perth RedStar Women🛡️|🛡️19:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Kostroma 🆚 SKA Khabarovsk🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Panserraikos 🆚 Atromitos Athens🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Kostroma 🆚 SKA Khabarovsk🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️HNK Vukovar 1991 🆚 HNK Gorica🛡️|🛡️20:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Muras United FC 🆚 Al Kuwait SC🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Shorta 🆚 Al Qasim SC🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 AE Kifisias🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mexico U16 🆚 England U16🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Metalist 1925 Kharkiv 🆚 FC Chernigiv🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Ufa 🆚 KAMAZ Naberezhnye Chelny🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mosul FC 🆚 Al-Naft SC🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ural Yekaterinburg 🆚 Torpedo Moscow🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Metalist 1925 Kharkiv 🆚 FC Chernigiv🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mexico U16 🆚 England U16🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Ufa 🆚 KAMAZ Naberezhnye Chelny🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 AE Kifisias🛡️|🛡️21:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Neftekhimik Nizhnekamsk 🆚 Chernomorets Novorossijsk🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sokol Saratov 🆚 Yenisey Krasnoyarsk🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TJ Start Brno 🆚 Hodonin Sardice🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gazovik Orenburg 🆚 FC Pari Nizhniy Novgorod🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gazovik Orenburg 🆚 FC Pari Nizhniy Novgorod🛡️|🛡️21:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Hari ke-1 Kompetisi Olahraga Jeollanam-do untuk Penyandang Disabilitas (Biliar) ke-34 | 10.45 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1426,6 +1428,11 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
+-  **[KS]** INDOSIAR+ tidak cocok id epg
+-  **[KS]** SCTV+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 2+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1462,6 +1469,7 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
+-  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
