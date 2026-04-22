@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 19:37 WIB
+**Diperbarui pada:** 22-04-2026 19:43 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,25 +1390,25 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️BRTC Sports Club 🆚 Khelaghar Samaj Kalyan Samiti🛡️|🛡️16:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Khoromkhon FC 🆚 Hunters FC🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sejong Sportstoto WFC 🆚 Suwon FC Women🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vatika FC 🆚 Royal Rangers FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Khoromkhon FC 🆚 Hunters FC🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Pohang Steelers 🆚 Gwangju Football Club🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vatika FC 🆚 Royal Rangers FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Darwin Hearts 🆚 Casuarina FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Subiaco AFC 🆚 Quinns FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Preah Khan Reach Svay Rieng FC 🆚 Bangkok United FC🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qingdao West Coast 🆚 Henan FC🛡️|🛡️18:35 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Balcatta Women 🆚 Perth RedStar Women🛡️|🛡️19:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
