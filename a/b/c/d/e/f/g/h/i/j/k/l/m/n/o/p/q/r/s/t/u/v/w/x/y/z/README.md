@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:32 WIB
+**Diperbarui pada:** 23-04-2026 00:38 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1444,6 +1444,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus Fremad 🆚 Middelfart Boldklub🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Steinkjer (W) 🆚 Tiller (W)🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Nassr FC 🆚 Al-Ahli Doha🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Zenit St. Petersburg 🆚 Novosibirsk🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Copenhagen 🆚 Odense BK🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Flora Tallinn 🆚 Trans Narva🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arsenal Tula 🆚 FK Chelyabinsk🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
