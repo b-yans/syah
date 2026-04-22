@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 01:59 WIB
+**Diperbarui pada:** 23-04-2026 02:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -94,7 +94,6 @@
 - ⚠️ **[FZ]** QA: beIN Sports Xtra 2 cocok [fz] (413152)
 - ⚠️ **[FZ]** QA: beIN Sports Xtra 3 cocok [fz] (413152)
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
-- ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fz] (5864)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
@@ -145,7 +144,6 @@
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
-- ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
@@ -929,6 +927,7 @@
 -  **[KS]** RO: Antena Sport tidak cocok id epg
 -  **[KS]** RO: DIGI Sport 1 tidak cocok id epg
 -  **[KS]** RO: DIGI Sport 1 4K tidak cocok id epg
+-  **[KS]** RO: DIGI Sport 3 tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
@@ -1146,6 +1145,7 @@
 -  **[KS]** UK: TNT Sports 8 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
 -  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
+-  **[KS]** UK: Ginx eSports tidak cocok id epg
 -  **[KS]** UK: World Of FreeSports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports 1 tidak cocok id epg
@@ -1434,26 +1434,26 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Marseillaises Women 🆚 Nantes Women🛡️|🛡️23:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OL Lyonnes Women 🆚 Dijon Women🛡️|🛡️23:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dynamo Moscow 🆚 Rubin Kazan🛡️|🛡️23:45 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kickers Offenbach 🆚 FSV Frankfurt🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Asteras Aktor 🆚 Panetolikos Agrinio🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Schoningen08 🆚 VfB Oldenburg🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Olympique de Safi 🆚 Renaissance Zmamra🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TSV Steinbach Haiger 🆚 TSV Schott Mainz🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Elfsborg 🆚 Djurgardens🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SSV Jeddeloh 🆚 VFB Lubeck🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orgryte 🆚 Brommapojkarna🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dila Gori 🆚 Dinamo Batumi🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KS Elbasani 🆚 Egnatia🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vasteras SK FK 🆚 Hacken🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OFK Beograd 🆚 FK Čukarički🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hammarby 🆚 Halmstads🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SG Sonnenhof Grossaspach 🆚 Freiberg🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phonix Lubeck 🆚 St Pauli II🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oliveirense 🆚 SL Benfica B🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Zeleznicar Pancevo 🆚 Crvena Zvezda🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RCD Espanyol Women 🆚 Barcelona Women🛡️|🛡️00:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kickers Offenbach 🆚 FSV Frankfurt🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Asteras Aktor 🆚 Panetolikos Agrinio🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Paris Saint Germain 🆚 FC Nantes🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Schoningen08 🆚 VfB Oldenburg🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olympique de Safi 🆚 Renaissance Zmamra🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Elche 🆚 Atletico Madrid🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️TSV Steinbach Haiger 🆚 TSV Schott Mainz🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Elfsborg 🆚 Djurgardens🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SSV Jeddeloh 🆚 VFB Lubeck🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orgryte 🆚 Brommapojkarna🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dila Gori 🆚 Dinamo Batumi🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KS Elbasani 🆚 Egnatia🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vasteras SK FK 🆚 Hacken🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️OFK Beograd 🆚 FK Čukarički🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hammarby 🆚 Halmstads🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SG Sonnenhof Grossaspach 🆚 Freiberg🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Phonix Lubeck 🆚 St Pauli II🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oliveirense 🆚 SL Benfica B🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Zeleznicar Pancevo 🆚 Crvena Zvezda🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RCD Espanyol Women 🆚 Barcelona Women🛡️|🛡️00:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Keflavik 🆚 Breidablik🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SSVg Velbert 🆚 Borussia Dortmund II🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarau 🆚 Stade Ouchy🛡️|🛡️00:30 23/04/2026🛡️ otomatis masuk jadwal
