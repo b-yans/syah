@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 05:11 WIB
+**Diperbarui pada:** 23-04-2026 05:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -107,7 +107,6 @@
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
-- ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
 - ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fz] (6829)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
@@ -153,6 +152,7 @@
 - ⚠️ **[FZ]** UK: Sky Sports Action cocok [fz] (494413)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
+- ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
@@ -930,6 +930,7 @@
 -  **[KS]** RO: DIGI Sport 3 tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
+-  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
 -  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
@@ -1137,7 +1138,6 @@
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 4 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 5 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 7 tidak cocok id epg
@@ -1391,7 +1391,7 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Porto 🆚 Sporting CP🛡️|🛡️02:45 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Sporting Cristal🛡️|🛡️03:15 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Sporting Cristal🛡️|🛡️03:15 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cuenca 🆚 Orense SC🛡️|🛡️03:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Potosi 🆚 Club Guabira🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 Botafogo PB🛡️|🛡️05:00 23/04/2026🛡️ otomatis masuk jadwal
