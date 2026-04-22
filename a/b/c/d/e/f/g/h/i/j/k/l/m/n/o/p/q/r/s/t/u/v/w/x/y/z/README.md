@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 00:54 WIB
+**Diperbarui pada:** 23-04-2026 00:59 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1409,6 +1409,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kabel Novi Sad 🆚 Borac Cacak🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rana FK (W) 🆚 Malvik (w)🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Radnik Surdulica 🆚 Novi Pazar🛡️|🛡️22:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Rzeszow Women 🆚 Budowlani Lodz Women🛡️|🛡️22:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Varteks Varazdin 🆚 Rijeka🛡️|🛡️22:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nomme JK Kalju 🆚 FC Nomme United🛡️|🛡️22:45 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Riga FC 🆚 Ogre United🛡️|🛡️23:00 22/04/2026🛡️ otomatis masuk jadwal
