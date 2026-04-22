@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 18:59 WIB
+**Diperbarui pada:** 22-04-2026 19:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -103,6 +103,7 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
 - ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fz] (5864)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
+- ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
 - ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
@@ -129,6 +130,7 @@
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
+- ⚠️ **[FZ]** ZA: SuperSport Action cocok [fz] (463710)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
 - ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
@@ -940,7 +942,6 @@
 -  **[KS]** RO: DIGI Sport 1 4K tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
--  **[KS]** RO: Prima Sport 1 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
@@ -988,7 +989,6 @@
 -  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
 -  **[KS]** ZA: NBA TV tidak cocok id epg
--  **[KS]** ZA: SuperSport Action tidak cocok id epg
 -  **[KS]** ZA: SuperSport Blitz tidak cocok id epg
 -  **[KS]** ZA: SuperSport Cricket tidak cocok id epg
 -  **[KS]** ZA: SuperSport Golf tidak cocok id epg
@@ -1390,20 +1390,27 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palmerston 🆚 Port Darwin FC🛡️|🛡️16:00 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhytomyr Women 🆚 Pantery Uman Women🛡️|🛡️16:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️BRTC Sports Club 🆚 Khelaghar Samaj Kalyan Samiti🛡️|🛡️16:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sejong Sportstoto WFC 🆚 Suwon FC Women🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Khoromkhon FC 🆚 Hunters FC🛡️|🛡️17:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pohang Steelers 🆚 Gwangju Football Club🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gamba Osaka 🆚 Avispa Fukuoka🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sejong Sportstoto WFC 🆚 Suwon FC Women🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Khoromkhon FC 🆚 Hunters FC🛡️|🛡️17:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vatika FC 🆚 Royal Rangers FC🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Daejeon Citizen 🆚 Jeju SK FC🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pohang Steelers 🆚 Gwangju Football Club🛡️|🛡️17:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Darwin Hearts 🆚 Casuarina FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Subiaco AFC 🆚 Quinns FC🛡️|🛡️18:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Preah Khan Reach Svay Rieng FC 🆚 Bangkok United FC🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qingdao West Coast 🆚 Henan FC🛡️|🛡️18:35 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
