@@ -28,15 +28,15 @@ http://eyay.gw.lt:80///kontol8/308118
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777497467
-https://maling.pl/6299.mpd|1777497467
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777497787
+https://maling.pl/6299.mpd|1777497787
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/IT-IVV4HWrOwDZYs4KsPEnHwwDo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021452/9b7e5d.jpg", ⚠️  02:25-04:25 WIB - 23/04/26 Barcelona vs Celta Vigo - LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777497467
-https://bostv.maling.pl/6299.mpd|1777497467
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777497787
+https://bostv.maling.pl/6299.mpd|1777497787
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="503053" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg", ⚠️  02:30-04:45 WIB - Premier League [NO: V Sport Premier League]
 http://eyay.gw.lt:80///kontol8/304581
 #EXTINF:-1 tvg-uid="c14a580c9b0d3bed88cb4a3d1c28ed6b" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/s78qbu3fvh7wdc.png", ⚠️  02:30-04:30 WIB - ) Barcelona vs Celta  Vigo
@@ -45,23 +45,23 @@ http://eyay.gw.lt:80///kontol8/304581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-k1cp1v0a&x-sign=c445fefaa29acf9421db3f039f7e30c5&x-time=1776892260
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-qm5dbk0h&x-sign=de7c1e02668fcac621d4ec8cc452750e&x-time=1776892560
 #EXTINF:-1 tvg-uid="e62941408822f80a4e5ebb5b1aaff575" data-source="AXSPORTS Event" tvg-timestamp="1776886200" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20VS%20Celta%20Vigo%20%20La%20Liga%20%5BServer%201%5D.jpg", ⚠️  02:30-04:30 WIB - ]  Barcelona vs Celta Vigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=9cf22eb3c31b04286ece413072ab0792a875b03e&x-sign=b1e9ae9a3893857e604e015370280f81&x-time=1776891600
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=44856fec73c52b6270a314cea39fc614c1c97c99&x-sign=c2d7f9238c0761edd43b263c847fcf9c&x-time=1776892500
 #EXTINF:-1 tvg-uid="d6ae79dd28164e7e12aa3cc8ce99a330" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small", ⚠️  02:30-04:30 WIB - BARCELONA VS RC CELTA
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=71e82156e614c2d9c28f726c9d7b0ed3&wsABSTime=1776935445
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=4cd7810548c23f95f2ee28b259adbc6d&wsABSTime=1776935742
 #EXTINF:-1 tvg-uid="cb8ec18e3dcbe3c82ad129758117f5df" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small", ⚠️  02:30-04:30 WIB - BARCELONA VS RC CELTA
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=625c48a041fd6da07a9b989f9bbb514a&wsABSTime=1776935446
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=8450230ee840afc1f639d057247b31b6&wsABSTime=1776935742
 #EXTINF:-1 tvg-expire="1776904200" tvg-start="1776886200" tvg-uid="3fd6287ded1bd01e2c69bd66f6befb2f" data-source="Center" tvg-chno="16" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png", ⚠️  02:30-04:30 WIB - ]  Celta Vigo at Barcelona
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz/
@@ -93,18 +93,18 @@ http://eyay.gw.lt:80///kontol8/290539
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-gjq558tk&x-sign=289b8ba4ebf3b4681ca44f2c3c4188db&x-time=1776892260
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-tixp67f6&x-sign=fffdbc08c0c489e21b54d1a9b924585c&x-time=1776892560
 #EXTINF:-1 tvg-uid="b1ed35cadb3dd829fc8f93ea3f1d43c1" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwl4ryk0/image/small", ⚠️  02:45-04:45 WIB - FC PORTO VS SPORTING CP
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=edbebac79ed69c3dce47ed7ed226eef1&wsABSTime=1776935447
-#EXTINF:-1 tvg-uid="ade636ac1055ba9ef201a4747aaa8921" data-source="AXSPORTS Event" tvg-timestamp="1776887100" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20VS%20Sporting%20CP%20%20Ta%C3%A7a%20de%20Portugal%20%5BServer%201%5D.jpg", ⚠️  02:45-04:45 WIB - ]  FC Porto vs Sporting CP
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=1cdfeead2469454649637feb3b0279fe&wsABSTime=1776935743
+#EXTINF:-1 tvg-uid="ade636ac1055ba9ef201a4747aaa8921" data-source="AXSPORTS Event" tvg-timestamp="1776887100" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20VS%20Sporting%20CP%20%20Ta%C3%A7a%20de%20Portugal%20%5BServer%202%5D.jpg", ⚠️  02:45-04:45 WIB - ]  FC Porto vs Sporting CP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=9cf22eb3c31b04286ece413072ab0792a875b03e&x-sign=f5ed8aa576970d4ba1d56b6b119c6a7a&x-time=1776891600
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=44856fec73c52b6270a314cea39fc614c1c97c99&x-sign=fe7e30936ccd3cc9f1d3ef534a87b53a&x-time=1776892500
 #EXTINF:-1 tvg-uid="87b6010790a8846ae7494ac5ddab4120" data-source="Nguyen Event" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.colatv88xd.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80", ⚠️  02:45-04:45 WIB - ) Porto vs Sporting
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -145,7 +145,7 @@ https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=6AdW2PTvXTZNyT4B8OjvRVz2-wMFgm
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=c1357370bdf8fb59e03a80edb620677d&wsABSTime=1776935447
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=b0eb94c29d420e14cac5e19623ed9cc9&wsABSTime=1776935744
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/68cf4160bcc36efd93b3b4c1cbbe90ba/image/small?v=1768601124", ⚠️  03:15-05:15 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -166,7 +166,7 @@ http://eyay.gw.lt:80///kontol8/297626
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=89bf6f0a736b09ed72584c7a8b21417a&wsABSTime=1776935448
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=8937adf3fd0d55f70e6f1e780b79c2f3&wsABSTime=1776935744
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/130cc5b95c47a0c7c0e4daca735754f2/image/small?v=1768601124", ⚠️  03:30-05:30 WIB - 23/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -213,18 +213,18 @@ http://eyay.gw.lt:80///kontol8/16116
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274862_hd/index.m3u8?is_vip=true&token=dara-u0ssq0oy&x-sign=a793fde9dde175c9d4ae87ce9c9fbe68&x-time=1776892260
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274862_hd/index.m3u8?is_vip=true&token=dara-1p5fd5t1&x-sign=a6ab7a219a2bac5c83c9fc35d1fd4cc3&x-time=1776892560
 #EXTINF:-1 tvg-uid="5cb5fcf08f80a3cddfb704306b7349d8" data-source="AXSPORTS Event" tvg-timestamp="1776891600" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Victoria%20VS%20Juticalpa%20%20Liga%20Nacional%20%5BServer%201%5D.jpg", ⚠️  04:00-06:00 WIB - ]  Victoria vs Juticalpa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=9cf22eb3c31b04286ece413072ab0792a875b03e&x-sign=2a6d2085c3665086aef47819c368ce07&x-time=1776891660
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=44856fec73c52b6270a314cea39fc614c1c97c99&x-sign=88913c1e24d81b3b3e4c9d2cc835e966&x-time=1776892500
 #EXTINF:-1 tvg-uid="0dc3a855eb11bac7bfabcf8b552e5a65" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwg56qdyj/image/small", ⚠️  04:00-06:00 WIB - CD VICTORIA VS JUTICALPA
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=5498ea61815b666ed42f92d6b7ba7fa2&wsABSTime=1776935448
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=7c9345c477bcb8d96a7d51ff89bec9ce&wsABSTime=1776935745
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg", ⚠️ ⏳ 04:45-07:00 WIB - Premier League
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=premierleague_1776919500.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/b_oDwjlf8iMD74sCD7WB8u6N-gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022188/f270c5.jpg", ⚠️ ⏳ 04:45-06:45 WIB - 23/04/26 Mega Bollywood: Luka Chuppi
