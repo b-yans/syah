@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 22-04-2026 20:56 WIB
+**Diperbarui pada:** 22-04-2026 21:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -99,7 +99,6 @@
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
 - ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
 - ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fz] (6829)
-- ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
@@ -136,7 +135,6 @@
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
-- ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
@@ -937,6 +935,7 @@
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
+-  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
 -  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
@@ -1063,6 +1062,7 @@
 -  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
+-  **[KS]** TR: beIN Sports Haber tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
 -  **[KS]** TR: CosmoSports tidak cocok id epg
@@ -1390,21 +1390,21 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Subiaco AFC 🆚 Quinns FC🛡️|🛡️18:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Darwin Hearts 🆚 Casuarina FC🛡️|🛡️18:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Subiaco AFC 🆚 Quinns FC🛡️|🛡️18:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preah Khan Reach Svay Rieng FC 🆚 Bangkok United FC🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wenzhou Team 🆚 Jinhua Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhoushan Team 🆚 Taizhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quzhou Team 🆚 Huzhou Team🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preah Khan Reach Svay Rieng FC 🆚 Bangkok United FC🛡️|🛡️18:30 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Liaoning Tieren 🆚 Dalian Yingbo🛡️|🛡️18:35 22/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Safa Baku 🆚 FK MOIK Baku🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cebrayil 🆚 Mingachevir🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fc Meshakhte Tkibuli 🆚 FC Metalurgi Rustavi🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Shenhua 🆚 Qingdao Hainiu🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PFK Zaqatala 🆚 Shahdagh Qusar🛡️|🛡️19:00 22/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Balcatta Women 🆚 Perth RedStar Women🛡️|🛡️19:30 22/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Kostroma 🆚 SKA Khabarovsk🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Panserraikos 🆚 Atromitos Athens🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Kostroma 🆚 SKA Khabarovsk🛡️|🛡️20:00 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️HNK Vukovar 1991 🆚 HNK Gorica🛡️|🛡️20:30 22/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [22 Apr 2026 22:55 WIB] otomatis masuk jadwal
