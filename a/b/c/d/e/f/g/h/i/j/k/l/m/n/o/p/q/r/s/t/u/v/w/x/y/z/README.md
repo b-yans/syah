@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 21:34 WIB
+**Diperbarui pada:** 23-04-2026 21:42 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -75,8 +75,8 @@
 - ⚠️ **[BASI]** 📢  19:30-21:30 WIB - 24/04/2026]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  19:30-21:30 WIB - 25/04/2026]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  19:30-21:30 WIB - 25/04/2026]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 20:15 WIB - LALIGA BEST 11: FERNANDO LLORENTE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:25 WIB - SEPAKBOLA: 2. BUNDESLIGA: ARMINIA - NURNBERG🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 20:15 WIB - LALIGA BEST 11: FERNANDO LLORENTE🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:25 WIB - SEPAKBOLA: 2. BUNDESLIGA: ARMINIA - NURNBERG🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 26/10/20 MAMAH DAN AA BERAKSI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 26/10/20 MAMAH DAN AA BERAKSI🍜 otomatis masuk jadwal

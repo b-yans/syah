@@ -1,10 +1,6 @@
 #EXTM3U name="bhns0"
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="🛡️SIARAN LANGSUNG🛡️",⚠️ DONASI https://trakteer.id/mybhianesse0
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3ce96de2bbb24a056acf10765f000d48.png", ⚠️  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 20:15 WIB - LALIGA BEST 11: FERNANDO LLORENTE🍜
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=laligabest11fernandollorente_1777059600.0
-#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  19:40-21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:40 WIB - 21:25 WIB - SEPAKBOLA: 2. BUNDESLIGA: ARMINIA - NURNBERG🍜
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=sepakbola2bundesligaarminianurnberg_1777059600.0
 #EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/95c28cbeff8963bb8198414162661ec9.png", ⚠️  19:45-21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - MECI FOTBAL SUPERLIGA 1🍜
 http://eyay.gw.lt:80///kontol8/147300
 #EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg", ⚠️  19:45-21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 21:45 WIB - 26/10/20 MAMAH DAN AA BERAKSI🍜
