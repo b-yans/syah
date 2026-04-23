@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 13:18 WIB
+**Diperbarui pada:** 23-04-2026 13:24 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -203,14 +203,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
@@ -1408,11 +1408,6 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** INDOSIAR+ tidak cocok id epg
--  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1449,7 +1444,6 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
@@ -1467,7 +1461,6 @@
 -  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
--  **[KS]** Pool B: Beijing Arctic Ocean (CHN) - Zhetysu (KAZ) tidak cocok id epg
 
 ---
 
