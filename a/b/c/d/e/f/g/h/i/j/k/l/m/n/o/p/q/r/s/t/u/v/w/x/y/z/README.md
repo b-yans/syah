@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 23:11 WIB
+**Diperbarui pada:** 23-04-2026 23:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1397,7 +1397,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Navbahor Namangan 🆚 Sogdiana Jizak🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Duhok SC 🆚 Al Gharraf🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akron Togliatti 🆚 Dynamo Makhachkala🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️El Mokawloon El Arab 🆚 Ittihad Alexandria SC🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
@@ -1474,11 +1474,12 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
 -  **[KS]** Round 1 Day Session The Chevron Championship 2026 tidak cocok id epg
+-  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
 -  **[KS]** Levante vs Sevilla LaLiga tidak cocok id epg
 -  **[KS]** Rayo Vallecano vs Espanyol LaLiga tidak cocok id epg
 -  **[KS]** Day 1 NFL Draft 2026 tidak cocok id epg
+-  **[KS]** Universitas Ma Chung vs Universitas Ciputra Makassar Grup E Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
 -  **[KS]** PERSIB vs Arema FC BRI Super League tidak cocok id epg
