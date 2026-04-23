@@ -1,1475 +1,1220 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 20:22 WIB
+**Diperbarui pada:** 23-04-2026 20:27 WIB
 
-### 📁 EXAMPLE.OY
-- ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** AL: Arena Sport 2 cocok [fz] (381848)
-- ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** AU: Fox Sports 502 cocok [fz] (537762)
-- ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** AU: Sky Sport 1 cocok [fz] (403251)
-- ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
-- ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
-- ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
-- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
-- ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
-- ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
-- ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fz] (381849)
-- ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
-- ⚠️ **[FZ]** CA: NBA TV Canada cocok [fz] (470366)
-- ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** CL: TNT Sports 2 cocok [fz] (400480)
-- ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
-- ⚠️ **[FZ]** HR: Arena Sport 3 cocok [fz] (381849)
-- ⚠️ **[FZ]** HR: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** HR: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** HR: Arena Sport 6 cocok [fz] (381851)
-- ⚠️ **[FZ]** HR: Arena Sport 7 cocok [fz] (410641)
-- ⚠️ **[FZ]** HR: Arena Sport 8 cocok [fz] (410632)
-- ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fz] (497469)
-- ⚠️ **[FZ]** HR: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** HR: Sport Klub 4 cocok [fz] (497489)
-- ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** HR: Sport Klub FIGHT cocok [fz] (497509)
-- ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
-- ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** CZ: Nova Sport 1 cocok [fz] (6263)
-- ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
-- ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
-- ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
-- ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
-- ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
-- ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
-- ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
-- ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
-- ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
-- ⚠️ **[FZ]** DE: Sky Sport 1 cocok [fz] (403251)
-- ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
-- ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
-- ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
-- ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
-- ⚠️ **[FZ]** GR: Nova Sports 5 cocok [fz] (392147)
-- ⚠️ **[FZ]** GR: Nova Sports 5 [vip] cocok [fz] (392147)
-- ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
-- ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
-- ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
-- ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
-- ⚠️ **[FZ]** IN: Star Sports 2 cocok [fz] (464295)
-- ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
-- ⚠️ **[FZ]** IN: Star Sports Select 1 cocok [fz] (464065)
-- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
-- ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
-- ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
-- ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
-- ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
-- ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
-- ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
-- ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
-- ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** NZ: Sky Sport 1 cocok [fz] (403251)
-- ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
-- ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
-- ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
-- ⚠️ **[FZ]** NO: V Sport 1 cocok [fz] (6263)
-- ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
-- ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
-- ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
-- ⚠️ **[FZ]** PK: T Sports cocok [fz] (405715)
-- ⚠️ **[EXACT]** PT: SPORT TV + cocok (405715)
-- ⚠️ **[FZ]** PT: SPORT TV 2 cocok [fz] (7235)
-- ⚠️ **[FZ]** PT: SPORT TV 3 cocok [fz] (405715)
-- ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
-- ⚠️ **[FZ]** PT: SPORT TV 5 cocok [fz] (405715)
-- ⚠️ **[FZ]** PT: SPORT TV 6 cocok [fz] (405715)
-- ⚠️ **[FZ]** PT: SPORT TV 7 cocok [fz] (405715)
-- ⚠️ **[FZ]** PT: W-Sport cocok [fz] (405715)
-- ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fz] (532979)
-- ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fz] (459115)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fz] (381835)
-- ⚠️ **[FZ]** QA: beIN Sports Premium 3 cocok [fz] (381834)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 1 cocok [fz] (413152)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 2 cocok [fz] (413152)
-- ⚠️ **[FZ]** QA: beIN Sports Xtra 3 cocok [fz] (413152)
-- ⚠️ **[FZ]** RO: DIGI Sport 1 cocok [fz] (5862)
-- ⚠️ **[FZ]** RO: DIGI Sport 1 4K cocok [fz] (5862)
-- ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
-- ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
-- ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
-- ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
-- ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
-- ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
-- ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fz] (6829)
-- ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
-- ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
-- ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
-- ⚠️ **[FZ]** RS: Arena Sport 1x2 cocok [fz] (457028)
-- ⚠️ **[FZ]** RS: Arena Sport 2 cocok [fz] (381848)
-- ⚠️ **[FZ]** RS: Arena Sport 3 cocok [fz] (381849)
-- ⚠️ **[FZ]** RS: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** RS: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** RS: Arena Sport 6 cocok [fz] (381851)
-- ⚠️ **[FZ]** RS: Arena Sport 7 cocok [fz] (410641)
-- ⚠️ **[FZ]** RS: Arena Sport 8 cocok [fz] (410632)
-- ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
-- ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** RS: Sport Klub 4 cocok [fz] (497489)
-- ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** RS: Sport Klub ESports cocok [fz] (497492)
-- ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
-- ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
-- ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
-- ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
-- ⚠️ **[FZ]** ZA: CANAL+ Sport cocok [fz] (521272)
-- ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
-- ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
-- ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
-- ⚠️ **[FZ]** ES: DAZN LaLiga 2 cocok [fz] (406530)
-- ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
-- ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
-- ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
-- ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
-- ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
-- ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
-- ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
-- ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
-- ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
-- ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
-- ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
-- ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fz] (537810)
-- ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
-- ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
-- ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
-- ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
-- ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
-- ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
-- ⚠️ **[FZ]** UK: Ginx eSports cocok [fz] (516402)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
-- ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
-- ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
-- ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
-- ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
-- ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
-- ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
-- ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
-- ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
-- ⚠️ **[FZ]** US: NBC Sports Philadelphia cocok [fz] (465037)
-- ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
-- ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
-- ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
-- ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
-- ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
-- ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
--  **[KS]** AFG: RTA Sport tidak cocok id epg
--  **[KS]** AF: Africa 24 Sport tidak cocok id epg
--  **[KS]** AF: Azam Sport 1 tidak cocok id epg
--  **[KS]** AF: Azam Sport 2 tidak cocok id epg
--  **[KS]** AF: Azam Sport 3 tidak cocok id epg
--  **[KS]** AF: Azam Sport 4 tidak cocok id epg
--  **[KS]** AL: ART Sport 1 tidak cocok id epg
--  **[KS]** AL: ART Sport 2 tidak cocok id epg
--  **[KS]** AL: ART Sport 3 tidak cocok id epg
--  **[KS]** AL: ART Sport 4 tidak cocok id epg
--  **[KS]** AL: ART Sport 5 tidak cocok id epg
--  **[KS]** AL: ART Sport 6 tidak cocok id epg
--  **[KS]** AL: Eurosport 1 tidak cocok id epg
--  **[KS]** AL: Eurosport 2 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 1 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 3 tidak cocok id epg
--  **[KS]** AL: Kujtesa Sport 4 tidak cocok id epg
--  **[KS]** AL: RTSH Sport tidak cocok id epg
--  **[KS]** AL: SuperSport 1 tidak cocok id epg
--  **[KS]** AL: SuperSport 2 tidak cocok id epg
--  **[KS]** AL: SuperSport 3 tidak cocok id epg
--  **[KS]** AL: SuperSport 4 tidak cocok id epg
--  **[KS]** AL: SuperSport 5 tidak cocok id epg
--  **[KS]** AL: SuperSport 6 tidak cocok id epg
--  **[KS]** AL: SuperSport 7 tidak cocok id epg
--  **[KS]** AL: Tring Sport 1 tidak cocok id epg
--  **[KS]** AL: Tring Sport 2 tidak cocok id epg
--  **[KS]** AL: Tring Sport 3 tidak cocok id epg
--  **[KS]** AL: Tring Sport 4 tidak cocok id epg
--  **[KS]** AL: CineStar TV Premiere 1 tidak cocok id epg
--  **[KS]** AL: CineStar TV Premiere 2 tidak cocok id epg
--  **[KS]** AL: #Premiere 1 tidak cocok id epg
--  **[KS]** AL: #Premiere 2 tidak cocok id epg
--  **[KS]** AL: #Premiere 3 tidak cocok id epg
--  **[KS]** AL: #Premiere 4 tidak cocok id epg
--  **[KS]** AL: #Premiere 5 tidak cocok id epg
--  **[KS]** AL: Kinema Premier tidak cocok id epg
--  **[KS]** AL: Ks Premiere 1 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 2 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 3 tidak cocok id epg
--  **[KS]** AL: Ks Premiere 4 tidak cocok id epg
--  **[KS]** AR: beIN Box Office 1 tidak cocok id epg
--  **[KS]** AR: beIN Box Office 2 tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** ARG: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** ARG: Fox Sports tidak cocok id epg
--  **[KS]** ARG: Fox Sports 2 tidak cocok id epg
--  **[KS]** ARG: Fox Sports 3 tidak cocok id epg
--  **[KS]** ARG: TNT Sports tidak cocok id epg
--  **[KS]** ARG: TyC Sports tidak cocok id epg
--  **[KS]** AU: beIN Sports 1 tidak cocok id epg
--  **[KS]** AU: beIN Sports 1 [vip] tidak cocok id epg
--  **[KS]** AU: Fox Sports 501 tidak cocok id epg
--  **[KS]** AU: Fox Sports 503 tidak cocok id epg
--  **[KS]** AU: Fox Sports 504 tidak cocok id epg
--  **[KS]** AU: Fox Sports 504 AFL tidak cocok id epg
--  **[KS]** AU: Fox Sports 505 tidak cocok id epg
--  **[KS]** AU: Fox Sports 507 tidak cocok id epg
--  **[KS]** AU: Sky Sport 2 tidak cocok id epg
--  **[KS]** AU: Sky Sport 3 tidak cocok id epg
--  **[KS]** AU: Sky Sport 4 tidak cocok id epg
--  **[KS]** AU: Sky Sport 5 tidak cocok id epg
--  **[KS]** AU: Sky Sport 6 tidak cocok id epg
--  **[KS]** AU: Sky Sport 7 tidak cocok id epg
--  **[KS]** AU: Sky Sport 8 tidak cocok id epg
--  **[KS]** AU: Sky Sport 9 tidak cocok id epg
--  **[KS]** AU: Sky Sport Select tidak cocok id epg
--  **[KS]** AT: ORF Sport+ tidak cocok id epg
--  **[KS]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport 2 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 1 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 1 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 2 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 2 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 3 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 3 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 4 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 4 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 5 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 5 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 6 tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 6 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 7 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AT: Sky Sport Austria 8 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** AZ: CBC Sport tidak cocok id epg
--  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
--  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
--  **[KS]** BE: Eurosport 2 tidak cocok id epg
--  **[KS]** BE: Play Sports 2 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
--  **[KS]** BE: Voo Sport World 3 tidak cocok id epg
--  **[KS]** BIH: Eurosport 2 tidak cocok id epg
--  **[KS]** BR: Premiere FC 1 tidak cocok id epg
--  **[KS]** BR: Premiere FC 2 tidak cocok id epg
--  **[KS]** BR: Premiere FC 3 tidak cocok id epg
--  **[KS]** BR: Premiere FC 4 tidak cocok id epg
--  **[KS]** BR: Premiere FC 5 tidak cocok id epg
--  **[KS]** BR: Premiere FC 6 tidak cocok id epg
--  **[KS]** BR: Premiere FC 7 tidak cocok id epg
--  **[KS]** BR: Band Sports tidak cocok id epg
--  **[KS]** BR: FOX SPORTS tidak cocok id epg
--  **[KS]** BR: SPORTV 2 tidak cocok id epg
--  **[KS]** BR: SPORTV 3 tidak cocok id epg
--  **[KS]** BG: Diema Sport tidak cocok id epg
--  **[KS]** BG: Diema Sport 2 tidak cocok id epg
--  **[KS]** BG: Diema Sport 3 tidak cocok id epg
--  **[KS]** BG: Eurosport 1 tidak cocok id epg
--  **[KS]** BG: Eurosport 2 tidak cocok id epg
--  **[KS]** BG: Max Sport 1 tidak cocok id epg
--  **[KS]** BG: Max Sport 2 tidak cocok id epg
--  **[KS]** BG: Max Sport 3 tidak cocok id epg
--  **[KS]** BG: Max Sport 4 tidak cocok id epg
--  **[KS]** BG: Nova Sport tidak cocok id epg
--  **[KS]** BG: Auto Motor Sport tidak cocok id epg
--  **[KS]** CA: beIN Sports tidak cocok id epg
--  **[KS]** CA: SportsNet 360 tidak cocok id epg
--  **[KS]** CA: SportsNet East tidak cocok id epg
--  **[KS]** CA: SportsNet One tidak cocok id epg
--  **[KS]** CA: SportsNet Ontario tidak cocok id epg
--  **[KS]** CA: SportsNet Pacific tidak cocok id epg
--  **[KS]** CA: SportsNet West tidak cocok id epg
--  **[KS]** CA: SportsNet World tidak cocok id epg
--  **[KS]** CA: TVA Sports tidak cocok id epg
--  **[KS]** CA: TVA Sports 2 tidak cocok id epg
--  **[KS]** CA: SportsNet PPV tidak cocok id epg
--  **[KS]** CAR: RUSH SPORTS tidak cocok id epg
--  **[KS]** CAR: TVJ Sports tidak cocok id epg
--  **[KS]** CL: DirecTV Sports tidak cocok id epg
--  **[KS]** CL: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** CL: TNT Sports Premium tidak cocok id epg
--  **[KS]** CO: DirecTV Sports tidak cocok id epg
--  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** CO: FOX Sports 3 tidak cocok id epg
--  **[KS]** CO: Win Sports tidak cocok id epg
--  **[KS]** CO: Win Sports+ tidak cocok id epg
--  **[KS]** CR: Tigo Sports tidak cocok id epg
--  **[KS]** HR: Arena Sport 10 tidak cocok id epg
--  **[KS]** HR: Arena Sport 9 tidak cocok id epg
--  **[KS]** HR: Max Sport 1 tidak cocok id epg
--  **[KS]** HR: Max Sport 2 tidak cocok id epg
--  **[KS]** HR: Sport Klub 1 tidak cocok id epg
--  **[KS]** HR: Sportska tidak cocok id epg
--  **[KS]** HR: CineStar TV Premiere 1 tidak cocok id epg
--  **[KS]** HR: CineStar TV Premiere 2 tidak cocok id epg
--  **[KS]** HR: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** HR: Sport Klub 10 tidak cocok id epg
--  **[KS]** HR: Sport Klub 6 tidak cocok id epg
--  **[KS]** HR: Sport Klub 8 tidak cocok id epg
--  **[KS]** HR: Sport Klub 9 tidak cocok id epg
--  **[KS]** CZ: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 2 tidak cocok id epg
--  **[KS]** CZ: CT Sport tidak cocok id epg
--  **[KS]** CZ: Eurosport 1 tidak cocok id epg
--  **[KS]** CZ: Eurosport 2 tidak cocok id epg
--  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
--  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
--  **[KS]** CZ: Sport 2 tidak cocok id epg
--  **[KS]** CZ: Sport 5 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 3 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 4 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 5 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 6 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 7 tidak cocok id epg
--  **[KS]** DK: Eurosport 1 tidak cocok id epg
--  **[KS]** DK: Eurosport 2 tidak cocok id epg
--  **[KS]** DK: TV 2 Sport tidak cocok id epg
--  **[KS]** DK: TV 2 Sport X tidak cocok id epg
--  **[KS]** DK: TV 3 Sport tidak cocok id epg
--  **[KS]** DK: V Sport Ultra tidak cocok id epg
--  **[KS]** EC: DirecTV Sports tidak cocok id epg
--  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** EG: Nile Sport tidak cocok id epg
--  **[KS]** EG: OnTime Sports tidak cocok id epg
--  **[KS]** EG: OnTime Sports 2 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 1 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 2 tidak cocok id epg
--  **[KS]** EX-YU: Adriatic Sport 3 tidak cocok id epg
--  **[KS]** EX-YU: Arena Sport 6 tidak cocok id epg
--  **[KS]** EX-YU: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** EX-YU: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** EX-YU: Eurosport 1 tidak cocok id epg
--  **[KS]** EX-YU: Eurosport 2 tidak cocok id epg
--  **[KS]** EX-YU: Moja TV Premijer Liga tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 2 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 3 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 4 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 5 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 7 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub 8 tidak cocok id epg
--  **[KS]** EX-YU: Sport Klub Golf tidak cocok id epg
--  **[KS]** EX-YU: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** FI: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
--  **[KS]** FI: MTV Urheilu 2/C More Sport 2 tidak cocok id epg
--  **[KS]** FI: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
--  **[KS]** FI: V Sport 1 Suomi tidak cocok id epg
--  **[KS]** FR: beIN Sports 1 tidak cocok id epg
--  **[KS]** FR: beIN Sports 2 tidak cocok id epg
--  **[KS]** FR: beIN Sports 3 tidak cocok id epg
--  **[KS]** FR: CANAL+ Premier League tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
--  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
--  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 2 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 360 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 4 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** FR: Eurosport 1 tidak cocok id epg
--  **[KS]** FR: Eurosport 2 tidak cocok id epg
--  **[KS]** FR: InfoSport+ tidak cocok id epg
--  **[KS]** FR: MultiSports 1 tidak cocok id epg
--  **[KS]** FR: MultiSports 2 tidak cocok id epg
--  **[KS]** FR: MultiSports 3 tidak cocok id epg
--  **[KS]** FR: MultiSports 4 tidak cocok id epg
--  **[KS]** FR: MultiSports 5 tidak cocok id epg
--  **[KS]** FR: MultiSports 6 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 1 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 2 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 3 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 4 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 5 tidak cocok id epg
--  **[KS]** FR: RMC SPORT 9 tidak cocok id epg
--  **[KS]** FR: TRACE Sport Stars tidak cocok id epg
--  **[KS]** FR: W-SPORT tidak cocok id epg
--  **[KS]** FR: Sport tidak cocok id epg
--  **[KS]** FR: CINE+ Premier tidak cocok id epg
--  **[KS]** FR: Paris Premiere tidak cocok id epg
--  **[KS]** FR: CINE PREMIER tidak cocok id epg
--  **[KS]** FR: RMC Sport 6 tidak cocok id epg
--  **[KS]** DE: [Kinder] Kurokos Basketball 24/7 tidak cocok id epg
--  **[KS]** DE: DAZN NFL EVENT INFO CHANNEL [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN NFL Network [VIP] tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 1 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 10 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 2 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 3 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 4 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 5 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 6 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 7 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 8 tidak cocok id epg
--  **[KS]** DE: RTL+ Sport Event 9 tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 1 UHD [vip] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 10 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 10 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 2 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 3 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 3 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 4 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 4 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 5 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 5 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 6 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 6 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 7 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 7 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 8 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 8 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport 10 tidak cocok id epg
--  **[KS]** DE: Sky Sport 2 tidak cocok id epg
--  **[KS]** DE: Sky Sport 3 tidak cocok id epg
--  **[KS]** DE: Sky Sport 4 tidak cocok id epg
--  **[KS]** DE: Sky Sport 5 tidak cocok id epg
--  **[KS]** DE: Sky Sport 6 tidak cocok id epg
--  **[KS]** DE: Sky Sport 7 tidak cocok id epg
--  **[KS]** DE: Sky Sport 8 tidak cocok id epg
--  **[KS]** DE: Sky Sport 9 tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Mix tidak cocok id epg
--  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Premier League tidak cocok id epg
--  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 12 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 13 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 14 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 15 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 16 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 17 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 18 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 2 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 20 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 3 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 4 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 5 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 6 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 7 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 8 tidak cocok id epg
--  **[KS]** DE: Magenta Sport 9 tidak cocok id epg
--  **[KS]** DE: Dyn Sport 1 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 10 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 11 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 12 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 13 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 14 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 15 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 16 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 17 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 18 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 19 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 2 [VIP] tidak cocok id epg
--  **[KS]** DE: Dyn Sport 20 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 21 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 22 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 23 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 24 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 25 [VIP] tidak cocok id epg
--  **[KS]** DE: DYN Sport 3 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 4 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 5 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 6 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 7 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 8 [vip] tidak cocok id epg
--  **[KS]** DE: DYN Sport 9 [vip] tidak cocok id epg
--  **[KS]** DE: DYN SPORT MIX 24/7 [VIP] tidak cocok id epg
--  **[KS]** DE: Tagesschau 24 tidak cocok id epg
--  **[KS]** DE: DF1 TV tidak cocok id epg
--  **[KS]** DE: OF TV Offenbach tidak cocok id epg
--  **[KS]** DE: ORF Sport+ tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 1 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 2 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 3 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 4 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 5 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 6 tidak cocok id epg
--  **[KS]** DE: SKY BOX PREMIEREN 7 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 10 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 11 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 12 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 13 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 14 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 17 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 3 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 4 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 8 tidak cocok id epg
--  **[KS]** DE: Sky Select Premiere 9 tidak cocok id epg
--  **[KS]** DE: WEDO Sports tidak cocok id epg
--  **[KS]** DE: Auto Motor Sport tidak cocok id epg
--  **[KS]** DE: Edge Sport tidak cocok id epg
--  **[KS]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: ESports 1 tidak cocok id epg
--  **[KS]** DE: ESports 1 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Eurosport 1 tidak cocok id epg
--  **[KS]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Eurosport 2 tidak cocok id epg
--  **[KS]** DE: Eurosport 2 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 1 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 10 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 11 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 12 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 13 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 14 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 15 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 16 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 17 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 18 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 19 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 2 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 20 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 21 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 22 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 23 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 24 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 25 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 26 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 27 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 28 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 29 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 3 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 30 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 31 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 32 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 4 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 5 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 6 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 7 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 8 [VIP] tidak cocok id epg
--  **[KS]** DE: EuroSport Extra 9 [VIP] tidak cocok id epg
--  **[KS]** DE: More Than Sports TV tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 2 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 3 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 4 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 5 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 6 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
--  **[KS]** DE: Sport 1 tidak cocok id epg
--  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
--  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
--  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
--  **[KS]** DE: LG 711 wedo sports tidak cocok id epg
--  **[KS]** DE: LG 712 WORLD OF FREE SPORTS tidak cocok id epg
--  **[KS]** DE: LG 713 More Than Sports TV tidak cocok id epg
--  **[KS]** DE: LG 716 Tennis Channel Deutschland tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 1 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 10 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 11 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 12 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 13 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 14 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 15 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 16 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 17 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 18 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 19 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 2 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 20 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 3 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 4 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 5 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 6 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 7 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 8 [VIP] tidak cocok id epg
--  **[KS]** DE: DAZN Event NFL 9 [VIP] tidak cocok id epg
--  **[KS]** DE: NOW TV Sky Sports+ 1 [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf HD [VIP] tidak cocok id epg
--  **[KS]** GR: AEK Super League Pass tidak cocok id epg
--  **[KS]** GR: Cablenet Sports 1 tidak cocok id epg
--  **[KS]** GR: Cablenet Sports 2 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 1 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 1 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 2 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 2 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 3 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 3 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 4 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 4 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 6 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 6 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 7 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 7 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 8 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 8 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 9 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 9 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport Highlights tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 1 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 2 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 3 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 4 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 5 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 6 tidak cocok id epg
--  **[KS]** GR: Cytavision Sports 7 tidak cocok id epg
--  **[KS]** GR: ERT Sports 2 tidak cocok id epg
--  **[KS]** GR: Eurosport 1 tidak cocok id epg
--  **[KS]** GR: Eurosport 2 tidak cocok id epg
--  **[KS]** GR: Nova Sports 1 tidak cocok id epg
--  **[KS]** GR: Nova Sports 1 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports 3 tidak cocok id epg
--  **[KS]** GR: Nova Sports 3 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports 4 tidak cocok id epg
--  **[KS]** GR: Nova Sports 6 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 1 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 2 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 3 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Extra 4 [vip] tidak cocok id epg
--  **[KS]** GR: Nova Sports Premier League tidak cocok id epg
--  **[KS]** GR: Nova sports Prime tidak cocok id epg
--  **[KS]** GR: Nova Sports Start tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 1 [vip] tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 2 [vip] tidak cocok id epg
--  **[KS]** GR: OPAP SPORT 3 [vip] tidak cocok id epg
--  **[KS]** GR: SportPlus tidak cocok id epg
--  **[KS]** GR: Nova Premiere Comedy tidak cocok id epg
--  **[KS]** GR: Nova Premiere Hellenic tidak cocok id epg
--  **[KS]** GR: Nova Premiere History tidak cocok id epg
--  **[KS]** GR: Nova Premiere Mythology tidak cocok id epg
--  **[KS]** GR: Nova Premiere Passion tidak cocok id epg
--  **[KS]** GR: Nova Premiere sci-fi tidak cocok id epg
--  **[KS]** GR: Nova Premiere Starz tidak cocok id epg
--  **[KS]** GR: Nova Premiere Thriller tidak cocok id epg
--  **[KS]** GR: Nova Premiere Western tidak cocok id epg
--  **[KS]** GR: Cytavision Sport 8 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 1 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 10 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 11 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 12 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 13 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 14 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 15 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 16 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 17 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 18 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 2 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 3 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 3D tidak cocok id epg
--  **[KS]** GR: Nova Premiere 4 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 5 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 6 UHD tidak cocok id epg
--  **[KS]** GR: Nova Premiere 7 UHD tidak cocok id epg
--  **[KS]** GR: Nova Premiere 8 tidak cocok id epg
--  **[KS]** GR: Nova Premiere 9 tidak cocok id epg
--  **[KS]** GR: Nova Premiere Action tidak cocok id epg
--  **[KS]** GR: Nova Premiere Adventure tidak cocok id epg
--  **[KS]** GR: Nova Premiere Animation tidak cocok id epg
--  **[KS]** GR: Nova Premiere Biography tidak cocok id epg
--  **[KS]** GR: Nova Premiere Fantasy tidak cocok id epg
--  **[KS]** GR: Nova Premiere Horror tidak cocok id epg
--  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
--  **[KS]** GT: Tigo Sports tidak cocok id epg
--  **[KS]** HK: Now Sports 2 tidak cocok id epg
--  **[KS]** HK: Now Sports 3 tidak cocok id epg
--  **[KS]** HK: Now Sports 4 tidak cocok id epg
--  **[KS]** HK: Now Sports 6 tidak cocok id epg
--  **[KS]** HK: Now Sports 7 tidak cocok id epg
--  **[KS]** HK: Now Sports PL 1 tidak cocok id epg
--  **[KS]** HU: Eurosport 1 tidak cocok id epg
--  **[KS]** HU: Eurosport 2 tidak cocok id epg
--  **[KS]** HU: M4 Sport tidak cocok id epg
--  **[KS]** HU: Sport Klub tidak cocok id epg
--  **[KS]** IN: DD Sports tidak cocok id epg
--  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
--  **[KS]** ID: beIN Sports 1 tidak cocok id epg
--  **[KS]** ID: beIN Sports 3 tidak cocok id epg
--  **[KS]** ID: Indosiar tidak cocok id epg
--  **[KS]** ID: MNC Sports tidak cocok id epg
--  **[KS]** ID: MNC Sports 2 tidak cocok id epg
--  **[KS]** ID: MNC TV tidak cocok id epg
--  **[KS]** ID: NBA TV tidak cocok id epg
--  **[KS]** ID: RCTI tidak cocok id epg
--  **[KS]** ID: SCTV tidak cocok id epg
--  **[KS]** ID: SpoTV tidak cocok id epg
--  **[KS]** ID: TVRI Sport tidak cocok id epg
--  **[KS]** IR: GEM Sport tidak cocok id epg
--  **[KS]** IR: Persiana Sports tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport 1 tidak cocok id epg
--  **[KS]** IQ: Al Rabiaa Sport 2 tidak cocok id epg
--  **[KS]** IQ: Anbar TV tidak cocok id epg
--  **[KS]** IQ: Iraqia Sport tidak cocok id epg
--  **[KS]** IE: Sky Sports Arena tidak cocok id epg
--  **[KS]** IE: Sky Sports Football tidak cocok id epg
--  **[KS]** IE: Sky Sports Golf tidak cocok id epg
--  **[KS]** IE: Sky Sports Mix tidak cocok id epg
--  **[KS]** IE: Sky Sports Premier League tidak cocok id epg
--  **[KS]** IE: Sky Sports Racing tidak cocok id epg
--  **[KS]** IL: Eurosport 1 tidak cocok id epg
--  **[KS]** IL: Yes Sport 1 tidak cocok id epg
--  **[KS]** IL: Yes Sport 2 tidak cocok id epg
--  **[KS]** IL: Yes Sport 3 tidak cocok id epg
--  **[KS]** IL: Yes Sport 4 tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Gold tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Live tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Plus tidak cocok id epg
--  **[KS]** IL: Yes Sport 5 Stars tidak cocok id epg
--  **[KS]** IT: ACI Sport TV tidak cocok id epg
--  **[KS]** IT: Eurosport 1 tidak cocok id epg
--  **[KS]** IT: Eurosport 2 tidak cocok id epg
--  **[KS]** IT: EuroSport 4 TimVision tidak cocok id epg
--  **[KS]** IT: EuroSport 6 TimVision tidak cocok id epg
--  **[KS]** IT: Rai Sport tidak cocok id epg
--  **[KS]** IT: Sky Sport 24 tidak cocok id epg
--  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
--  **[KS]** IT: Sky Sport Golf tidak cocok id epg
--  **[KS]** IT: Sky Sport Max tidak cocok id epg
--  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
--  **[KS]** IT: Sky Sport NBA tidak cocok id epg
--  **[KS]** IT: Sky Sport Uno tidak cocok id epg
--  **[KS]** IT: Sportitalia Plus tidak cocok id epg
--  **[KS]** IT: Sportitalia SoloCalcio tidak cocok id epg
--  **[KS]** IT: Sky Sport Arena tidak cocok id epg
--  **[KS]** IT: TRSport tidak cocok id epg
--  **[KS]** JO: Jordan Sport tidak cocok id epg
--  **[KS]** KZ: Setanta Sports tidak cocok id epg
--  **[KS]** KU: Aso Sport tidak cocok id epg
--  **[KS]** KU: Astera Sport tidak cocok id epg
--  **[KS]** KU: Dasinya Sport tidak cocok id epg
--  **[KS]** KU: Delal Sport tidak cocok id epg
--  **[KS]** KU: Duhok Sport tidak cocok id epg
--  **[KS]** KU: Kurdistan Sport tidak cocok id epg
--  **[KS]** KU: LD Sport 1 tidak cocok id epg
--  **[KS]** KU: MMN Sport tidak cocok id epg
--  **[KS]** KU: MTV Sport tidak cocok id epg
--  **[KS]** KU: Newline Sport tidak cocok id epg
--  **[KS]** KU: NRT Sport tidak cocok id epg
--  **[KS]** KU: Nubar Sport tidak cocok id epg
--  **[KS]** KU: See Sport 1 tidak cocok id epg
--  **[KS]** KU: See Sport 2 tidak cocok id epg
--  **[KS]** KU: See Sport 3 tidak cocok id epg
--  **[KS]** KW: KTV Sport tidak cocok id epg
--  **[KS]** KW: KTV Sport 2 tidak cocok id epg
--  **[KS]** LA: beIN Sports Xtra en Espanol tidak cocok id epg
--  **[KS]** LA: Cable Onda Sports tidak cocok id epg
--  **[KS]** LA: Claro Sports tidak cocok id epg
--  **[KS]** LA: DirecTV Sports tidak cocok id epg
--  **[KS]** LA: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** LA: FOX Sports tidak cocok id epg
--  **[KS]** LA: FOX Sports 3 tidak cocok id epg
--  **[KS]** LA: Fox Sports Premium tidak cocok id epg
--  **[KS]** LA: Golden Premier tidak cocok id epg
--  **[KS]** LA: Golden Premier 2 tidak cocok id epg
--  **[KS]** LA: Tigo Sports tidak cocok id epg
--  **[KS]** LA: TNT Sports tidak cocok id epg
--  **[KS]** LA: TyC Sports tidak cocok id epg
--  **[KS]** LA: Win Sports tidak cocok id epg
--  **[KS]** LA: Win Sports+ tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 1 tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 2 tidak cocok id epg
--  **[KS]** LV: Go 3 Sport 3 tidak cocok id epg
--  **[KS]** LV: Sport 1 Baltic tidak cocok id epg
--  **[KS]** LY: Libya Sport TV tidak cocok id epg
--  **[KS]** LY: Libya Sport TV 2 tidak cocok id epg
--  **[KS]** MK: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** MK: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** MK: MNet Sport tidak cocok id epg
--  **[KS]** MK: Sport Klub FIGHT tidak cocok id epg
--  **[KS]** MK: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** MT: TVM Sport+ tidak cocok id epg
--  **[KS]** MX: AyM Sports tidak cocok id epg
--  **[KS]** MX: Claro Sports tidak cocok id epg
--  **[KS]** MX: Claro Sports 2 tidak cocok id epg
--  **[KS]** MX: Fox Sports tidak cocok id epg
--  **[KS]** MX: Fox Sports 3 tidak cocok id epg
--  **[KS]** MX: Golden Premier tidak cocok id epg
--  **[KS]** NL: Eurosport 1 tidak cocok id epg
--  **[KS]** NL: Eurosport 2 tidak cocok id epg
--  **[KS]** NL: Extreme Sports Channel tidak cocok id epg
--  **[KS]** NL: Ziggo Sport tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Docu (Ziggo Sport 5) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Golf (Ziggo Sport 6) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Racing (Ziggo Sport 3) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Select tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Tennis (Ziggo Sport 4) tidak cocok id epg
--  **[KS]** NL: Ziggo Sport Voetbal (Ziggo Sport 2) tidak cocok id epg
--  **[KS]** NZ: Sky Sport 2 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 3 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 4 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 5 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 6 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 8 tidak cocok id epg
--  **[KS]** NZ: Sky Sport 9 tidak cocok id epg
--  **[KS]** NZ: Sky Sport Select tidak cocok id epg
--  **[KS]** NO: eurosport 1 tidak cocok id epg
--  **[KS]** NO: eurosport 2 tidak cocok id epg
--  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
--  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
--  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
--  **[KS]** NO: V Sport + tidak cocok id epg
--  **[KS]** OM: Oman TV Sport tidak cocok id epg
--  **[KS]** PK: A Sports tidak cocok id epg
--  **[KS]** PK: PTV Sports tidak cocok id epg
--  **[KS]** PK: Ten Sports tidak cocok id epg
--  **[KS]** PS: Palestine Sport tidak cocok id epg
--  **[KS]** PA: Cable Onda Sports tidak cocok id epg
--  **[KS]** PY: Tigo Sports tidak cocok id epg
--  **[KS]** PY: Tigo Sports Plus tidak cocok id epg
--  **[KS]** PE: Liga 1 Max tidak cocok id epg
--  **[KS]** PH: beIN Sports 1 tidak cocok id epg
--  **[KS]** PH: beIN Sports 2 tidak cocok id epg
--  **[KS]** PH: beIN Sports 3 tidak cocok id epg
--  **[KS]** PH: One Sports tidak cocok id epg
--  **[KS]** PH: One Sports + tidak cocok id epg
--  **[KS]** PH: TAP Sports tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 1 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 2 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 3 tidak cocok id epg
--  **[KS]** PL: ELEVEN SPORTS 4 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 2 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 4 tidak cocok id epg
--  **[KS]** PL: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** PL: Eurosport 1 tidak cocok id epg
--  **[KS]** PL: Eurosport 2 tidak cocok id epg
--  **[KS]** PL: Extreme Sports Channel tidak cocok id epg
--  **[KS]** PL: Polsat Sport 1 tidak cocok id epg
--  **[KS]** PL: Polsat Sport 2 tidak cocok id epg
--  **[KS]** PL: Polsat Sport 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Extra 4 tidak cocok id epg
--  **[KS]** PL: Polsat Sport FIGHT tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 1 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 2 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 3 tidak cocok id epg
--  **[KS]** PL: Polsat Sport Premium 4 tidak cocok id epg
--  **[KS]** PL: Sport Klub tidak cocok id epg
--  **[KS]** PL: TVP Sport tidak cocok id epg
--  **[KS]** PT: Eurosport 1 tidak cocok id epg
--  **[KS]** PT: Eurosport 2 tidak cocok id epg
--  **[KS]** PT: SPORT TV 1 tidak cocok id epg
--  **[KS]** PT: SPORT TV NBA tidak cocok id epg
--  **[KS]** PT: Sporting TV tidak cocok id epg
--  **[KS]** PT: Kombat Sport tidak cocok id epg
--  **[KS]** PT: NBA TV tidak cocok id epg
--  **[KS]** QA: beIN Sports 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports 3 tidak cocok id epg
--  **[KS]** QA: beIN Sports 4 tidak cocok id epg
--  **[KS]** QA: beIN Sports 5 tidak cocok id epg
--  **[KS]** QA: beIN Sports 7 tidak cocok id epg
--  **[KS]** QA: beIN Sports 8 tidak cocok id epg
--  **[KS]** QA: beIN Sports 9 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports AFC 3 tidak cocok id epg
--  **[KS]** QA: beIN Sports English 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports English 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports Global tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 2 tidak cocok id epg
--  **[KS]** QA: beIN Sports Max 3 tidak cocok id epg
--  **[KS]** QA: beIN Box Office 2 tidak cocok id epg
--  **[KS]** QA: beIN Series 1 tidak cocok id epg
--  **[KS]** QA: beIN Series 2 tidak cocok id epg
--  **[KS]** QA: beIN Gourmet tidak cocok id epg
--  **[KS]** RO: Antena Sport tidak cocok id epg
--  **[KS]** RO: DIGI Sport 3 tidak cocok id epg
--  **[KS]** RO: Eurosport 1 tidak cocok id epg
--  **[KS]** RO: Eurosport 2 tidak cocok id epg
--  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
--  **[KS]** RO: TVR Sport tidak cocok id epg
--  **[KS]** RO: Auto Motor Sport tidak cocok id epg
--  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** RU: Astrakhan Sport (Астрахань) tidak cocok id epg
--  **[KS]** RU: Eurosport 1 tidak cocok id epg
--  **[KS]** RU: Eurosport 2 tidak cocok id epg
--  **[KS]** RU: Extreme Sports Channel tidak cocok id epg
--  **[KS]** RU: Match Premier (МАТЧ! Премьер) tidak cocok id epg
--  **[KS]** RU: Viju+ Sport tidak cocok id epg
--  **[KS]** RU: Viju+ Premiere tidak cocok id epg
--  **[KS]** RU: A21 VITAL AUTOSPORT tidak cocok id epg
--  **[KS]** SA: KSA Sports 1 tidak cocok id epg
--  **[KS]** SA: KSA Sports 2 tidak cocok id epg
--  **[KS]** SA: KSA Sports 3 tidak cocok id epg
--  **[KS]** SA: SSC 4 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 1 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 2 tidak cocok id epg
--  **[KS]** SA: StarzPlay Sports 3 tidak cocok id epg
--  **[KS]** RS: Arena Sport 9 tidak cocok id epg
--  **[KS]** RS: Eurosport 1 tidak cocok id epg
--  **[KS]** RS: Eurosport 2 tidak cocok id epg
--  **[KS]** RS: Sport Klub 1 tidak cocok id epg
--  **[KS]** RS: Sport Klub 10 tidak cocok id epg
--  **[KS]** RS: Sport Klub 6 tidak cocok id epg
--  **[KS]** RS: Sport Klub 7 tidak cocok id epg
--  **[KS]** RS: Cinestar TV Premiere 1 tidak cocok id epg
--  **[KS]** RS: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
--  **[KS]** SI: Eurosport 2 tidak cocok id epg
--  **[KS]** SI: Sport Klub 1 tidak cocok id epg
--  **[KS]** SI: Sport Klub Golf tidak cocok id epg
--  **[KS]** SI: SPORT TV 1 tidak cocok id epg
--  **[KS]** SI: SPORT TV 3 tidak cocok id epg
--  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
--  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
--  **[KS]** ZA: CANAL+ Premier League tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 2 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 360 tidak cocok id epg
--  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
--  **[KS]** ZA: NBA TV tidak cocok id epg
--  **[KS]** ZA: SuperSport Action tidak cocok id epg
--  **[KS]** ZA: SuperSport Blitz tidak cocok id epg
--  **[KS]** ZA: SuperSport Cricket tidak cocok id epg
--  **[KS]** ZA: SuperSport Golf tidak cocok id epg
--  **[KS]** ZA: SuperSport Grandstand tidak cocok id epg
--  **[KS]** ZA: SuperSport Maximo 2 tidak cocok id epg
--  **[KS]** ZA: SuperSport Motorsport tidak cocok id epg
--  **[KS]** ES: LaLiga TV Bar tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 2 tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 3 tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga 2 tidak cocok id epg
--  **[KS]** ES: Movistar LaLiga 3 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 2 FHD tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 3 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 4 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 5 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 6 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 7 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones 8 tidak cocok id epg
--  **[KS]** ES: Movistar Liga De Campeones FHD tidak cocok id epg
--  **[KS]** ES: beIN Sports n tidak cocok id epg
--  **[KS]** ES: Esport 3 tidak cocok id epg
--  **[KS]** ES: Eurosport 1 tidak cocok id epg
--  **[KS]** ES: Eurosport 2 tidak cocok id epg
--  **[KS]** ES: FOX SPORTS 3 tidak cocok id epg
--  **[KS]** SUR: DirecTV Sports tidak cocok id epg
--  **[KS]** SUR: TyC Sports tidak cocok id epg
--  **[KS]** SE: V Sport Football tidak cocok id epg
--  **[KS]** SE: Eurosport 1 tidak cocok id epg
--  **[KS]** SE: Eurosport 2 tidak cocok id epg
--  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
--  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
--  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
--  **[KS]** SE: V Sport Hockey tidak cocok id epg
--  **[KS]** SE: V Sport Motor tidak cocok id epg
--  **[KS]** SE: V Sport Ultra tidak cocok id epg
--  **[KS]** SE: V Sport Vinter tidak cocok id epg
--  **[KS]** CH: Blue Sport 1 tidak cocok id epg
--  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 11 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 12 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 13 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 14 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 15 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 16 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 2 tidak cocok id epg
--  **[KS]** CH: Blue Sport 3 tidak cocok id epg
--  **[KS]** CH: Blue Sport 4 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 4 UHD [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 5 tidak cocok id epg
--  **[KS]** CH: Blue Sport 7 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 8 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport 9 LIVE [vip] tidak cocok id epg
--  **[KS]** CH: Blue Sport D1 tidak cocok id epg
--  **[KS]** CH: Blue Sport D2 tidak cocok id epg
--  **[KS]** CH: Eurosport 1 tidak cocok id epg
--  **[KS]** CH: Eurosport 2 tidak cocok id epg
--  **[KS]** CH: MySports 1 tidak cocok id epg
--  **[KS]** CH: MySports 2 tidak cocok id epg
--  **[KS]** CH: MySports 3 tidak cocok id epg
--  **[KS]** CH: MySports 4 tidak cocok id epg
--  **[KS]** CH: MySports 5 tidak cocok id epg
--  **[KS]** CH: MySports 6 tidak cocok id epg
--  **[KS]** CH: MySports 7 tidak cocok id epg
--  **[KS]** CH: MySports 8 tidak cocok id epg
--  **[KS]** CH: MySports 9 tidak cocok id epg
--  **[KS]** CH: MySports EDGE [vip] tidak cocok id epg
--  **[KS]** TH: True Premiere Football 1 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 3 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 4 tidak cocok id epg
--  **[KS]** TH: True Premiere Football 5 tidak cocok id epg
--  **[KS]** TH: True Sport 1 tidak cocok id epg
--  **[KS]** TH: True Sport 2 tidak cocok id epg
--  **[KS]** TH: True Sport 3 tidak cocok id epg
--  **[KS]** TH: True Sport 4 tidak cocok id epg
--  **[KS]** TR: beIN Sports 1 tidak cocok id epg
--  **[KS]** TR: beIN Sports 2 tidak cocok id epg
--  **[KS]** TR: beIN Sports 3 tidak cocok id epg
--  **[KS]** TR: beIN Sports 4 tidak cocok id epg
--  **[KS]** TR: beIN Sports 5 tidak cocok id epg
--  **[KS]** TR: beIN Sports Haber tidak cocok id epg
--  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
--  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
--  **[KS]** TR: CosmoSports tidak cocok id epg
--  **[KS]** TR: Eurosport 1 tidak cocok id epg
--  **[KS]** TR: Eurosport 2 tidak cocok id epg
--  **[KS]** TR: NBA TV tidak cocok id epg
--  **[KS]** TR: S Sport tidak cocok id epg
--  **[KS]** TR: S Sport 2 tidak cocok id epg
--  **[KS]** TR: Sports TV tidak cocok id epg
--  **[KS]** TR: beIN Box Office 1 tidak cocok id epg
--  **[KS]** TR: beIN Box Office 2 tidak cocok id epg
--  **[KS]** TR: beIN Box Office 3 tidak cocok id epg
--  **[KS]** TR: beIN Series 1 tidak cocok id epg
--  **[KS]** TR: beIN Series 2 tidak cocok id epg
--  **[KS]** TR: beIN Series 3 tidak cocok id epg
--  **[KS]** TR: beIN Series 4 tidak cocok id epg
--  **[KS]** TR: beIN Series Comedy tidak cocok id epg
--  **[KS]** TR: beIN Series sci-fi tidak cocok id epg
--  **[KS]** TR: beIN Gurme tidak cocok id epg
--  **[KS]** TR: beIN Iz tidak cocok id epg
--  **[KS]** TR: beIN Sports 1 FEED tidak cocok id epg
--  **[KS]** TR: Exxen Sports 1 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 2 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 5 tidak cocok id epg
--  **[KS]** TR: Exxen Sports 6 tidak cocok id epg
--  **[KS]** TR: Max Premier tidak cocok id epg
--  **[KS]** TM: Turkmenistan Sport tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 1 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 2 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports 3 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports Asia 1 tidak cocok id epg
--  **[KS]** AE: Abu Dhabi Sports Asia 2 tidak cocok id epg
--  **[KS]** AE: Dubai Sports tidak cocok id epg
--  **[KS]** AE: Dubai Sports 2 tidak cocok id epg
--  **[KS]** AE: Sharjah Sports TV tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 1 tidak cocok id epg
--  **[KS]** AE: OSN Premiere tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 2 tidak cocok id epg
--  **[KS]** AE: StarzPlay Sports 3 tidak cocok id epg
--  **[KS]** UK: Hub Premier 1 tidak cocok id epg
--  **[KS]** UK: Hub Premier 3 tidak cocok id epg
--  **[KS]** UK: Hub Premier 4 tidak cocok id epg
--  **[KS]** UK: Hub Premier 5 tidak cocok id epg
--  **[KS]** UK: Hub Premier 6 tidak cocok id epg
--  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Football tidak cocok id epg
--  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Premier League tidak cocok id epg
--  **[KS]** UK: Sky Sports Premier League 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports+ tidak cocok id epg
--  **[KS]** UK: Eurosport 1 tidak cocok id epg
--  **[KS]** UK: Eurosport 2 tidak cocok id epg
--  **[KS]** UK: Hub Sports 5 [vip] tidak cocok id epg
--  **[KS]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
--  **[KS]** UK: Setanta Sports 1 tidak cocok id epg
--  **[KS]** UK: Sky Sports Action tidak cocok id epg
--  **[KS]** UK: Sky Sports Action / NFL 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Arena tidak cocok id epg
--  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
--  **[KS]** UK: Sky Sports Cricket tidak cocok id epg
--  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Golf tidak cocok id epg
--  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Mix tidak cocok id epg
--  **[KS]** UK: Sky Sports Mix [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Racing tidak cocok id epg
--  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
--  **[KS]** UK: talkSPORT tidak cocok id epg
--  **[KS]** UK: TNT Sports 1 tidak cocok id epg
--  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 10 tidak cocok id epg
--  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 3 tidak cocok id epg
--  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
--  **[KS]** UK: TNT Sports 5 tidak cocok id epg
--  **[KS]** UK: TNT Sports 7 tidak cocok id epg
--  **[KS]** UK: TNT Sports 8 tidak cocok id epg
--  **[KS]** UK: TNT Sports 9 tidak cocok id epg
--  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
--  **[KS]** UK: World Of FreeSports tidak cocok id epg
--  **[KS]** UA: Setanta Sports tidak cocok id epg
--  **[KS]** UA: Setanta Sports 1 tidak cocok id epg
--  **[KS]** UA: Setanta Sports 2 tidak cocok id epg
--  **[KS]** UA: X Sport tidak cocok id epg
--  **[KS]** US: AT&T SportsNet tidak cocok id epg
--  **[KS]** US: Bally Sports Arizona Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Arizona Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Detroit tidak cocok id epg
--  **[KS]** US: Bally Sports Detroit Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Florida tidak cocok id epg
--  **[KS]** US: Bally Sports Florida Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Florida Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Indiana tidak cocok id epg
--  **[KS]** US: Bally Sports Kansas City tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Midwest Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Netbase tidak cocok id epg
--  **[KS]** US: Bally Sports New Orleans tidak cocok id epg
--  **[KS]** US: Bally Sports North tidak cocok id epg
--  **[KS]** US: Bally Sports North Minnesota tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cincinnati tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cincinnati Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Cleveland tidak cocok id epg
--  **[KS]** US: Bally Sports Ohio Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Oklahoma tidak cocok id epg
--  **[KS]** US: Bally Sports San Diego tidak cocok id epg
--  **[KS]** US: Bally Sports San Diego Plus tidak cocok id epg
--  **[KS]** US: Bally Sports SoCal tidak cocok id epg
--  **[KS]** US: Bally Sports SoCal Plus tidak cocok id epg
--  **[KS]** US: Bally Sports South tidak cocok id epg
--  **[KS]** US: Bally Sports Southeast tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest Alternate tidak cocok id epg
--  **[KS]** US: Bally Sports Southwest Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Sun tidak cocok id epg
--  **[KS]** US: Bally Sports Sun Plus tidak cocok id epg
--  **[KS]** US: Bally Sports West tidak cocok id epg
--  **[KS]** US: Bally Sports West Plus tidak cocok id epg
--  **[KS]** US: Bally Sports Wisconsin tidak cocok id epg
--  **[KS]** US: Bally Sports Wisconsin Plus tidak cocok id epg
--  **[KS]** US: beIN Sports tidak cocok id epg
--  **[KS]** US: beIN Sports 4 tidak cocok id epg
--  **[KS]** US: beIN Sports 5 tidak cocok id epg
--  **[KS]** US: beIN Sports 7 tidak cocok id epg
--  **[KS]** US: beIN Sports 8 tidak cocok id epg
--  **[KS]** US: CBS Sports Network tidak cocok id epg
--  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
--  **[KS]** US: Fox Sports Detroit tidak cocok id epg
--  **[KS]** US: Fox Sports Florida tidak cocok id epg
--  **[KS]** US: Fox Sports Ohio tidak cocok id epg
--  **[KS]** US: FTF Sports tidak cocok id epg
--  **[KS]** US: NBA League Pass 1 tidak cocok id epg
--  **[KS]** US: NBA TV tidak cocok id epg
--  **[KS]** US: NBC Sports Boston tidak cocok id epg
--  **[KS]** US: NBC Sports Chicago tidak cocok id epg
--  **[KS]** US: NBC Sports Chicago Plus tidak cocok id epg
--  **[KS]** US: NBC Sports Washington tidak cocok id epg
--  **[KS]** US: NFL Network tidak cocok id epg
--  **[KS]** US: NFL RedZone tidak cocok id epg
--  **[KS]** US: Root Sports tidak cocok id epg
--  **[KS]** US: Sportsman Channel tidak cocok id epg
--  **[KS]** US: Tennis Channel tidak cocok id epg
--  **[KS]** US: Xtrem Sports tidak cocok id epg
--  **[KS]** US: Motorsport TV tidak cocok id epg
--  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
--  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
--  **[KS]** US: CineBox Premiere tidak cocok id epg
--  **[KS]** US: Universal Premiere tidak cocok id epg
--  **[KS]** US: MLS LIVE 01 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 02 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 03 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 04 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 05 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 06 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 07 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 08 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 09 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 10 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 11 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 12 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 13 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 14 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 15 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 16 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 17 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 18 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 19 [VIP] tidak cocok id epg
--  **[KS]** US: MLS LIVE 20 [VIP] tidak cocok id epg
--  **[KS]** US: beIN Sports US tidak cocok id epg
--  **[KS]** US: BEK TV Sports West tidak cocok id epg
--  **[KS]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
--  **[KS]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
--  **[KS]** VE: DirecTV Sports tidak cocok id epg
--  **[KS]** VE: Fox Sports 3 tidak cocok id epg
--  **[KS]** AL: Arctic (2018) tidak cocok id epg
--  **[KS]** AL: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** AL: Being Flynn (2012) tidak cocok id epg
--  **[KS]** AL: Being Frank (2018) tidak cocok id epg
--  **[KS]** AL: Champions (2018) tidak cocok id epg
--  **[KS]** AL: Justice League (2017) tidak cocok id epg
--  **[KS]** AL: Justice League The Flashpoint Paradox (2013) tidak cocok id epg
--  **[KS]** AL: Justice League vs the Fatal Five (2019) tidak cocok id epg
--  **[KS]** AL: Justice League; The Flashpoint Paradox (2013) tidak cocok id epg
--  **[KS]** AL: Kung Fu League (2018) tidak cocok id epg
--  **[KS]** AL: The Influence (2019) tidak cocok id epg
--  **[KS]** ANIME: Justice League vs. Teen Titans (2016) tidak cocok id epg
--  **[KS]** ANIME: Justice League: Doom (2012) tidak cocok id epg
--  **[KS]** ANIME: Justice League: The New Frontier (2008) tidak cocok id epg
--  **[KS]** ANIME: Justice League: War (2014) tidak cocok id epg
--  **[KS]** ANIME: LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout (2016) tidak cocok id epg
--  **[KS]** AR: Les Transporteurs (2002) tidak cocok id epg
--  **[KS]** AR: Shahid Machafch Haga (2012) tidak cocok id epg
--  **[KS]** EN: 20000 Leagues Under the Sea (1954) tidak cocok id epg
--  **[KS]** EN: 3D Justice League (2017) tidak cocok id epg
--  **[KS]** EN: Arctic (2018) tidak cocok id epg
--  **[KS]** EN: Being Frank The Chris Sievey Story (2018) tidak cocok id epg
--  **[KS]** EN: Cradle of Champions (2018) tidak cocok id epg
--  **[KS]** EN: DC League of Super Pets (2022) tidak cocok id epg
--  **[KS]** EN: DC League of Super-Pets (2022) tidak cocok id epg
--  **[KS]** EN: Dont Swallow My Heart Alligator Girl (2017) tidak cocok id epg
--  **[KS]** EN: Global Warning Arctic Melt (2017) tidak cocok id epg
--  **[KS]** EN: Golden Moments Of The UEFA European Football Championships (2004) tidak cocok id epg
--  **[KS]** EN: Hyundai A-League Grand Final (2007) tidak cocok id epg
--  **[KS]** EN: Justice League (2017) EN tidak cocok id epg
--  **[KS]** EN: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** EN: Justice League vs the Fatal Five (2019) tidak cocok id epg
--  **[KS]** EN: Le premier oublié (2019) tidak cocok id epg
--  **[KS]** EN: League Of Gods (2016) EN tidak cocok id epg
--  **[KS]** EN: League of Legends Origins (2019) tidak cocok id epg
--  **[KS]** EN: Project Antarctica The journey of our lifetime (2018) tidak cocok id epg
--  **[KS]** EN: Sports Bloopers Incredible Football Plays (2004) tidak cocok id epg
--  **[KS]** EN: Sports Bloopers The Lighter Side Of Football (2004) tidak cocok id epg
--  **[KS]** EN: Sports Follies Greatest Sports Bloopers (2004) tidak cocok id epg
--  **[KS]** EN: Sports Follies Hillarious Sports Bloopers (2004) tidak cocok id epg
--  **[KS]** EN: The Story Of The UEFA European Football Championships (2004) tidak cocok id epg
--  **[KS]** EN: The Transporter 2 tidak cocok id epg
--  **[KS]** EN: The Unbearable Lightness of Being (1988) tidak cocok id epg
--  **[KS]** EN: Theres Something in the Pilliga (2014) tidak cocok id epg
--  **[KS]** EN: Tournament of Champions (2021) tidak cocok id epg
--  **[KS]** EN: Under an Arctic Sky (2017) tidak cocok id epg
--  **[KS]** EN: Under His Influence (2023) tidak cocok id epg
--  **[KS]** EN: Under the Influence (2023) tidak cocok id epg
--  **[KS]** EN: World Cake Championship (2019) tidak cocok id epg
--  **[KS]** EN: Zack Snyders Justice League (2021) tidak cocok id epg
--  **[KS]** ES: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** ES: Deadly Influencer (2019) tidak cocok id epg
--  **[KS]** ES: Detroit Zona de conflicto (2017) tidak cocok id epg
--  **[KS]** ES: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** ES: Justice League vs. the Fatal Five (2019) tidak cocok id epg
--  **[KS]** ES: Liga de la justicia (2017) tidak cocok id epg
--  **[KS]** EX-YU: Hajde Da Se Volimo (1987) tidak cocok id epg
--  **[KS]** EX-YU: Hajde Da Se Volimo 2 (1989) tidak cocok id epg
--  **[KS]** FR: Arctic (2018) tidak cocok id epg
--  **[KS]** FR: Premieres Vacances (2018) tidak cocok id epg
--  **[KS]** FR: Premiers Crus (2015) tidak cocok id epg
--  **[KS]** FR: The Influence (2019) tidak cocok id epg
--  **[KS]** DE: Arac Attack Angriffr achtbeinigen Monster (2002) tidak cocok id epg
--  **[KS]** DE: Arctic (2018) tidak cocok id epg
--  **[KS]** DE: Arctic Dogs (2019) tidak cocok id epg
--  **[KS]** DE: Bayou Caviar Im Mauls Alligators (2018) tidak cocok id epg
--  **[KS]** DE: Das bisschen Haushalt (2003) tidak cocok id epg
--  **[KS]** DE: Die Ligar aussergewohnlichen Gentlemen (2003) tidak cocok id epg
--  **[KS]** DE: Fahnenflüchtig (2015) tidak cocok id epg
--  **[KS]** DE: Fahnenfluechtig (2015) tidak cocok id epg
--  **[KS]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot tidak cocok id epg
--  **[KS]** DE: Herzkino Maerchen Schneeweisschen und Rosenrot (2018) tidak cocok id epg
--  **[KS]** DE: Honey 4 Lebeinen Traum (2018) tidak cocok id epg
--  **[KS]** DE: Housesitter Luegen haben schoene Beine (1992) tidak cocok id epg
--  **[KS]** DE: Justice League (2017) tidak cocok id epg
--  **[KS]** DE: Justice League Dark (2017) tidak cocok id epg
--  **[KS]** DE: La influencia Boeser Einfluss (2019) tidak cocok id epg
--  **[KS]** DE: League of Gods (2016) tidak cocok id epg
--  **[KS]** DE: Nicht meine Liga (2020) tidak cocok id epg
--  **[KS]** DE: O Palmenbaum (2000) tidak cocok id epg
--  **[KS]** DE: Red Army Hooligans (2018) tidak cocok id epg
--  **[KS]** DE: The Transporter (2002) tidak cocok id epg
--  **[KS]** DE: The Trouble with Being Born (2020) tidak cocok id epg
--  **[KS]** DE: Willkommen bein Honeckers (2017) tidak cocok id epg
--  **[KS]** DE: Wir sind Champions (2018) tidak cocok id epg
--  **[KS]** IN: Aligarh (2015) tidak cocok id epg
--  **[KS]** IN: Ranbanka (2015) tidak cocok id epg
--  **[KS]** IN: Tennis Buddies (2019) tidak cocok id epg
--  **[KS]** IT: Arctic (2018) tidak cocok id epg
--  **[KS]** IT: Champions (2018) tidak cocok id epg
--  **[KS]** IT: Influenze maligne (2019) tidak cocok id epg
--  **[KS]** IT: Justice League (2017) tidak cocok id epg
--  **[KS]** IT: Justice League Fuga da Gotham City (2016) tidak cocok id epg
--  **[KS]** IT: Justice League; Fuga da Gotham City (2016) tidak cocok id epg
--  **[KS]** IT: League Of Gods (2016) tidak cocok id epg
--  **[KS]** NO: Arctic (2019) tidak cocok id epg
--  **[KS]** NO: Arctic Apocalypse (2019) tidak cocok id epg
--  **[KS]** NO: Justice League VS The Fatal Five (2019) tidak cocok id epg
--  **[KS]** NO: Sinbad Legend Of The Seven Seas (2003) tidak cocok id epg
--  **[KS]** NO: Transporter 1 (2002) tidak cocok id epg
--  **[KS]** NO: Transporter 2 (2005) tidak cocok id epg
--  **[KS]** NO: Transporter 3 (2008) tidak cocok id epg
--  **[KS]** NO: Transporter 4 (2015) tidak cocok id epg
--  **[KS]** PL: Champions (1998) tidak cocok id epg
--  **[KS]** PL: Donbass (2018) tidak cocok id epg
--  **[KS]** PL: Znamie Dragonfly (2002) tidak cocok id epg
--  **[KS]** PT: Arctico tidak cocok id epg
--  **[KS]** PT: Champions tidak cocok id epg
--  **[KS]** PT: Dear Basketball tidak cocok id epg
--  **[KS]** PT: Justice League tidak cocok id epg
--  **[KS]** PT: Justice League Dark tidak cocok id epg
--  **[KS]** PT: Justice League vs. the Fatal Five tidak cocok id epg
--  **[KS]** PT: La Influencia tidak cocok id epg
--  **[KS]** PT: League of Gods tidak cocok id epg
--  **[KS]** PT: Operation Arctic tidak cocok id epg
--  **[KS]** PT: Sinbad A Lenda dos Sete Mares tidak cocok id epg
--  **[KS]** PT: The Transporter Refueled tidak cocok id epg
--  **[KS]** RO: Arctic (2019) tidak cocok id epg
--  **[KS]** RO: Champions (2018) tidak cocok id epg
--  **[KS]** RO: Hooligan Escape The Russian Job (2018) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Dyker Upp Igen (1986) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Far Guldfeber (1984) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Och Den Svarta Diamanten (1992) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Och Dynamit-Harry (1982) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Pa Mallorca (1989) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Spelar Hogt (2000) tidak cocok id epg
--  **[KS]** SE: Jonssonligan Varning For Jonssonligan (1981) tidak cocok id epg
--  **[KS]** SE: Jonssonligans Storsta Kupp (1995) tidak cocok id epg
--  **[KS]** SE: Lilla Jonssonligan Och Stjarnkuppen (2006) tidak cocok id epg
--  **[KS]** SE: Lyckligare Kan Ingen Vara (2018) tidak cocok id epg
--  **[KS]** TR: Arctic (2018) tidak cocok id epg
--  **[KS]** TR: Düzenbazlar Kulübü (2018) tidak cocok id epg
--  **[KS]** TR: Duzenbazlar The Hustle Altyazili (2019) tidak cocok id epg
--  **[KS]** TR: Inflame (2017) tidak cocok id epg
--  **[KS]** TR: Justice League Vs The Fatal Five (2019) tidak cocok id epg
--  **[KS]** TR: La influencia (2019) tidak cocok id epg
--  **[KS]** TR: Omen III: The Final Conflict (1981) tidak cocok id epg
--  **[KS]** XXX: Being Riley (Tushy; 2015) tidak cocok id epg
--  **[KS]** XXX: Bush League 14 tidak cocok id epg
--  **[KS]** XXX: Chubby Champions tidak cocok id epg
--  **[KS]** XXX: Gilligans Trans Adventures tidak cocok id epg
+### 📁 LIVE1.M3U
+-  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
+-  **[KS]** ⚠️RCTI⚠️ tidak cocok id epg
+-  **[KS]** ⚠️INDOSIAR⚠️ tidak cocok id epg
+-  **[KS]** ⚠️MNC TV⚠️ tidak cocok id epg
+-  **[KS]** ⚠️TVRI SPORT⚠️ tidak cocok id epg
+- ⚠️ **[EVENT]** 📢  20:05-21:00 WIB - BOKS: TOKYO NORMAN VS SASSAKI [HR: SPORT KLUB FIGHT]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:05-21:45 WIB - BUNDESLIGA. EINTRACHT FRANKFURT - RB LEIPZIG [BE: PLAY SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-20:50 WIB - LALIGA BEST 11: DAVID VILLA [BE: ELEVEN SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - LIVERPOOL - PSG - MECI FOTBAL UEFA CHAMPIONS LEAGUE [RO: PRIMA SPORT 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - MELAKA FC VS SABAH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - MELAKA FC VS SABAH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:16-22:16 WIB - 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:16-22:16 WIB - 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  18:25-20:35 WIB - LALIGA: BARCELONA V CELTA VIGO [CH: V SPORT LIVE 1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  19:25-21:25 WIB - ]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:26-21:26 WIB - 23/04/26 ADOLFO DANIEL VALLEJO VS GRIGOR DIMITROV - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:26-21:26 WIB - 23/04/26 ADOLFO DANIEL VALLEJO VS GRIGOR DIMITROV - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:15-01:00 WIB - WHEELCHAIR RUGBY NATIONAL C'SHIP (DAY 1) [AU: FOX SPORTS 506]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:15-01:00 WIB - WHEELCHAIR RUGBY NATIONAL C'SHIP (DAY 1) [US: FOX SPORTS 506]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  17:00-05:30 WIB - BREST - LENS. SEPAKBOLA. LIGA PRANCIS [RS: ARENA SPORT 1X2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-21:00 WIB - THE EMIRATES FA CUP 2025/26 QF: CHELSEA VS PORT VALE - QF: CHELSEA VS PORT VALE [HU: SPORT 2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-21:00 WIB - THE EMIRATES FA CUP 2025/26 QF: CHELSEA VS PORT VALE - QF: CHELSEA VS PORT VALE [UK: HUB SPORTS 2 VIP]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  18:30-21:30 WIB - UNITED FOOTBALL LEAGUE [CL: FOX SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-21:30 WIB - UNITED FOOTBALL LEAGUE [CO: FOX SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - ) TOUR OF THE ALPS, STAGE 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - ]  TOUR OF THE ALPS, STAGE 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - FK VAN VS BKMA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - HANGZHOU TEAM VS SHAOXING TEAM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - VAN VS BKMA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - VAN VS BKMA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - CYCLING TOUR OF THE ALPS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - CYCLING TOUR OF THE ALPS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:35-20:35 WIB - ) NINGBO TINGWO VS BEIJING KONGGU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:36-20:36 WIB - 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:36-20:36 WIB - 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - NOTTINGHAM FOREST - BURNLEY. SEPAKBOLA. LIGA INGGRIS [AL: ARENA SPORT 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - NOTTINGHAM FOREST - BURNLEY. SEPAKBOLA. LIGA INGGRIS [BIH: ARENA SPORT 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - LUDOGORETS - CELTA. SEPAKBOLA. UEFA LIGA EVROPE [AL: ARENA SPORT 4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - LUDOGORETS - CELTA. SEPAKBOLA. UEFA LIGA EVROPE [BIH: ARENA SPORT 4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ASVEL - FENERBAHCE. BASKET. EVROLIGA [AL: ARENA SPORT 5]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ASVEL - FENERBAHCE. BASKET. EVROLIGA [BIH: ARENA SPORT 5]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SEPAKBOLA: LALIGA. FC BARCELONA - CELTA VIGO [BE: ELEVEN SPORTS 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - BRONDBY - SONDERJYSKE. SEPAKBOLA. DANSKA LIGA [BIH: ARENA SPORT 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - BRONDBY - SONDERJYSKE. SEPAKBOLA. DANSKA LIGA [HR: ARENA SPORT 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - TENIS [RO: DIGI SPORT 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-01:00 WIB - DAZN LALIGA [ES: DAZN LALIGA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-01:00 WIB - DAZN LALIGA [ES: DAZN LALIGA 1 FHD VIP]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-22:00 WIB - MLB BASEBALL [US: MARQUEE SPORTS NETWORK]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/26 BIOSKOP KELUARGA INDONESIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/26 BIOSKOP KELUARGA INDONESIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - MALUT UNITED VS PERSEBAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ) MALUT UNITED VS PERSEBAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ) PUSAMANIA BORNEO FC VS SEMEN PADANG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ]   MALUT UNITED VS PERSEBAYA SURABAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - MALUT UNITED VS PERSEBAYA SURABAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SNOOKER WORLD CHAMPIONSHIP TABLE 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SNOOKER WORLD CHAMPIONSHIP TABLE 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - HORSE RACING CH 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - HORSE RACING CH 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - GOLF PGA ZURICH CLASSIC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - GOLF PGA ZURICH CLASSIC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-20:30 WIB - 4TH ODI: SRI LANKA VS INDIA; ONE-DAY INTERNATIONAL CRICKET [IN: SONY SPORTS TEN 3 SONY TEN 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-22:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: FEATHERWEIGHTS + LIGHT HEAVYWEIGHTS. PROFESSIONAL FIGHTERS L [US: FUBO SPORTS NETWORK]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - ZORYA VS SHAKHTAR DONETSK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - FK ZORYA LUHANSK VS SHAKHTAR DONETSK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - FK ZORYA LUHANSK VS SHAKHTAR DONETSK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - ]   HA NOI TASCO AUTO  VS BINH CHUNG THONG TIN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - MECI FOTBAL SUPERLIGA 1 [RO: PRIMA SPORT 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 26/10/20 MAMAH DAN AA BERAKSI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 26/10/20 MAMAH DAN AA BERAKSI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA INGGRIS [QA: BEIN SPORTS PREMIUM 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - NASCAR CUP SERIES MOTOR RACING. KANSAS SPEEDWAY [IE: PREMIER SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - NASCAR CUP SERIES MOTOR RACING. KANSAS SPEEDWAY [UK: PREMIER SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:30 WIB - ATHLETIC CLUB DE BILBAO VS. CA [MX: SKY SPORTS LALIGA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: SUMMER FINALE [RS: SPORT KLUB ESPORTS]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - CRYSTAL PALACE VS WEST HAM UNITED (MW33) - PREMIER LEAGUE 2025/26 [UK: HUB PREMIER 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-00:00 WIB - TATA INDIAN PREMIER LEAGUE 2026 - M25: GUJARAT TITANS VS KOLKATA KNIGHT RIDERS [UK: HUB SPORTS 4 VIP]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 0 ANOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 28/07/22 MW33: BURNLEY V MANCHESTER CITY : MATCH HIGHLIGHTS 25/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 28/07/22 MW33: BURNLEY V MANCHESTER CITY : MATCH HIGHLIGHTS 25/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 23/04/26 BERI CINTA WAKTU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 23/04/26 BERI CINTA WAKTU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - IBV VESTMANNAEYJAR VS KR REYKJAVIK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - VESTMANNAEYJAR VS KR REYKJAVIK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - VESTMANNAEYJAR VS KR REYKJAVIK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:30 WIB - 2026 IIHF U18 MEN'S HOCKEY CHAMPIONSHIP: CANADA VS. LATVIA [FIGHT SPORTS+]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:02-11:37 WIB - CODIGO F1 (T2025): MEXICO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:05-10:05 WIB - 24/04/26 FAKTA +62🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:10-14:55 WIB - BASKET - NBA LIGA: PLAYOFFS (G2): SAN ANTONIO - PORTLAND🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  18:10-19:40 WIB - BASKET - SPANJOLSKA LIGA: REAL MADRID - TENERIFE🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  12:15-14:10 WIB - MUNDIAL F1 - GP DE AUSTRALIA (T2026): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:17-17:17 WIB - TO PARIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:20-15:00 WIB - BASEBALL. WORLD SERIES G5. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:20-16:10 WIB - LALIGA : REAL OVIEDO VS VILLARREAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:20-16:20 WIB - NASCAR CUP SERIES: ADVENTHEALTH 400 RESUMO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:20-18:10 WIB - SEPAKBOLA: LIGA CHAMPIONS AZIJE - TWO: 1/2 FINALE: NASSR - AHLI QATAR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:22-13:22 WIB - .63 S01 E08🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:25-12:30 WIB -  LALIGA. REAL OVIEDO V VILLARREAL CF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:25-15:55 WIB - MUNDIAL F1 - GP DE CHINA (T2026): BOX, BOX🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:25-15:56 WIB - LALIGA HYPERMOTION (T25/26): ALMERIA - MALAGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:30-10:30 WIB - LALIGA EA SPORTS (T25/26): LEVANTE - SEVILLA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB -  DINAMO - CS U CRAIOVA - MECI FOTBAL CUPA ROMANIEI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - ) MINNESOTA TIMBERWOLVES VS DENVER NUGGETS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:30-10:30 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:30-12:15 WIB - BASKET: NBA: OKLAHOMA CITY THUNDER - PHOENIX SUNS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:30-13:00 WIB - OVIEDO - VILLARREAL. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:00 WIB - PERUGIA - GUAGUAS LAS PALMAS. VOLI. LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:00 WIB - NETBALL SUPER LEAGUE '25🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-17:30 WIB - ESL PRO LIGA: LEGACY VS AURORA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - PERSITA VS BALI UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - PSM VS PERSIK KEDIRI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-19:00 WIB - ABU DABI, CETVRTFINALA, POLUFINALA I FINALE. BASKET 3X3. FIBA 3X3 WORLD TOUR🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  16:30-19:00 WIB - UB - TENT, FINALE G2. VOLI. SUPERLIGA (Z)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  21:05-22:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:05-23:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-20:50 WIB - LALIGA BEST 11: FERNANDO MORIENTES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:15-23:00 WIB - VOLI (Z): PRVA LIGA SLOVENIJE: FINALE (3. TEKMA): OTP BANKA BRANIK - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:15-23:00 WIB - LIGA DIGI SPORT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:15-23:15 WIB - FC BIHOR VS SEPSI SF GHEORGHE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:20-21:20 WIB - TENIS: MUNIQUE - ATP WORLD TOUR 500 (RESUMO)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:25-23:00 WIB - SEPAKBOLA: 2. BUNDESLIGA: SCHALKE - MUNSTER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-12:00 WIB -  TENNIS: TOURNOI WTA DE MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - REAL SOCIEDAD - GETAFE. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - ALMERIA - MALAGA. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-01:00 WIB - SEPAKBOLA. SAZETAK. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-10:00 WIB -  TENIS: ATP MASTERS IN WTA 1000 MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-01:00 WIB -  TENIS: ATP MASTERS & WTA 1000 MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-01:50 WIB - LALIGA EA SPORTS (T25/26): MALLORCA - VALENCIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-10:03 WIB - TENNIS: ATP WORLD TOUR 1000-TURNERING I MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:30 WIB - SENIOR PGA CHAMPIONSHIP 2026 - ROUND 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-03:50 WIB - TATA INDIAN PREMIER LEAGUE 2026 () - M33: MUMBAI INDIANS VS CHENNAI SUPER KINGS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 RUMAHNYA DANGDUT : DMD PANGGUNG REZEKI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 AMAZING ENTERTAINMENT : NEW FAMILY 100🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 20/09/16 MECHAMATO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 INTERUPSI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 28/05/16 THE YOUTH DOCTOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 04/06/18 DRAMA KISAH NYATA: MEMORI KEBAHAGIAAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:10-01:00 WIB - SEPAKBOLA - BUNDESLIGA: HOFFENHEIM - DORTMUND🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:15-02:30 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:15-02:15 WIB - ATLETICO MADRID - BARCELONA - MECI FOTBAL UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:20-01:00 WIB - FORMULA 1: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-09:00 WIB - TENNIS: ATP & WTA - KONFERENZ MUTUA MADRID OPEN IN MADRID (ESP), 3. TAG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-01:30 WIB - ARSENAL VS. SPORTING CP; UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-06:00 WIB - TENNIS: ATP & WTA MADRID OPEN 2026. DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:15 WIB - MECI BASCHET LIGA NATIONALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:48-03:00 WIB - NRL RUGBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-02:00 WIB - EQUESTRIAN: LONGINES LEAGUE OF NATIONS, OCALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-01:45 WIB - SPORT BROTHERS LEAGUE S03E01🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - SEPAKBOLA: SERIE A. UDINESE CALCIO - PARMA CALCIO 1913🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - HOFFENHEIM - DORTMUND. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - SEPAKBOLA. DINAMO - FENERBAHCE. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - BASKET. UNICAJA - ALBA. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-11:00 WIB -  TENNIS: ATP & WTA MADRID OPEN 2026: DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - OBOS-LIGAEN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-02:40 WIB - MOTOGP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - LALIGA EA SPORTS (T25/26): REAL SOCIEDAD - GETAFE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-02:50 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-01:35 WIB -  WORLD RALLY CHAMPIONSHIP: SHAKEDOWN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-02:00 WIB - ANT & SAV VS THE WORLD🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - ) RAYO VALLECANO VS ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - LUBE - VERONA, POLUFINALE G4. VOLI. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-02:30 WIB - 2018: 1ST ODI - ENGLAND VS. INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:37-03:15 WIB - PREMIER LEAGUE. CHELSEA - MANCHESTER UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - ATLETICO - BARCELONA. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - FUSSBALL: PRIMEIRA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - RIVER PLATE - BOCA JUNIORS. SEPAKBOLA. ARGENTINSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-03:00 WIB - PRO FOOTVOLLEY TOUR: WINTER SERIES - SEMIFINALS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - GIRONA - BETIS. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - ) PSV EINDHOVEN VS PEC ZWOLLE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:15-04:15 WIB - 24/04/26 MEGA BOLLYWOOD: DEAR ZINDAGI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - SEPAKBOLA: SERIE A. SSC NAPOLI - SS LAZIO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - BASEBALL. CHICAGO CUBS - NY METS. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-04:55 WIB - BUNDESLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:07-04:51 WIB - RUGBY : TOP 14🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:23-05:13 WIB - PREMIER LEAGUE. EVERTON - LIVERPOOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - BENFICA - REAL MADRID. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - FUSSBALL: LIGA PROFESIONAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - AEK ATHENS VS RAYO VALLECANO - UEFA CONFERENCE LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-05:00 WIB - 2025 WORLD TAEKWONDO CHAMPIONSHIPS: MEN -80KG FINAL, WOMEN-46KG FINAL & WOMEN +73KG FINAL, DAY 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - MILANO - NAPOLI. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - SEPAKBOLA. RIJEKA - OMONIA. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-05:45 WIB - BRISTOL BEARS - GLOUCESTER RUGBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - - KERALA BLASTERS VS. ODISHA FC; INDIAN SUPER LEAGUE SOCCER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - EFL CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:05-04:50 WIB - TAJEMSTVI KRALOVSKYCH PALACU (7/8)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:30-06:30 WIB - LILLE - NICE. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:50-06:30 WIB - - MUMBAI INDIANS VS. CHENNAI SUPER KINGS; TATA IPL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - RADNICKI NIS - JAVOR. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-08:00 WIB - AMERICKI SEPAKBOLA. NEW ENGLAND - LA CHARGERS. NFL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-09:00 WIB -  LPGA TOUR: THE CHEVRON CHAMPIONSHIP - DAY 1, PART 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. LILLE OSC - OGC NICE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-06:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-08:00 WIB - VSIN BY THE BOOKS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-06:00 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF (ETAPA 6)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-07:15 WIB -  FC BIHOR - ACS SEPSI OSK SF. GHOERGHE - MECI FOTBAL LIGA 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-06:15 WIB - LONGINES FEI JUMPING WORLD CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:30-08:30 WIB - FEYENOORD - GRONINGEN. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:30-07:30 WIB - ) PALMEIRAS VS EC JACUIPENSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - JOVENTUT - BASKONIA. BASKET. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - SEPAKBOLA. SPORTING - ARSENAL. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-07:55 WIB - LALIGA. TBA V TBA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-07:00 WIB - IEM RIO: G2 VS 3DMAX🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-07:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ) DEFENSA Y JUSTICIA VS BOCA JUNIORS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ) ATLANTA HAWKS VS NEW YORK KNICKS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-07:15 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF (ETAPA 6)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-07:15 WIB - PORSCHE SIXT CARRERA CUP DE 2025 - RACE 1 - SACHSENRING🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-07:15 WIB - MOTOGP CLASSICS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 24/04/26 LIPUTAN 6 PAGI MOJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:30-08:30 WIB - 24/04/26 APA KABAR INDONESIA PAGI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - NAPREDAK - IMT. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - ZENIT KAZAN - DINAMO, FINALE G2. VOLI. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - NORDSJAELLAND - AARHUS. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-12:00 WIB -  E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 SPRING DAN 5🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - ) TORONTO RAPTORS VS CLEVELAND CAVALIERS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-08:00 WIB - NFL DRAFT COUNTDOWN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:10-07:45 WIB - FIFA WORLD CUP: STORIES FROM THE CITIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:30-09:30 WIB - ) OPERARIO VS FLUMINENSE RJ🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:45-09:45 WIB - SPARTAK - KRASNODAR. SEPAKBOLA. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:45-10:00 WIB - GA EAGLES - AZ ALKMAAR. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-10:40 WIB - SVENSKA HOCKEYLIGAN : SKELLEFTEA AIK - ROGLE BK - SVENSKA HOCKEYLIGAN (FINALE, SPIEL 1): SKELLEF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-10:40 WIB - EISHOCKEY: SVENSKA HOCKEYLIGAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-10:00 WIB -  LALIGA. LEVANTE UD V SEVILLA FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - MINNESOTA VS DENVER - NBA SEASON 2025-2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:30 WIB - LEVANTE - SEVILLA. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-09:00 WIB - BASKETCAST🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - WORLD RALLY CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-09:45 WIB -  BOLA TANGAN - LIGA JERMAN: FUCHSE - GUMMERSBACH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB -  WORLD RALLY CHAMPIONSHIP: SPECIAL STAGE 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-11:00 WIB - PROBOX TV CONTENDER SERIES: FLAZ VS. GOMEZ🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-11:00 WIB - 2026 NFL DRAFT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:15-09:00 WIB - PREGLED 27. KOLA. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-09:05 WIB - 44CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-09:15 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-03:00 WIB - CESENA - SAMPDORIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:49-09:50 WIB - SOIR DE RUGBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:52-11:02 WIB - MUNDIAL F1 - GP DE MEXICO (T2025): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:54-11:00 WIB - LALIGA EA SPORTS (T25/26): RAYO - ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:55-11:00 WIB -  RAYO VALLECANO / ESPANYOL BARCELONE (FOOTBALL. LIGA. 33E JOURNEE)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:55-11:10 WIB -  SEPAKBOLA: LALIGA. RAYO VALLECANO - RCD ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:58-10:58 WIB - 25/02/25 BERITA SATU MALAM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SPARTAK - TSC. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - MLADOST - RADNICKI 1923. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. SC FREIBURG - 1. FC HEIDENHEIM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SONDERJYSKE - MIDTJYLLAND. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB -  SEPAKBOLA: PORTUGALSKA LIGA: CASA PIA - BRAGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 20/12/24 GGS TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - ) ALAJUELENSE VS PUNTARENAS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:45-11:45 WIB -  CUPA GERMANIEI: STUTTGART-FREIBURG SEMIFINALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:55-12:00 WIB - LEAGUE TWO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - PSV - ZWOLLE. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - NBA PLAYBACK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - SALFORD - BROMLEY. SEPAKBOLA. LEAGUE TWO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - SEPAKBOLA. CRYSTAL PALACE - FIORENTINA. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - SEPAKBOLA. ESTUDIANTES - CUSCO. COPA LIBERTADORES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-11:00 WIB - SNOW LEAGUE '25/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-11:00 WIB - IEM RIO: NAVI VS HOTU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-13:00 WIB - LALIGA EA SPORTS (T25/26): REAL OVIEDO - VILLARREAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - 0 TIMMAR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - 02/05/24 LE CHANT DU FLEUVE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  10:00-12:00 WIB - 21/10/20 GESTUR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:00-13:00 WIB - VERONA - MILAN. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:00-13:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. FC LORIENT - OLYMPIQUE MARSYLIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:00-13:00 WIB - STRASBOURG - RENNES. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:00-12:30 WIB - VOLI - PRVA ODBOJKARSKA LIGA (M): FINALE (3. TEKMA): ACH VOLLEY - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:00-13:00 WIB - 29/09/21 EXPLODING SUN PART 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  11:40-13:10 WIB - BASKET - GRCKA LIGA: OLYMPIACOS - ARIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-13:50 WIB - LALIGA 2 : DEPORTIVO VS MIRANDES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-13:30 WIB - PARTIZAN - METALOPLASTIKA. BOLA TANGAN. SUPERLIGA SRBIJE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - SEPAKBOLA. LIVERPOOL - PSG. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-13:45 WIB - CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 22/02/20 KOREA TRAVELOGUE 5🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 04/02/21 MUSICA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 17/07/20 MAGNA TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - CHALON - BOURG. BASKET. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. PARIS SAINT-GERMAIN - OLYMPIQUE LYON🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - COPA DO BRASIL DE FUTEBOL: ATLETICO-MG X CEARA - AO VIVO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-14:50 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 WINTER DAN 15🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - ON THE CLOCK: NFL DRAFT SPECIAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - 2026 NFL DRAFT SPECIAL GAMETIME DECISIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:55-15:30 WIB -  LIGA PROFESIONAL DE FUTBOL. DEFENSA Y JUSTICIA V BOCA JUNIORS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:30 WIB - DEFENSA Y JUSTICIA - BOCA JUNIORS. SEPAKBOLA. ARGENTINSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - BRAGA - FAMILICAO. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-15:00 WIB - 2026 NFL DRAFT SPECIAL GAMETIME DECISIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 06/09/22 YULIANDRE DARWIS OPEN HOUSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 06/09/22 INFONE WARGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - ) DALIAN YINGBO B VS CHANGCHUN XIDU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - PISA - GENOA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-15:35 WIB - LALIGA BEST 11: IKER CASILLAS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-16:00 WIB - FORMULA E: DRIVER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - BASEBALL. WORLD SERIES G5. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:10 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 WINTER FINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 16/09/25 SUPERCOPA DE ESPANA 2024 : REAL MADRID VS BARCELONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-17:00 WIB - FORMULA E: DRIVER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - SEPAKBOLA. PSG - CHELSEA. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-16:45 WIB - Z ARCHIWUM LALIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  16:35-18:45 WIB - BASKETBAL: HIOPOS LLEIDA - BARCA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  16:40-18:10 WIB - BASKET - SPANJOLSKA LIGA: GIRONA - VALENCIA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  17:00-19:00 WIB - LEICESTER - HULL. SEPAKBOLA. CHAMPIONSHIP🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  17:00-19:00 WIB - CREMONESE - TORINO. SEPAKBOLA. LIGA ITALIA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  17:00-18:00 WIB - MOTOGP: SPAIN RACE (SPAIN RACE)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  17:00-19:00 WIB - AUSTRIA - SALZBURG. SEPAKBOLA. AUSTRIJSKA LIGA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  17:00-18:00 WIB - FORMULA E: DRIVER🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-20:00 WIB - MALLORCA VS VALENCIA - SPANISH LALIGA 2025/26🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-19:00 WIB - RUGBY HEAVEN🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-19:00 WIB - FORMULA E: DRIVER🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-20:00 WIB - SEPAKBOLA. RAYO VALLECANO - AEK. KONFERENCIJSKA LIGA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-20:00 WIB - ATP 1000 SHANGHAI 2025. VALENTIN VACHEROT (MON) VS ARTHUR RINDERKNECH (FRA)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  18:00-20:05 WIB - MUNDIAL F1 - GP DE LAS VEGAS (T2025): CARRERA🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  18:30-03:00 WIB - BWF THOMAS & UBER CUP FINALS 2026 -DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - CHELSEA - MANCHESTER UNITED. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - REAL MADRID - TENERIFE. BASKET. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - BOLOGNA - ROMA. SEPAKBOLA. UEFA LIGA EVROPE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - . BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-19:40 WIB - LALIGA BEST 11: DIEGO FORLAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - THUN - BASEL. SEPAKBOLA. SVAJCARSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-20:30 WIB - ODENSE - GYORI. BOLA TANGAN. EHF LIGA SAMPIONA (Z)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-20:00 WIB - F1 ACADEMY - 1. RENNEN - GP CHINA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - TENIS: MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SERIE A 25/26: INTER V CAGLIARI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-23:00 WIB - TATA INDIAN PREMIER LEAGUE 2026 - M12: KOLKATA KNIGHT RIDERS VS PUNJAB KINGS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-20:00 WIB - COMBAT SPORTS REPORT PREMIERE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:40-20:15 WIB - LALIGA BEST 11: FERNANDO LLORENTE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:40-21:25 WIB - SEPAKBOLA: 2. BUNDESLIGA: ARMINIA - NURNBERG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - F1 ACADEMY - 2. RENNEN - GP CHINA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:30 WIB - REAL OVIEDO VS. VILLARREAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - THE PROFESSIONAL FIGHTER'S LEAGUE VAULT: KICKSTARTER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:30-23:15 WIB - BASEBALL: MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:30-22:30 WIB - 23/04/26 ROSI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:50-22:57 WIB - MUNDIAL F1 - GP DE ESTADOS UNIDOS (T2025): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - EVERTON - LIVERPOOL. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - GALATASARAY - EFES. BASKET. TURSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - AEK - CRAIOVA. SEPAKBOLA. UEFA LIGA KONFERENCIJA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - REAL MADRID - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. TSG 1899 HOFFENHEIM - BORUSSIA DORTMUND🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SPORTING CP - SL BENFICA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - DRESDEN - BOCHUM. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA. ASTON VILLA - BOLOGNA. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - TENNIS: ATP & WTA INDIAN WELLS OPEN 2026: WTA FINAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - FINAL: INDIA VS. PAKISTAN; 2025 ASIA CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - UNITED RUGBY CHAMPIONSHIP. ROUND 15🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - TENIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - EUROLEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - LALIGA HYPERMOTION (T25/26): CASTELLON - BURGOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. AS MONACO - AJ AUXERRE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23/04/26 BIOSKOP TRANS TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - FC PYUNIK VS URARTU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - RADNICKI NIS VS HABITPHARM JAVOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - ) AL SHARJAH VS AL WAHDA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - NASAF QARSHI VS LOKOMOTIV TASHKENT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - KERALA BLASTERS VS ODISHA FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - ITTIHAD KALBA VS BANI YAS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - PYUNIK YEREVAN VS URARTU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - NAVBAHOR NAMANGAN VS SOGDIANA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - LAHORE QALANDARS VS KARACHI KINGS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - MUMBAI INDIANS VS CHENNAI SUPER KINGS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - RADNICKI NIS VS JAVOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - ) KERALA BLASTERS VS ODISHA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - BURNLEY VS. MANCHESTER CITY; PREMIER LEAGUE SOCCER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - REAL SOCIEDAD VS. DEPORTIVO ALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - ) AKRON TOGLIATTI VS FK MAKHACHKALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - PSG - NANTES. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-02:00 WIB - NASCAR CUP SERIES - ADVENTHEALTH 400🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - WTA 1000 MADRID. ELSA JACQUEMOT (FRA) VS TYRA CATERINA GRANT (ITA)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:15 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - BOURNEMOUTH VS LEEDS UNITED (MW34) - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:05-00:05 WIB - FRAUEN BUNDESLIGA '25/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:20-00:20 WIB - 17🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:30-01:00 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS. PROFESSIONAL FIGHTERS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:45-00:45 WIB - ) SAMSUNSPOR VS TRABZONSPOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:30 WIB - STARI GRAD. MALI SEPAKBOLA. ARENINA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - PANATHINAIKOS - MONACO. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - SEPAKBOLA: LALIGA. REAL SOCIEDAD - GETAFE CF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - PORTO - TONDELA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-00:15 WIB - BARCELONETA - BRESCIA. VATERPOLO. LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SC BRAGA - FC FAMALICAO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:05-00:00 WIB - HARLEY-DAVIDSON BAGGER CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:05-01:00 WIB - FOTBALL - NM MENN (CUPEN)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:10-01:10 WIB - ) AL NAJMA VS AL-TAAWOUN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:15-02:00 WIB - BASEBALL: MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:15-00:15 WIB - REZUMATE BUNDESLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:30-00:50 WIB - NRL THURSDAY NIGHT LEAGUE (ROUND 8)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:30-00:15 WIB - REZUMATE SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:40-00:20 WIB - FORMULA 1: FORMULA 1 CHINESE GRAND PRIX 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:45-01:15 WIB - BUNDESLIGA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:45-01:45 WIB - ) GO AHEAD EAGLES VS AZ ALKMAAR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:55-02:00 WIB - LALIGA : LEVANTE VS SEVILLA LVE🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢[FOOTBALL]FRIENDS UNITED [VS] GARHWAL FC|17:30 23/04/2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢[FOOTBALL]MINDIL ACES [VS] UNIVERSITY AZZURRI FC|18:00 23/04/2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢[FOOTBALL]ASTANA B [VS] AKADEMIYA ONTUSTIK|18:00 23/04/2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢[FOOTBALL]FK VAN CHARENTSAVAN [VS] BKMA|18:30 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[FOOTBALL]MALUT UNITED [VS] PERSEBAYA SURABAYA|19:00 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢[VOLLEYBALL] [VS] LITTO WOMEN|18:00 23/04/2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢WUYUE CUPNINGBO TEAM [VS] LISHUI TEAM[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WUYUE CUPNINGBO TEAM [VS] LISHUI TEAM[18:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WUYUE CUPHANGZHOU TEAM [VS] SHAOXING TEAM[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WUYUE CUPHANGZHOU TEAM [VS] SHAOXING TEAM[18:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MALUT UNITED [VS] PERSEBAYA SURABAYA[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MALUT UNITED [VS] PERSEBAYA SURABAYA[19:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONSIMAL FK [VS] BAKU SPORTING FK[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONSIMAL FK [VS] BAKU SPORTING FK[19:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONDIFAI AGSU FK [VS] SABAIL FC[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONDIFAI AGSU FK [VS] SABAIL FC[19:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEMELAKA FC [VS] SABAH FC[19:15 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEMELAKA FC [VS] SABAH FC[19:15 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEZORYA [VS] FC SHAKHTAR DONETSK[19:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEZORYA [VS] FC SHAKHTAR DONETSK[19:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLATHOR AKUREYRI [VS] FRAM REYKJAVIK[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANDEGERFORS IF [VS] AIK[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGALEVANTE [VS] SEVILLA FC[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANGAIS [VS] MJALLBY AIF[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANKALMAR [VS] IFK GOTEBORG[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANMALMO FF [VS] IK SIRIUS FK[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONAALBORG [VS] BOLDKLUBBEN AF 1893[00:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEBASAKSEHIR FUTBOL KULUBU [VS] KASIMPASA[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEISMAILY SC [VS] MODERN SPORT FC[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANLJUNGSKILE [VS] HELSINGBORG[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAALEMANNIA AACHEN [VS] MSV DUISBURG[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC MINSK [VS] BATE BORISOV[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONLYNGBY [VS] ESBJERG[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUETALA'EA EL GAISH [VS] KAHRABA ISMAILIA[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BMONZA [VS] MODENA[00:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAFC BLAU WEISS LINZ [VS] RHEINDORF ALTACH[00:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAFOTBAL CLUB FCSB [VS] PETROLUL PLOIESTI[00:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUEFC RAPPERSWIL-JONA [VS] ETOILE CAROUGE[00:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEDAMAC [VS] AL OKHDOOD[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEGHAZL EL MAHALLAH [VS] PETROJET[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK SPARTAK SUBOTICA [VS] BACKA TOPOLA[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGACASA PIA AC [VS] SPORTING BRAGA[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEZAMALEK SC [VS] PYRAMIDS FC[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH SUPERLIGASONDERJYSKE [VS] MIDTJYLLAND[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1KS WIECZYSTA KRAKOW [VS] POLONIA BYTOM[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGARAYO VALLECANO [VS] RCD ESPANYOL DE BARCELONA[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAMLADOST LUCANI [VS] RADNICKI 1923 KRAGUJEVAC[01:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEJONG AJAX YOUTH [VS] FC UTRECHT YOUTH[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2CLERMONT [VS] BASTIA[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE LAVALLOIS MFC [VS] RODEZ AVEYRON[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2RED STAR FC 93 [VS] GUINGAMP[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEVVV VENLO [VS] ALMERE CITY FC[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEAZ ALKMAAR YOUTH [VS] RODA JC[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAKAZINCBARCIKA [VS] MTK BUDAPEST[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEFC EINDHOVEN [VS] HELMOND SPORT[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEDORDRECHT [VS] WILLEM II[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2AMIENS [VS] MONTPELLIER HERAULT SC[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEDEN BOSCH [VS] ADO DEN HAAG[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEEMMEN [VS] DE GRAAFSCHAP[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIESC CAMBUUR LEEUWARDEN [VS] VITESSE ARNHEM[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIERKC WAALWIJK [VS] JONG PSV EINDHOVEN YOUTH[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEMVV MAASTRICHT [VS] FC OSS[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2ANNECY [VS] PAU FC[01:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUESTADE NYONNAIS [VS] VADUZ[01:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUESINT-TRUIDENSE [VS] ANDERLECHT[01:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH SEGUNDA DIVISIONALBACETE BALOMPIE SAD [VS] EIBAR[01:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1WISLA KRAKOW [VS] PUSZCZA NIEPOLOMICE[01:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAJAGIELLONIA BIALYSTOK [VS] GORNIK ZABRZE[01:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGAFAC WIEN [VS] SKN ST.POLTEN[01:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGARB LEIPZIG [VS] 1. FC UNION BERLIN[01:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DFB POKALVFB STUTTGART [VS] SC FREIBURG[01:45 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONWATERFORD UNITED [VS] GALWAY UNITED[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONST. PATRICKS ATHLETIC [VS] BOHEMIANS[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUECERCLE BRUGGE [VS] FCV DENDER EH[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1STADE BRESTOIS 29 [VS] RC LENS[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE ANAPOLI [VS] CREMONESE[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPSAINT JOHNSTONE [VS] RAITH ROVERS[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONSHELBOURNE [VS] DROGHEDA UNITED[01:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEPSV EINDHOVEN [VS] PEC ZWOLLE[02:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONSAN ANTONIO BULO BULO [VS] REAL ORURO[02:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGAREAL BETIS [VS] REAL MADRID[02:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONDERRY CITY [VS] SHAMROCK ROVERS[02:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUESUNDERLAND [VS] NOTTINGHAM FOREST[02:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPLEICESTER CITY [VS] MILLWALL[02:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BAVELLINO [VS] BARI[02:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAVALUR REYKJAVIK [VS] HAFNARFJORDUR[02:15 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAVIKINGUR REYKJAVIK [VS] STJARNAN GARDABAER[02:15 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGAALVERCA [VS] FC AROUCA[02:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGAREAL OVIEDO [VS] VILLARREAL CF[02:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PERUVIAN LIGA 1LOS CHANKAS [VS] CIENCIANO[03:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1DEPORTIVO RIESTRA [VS] CA INDEPENDIENTE[03:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ECUADORIAN CAMPEONATO SERIE BCUMBAYA FC [VS] CD EL NACIONAL[03:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PARAGUAYAN PRIMERA DIVISIONFC NACIONAL ASUNCION [VS] DEPORTIVO RECOLETA[03:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA ACUCUTA DEPORTIVO [VS] ATLETICO JUNIOR BARRANQUILLA[04:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED STATES WOMEN'S NATIONAL SOCCER LEAGUERACING LOUISVILLE WOMEN [VS] ORLANDO PRIDE WOMEN[04:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4JUNGNANG CHORUS MUSTANG FC [VS] GEOJE CITIZEN[05:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAUNION LA CALERA [VS] COQUIMBO UNIDO[05:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1ESTUDIANTES RIO CUARTO [VS] ROSARIO CENTRAL[05:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1CLUB ATLETICO LANUS [VS] CENTRAL CORDOBA SDE[05:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢URUGUAY PRIMERA DIVISIONMONTEVIDEO CITY TORQUE [VS] BOSTON RIVER[05:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA ADEPORTIVO PASTO [VS] INDEPENDIENTE SANTA FE[06:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO ASCENSO MXATLANTE FC [VS] TEPATITLAN FC[06:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1DEFENSA Y JUSTICIA [VS] BOCA JUNIORS[06:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CANADIAN PREMIER LEAGUESUPRA DU QUEBEC [VS] HFX WANDERERS FC[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MLS NEXT PROTORONTO FC II [VS] NEW YORK CITY TEAM B[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILLEON WOMEN [VS] SAINT LOUIS ATHLETICA WOMEN[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢COPA ECUADORINDEPENDIENTE AZOGUES [VS] POTTU VIA HO[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BRAZILIAN SERIE BPONTE PRETA [VS] AMERICA MG[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PARAGUAYAN PRIMERA DIVISIONCERRO PORTENO [VS] SPORTIVO AMELIANO[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4NAMYANGJU CITIZEN [VS] JINJU CITIZEN[06:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢LIGAPRO SERIE A CD UNIVERSIDAD CATOLICA [VS] MACARA[07:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONREAL TOMAYAPO [VS] THE STRONGEST[07:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAPALESTINO [VS] D. CONCEPCION[07:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONINDEPENDIENTE PETROLERO [VS] UNIVERSITARIO DE VINTO[07:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4PYEONGTAEK CITIZEN [VS] GEUMSAN INSAM FC[07:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ECUADORIAN CAMPEONATO SERIE BCD VARGAS TORRES [VS] SAN ANTONIO(ECU)[07:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED STATES WOMEN'S NATIONAL SOCCER LEAGUEWASHINGTON SPIRIT WOMEN [VS] KANSAS CITY CURRENT WOMEN[07:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1CA PLATENSE [VS] SAN LORENZO[07:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1RACING CLUB DE AVELLANEDA [VS] BARRACAS CENTRAL[07:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAAUDAX ITALIANO [VS] DEPORTES LIMACHE[07:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO ASCENSO MXCLUB DEPORTIVO TAPATIO [VS] CANCUN FC[08:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA AMILLONARIOS [VS] DEPORTES TOLIMA[08:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILCLUB AMERICA WOMEN [VS] PACHUCA WOMEN[08:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢COSTA RICA PRIMERA DIVISIONAD SAN CARLOS [VS] MUNICIPAL PEREZ ZELEDON[08:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILCHIVAS GUADALAJARA WOMEN [VS] TOLUCA WOMEN[08:06 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢COSTA RICA PRIMERA DIVISIONLD ALAJUELENSE [VS] PUNTARENAS FC[09:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEJEF UNITED ICHIHARA CHIBA LADIES [VS] NTV TOKYO VERDY BELEZA[10:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILTIJUANA WOMEN [VS] MAZATLAN FC WOMEN[10:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MXPUEBLA [VS] QUERETARO FC[10:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILMONTERREY WOMEN [VS] TIGRES WOMEN[10:06 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILATLAS WOMEN [VS] JUAREZ FC WOMEN[10:10 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE NADESHIKO LEAGUE 1NITTAIDAI SMG YOKOHAMA [VS] SETAGAYA SFIDWOMEN[11:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA W-LEAGUECANBERRA UNITED WOMEN [VS] MELBOURNE VICTORY WOMEN[11:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEJUBILO IWATA [VS] FC GIFU[11:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NORTHERN NEW SOUTH WALES PREMIER LEAGUENEWCASTLE OLYMPIC [VS] EDGEWORTH EAGLES FC[11:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEKUNSHAN ZHANGPU [VS] SHANGHAI ZETIAN[12:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEHEFEI CITY FOOTBALL CLUB [VS] YANGZHOU SANWAN LEDAO[12:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETHESPA KUSATSU GUNMA [VS] YOKOHAMA FC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1GANGWON FOOTBALL CLUB [VS] FOOTBALL CLUB SEOUL[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEHOKKAIDO CONSADOLE SAPPORO [VS] IWAKI FC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEGIRAVANZ KITAKYUSHU [VS] RENOFA YAMAGUCHI[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEALBIREX NIIGATA [VS] FC OSAKA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEZWEIGEN KANAZAWA FC [VS] NARA CLUB[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEYANTAI HUANGBOHAI NEW AREA [VS] GUANGZHOU XINGPAI[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETOCHIGI CITY [VS] TOCHIGI SC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEVEGALTA SENDAI [VS] MONTEDIO YAMAGATA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUKUSHIMA UNITED FC [VS] VENTFORET KOFU[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 DAEJEON KORAIL [VS] CHANGWON CITY[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEGAINARE TOTTORI [VS] ROASSO KUMAMOTO[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUJIEDA MYFC [VS] RB OMIYA ARDIJA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETEGEVAJARO MIYAZAKI [VS] KAGOSHIMA UNITED[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEMYNAVI SENDAI LADIES [VS] INAC KOBE LEONESSA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 GYEONGJU KHNP [VS] ULSAN CITIZENS[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEAC NAGANO PARCEIRO LADIES [VS] SANFRECCE HIROSHIMA REGINA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEURAWA RED DIAMONDS [VS] YOKOHAMA F. MARINOS[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEFAGIANO OKAYAMA [VS] AVISPA FUKUOKA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEIMABARI FC [VS] KATALLER TOYAMA[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESHIMIZU S-PULSE [VS] NAGOYA GRAMPUS[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 JEONBUK HYUNDAI MOTORS II [VS] DANGJIN CITIZEN[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSKA KHABAROVSK II [VS] FC SATURN RAMENSKOE[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEMEIZHOU QIANGMIN [VS] WUHAN LIANZHEN[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NORTHERN NEW SOUTH WALES PREMIER LEAGUEADAMSTOWN ROSEBUDS FC [VS] WESTON WORKERS FC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2SUWON SAMSUNG BLUEWINGS [VS] BUSAN I PARK[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2PAJU CITIZEN FC [VS] GYEONGNAM FC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN WK LEAGUEMUNGYEONG SANGMU WFC [VS] GYEONGJU KOREA HYDRO & NUCLEAR POWER WFC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESAGAN TOSU [VS] REILAC SHIGA FC[12:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDPENINSULA POWER [VS] QUEENSLAND LIONS SC[13:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEKAWASAKI FRONTALE [VS] JEF UNITED ICHIHARA CHIBA[13:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEYENISEY KRASNOYARSK WOMEN [VS] CHERTANOVO MOSCOW WOMEN[13:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2DALIAN YINGBO B [VS] CHANGCHUN XIDU[14:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESFREMANTLE CITY [VS] SORRENTO F.C.[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1YANBIAN LONGDING [VS] SHAANXI UNION[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESOLYMPIC KINGSWAY SC [VS] WESTERN KNIGHTS[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUETIANMEN TEAM [VS] XIAOGAN TEAM[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANXI CHONGDE RONGHAI [VS] SHANGHAI PORT B[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUELIJIANG TEAM [VS] NUJIANG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUETAICHUNG SAKURA (W) [VS] TAICHUNG BLUE WHALE WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE HONG KONG PREMIER LEAGUENORTH DISTRICT [VS] KITCHEE[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESARMADALE SC [VS] STIRLING MACEDONIA[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1IPSWICH CITY [VS] SUNSHINE COAST WANDERERS FC[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUELINCANG TEAM [VS] BAOSHAN TEAM[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUEHANG YUAN FC WOMEN [VS] TAIPEI BRAO WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA W-LEAGUEBRISBANE ROAR WOMEN [VS] ADELAIDE UNITED WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEDIQING TIBETAN [VS] ZHAOTONG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUENEWCASTLE JETS [VS] CENTRAL COAST MARINERS[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES PREMIER LEAGUESYDNEY OLYMPIC [VS] UNIVERSITY NSW[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESANFRECCE HIROSHIMA [VS] CEREZO OSAKA[14:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANGHAI SECOND [VS] DALIAN KEWEI[14:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUENINGDE TEAM [VS] NANPING TEAM[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEJINAN TEAM [VS] JINING[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2JIANGXI LUSHAN [VS] HUBEI ISTAR[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2ANSAN GREENERS FC [VS] JEONNAM DRAGONS[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1BUCHEON FC 1995 [VS] GIMCHEON SANGMU FOOTBALL CLUB[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2CHEONAN CITY [VS] SEONGNAM FC[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1INCHEON UNITED CLUB [VS] JEJU SK FC[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2TAI'AN TIANKUANG [VS] LANZHOU LONGYUAN ATHLETICS[14:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEANHUI WANMEI [VS] NANJING LONGSHENG[15:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEJIANGSU CHANGJIN [VS] JI'NAN LINKSAFE[15:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUEWUHAN JIANGHAN WOMEN [VS] CHANGCHUN DAZHONGZHUOYUE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUESYDNEY OLYMPIC FC WOMEN [VS] MACA SEARLE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2GRANGE THISTLE SC [VS] BRISBANE KNIGHTS[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2TARINGA ROVERS [VS] MORETON BAY UNITED RESERVES[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2SOUTHS UNITED [VS] SAMFORD RANGES[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2XIAMEN 1026 [VS] WUHAN THREE TOWNS B[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG WUCHUAN YOUTH [VS] LINQUAN ZHIKUANG[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHENZHEN 2028 [VS] GUANGDONG MINGTU[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEWS WANDERERS B (W) [VS] MANLY UTD WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUENORTHERN TIGERS FC WOMEN [VS] UNIVERSITY OF SYDNEY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKUDRIVKA NYVA U21 [VS] FC SHAKHTAR DONETSK U21[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2SOUTHSIDE EAGLES [VS] CALOUNDRA[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1CABOOLTURE FC [VS] REDLANDS UNITED FC[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEILLAWARRA STINGRAYS WOMEN [VS] MT DRUITT TOWN RANGERS FC (W)[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEAPIA L TIGERS WOMEN [VS] UNSW FC WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESC SAGAMIHARA [VS] SHONAN BELLMARE[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEHILLS UNITED (W) [VS] NWS SPIRIT WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2MITCHELTON FC [VS] VIRGINIA UNITED[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEENSHI TEAM [VS] HUANGSHI TEAM[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDMORETON CITY EXCELSIOR FC [VS] BRISBANE ROAR YOUTH[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEZVEZDA 2005 WOMEN [VS] RUBIN KAZAN WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1SHENZHEN JUNIORS [VS] FOSHAN NANSHI[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG RED TREASURE FOOTBALL CLUB [VS] WUHAN GOLDEN BANKS OF TWO RIVERS[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUEDON BOSCO GARELLI UNITED [VS] PHILIPPINE ARMY FC[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NATIONAL PREMIER LEAGUES VICTORIACAROLINE SPRINGS GEORGE CROSS [VS] ALTONA MAGIC[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEGLADESVILLE RAVENS WOMEN [VS] BULLS ACADEMY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PERSIJAP JEPARA [VS] PSBS BIAK NUMFOR[15:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEWENSHAN TEAM [VS] YUXI TEAM[15:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDGOLD COAST KNIGHTS [VS] GOLD COAST UNITED[15:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 2PERSELA LAMONGAN [VS] BARITO PUTERA[15:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MADURA UNITED [VS] DEWA UNITED FC[15:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 2SRIWIJAYA FC [VS] GARUDAYAKSA FC[15:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESBALCATTA FC [VS] PERTH REDSTAR[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUELIAONING SHENBEI HEFENG WOMEN [VS] GUANGDONG WOMEN[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1NAPOLI U19 [VS] INTER MILAN U20[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUEDYNAMIC HERB CEBU [VS] MANILA DIGGER FC[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDEASTERN SUBURBS BRISBANE [VS] ROCHEDALE ROVERS[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESDIANELLA WHITE EAGLES [VS] PERTH GLORY YOUTH[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES PREMIER LEAGUEMARCONI STALLIONS [VS] MANLY UNITED[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1CESENA U20 [VS] SASSUOLO U20[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN FIRST LEAGUEPRYKARPATTYA IVANO FRANKIVSK [VS] UCSA[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEPDRM FC [VS] IMIGRESEN FC[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1LOGAN LIGHTNING [VS] BROADBEACH UNITED[16:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢BANGLADESH PREMIER LEAGUEFAKIRERPOOL YOUNG MENS CLUB [VS] BANGLADESH POLICE CLUB[16:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢JAPANESE J1 LEAGUEV-VAREN NAGASAKI [VS] GAMBA OSAKA[16:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢BANGLADESH PREMIER LEAGUEBASHUNDHARA KINGS [VS] BROTHERS UNION[16:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢BANGLADESH PREMIER LEAGUEPWD SPORTS CLUB [VS] MOHAMMEDAN DHAKA[16:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢AUSTRALIA A-LEAGUEMACARTHUR FC [VS] WELLINGTON PHOENIX[16:35 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢AUSTRALIA A-LEAGUEWESTERN SYDNEY [VS] MELBOURNE VICTORY[16:35 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KOREAN WK LEAGUEHWACHEON KSPO WFC [VS] INCHEON HYUNDAI STEEL RED ANGELS WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢JAPANESE J1 LEAGUEFC TOKYO [VS] MITO HOLLYHOCK[17:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢JAPANESE J1 LEAGUEKASHIWA REYSOL [VS] KASHIMA ANTLERS[17:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL CHAMPION LEAGUEHOANG ANH GIA LAI [VS] XM HAI PHONG FC[17:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KOREAN WK LEAGUESEOUL AMAZONES WOMEN [VS] CHANGNYEONG WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢J2/J3 100 YEAR VISION LEAGUEFC RYUKYU OKINAWA [VS] OITA TRINITA[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUESUNNY BANK ATHLETIC CLUB TAIPEI (W) [VS] VALKYRIE (W)[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3ADINAMO VLADIVOSTOK [VS] TYUMEN[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN PREMIER LEAGUEOKZHETPES [VS] KAISAR KYZYLORDA[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE HONG KONG PREMIER LEAGUEEASTERN DISTRICT [VS] HONG KONG FC[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUEKAOHSIUNG ATTACKERSWOMEN [VS] HUALIEN WOMEN[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL FIRST CLASS LEAGUEQUANG NINH [VS] HO CHI MINH CITY[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPPOLISSYA ZHYTOMYR U21 [VS] OBOLON KIEV U21[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3AALANIA VLADIKAVKAZ [VS] KUBAN KRASNODAR[17:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢BULGARIAN FIRST LEAGUELUDOGORETS RAZGRAD [VS] CSKA 1948 SOFIA[17:15 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢ITALIAN SERIE BCATANZARO [VS] SPEZIA[17:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢TURKISH FIRST LEAGUEBELEDIYE VANSPOR [VS] ISTANBULSPOR[17:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢TURKISH FIRST LEAGUESERIK BELEDIYESPOR [VS] ATAKAS HATAYSPOR[17:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢UKRAINIAN FIRST LEAGUEPROBIY HORODENKA [VS] METALURH ZAPORIZHYA[17:30 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL CHAMPION LEAGUENINH BINH FC [VS] HANOI FC[18:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE FOOTBALL LEAGUE 2SHANDONG TAISHAN B [VS] QINGDAO RED LIONS[18:00 WIB 24/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3BDINAMO SAINT PETERSBURG [VS] SPARTAK 2 MOSCOW[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL CHAMPION LEAGUEBECAMEX HO CHI MINH CITY [VS] THEP XANH NAM DINH FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL CHAMPION LEAGUECLB THANH HOA [VS] PVF CAND[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢ENGLISH FA WOMEN'S SUPER LEAGUEBRIGHTON H.A. WOMEN [VS] MANCHESTER CITY WOMEN[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2NAKHON SI UNITED FC [VS] PATTANI[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN PREMIER LEAGUEALTAY FK [VS] ZHENIS ASTANA[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2CHANTHABURI FC [VS] BEC TERO SASANA[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢VIETNAM NATIONAL FIRST CLASS LEAGUEQUY NHON UNITED [VS] TRUONG TUOI DONG NAI[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2CHAINAT HORNBILL FC [VS] PATTAYA DISCOVERY UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3BZENIT PENZA [VS] FC AVANGARD KURSK[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3ADYNAMO KIROV [VS] STAVROPOLYE-2009[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢GERMAN BUNDESLIGA 2KARLSRUHER SC [VS] HANNOVER 96[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE FOOTBALL SUPER LEAGUECHENGDU RONGCHENG FC [VS] ZHEJIANG PROFESSIONAL FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEBINZHOU [VS] LIAOCHENG TEAM[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢GERMAN BUNDESLIGA 2HERTHA BERLIN [VS] HOLSTEIN KIEL[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUSSIAN WOMEN'S PREMIER LEAGUERYAZAN-VDV WOMEN [VS] FK ROSTOV WOMEN[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 1CHIANGRAI UNITED [VS] BANGKOK UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3BFK ROSTOV-2 [VS] RUBIN YALTA[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢CHINESE FOOTBALL LEAGUE 1SUZHOU DONGWU [VS] DINGNAN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢RUS D3BMETALLURG LIPETSK [VS] VOLNA KOVERNINO[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢SWEDEN SUPERETTANOSTERS IF [VS] OSTERSUNDS FK[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2KASETSART FC [VS] CHIANGMAI UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢GERMAN BUNDESLIGA 2PREUBEN MUNSTER [VS] ARMINIA BIELEFELD[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2MAHASARAKHAM SBT FC [VS] KHONKAEN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢DANISH 1ST DIVISIONHVIDOVRE IF [VS] AC HORSENS[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2SISAKET UNITED [VS] SONGKHLA FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2PHRAE UNITED FC [VS] NAKHON PATHOM FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢PHILIPPINES UNITED FOOTBALL LEAGUESTALLION LAGUNA FC [VS] ONE TAGUIG[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2BANGKOK [VS] TRAT FC[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢THAI LEAGUE 2NONGBUA PITCHAYA FC [VS] RASISALAI UNITED[18:00 WIB 25/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUENORTHEAST UNITED [VS] FC GOA[18:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SINGAPORE PREMIER LEAGUETAMPINES ROVERS FC [VS] YOUNG LIONS[18:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2HANGZHOU LINPING WUYUE [VS] GUANGZHOU DANDELION ALPHA FC[18:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPWEST BROMWICH ALBION [VS] IPSWICH TOWN[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEALASHKERT [VS] FC NOAH[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ESTONIAN PREMIUM LIIGAHARJU JK LAAGRI [VS] TARTU JK MAAG TAMMEKA[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPCHARLTON ATHLETIC [VS] HULL CITY[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUEGUANGXI PINGGUO BEINONG WOMEN [VS] SICHUAN WOMEN[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1MEIZHOU HAKKA FC [VS] SHANGHAI JIADING HUILONG[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SINGAPORE PREMIER LEAGUEALBIREX NIIGATA FC [VS] TANJONG PAGAR UTD[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEBENGALURU [VS] MUMBAI CITY FC[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEYANTAI BANK [VS] DONGYING TEAM[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2GUIZHOU ZHUCHENG ATHLETIC FC [VS] WENZHOU PROFESSIONAL FOOTBALL CLUB[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUERIZHAO [VS] DEZHOU TEAM[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEFK ROSTOV [VS] GAZOVIK ORENBURG[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 1BG PATHUM UNITED [VS] NAKHON RATCHASIMA MAZDA FC[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEFULHAM [VS] ASTON VILLA[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WUYUE CUPHUZHOU TEAM [VS] JIAXING TEAM[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPMIDDLESBROUGH [VS] WATFORD[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1GUANGXI HENGCHEN FOOTBALL CLUB [VS] NANJING CITY[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEEYUPSPOR [VS] GAZISEHIR GAZIANTEP[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEWEIHAI TEAM [VS] WEIFANG[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2HAIMEN CODION [VS] BEIJING IT[18:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2CHENGDU RONGCHENG B [VS] GANZHOU RUISHI[18:35 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUECHENGDU TEAM [VS] LESHAN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEYICHANG TEAM [VS] WUHAN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEXIANGYANG TEAM [VS] SUIZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEYIBIN TEAM [VS] MIANYANG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPINGTAN TEAM [VS] SANMING TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUEBEIJING GUOAN FC [VS] TIANJIN JINMEN TIGER FC[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPUTIAN TEAM [VS] QUANZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEHUANGGANG TEAM [VS] JINGMEN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEPU'ER TEAM [VS] DALI TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEZIGONG TEAM [VS] NANCHONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEQUJING TEAM [VS] DEHONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEQIANJIANG TEAM [VS] EZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEXIANNING TEAM [VS] SHENNONGJIA TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUELONGYAN TEAM [VS] ZHANGZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUESHIYAN TEAM [VS] JINGZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEDEYANG TEAM [VS] DAZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEKUNMING TEAM [VS] CHUXIONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEXISHUANGBANNA TEAM [VS] HONGHE TEAM[18:35 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUENANTONG TEAM [VS] XUZHOU TEAM[18:40 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUELIANYUNGANG TEAM [VS] WUXI TEAM[18:40 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUEYANCHENG TEAM [VS] SUQIAN TEAM[18:40 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GUANGDONG CITY FOOTBALL LEAGUEGUANGZHOU TEAM [VS] JIANGMEN TEAM[18:40 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUEPERTH GLORY [VS] BRISBANE ROAR[18:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WELSH PREMIER LEAGUECOLWYN BAY [VS] PEN-Y-BONT FC[18:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PERSIB BANDUNG [VS] AREMA FC[19:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 1SUKHOTHAI [VS] RATCHABURI FC[19:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 1UTHAI THANI FOREST [VS] PORT FC[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEKYZYLZHAR PETROPAVLOVSK [VS] ORDABASY[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAVFL OSNABRUCK [VS] SC VERL[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAERZGEBIRGE AUE [VS] SV WEHEN WIESBADEN[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAFC BOTOSANI [VS] FC OTELUL GALATI[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2GRENOBLE [VS] LE MANS[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGATSV 1860 MUNCHEN [VS] SSV ULM 1846[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGALAHTI [VS] AC OULU[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUESHANGHAI PORT FC [VS] WUHAN THREE TOWNS FC[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSALYUT-ENERGIA BELGOROD [VS] KVANT OBNINSK[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAHANSA ROSTOCK [VS] SSV JAHN REGENSBURG[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKRYVBAS U21 [VS] DINAMO KYIV U21[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGADEPORTIVO ALAVES [VS] RCD MALLORCA[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGATSG HOFFENHEIM YOUTH [VS] FC INGOLSTADT[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEMIL-MUGAN FK [VS] STANDARD SUMGAYIT[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1BORNEO FC [VS] SEMEN PADANG[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE DE REIMS [VS] NANCY[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONHILLEROD FODBOLD [VS] KOLDING FC[19:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEDPMM FC [VS] KUCHING CITY FC[19:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEKOLOS KOVALIVKA [VS] SC POLTAVA[19:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASV AUSTRIA SALZBURG [VS] KAPFENBERG SV 1919[19:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1LKS LODZ [VS] STAL RZESZOW[19:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAKISVARDA MASTER GOOD FC [VS] DIOSGYOR VTK[19:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAKORONA KIELCE [VS] GKS KATOWICE[19:45 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEKELANTAN THE REAL WARRIORS [VS] SELANGOR FC[20:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN LEAGUE DIVISION 1RAJASTHAN UNITED FC [VS] SREENIDI DECCAN[20:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK CHAYKA 2 [VS] PSK DINSKOY RAYON[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3ADINAMO BRIANSK [VS] ZENIT 2 ST. PETERSBURG[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK ORYOL [VS] ROTOR VOLGOGRAD B[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1LYON [VS] AJ AUXERRE[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK POBEDA JUNIOR [VS] DRUZHBA MAIKOP[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJAPS [VS] EKENAS IF FOTBOLL[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1TORINO U19 [VS] ATALANTA U19[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BIZBERBASH [VS] FK ANGUSHT NAZRAN[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BPESCARA [VS] JUVE STABIA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BA.C. REGGIANA 1919 [VS] PALERMO[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3AAMKAR PERM [VS] DYNAMO MOSCOW B[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANFALKENBERG [VS] GIF SUNDSVALL[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUENAFTAN NOVOPOLOCK [VS] FK VITEBSK[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUETERENGGANU FC [VS] NEGERI SEMBILAN[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE APARMA [VS] PISA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEFC KRASNODAR WOMEN [VS] ZENIT ST PETERSBURG WOMEN[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN FIRST LEAGUELEAGUESPARTAK KOSTROMA [VS] ARSENAL TULA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSTROGINO MOSCOW [VS] FK SHUMBRAT SARANSK[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BLUHANSK [VS] KYZYLTASH BAKHCHYSARAI[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1PARMA U20 [VS] US CREMONESE U20[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJIPPO [VS] SJK SEINAJOKI[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH FIRST LEAGUEADANA DEMIRSPOR [VS] UMRANIYESPOR[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BACD VIRTUS ENTELLA [VS] PADOVA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN LEAGUE DIVISION 1CHANMARI FC [VS] DIAMOND HARBOUR FC[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUECSKA SOFIA [VS] LEVSKI SOFIA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BSUDTIROL [VS] MANTOVA[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK ASTRAKHAN [VS] NART CHERKESSK[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BFROSINONE [VS] CARRARESE[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BRODINA MOSKVA III [VS] FK RYAZAN[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSHAHTER TAGANROG [VS] FC SEVASTOPOL[20:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGA1. FSV MAINZ 05 [VS] FC BAYERN MUNICH[20:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGAFC KOLN [VS] BAYER 04 LEVERKUSEN[20:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGAFC AUGSBURG [VS] EINTRACHT FRANKFURT[20:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGA1. FC HEIDENHEIM 1846 [VS] FC ST. PAULI[20:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGAVFL WOLFSBURG [VS] BORUSSIA MONCHENGLADBACH[20:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGARADNICKI NIS [VS] HABITPHARM JAVOR[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGARADNICKI NIS [VS] HABITPHARM JAVOR[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEKERALA BLASTERS FC [VS] ODISHA FC[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEKERALA BLASTERS FC [VS] ODISHA FC[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-SHARJAH [VS] AL-WAHDA FC[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-SHARJAH [VS] AL-WAHDA FC[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-WASL SC [VS] DABBA AL-FUJAIRAH[21:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-DHAFRA [VS] AJMAN[21:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEBANK EL AHLY [VS] ZED FC[21:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEPHARCO [VS] EL GOUNAH[21:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUEQIZILQUM ZARAFSHON [VS] FK KOKAND 1912[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUEQIZILQUM ZARAFSHON [VS] FK KOKAND 1912[21:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSTOKE CITY [VS] PORTSMOUTH[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSHEFFIELD UNITED [VS] PRESTON NORTH END[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEKRYLYA SOVETOV [VS] LOKOMOTIV MOSCOW[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWOLVERHAMPTON WANDERERS [VS] TOTTENHAM HOTSPUR[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEKAYSERISPOR [VS] CAYKUR RIZESPOR[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPROSS COUNTY [VS] GREENOCK MORTON[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGAINTER TURKU [VS] IFK MARIEHAMN[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPARBROATH [VS] PARTICK THISTLE FC[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUELIVERPOOL [VS] CRYSTAL PALACE[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPAIRDRIE UNITED [VS] AYR UNITED[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPNORWICH CITY [VS] SWANSEA CITY[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ESTONIAN PREMIUM LIIGAFC NOMME UNITED [VS] FC KURESSAARE[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPLNZ CHERKASY U21 [VS] METALIST 1925 KHARKIV(U21)[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FOOTBALL LEAGUESLAVEN BELUPO [VS] HNK VUKOVAR 1991[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPQUEENS PARK RANGERS [VS] DERBY COUNTY[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWEST HAM UNITED [VS] EVERTON[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUEOUD-HEVERLEE LEUVEN [VS] RC SPORTING CHARLEROI[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEJAMSHEDPUR FC [VS] CHENNAIYIN FC[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN ELITESERIENFREDRIKSTAD [VS] VIKING[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPBIRMINGHAM CITY [VS] BRISTOL CITY[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEFK AKTOBE LENTO [VS] IRTYSH PAVLODAR[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH PREMIERSHIPABERDEEN [VS] KILMARNOCK[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ANDORRAN PRIMERA DIVISIOUE SANTA COLOMA [VS] FC SANTA COLOMA[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH PREMIERSHIPSAINT MIRREN [VS] LIVINGSTON[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEARARAT-ARMENIA FC [VS] ARARAT YEREVAN[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPQUEEN'S PARK [VS] DUNFERMLINE ATHLETIC[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN 1.DIVISJONSOGNDAL [VS] ASANE FOTBALL[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPOXFORD UNITED [VS] SHEFFIELD WEDNESDAY[21:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN LIGA IIFC BIHOR ORADEA [VS] SEPSI OSK SFANTUL GHEORGHE[21:15 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN LIGA IIFC BIHOR ORADEA [VS] SEPSI OSK SFANTUL GHEORGHE[21:15 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGAGETAFE [VS] FC BARCELONA[21:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH SEGUNDA DIVISIONREAL VALLADOLID CF [VS] REAL SOCIEDAD B[21:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BAHRAIN KING'S CUPAL-MUHARRAQ [VS] AL-RIFFA[21:20 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BAHRAIN KING'S CUPAL-MUHARRAQ [VS] AL-RIFFA[21:20 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SYC PRST MICHEL UNITED FC [VS] SAINT LOUIS SUNS UNITED[21:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SYC PRST MICHEL UNITED FC [VS] SAINT LOUIS SUNS UNITED[21:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKRON TOGLIATTI [VS] DYNAMO MAKHACHKALA[21:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKRON TOGLIATTI [VS] DYNAMO MAKHACHKALA[21:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAHERMANNSTADT [VS] FK CSIKSZEREDA MIERCUREA CIUC[21:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGASV WALDHOF MANNHEIM [VS] SCHWEINFURT 05 FC[21:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGACD TONDELA [VS] NACIONAL DA MADEIRA[21:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEFEYENOORD [VS] GRONINGEN[21:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEFK GILAN GABALA [VS] ARAZ NAKHCHIVAN[21:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKMENISTANYN YOKARY LIGASYARKADAG FK [VS] ALTYN ASYR FC[22:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEEL MOKAWLOON EL ARAB [VS] ITTIHAD ALEXANDRIA SC[22:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE U23 LEAGUESPORTING CP U23 [VS] BENFICA U23[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE U23 LEAGUESPORTING CP U23 [VS] BENFICA U23[22:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUESLAVIA MOZYR [VS] NEMAN GRODNO[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUESLAVIA MOZYR [VS] NEMAN GRODNO[22:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢LITHUANIAN I LYGABABRUNGAS [VS] FK GARLIAVA[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢LITHUANIAN I LYGABABRUNGAS [VS] FK GARLIAVA[22:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGATPS TURKU [VS] GNISTAN HELSINKI[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGATPS TURKU [VS] GNISTAN HELSINKI[22:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGAVAASA VPS [VS] ILVES TAMPERE[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGAVAASA VPS [VS] ILVES TAMPERE[22:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢URUGUAY PRIMERA DIVISIONCA JUVENTUD [VS] LIVERPOOL URU[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEHARAS EL HODOOD [VS] WADI DEGLA SC[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC BARANOVICHI [VS] DINAMO MINSK[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUEHRVACE [VS] HNK ORIJENT 1919[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAWSG TIROL [VS] SV RIED[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANNORDIC UNITED FC [VS] SANDVIKENS IF[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUERUKH VYNNYKY [VS] FC KARPATY LVIV[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAKROMERIZ [VS] CHRUDIM[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAPUSKAS AKADEMIA FC [VS] UJPEST FC[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANOREBRO [VS] NORRBY IF[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JORDAN PREMIER LEAGUEAL WEHDAT [VS] AL-JAZEERA[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAWOLFSBERGER AC [VS] GRAZER AK[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN FIRST LEAGUEDINAMO-2 MINSK [VS] FK BUMPROM GOMEL[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAFC HAKA [VS] KAPYLAN PALLO[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUENK DUBRAVA [VS] NK SESVETE[22:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES DIVISION 1 GROUP ADUBAI UNITED [VS] GULF UNITED FC[22:10 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES DIVISION 1 GROUP ADUBAI UNITED [VS] GULF UNITED FC[22:10 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BVENEZIA [VS] EMPOLI[22:15 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH WOMEN'S PREMIER LEAGUEGLASGOW RANGERS WOMEN [VS] HEARTS WOMEN[22:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH WOMEN'S PREMIER LEAGUEGLASGOW RANGERS WOMEN [VS] HEARTS WOMEN[22:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASALECHIA GDANSK [VS] RAKOW CZESTOCHOWA[22:30 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL FATEH SC [VS] AL KHALEEJ CLUB[22:45 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL FATEH SC [VS] AL KHALEEJ CLUB[22:45 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH SUPERLIGARANDERS FC [VS] FREDERICIA[23:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK NAPREDAK KRUSEVAC [VS] FK IMT BELGRAD[23:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH SUPERLIGANORDSJAELLAND [VS] AARHUS AGF[23:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAPK-35 VANTAA [VS] KTP KOTKA[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROUTS UNION TOUARGA SPORT RABAT [VS] OLYMPIQUE DE SAFI[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASKU ERTL GLAS AMSTETTEN [VS] FIRST VIENNA FC 1894[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEDYNAMO MOSCOW WOMEN [VS] SPARTAK MOSCOW WOMEN[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROCODM MEKNES [VS] DHJ DIFAA HASSANI JADIDI[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGASJK SEINAJOEN [VS] JARO[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAKLUBI 04 HELSINKI [VS] MIKKELIN PALLOILIJAT[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PRORAJA CLUB ATHLETIC [VS] FUS RABAT[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PRORENAISSANCE ZMAMRA [VS] MAGHREB FEZ[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK VIAGEM USTI NAD LABEM [VS] VIKTORIA ZIZKOV[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGAFC LIEFERING [VS] YOUNG VIOLETS AUSTRIA WIEN[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK GRAFFIN VLASIM [VS] SK PROSTEJOV[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUEKARLOVAC [VS] NK DUGOPOLJE[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROHASSANIA AGADIR [VS] ITTIHAD RIADI TANGER[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PRORENAISSANCE DE BERKANE [VS] OLYMPIQUE DCHEIRA[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN 2.DIVISJONGRORUD [VS] SKEID OSLO[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROKACM MARRAKECH [VS] WYDAD CASABLANCA[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ESILIIGA BJOHVI FC LOKOMOTIV [VS] LEVADIA TALLINN U19[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROYACOUB EL MANSOUR [VS] AS FAR RABAT[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAZAGLEBIE LUBIN [VS] LKS NIECIECZA[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1ZNICZ PRUSZKOW [VS] GORNIK LECZNA[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASCHWARZ-WEISS BREGENZ [VS] FC HOGO HERTHA WELS[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASK AUSTRIA KLAGENFURT [VS] SC AUSTRIA LUSTENAU[23:00 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN 1.DIVISJONSTROMMEN [VS] KONGSVINGER[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGASK ARTIS BRNO [VS] DYNAMO CESKE BUDEJOVICE[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUEFC WIL 1900 [VS] AARAU[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAFK KOSICE [VS] MFK RUZOMBEROK[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE ABOLOGNA [VS] AS ROMA[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAMICHALOVCE [VS] SPORT PODBREZOVA[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK MAS TABORSKO [VS] FK PRIBRAM[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN ELITESERIENROSENBORG [VS] BRANN[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUELAUSANNE SPORTS [VS] FC ZURICH[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAKFC KOMARNO [VS] MFK SKALICA[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUEGRASSHOPPER [VS] LUZERN[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GEORGIA EROVNULI LIGASAMGURALI TSKH [VS] DINAMO TBILISI[23:00 WIB 25/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL NAJMA(KSA) [VS] AL TAAWOUN[23:10 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL HAZEM [VS] AL RIYADH[23:10 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 21. FC KAISERSLAUTERN [VS] EINTRACHT BRAUNSCHWEIG[23:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUESPARTAK VARNA [VS] BEROE STARA ZAGORA[23:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2FORTUNA DUSSELDORF [VS] DYNAMO DRESDEN[23:30 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUESPARTAK MOSCOW [VS] FK KRASNODAR[23:45 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEGO AHEAD EAGLES [VS] AZ ALKMAAR[23:45 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKHMAT GROZNY [VS] BALTIKA KALININGRAD[23:45 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL BATAEH [VS] AL AIN FC[23:45 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-NASR DUBAI [VS] AL-JAZIRA(UAE)[23:45 WIB 24/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1EKIBASTUZETS [VS] FK KASPIY AKTAU B[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1EKIBASTUZETS [VS] FK KASPIY AKTAU B[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢IND DSDFRIENDS UNITED [VS] GARHWAL FC[17:30 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢IND DSDFRIENDS UNITED [VS] GARHWAL FC[17:30 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢AUSTRALIA DARWIN PREMIER LEAGUEMINDIL ACES [VS] UNIVERSITY AZZURRI FC[18:00 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢AUSTRALIA DARWIN PREMIER LEAGUEMINDIL ACES [VS] UNIVERSITY AZZURRI FC[18:00 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFK VAN CHARENTSAVAN [VS] BKMA[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFK VAN CHARENTSAVAN [VS] BKMA[18:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:36 WIB 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:36 WIB 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (INTI HLS/M3U8)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (INTI MPD)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (ALT HLS/M3U8)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (ALT MPD)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢15:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:26 WIB 23/04/26 ADOLFO DANIEL VALLEJO VS GRIGOR DIMITROV - ROUND 1 (ARANTXA SANCHEZ STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:26 WIB 23/04/26 ADOLFO DANIEL VALLEJO VS GRIGOR DIMITROV - ROUND 1 (ARANTXA SANCHEZ STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:16 WIB 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1 (COURT 6) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:16 WIB 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1 (COURT 6) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 REAL MADRID CITY (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 REAL MADRID CITY (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢17:00 WIB 14/04/26 GALATASARAY HDI SIGORTA VS HALKBANK : TURKISH VOLLEYBALL 25/26 MEN'S LEAGUE (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢17:00 WIB 14/04/26 GALATASARAY HDI SIGORTA VS HALKBANK : TURKISH VOLLEYBALL 25/26 MEN'S LEAGUE (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢20:00 WIB 28/07/22 MW33: BURNLEY V MANCHESTER CITY : MATCH HIGHLIGHTS 25/26 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 28/07/22 MW33: BURNLEY V MANCHESTER CITY : MATCH HIGHLIGHTS 25/26 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 02/05/24 LE CHANT DU FLEUVE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 02/05/24 LE CHANT DU FLEUVE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢11:00 WIB 29/09/21 EXPLODING SUN PART 1 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢11:00 WIB 29/09/21 EXPLODING SUN PART 1 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 KOREA TRAVELOGUE 5 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 KOREA TRAVELOGUE 5 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 17/07/20 MAGNA TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 17/07/20 MAGNA TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢16:54 WIB 14/04/26 CINTA SETELAH CINTA S2 (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢16:54 WIB 14/04/26 CINTA SETELAH CINTA S2 (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 RUMAHNYA DANGDUT : DMD PANGGUNG REZEKI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 RUMAHNYA DANGDUT : DMD PANGGUNG REZEKI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 AMAZING ENTERTAINMENT : NEW FAMILY 100 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 AMAZING ENTERTAINMENT : NEW FAMILY 100 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 MECHAMATO (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 MECHAMATO (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 INTERUPSI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 INTERUPSI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 THE YOUTH DOCTOR (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 THE YOUTH DOCTOR (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 DRAMA KISAH NYATA: MEMORI KEBAHAGIAAN (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 DRAMA KISAH NYATA: MEMORI KEBAHAGIAAN (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:58 WIB 25/02/25 BERITA SATU MALAM (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:58 WIB 25/02/25 BERITA SATU MALAM (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 21/10/20 GESTUR (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 21/10/20 GESTUR (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 YULIANDRE DARWIS OPEN HOUSE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 YULIANDRE DARWIS OPEN HOUSE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 INFONE WARGA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 INFONE WARGA (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢17:00 WIB 11/12/24 INDONESIA KITA (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢17:00 WIB 11/12/24 INDONESIA KITA (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢17:00 WIB 24/04/16 TVRI (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢17:00 WIB 24/04/16 TVRI (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 MENUJU GAJIAN SALE 25 APRIL: PROMO DARI VIDIO SHOPPING X GADGET GADO GADO (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 MENUJU GAJIAN SALE 25 APRIL: PROMO DARI VIDIO SHOPPING X GADGET GADO GADO (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 GAJIAN SALE: DISC UP TO 50% DI VIDIO SHOPPING X FAVORIT CIWICIWI (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 GAJIAN SALE: DISC UP TO 50% DI VIDIO SHOPPING X FAVORIT CIWICIWI (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:01 WIB 24/04/16 BERITA SATU MALAM (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:01 WIB 24/04/16 BERITA SATU MALAM (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢19:00 WIB 23/04/26 BIOSKOP KELUARGA INDONESIA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB 23/04/26 BIOSKOP KELUARGA INDONESIA (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 MAMAH DAN AA BERAKSI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 MAMAH DAN AA BERAKSI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 23/04/26 BERI CINTA WAKTU (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 23/04/26 BERI CINTA WAKTU (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:05 WIB 23/04/26 TOP NEWS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:05 WIB 23/04/26 TOP NEWS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:15 WIB 23/04/26 OUR UNIVERSE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:15 WIB 23/04/26 OUR UNIVERSE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:15 WIB 24/04/26 MEGA BOLLYWOOD: DEAR ZINDAGI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:15 WIB 24/04/26 MEGA BOLLYWOOD: DEAR ZINDAGI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:30 WIB 24/04/26 APA KABAR INDONESIA PAGI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:30 WIB 24/04/26 APA KABAR INDONESIA PAGI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:05 WIB 24/04/26 FAKTA +62 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:05 WIB 24/04/26 FAKTA +62 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢18:00 WIB 24/04/26 ON THE SPOT (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 24/04/26 ON THE SPOT (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢19:00 WIB 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:30 WIB 23/04/26 ROSI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:30 WIB 23/04/26 ROSI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB 23/04/26 BIOSKOP TRANS TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB 23/04/26 BIOSKOP TRANS TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:30 WIB PERSITA VS BALI UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:30 WIB PSM VS PERSIK KEDIRI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [FHD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [HD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [SD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:36 WIB 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:36 WIB 23/04/26 MALUT UNITED FC VS PERSEBAYA SURABAYA - BRI SUPER LEAGUE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB - MALUT UNITED VS PERSEBAYA [IDN ISL] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[19:00 WIB 23/04/26] MALUT UNITED VS PERSEBAYA SURABAYA [FHD] [LIVE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[19:00 WIB 23/04/26] MALUT UNITED VS PERSEBAYA SURABAYA [HD] [LIVE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[19:00 WIB 23/04/26] MALUT UNITED VS PERSEBAYA SURABAYA [SD] [LIVE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:00 WIB) LEVANTE VS SEVILLA FC [BLV SAMURAI]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:00 WIB) BASAKSEHIR VS KASIMPASA [BLV MOUNTAIN DEW]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:30 WIB) FCSB VS PETROLUL [BLV PEPSI]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:00 WIB) RAYO VALLECANO VS ESPANYOL [BLV  KHONG DO]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:00 WIB) DHAMK VS AL-OKHDOOD [BLV STING]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:30 WIB) RB LEIPZIG VS UNION BERLIN [BLV REDBULL]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:45 WIB) VFB STUTTGART VS SC FREIBURG [BLV COCA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:45 WIB) S.S.C. NAPOLI VS U.S. CREMONESE [BLV REVIVE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) PSV EINDHOVEN VS PEC ZWOLLE [BLV HO VAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) SUNDERLAND VS NOTTINGHAM FOREST [BLV DR THANH]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) REAL BETIS BALOMPIE VS REAL MADRID CF [BLV OLONG]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (05:30 WIB) PALMEIRAS VS EC JACUIPENSE [BLV RONG DO]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) DEFENSA Y JUSTICIA VS BOCA JUNIORS [BLV C2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) ATLANTA HAWKS VS NEW YORK KNICKS [BLV COZY]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) PHILADELPHIA 76ERS VS BOSTON CELTICS [BLV 247]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (07:00 WIB) TORONTO RAPTORS VS CLEVELAND CAVALIERS [BLV ROCKSTAR]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (07:30 WIB) OPERARIO VS FLUMINENSE RJ [BLV AQUA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) FAGIANO OKAYAMA VS AVISPA FUKUOKA [BLV 7UP]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) GANGWON VS SEOUL [BLV GIA LANG]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) URAWA REDS VS YOKOHAMA F. MARINOS [BLV SPRITE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:30 WIB | [ARMENIA PREMIER LEAGUE] VAN VS BKMA [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:30 WIB | [ARMENIA PREMIER LEAGUE] VAN VS BKMA [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:30 WIB | [CYCLING] CYCLING TOUR OF THE ALPS [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:30 WIB | [CYCLING] CYCLING TOUR OF THE ALPS [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 1 [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 2 [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 2 [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 1 [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 1 [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 1 [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [GOLF PGA] GOLF PGA ZURICH CLASSIC [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 1 [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 2 [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 2 [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 2 [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [HORSE RACING] HORSE RACING CH 1 [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [GOLF PGA] GOLF PGA ZURICH CLASSIC [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:00 WIB | [SNOOKER] SNOOKER WORLD CHAMPIONSHIP TABLE 2 [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - FC PYUNIK VS URARTU [ARM D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - RADNICKI NIS VS HABITPHARM JAVOR [SER D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - AL SHARJAH VS AL WAHDA [UAE LP] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NASAF QARSHI VS LOKOMOTIV TASHKENT [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [INDIA ISL] KERALA BLASTERS VS ODISHA FC [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NASAF QARSHI VS LOKOMOTIV TASHKENT [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] ITTIHAD KALBA VS BANI YAS [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [INDIA ISL] KERALA BLASTERS VS ODISHA FC [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [ARMENIA PREMIER LEAGUE] PYUNIK YEREVAN VS URARTU [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NAVBAHOR NAMANGAN VS SOGDIANA [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NASAF QARSHI VS LOKOMOTIV TASHKENT [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NAVBAHOR NAMANGAN VS SOGDIANA [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NAVBAHOR NAMANGAN VS SOGDIANA [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET PAKISTAN LEAGUE] LAHORE QALANDARS VS KARACHI KINGS [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NAVBAHOR NAMANGAN VS SOGDIANA [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET PAKISTAN LEAGUE] LAHORE QALANDARS VS KARACHI KINGS [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET PAKISTAN LEAGUE] LAHORE QALANDARS VS KARACHI KINGS [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET IPL LEAGUE] MUMBAI INDIANS VS CHENNAI SUPER KINGS [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET PAKISTAN LEAGUE] LAHORE QALANDARS VS KARACHI KINGS [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET IPL LEAGUE] MUMBAI INDIANS VS CHENNAI SUPER KINGS [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET IPL LEAGUE] MUMBAI INDIANS VS CHENNAI SUPER KINGS [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [CRICKET IPL LEAGUE] MUMBAI INDIANS VS CHENNAI SUPER KINGS [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [ARMENIA PREMIER LEAGUE] PYUNIK YEREVAN VS URARTU [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [INDIA ISL] KERALA BLASTERS VS ODISHA FC [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UZBEKISTAN SUPER LEAGUE] NASAF QARSHI VS LOKOMOTIV TASHKENT [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [SERBIA SUPER LIGA] RADNICKI NIS VS JAVOR [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [ARMENIA PREMIER LEAGUE] PYUNIK YEREVAN VS URARTU [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [SERBIA SUPER LIGA] RADNICKI NIS VS JAVOR [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [SERBIA SUPER LIGA] RADNICKI NIS VS JAVOR [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] AL SHARJAH VS AL WAHDA [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [SERBIA SUPER LIGA] RADNICKI NIS VS JAVOR [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] AL SHARJAH VS AL WAHDA [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] ITTIHAD KALBA VS BANI YAS [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] AL SHARJAH VS AL WAHDA [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] ITTIHAD KALBA VS BANI YAS [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [INDIA ISL] KERALA BLASTERS VS ODISHA FC [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] ITTIHAD KALBA VS BANI YAS [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [ARMENIA PREMIER LEAGUE] PYUNIK YEREVAN VS URARTU [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB | [UAE PREMIER LEAGUE] AL SHARJAH VS AL WAHDA [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:15 WIB | [ROMANIA LIGA 2] FC BIHOR VS SEPSI SF GHEORGHE [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:15 WIB | [ROMANIA LIGA 2] FC BIHOR VS SEPSI SF GHEORGHE [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:15 WIB | [ROMANIA LIGA 2] FC BIHOR VS SEPSI SF GHEORGHE [M4]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:15 WIB | [ROMANIA LIGA 2] FC BIHOR VS SEPSI SF GHEORGHE [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢17:00 WIB 14/04/26 GALATASARAY HDI SIGORTA VS HALKBANK : TURKISH VOLLEYBALL 25/26 MEN'S LEAGUE (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢17:00 WIB 14/04/26 GALATASARAY HDI SIGORTA VS HALKBANK : TURKISH VOLLEYBALL 25/26 MEN'S LEAGUE (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢15:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:26 WIB 23/04/26 ADOLFO DANIEL VALLEJO VS GRIGOR DIMITROV - ROUND 1 (ARANTXA SANCHEZ STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢20:16 WIB 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1 (COURT 6) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (INTI HLS/M3U8)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (INTI MPD)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (ALT HLS/M3U8)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢18:00 WIB 23/04/26 BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA - PROLIGA (ALT MPD)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EXACT]** 📢SPORTSTARS 2🍜 cocok (524064)
+- ⚠️ **[EXACT]** 📢SPORTSTARS 3🍜 cocok (524184)
+- ⚠️ **[EXACT]** 📢SPORTSTARS 4🍜 cocok (524160)
+- ⚠️ **[EXACT]** 📢SPOTV 2🍜 cocok (412187)
+- ⚠️ **[EXACT]** 📢FIGHT SPORTS🍜 cocok (524169)
+-  **[KS]** 📢POOL B: BEIJING ARCTIC OCEAN (CHN) - ZHETYSU (KAZ)🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR DIGITAL (BRI SUPER LEAGUE)🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR (VDO)🍜 tidak cocok id epg
+-  **[KS]** 📢PROLIGA🍜 tidak cocok id epg
+-  **[KS]** 📢ON SPORTS HD (BADMINTON)🍜 tidak cocok id epg
+-  **[KS]** 📢TRUE SPORTS 7🍜 tidak cocok id epg
+-  **[KS]** 📢SPORTSTARS VOLI KOREA🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI BRAZIL🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI ITALIA🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI BAHRAIN SPORTS 1🍜 tidak cocok id epg
+-  **[KS]** 📢RCTI🍜 tidak cocok id epg
+-  **[KS]** 📢MNC TV🍜 tidak cocok id epg
+-  **[KS]** 📢SCTV🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR🍜 tidak cocok id epg
+-  **[KS]** 📢SPOTV🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 1🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 2🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 3🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 4🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 5🍜 tidak cocok id epg
+-  **[KS]** 📢V+SPORTS🍜 tidak cocok id epg
 
 ---
 
-### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Friends United 🆚 Garhwal FC🛡️|🛡️17:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mindil Aces 🆚 University Azzurri FC🛡️|🛡️18:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Astana B 🆚 Akademiya Ontustik🛡️|🛡️18:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ningbo Team 🆚 Lishui Team🛡️|🛡️18:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hangzhou Team 🆚 Shaoxing Team🛡️|🛡️18:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Van Charentsavan 🆚 BKMA🛡️|🛡️18:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Simal FK 🆚 Baku Sporting FK🛡️|🛡️19:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Difai Agsu FK 🆚 Sabail FC🛡️|🛡️19:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Malut United 🆚 Persebaya Surabaya🛡️|🛡️19:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melaka FC 🆚 Sabah FC🛡️|🛡️19:15 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zorya 🆚 FC Shakhtar Donetsk🛡️|🛡️19:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IBV Vestmannaeyjar 🆚 KR Reykjavik🛡️|🛡️20:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [23 Apr 2026 19:25 WIB] otomatis masuk jadwal
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** TVRI Sports tidak cocok id epg
--  **[KS]** Historical Sports tidak cocok id epg
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** SPOTV 2+ tidak cocok id epg
--  **[KS]** SPOTV+ tidak cocok id epg
--  **[KS]** BEIN SPORTS 1 tidak cocok id epg
--  **[KS]** BEIN SPORTS 2 tidak cocok id epg
--  **[KS]** BEIN SPORTS 3 tidak cocok id epg
--  **[KS]** BEIN SPORTS 4 tidak cocok id epg
--  **[KS]** BEIN SPORTS 5 tidak cocok id epg
--  **[KS]** CBS Champions tidak cocok id epg
--  **[KS]** CBS Sports HQ tidak cocok id epg
--  **[KS]** Champions Figth tidak cocok id epg
--  **[KS]** Champions TV1 tidak cocok id epg
--  **[KS]** Champions TV2 tidak cocok id epg
--  **[KS]** Champions TV3 tidak cocok id epg
--  **[KS]** Champions TV5 tidak cocok id epg
--  **[KS]** Champions TV6 tidak cocok id epg
--  **[KS]** Dubai Sports tidak cocok id epg
--  **[KS]** Dubai Sports 2 tidak cocok id epg
--  **[KS]** Dubai Sports 3 tidak cocok id epg
--  **[KS]** FOX SPORTS 1 tidak cocok id epg
--  **[KS]** FOX SPORTS 2 tidak cocok id epg
--  **[KS]** FOX SPORTS 3 tidak cocok id epg
--  **[KS]** FOX SPORTS PREMIUM tidak cocok id epg
--  **[KS]** FUBO SPORTS 1 tidak cocok id epg
--  **[KS]** FUBO SPORTS 2 tidak cocok id epg
--  **[KS]** NBA TV tidak cocok id epg
--  **[KS]** Nova Sport 1 tidak cocok id epg
--  **[KS]** ONE SPORTS HD tidak cocok id epg
--  **[KS]** ONE SPORTS+ tidak cocok id epg
--  **[KS]** Prima Sport 1 tidak cocok id epg
--  **[KS]** Prima Sport 2 tidak cocok id epg
--  **[KS]** Prima Sport 3 tidak cocok id epg
--  **[KS]** Prima Sport 4 tidak cocok id epg
--  **[KS]** Spectrum Sportsnet La tidak cocok id epg
--  **[KS]** SPORT 1 tidak cocok id epg
--  **[KS]** SPORT 2 tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPOTV tidak cocok id epg
--  **[KS]** Tennis Channel tidak cocok id epg
--  **[KS]** TNT Sports tidak cocok id epg
--  **[KS]** TNT Sports 2 tidak cocok id epg
--  **[KS]** TNT Sports 3 tidak cocok id epg
--  **[KS]** TNT Sports 4 tidak cocok id epg
--  **[KS]** Nova Sport 2 tidak cocok id epg
--  **[KS]** INDOSIAR tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Katolik Darma Cendika vs Universitas Surabaya Grup D Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
--  **[KS]** Round 1 Day Session The Chevron Championship 2026 tidak cocok id epg
--  **[KS]** Levante vs Sevilla LaLiga tidak cocok id epg
--  **[KS]** Live Delay PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
--  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
--  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
+### 📁 
+- ⚠️ Tidak ada channel.
 
 ---
 
