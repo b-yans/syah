@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 22:46 WIB
+**Diperbarui pada:** 23-04-2026 22:51 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -11,11 +11,11 @@
 - ⚠️ **[EVENT]** 📢  21:15-23:15 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:15-23:15 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:20-23:20 WIB - 24/04/2026]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:50-22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:57 WIB - MUNDIAL F1 - GP DE ESTADOS UNIDOS : CARRERA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  20:50-22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:50 WIB - 22:57 WIB - MUNDIAL F1 - GP DE ESTADOS UNIDOS : CARRERA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:51-22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 22:51 WIB - 23/04/26 BRONZE FINAL AWARDING CEREMONY PROLIGA 2026🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - EVERTON - LIVERPOOL. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - GALATASARAY - EFES. BASKET. TURSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 23:00 WIB - 22:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
@@ -2254,6 +2254,188 @@
 - ⚠️ **[BASI]** 📢UKRAINIAN PREMIER LEAGUEZORYA [VS] FC SHAKHTAR DONETSK[19:30 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 ROUND 1 (DAY SESSION) - THE CHEVRON CHAMPIONSHIP 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 ROUND 1 (DAY SESSION) - THE CHEVRON CHAMPIONSHIP 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 CAMILO UGO CARABELLI VS GAEL MONFILS - ROUND 1 (MANOLO SANTANA STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 CAMILO UGO CARABELLI VS GAEL MONFILS - ROUND 1 (MANOLO SANTANA STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:02 WIB 23/04/26 DANIEL ALTMAIER VS JUAN MANUEL CERUNDOLO - ROUND 1 (COURT 6) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:02 WIB 23/04/26 DANIEL ALTMAIER VS JUAN MANUEL CERUNDOLO - ROUND 1 (COURT 6) | ATP 1000: MUTUA MADRID OPEN 2026 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 CLASSIC HIGHLIGHTS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 CLASSIC HIGHLIGHTS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 14/04/26 FENERBAHCE MEDICANA VS VAKIFBANK : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 14/04/26 FENERBAHCE MEDICANA VS VAKIFBANK : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢20:00 WIB 28/07/22 EP34: RODRIGO GOMES : THE BIG INTERVIEW (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB 28/07/22 EP34: RODRIGO GOMES : THE BIG INTERVIEW (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢00:00 WIB 07/09/18 CRAZY TOUR (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 07/09/18 CRAZY TOUR (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 02/05/24 SIX DEGRES (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 02/05/24 SIX DEGRES (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢11:00 WIB 29/09/21 EXPLODING SUN PART 2 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢11:00 WIB 29/09/21 EXPLODING SUN PART 2 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 ART AND THE CITY (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 ART AND THE CITY (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 17/07/20 MAGNA TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 17/07/20 MAGNA TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:54 WIB 14/04/26 JATUH CINTA SAMA KAMU GEJALA AWALNYA GIMANA SIH? (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:54 WIB 14/04/26 JATUH CINTA SAMA KAMU GEJALA AWALNYA GIMANA SIH? (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 RUMAHNYA DANGDUT : DMD PANGGUNG REZEKI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 RUMAHNYA DANGDUT : DMD PANGGUNG REZEKI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BIG MOVIES (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BIG MOVIES (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 LENSA INDONESIA MALAM (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 LENSA INDONESIA MALAM (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BREAKING NEWS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BREAKING NEWS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 MIRROR STORY (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 MIRROR STORY (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 PELINDUNG ALAM (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 PELINDUNG ALAM (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:58 WIB 25/02/25 SPOT ON (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:58 WIB 25/02/25 SPOT ON (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 21/10/20 NTV TONIGHT (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢10:00 WIB 21/10/20 NTV TONIGHT (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 NUSANTARA KINI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 NUSANTARA KINI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 NUSANTARA KINI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 NUSANTARA KINI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 LAPORAN 8 MALAM (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 LAPORAN 8 MALAM (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 24/04/16 TVRI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 24/04/16 TVRI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 23/04/26 MENUJU GAJIAN SALE 25 APRIL: PROMO DARI VIDIO SHOPPING X GADGET GADO GADO (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 23/04/26 MENUJU GAJIAN SALE 25 APRIL: PROMO DARI VIDIO SHOPPING X GADGET GADO GADO (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 23/04/26 GAJIAN SALE: DISC UP TO 50% DI VIDIO SHOPPING X FAVORIT CIWICIWI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 23/04/26 GAJIAN SALE: DISC UP TO 50% DI VIDIO SHOPPING X FAVORIT CIWICIWI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:01 WIB 24/04/16 SPOT ON (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:01 WIB 24/04/16 SPOT ON (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢19:45 WIB 26/10/20 PARA PERNCARI TUHAN JILID 13 (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:45 WIB 26/10/20 PARA PERNCARI TUHAN JILID 13 (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢21:00 WIB 23/04/26 BIOSKOP TRANS TV (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB 23/04/26 BIOSKOP TRANS TV (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:30 WIB 23/04/26 JEJAK DUKA DIANDRA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:30 WIB 23/04/26 JEJAK DUKA DIANDRA (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:00 WIB 24/04/26 ODDBODS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:00 WIB 24/04/26 ODDBODS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:15 WIB 24/04/26 MEGA BOLLYWOOD: DEAR ZINDAGI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢02:15 WIB 24/04/26 MEGA BOLLYWOOD: DEAR ZINDAGI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢04:05 WIB 24/04/26 TOP NEWS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢04:05 WIB 24/04/26 TOP NEWS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:30 WIB 24/04/26 APA KABAR INDONESIA PAGI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢06:30 WIB 24/04/26 APA KABAR INDONESIA PAGI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢07:00 WIB 24/04/26 SAPA INDONESIA PAGI (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢07:00 WIB 24/04/26 SAPA INDONESIA PAGI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:05 WIB 24/04/26 FAKTA +62 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢08:05 WIB 24/04/26 FAKTA +62 (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 24/04/26 ON THE SPOT (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢18:00 WIB 24/04/26 ON THE SPOT (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢19:00 WIB 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:00 WIB 24/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢[UPCOMING] (15:30 WIB) PERSIJAP JEPARA VS PSBS BIAK NUMFOR [BLV BI DAO]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [FHD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [HD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[15:30 WIB 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR [SD] [NANTIKAN]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢[UPCOMING] (19:00 WIB) PERSIB BANDUNG VS AREMA MALANG [BLV MONSTER]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:00 WIB BRONZE FINAL - GAME 3: SURABAYA SAMATOR VS JAKARTA GARUDA JAYA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:00 WIB MALUT UNITED VS PERSEBAYA SURABAYA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢[19:00 WIB 24/04/26] PERSIB BANDUNG VS AREMA FC [FHD] [NANTIKAN]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢[19:00 WIB 24/04/26] PERSIB BANDUNG VS AREMA FC [HD] [NANTIKAN]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢[19:00 WIB 24/04/26] PERSIB BANDUNG VS AREMA FC [SD] [NANTIKAN]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢[00:00 WIB] [FOOTBALL] SEVILLA AT LEVANTE (STRMCNTR)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:00 WIB) LEVANTE VS SEVILLA FC [BLV SAMURAI]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:00 WIB) BASAKSEHIR VS KASIMPASA [BLV MOUNTAIN DEW]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[00:05 WIB] [BASEBALL] ATLANTA BRAVES AT WASHINGTON NATIONALS (STRMCNTR)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[00:10 WIB] [BASEBALL] MILWAUKEE BREWERS AT DETROIT TIGERS (STRMCNTR)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (00:30 WIB) FCSB VS PETROLUL [BLV PEPSI]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[01:00 WIB] [FOOTBALL] ESPANYOL AT RAYO VALLECANO (STRMCNTR)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:00 WIB) RAYO VALLECANO VS ESPANYOL [BLV  KHONG DO]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:00 WIB) DHAMK VS AL-OKHDOOD [BLV STING]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[01:20 WIB] [BASEBALL] PHILADELPHIA PHILLIES AT CHICAGO CUBS (STRMCNTR)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:30 WIB) RB LEIPZIG VS UNION BERLIN [BLV REDBULL]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:45 WIB) VFB STUTTGART VS SC FREIBURG [BLV COCA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (01:45 WIB) S.S.C. NAPOLI VS U.S. CREMONESE [BLV REVIVE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) PSV EINDHOVEN VS PEC ZWOLLE [BLV HO VAN]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) SUNDERLAND VS NOTTINGHAM FOREST [BLV DR THANH]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (02:00 WIB) REAL BETIS BALOMPIE VS REAL MADRID CF [BLV OLONG]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (05:30 WIB) PALMEIRAS VS EC JACUIPENSE [BLV RONG DO]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) DEFENSA Y JUSTICIA VS BOCA JUNIORS [BLV C2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) ATLANTA HAWKS VS NEW YORK KNICKS [BLV COZY]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) PHILADELPHIA 76ERS VS BOSTON CELTICS [BLV 247]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (07:00 WIB) TORONTO RAPTORS VS CLEVELAND CAVALIERS [BLV ROCKSTAR]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (07:30 WIB) OPERARIO VS FLUMINENSE RJ [BLV AQUA]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) FAGIANO OKAYAMA VS AVISPA FUKUOKA [BLV 7UP]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) GANGWON VS SEOUL [BLV GIA LANG]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) URAWA REDS VS YOKOHAMA F. MARINOS [BLV SPRITE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢[UPCOMING] (18:00 WIB) KARLSRUHER SC VS HANNOVER 96 [BLV SODA]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M3]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:15 WIB | [MALAYSIA SUPER LEAGUE] MELAKA FC VS SABAH [M4]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M4]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M3]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢19:30 WIB | [UKRAINE PREMIER LEAGUE] FK ZORYA LUHANSK VS SHAKHTAR DONETSK [M1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M4]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M3]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢20:00 WIB | [ICELAND LEAGUE] VESTMANNAEYJAR VS KR REYKJAVIK [M1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢21:00 WIB - FC PYUNIK VS URARTU [ARM D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - RADNICKI NIS VS HABITPHARM JAVOR [SER D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - AL SHARJAH VS AL WAHDA [UAE LP] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:00 WIB - KERALA BLASTERS FC VS ODISHA FC [ISL] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢21:30 WIB - AKRON TOGLIATTI VS DYNAMO MAKHACHKALA [RUS PR] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB - ARAB CONTRACTORS VS ITTIHAD ALEXANDRIA [EGY D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB - SUPER NOVA VS FK LIEPAJA [LAT D1] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:45 WIB | [TURKEY CUP] SAMSUNSPOR VS TRABZONSPOR [M3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:45 WIB | [TURKEY CUP] SAMSUNSPOR VS TRABZONSPOR [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:45 WIB | [TURKEY CUP] SAMSUNSPOR VS TRABZONSPOR [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢23:15 WIB | [TANZANIA MUUNGANO CUP] SIMBA SC VS MUUNZO SC [M2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢23:15 WIB | [TANZANIA MUUNGANO CUP] SIMBA SC VS MUUNZO SC [M1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢LIKE GECKO) CHROME/145.0.0.0 SAFARI/537.36" HTTP-REFERRER="HTTPS://90SPORT.COM/",[LIVE] CYCLING - UCI PRO SERIES | (18.30 WIB) TOUR OF THE ALPS, STAGE 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢LIKE GECKO) CHROME/145.0.0.0 SAFARI/537.36" HTTP-REFERRER="HTTPS://90SPORT.COM/",[LIVE] TURKIYE KUPASI | (22.45 WIB) SAMSUNSPOR VS TRABZONSPOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 14/04/26 FENERBAHCE MEDICANA VS VAKIFBANK : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 14/04/26 FENERBAHCE MEDICANA VS VAKIFBANK : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 DAY 2 - WTA 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢20:00 WIB 23/04/26 PATRICK KYPSON VS STEFANOS TSITSIPAS - ROUND 1 (STADIUM 3) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 CAMILO UGO CARABELLI VS GAEL MONFILS - ROUND 1 (MANOLO SANTANA STADIUM) | ATP 1000: MUTUA MADRID OPEN 2026 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢22:00 WIB 23/04/26 BRUSSELS P2 PREMIER PADEL 2026 - DAY 3 (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EXACT]** 📢SPORTSTARS 2🍜 cocok (524064)
+- ⚠️ **[EXACT]** 📢SPORTSTARS 3🍜 cocok (524184)
+- ⚠️ **[EXACT]** 📢SPORTSTARS 4🍜 cocok (524160)
+- ⚠️ **[EXACT]** 📢SPOTV 2🍜 cocok (412187)
+- ⚠️ **[EXACT]** 📢FIGHT SPORTS🍜 cocok (524169)
+-  **[KS]** 📢POOL B: BEIJING ARCTIC OCEAN (CHN) - ZHETYSU (KAZ)🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR DIGITAL (BRI SUPER LEAGUE)🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR (VDO)🍜 tidak cocok id epg
+-  **[KS]** 📢PROLIGA🍜 tidak cocok id epg
+-  **[KS]** 📢ON SPORTS HD (BADMINTON)🍜 tidak cocok id epg
+-  **[KS]** 📢TRUE SPORTS 7🍜 tidak cocok id epg
+-  **[KS]** 📢SPORTSTARS VOLI KOREA🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI BRAZIL🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI ITALIA🍜 tidak cocok id epg
+-  **[KS]** 📢VOLI BAHRAIN SPORTS 1🍜 tidak cocok id epg
+-  **[KS]** 📢RCTI🍜 tidak cocok id epg
+-  **[KS]** 📢MNC TV🍜 tidak cocok id epg
+-  **[KS]** 📢SCTV🍜 tidak cocok id epg
+-  **[KS]** 📢INDOSIAR🍜 tidak cocok id epg
+-  **[KS]** 📢SPOTV🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 1🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 2🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 3🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 4🍜 tidak cocok id epg
+-  **[KS]** 📢BEIN SPORTS 5🍜 tidak cocok id epg
+-  **[KS]** 📢V+SPORTS🍜 tidak cocok id epg
 
 ---
 
