@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 07:51 WIB
+**Diperbarui pada:** 23-04-2026 07:56 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -13,7 +13,6 @@
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
-- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
@@ -49,6 +48,7 @@
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** CZ: Nova Sport 1 cocok [fz] (6263)
 - ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
+- ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
@@ -66,6 +66,7 @@
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
 - ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
+- ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
@@ -270,6 +271,7 @@
 -  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
 -  **[KS]** BE: Eurosport 2 tidak cocok id epg
+-  **[KS]** BE: Play Sports 1 tidak cocok id epg
 -  **[KS]** BE: Play Sports 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
@@ -336,7 +338,6 @@
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
--  **[KS]** CZ: Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Sport 5 tidak cocok id epg
 -  **[KS]** CZ: Canal+ Sport 3 tidak cocok id epg
@@ -711,7 +712,6 @@
 -  **[KS]** HU: Eurosport 1 tidak cocok id epg
 -  **[KS]** HU: Eurosport 2 tidak cocok id epg
 -  **[KS]** HU: M4 Sport tidak cocok id epg
--  **[KS]** HU: Sport 1 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Sony Sports Ten 2 (Sony Ten 2) tidak cocok id epg
