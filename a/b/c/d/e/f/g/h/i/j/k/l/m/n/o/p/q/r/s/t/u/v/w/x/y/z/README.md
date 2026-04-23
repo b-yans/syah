@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 08:44 WIB
+**Diperbarui pada:** 23-04-2026 08:50 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -57,6 +57,7 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
+- ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
@@ -129,6 +130,7 @@
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
+- ⚠️ **[FZ]** ZA: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
@@ -387,7 +389,6 @@
 -  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 360 tidak cocok id epg
@@ -973,7 +974,6 @@
 -  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Premier League tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 360 tidak cocok id epg
@@ -1401,7 +1401,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 Internacional - RS🛡️|🛡️06:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orlando City 🆚 Charlotte FC🛡️|🛡️06:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Toronto FC 🆚 Philadelphia Union🛡️|🛡️06:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlanta United 🆚 New England Revolution🛡️|🛡️06:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlanta United 🆚 New England Revolution🛡️|🛡️06:45 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Municipal Pérez Zeledón 🆚 CS Herediano🛡️|🛡️07:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Moron 🆚 Ferrocarril Midland🛡️|🛡️07:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Dallas 🆚 Minnesota United FC🛡️|🛡️07:30 23/04/2026🛡️ otomatis masuk jadwal
