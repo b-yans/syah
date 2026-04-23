@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 04:26 WIB
+**Diperbarui pada:** 24-04-2026 04:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -49,7 +49,6 @@
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
-- ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
 - ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
 - ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
@@ -414,6 +413,7 @@
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
@@ -1392,14 +1392,15 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Valur Reykjavik 🆚 Hafnarfjordur🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vikingur Reykjavik 🆚 Stjarnan Gardabaer🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Villarreal CF🛡️|🛡️02:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Villarreal CF🛡️|🛡️02:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SCU Torreense 🆚 AD Fafe🛡️|🛡️02:45 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vitoria Salvador Youth 🆚 Bragantino RB U20🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
