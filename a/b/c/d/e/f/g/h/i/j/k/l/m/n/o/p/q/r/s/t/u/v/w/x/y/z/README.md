@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 03:54 WIB
+**Diperbarui pada:** 24-04-2026 04:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,25 +1390,25 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Platense Reserves 🆚 Argentinos Jrs Reserves🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Spartak Subotica 🆚 Backa Topola🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Barracas Central Reserves 🆚 Deportivo Riestra Reserves🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ghazl El Mahallah 🆚 Petrojet🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto Reserves 🆚 Instituto AC Cordoba II🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Spartak Subotica 🆚 Backa Topola🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KS Wieczysta Krakow 🆚 Polonia Bytom🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mladost Lucani 🆚 Radnicki 1923 Kragujevac🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Platense Reserves 🆚 Argentinos Jrs Reserves🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Damac 🆚 Al Okhdood🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sonderjyske 🆚 Midtjylland🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ghazl El Mahallah 🆚 Petrojet🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto Reserves 🆚 Instituto AC Cordoba II🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zamalek SC 🆚 Pyramids FC🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Casa Pia AC 🆚 Sporting Braga🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Huracan Reserves 🆚 San Lorenzo Reserves🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sonderjyske 🆚 Midtjylland🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vikingur Reykjavik 🆚 Stjarnan Gardabaer🛡️|🛡️02:15 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Valur Reykjavik 🆚 Hafnarfjordur🛡️|🛡️02:15 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Villarreal CF🛡️|🛡️02:30 24/04/2026🛡️ otomatis masuk jadwal
@@ -1432,6 +1432,10 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
 -  **[KS]** Xtrem Sports tidak cocok id epg
+-  **[KS]** INDOSIAR+ tidak cocok id epg
+-  **[KS]** SCTV+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 2+ tidak cocok id epg
+-  **[KS]** SPORTSTARS 4+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1467,6 +1471,7 @@
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
+-  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
@@ -1478,8 +1483,6 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
--  **[KS]** Rayo Vallecano vs Espanyol LaLiga tidak cocok id epg
 -  **[KS]** Oviedo vs Villarreal LaLiga tidak cocok id epg
 -  **[KS]** Round 1 Night Session The Chevron Championship 2026 tidak cocok id epg
 -  **[KS]** Day 1 NFL Draft 2026 tidak cocok id epg
