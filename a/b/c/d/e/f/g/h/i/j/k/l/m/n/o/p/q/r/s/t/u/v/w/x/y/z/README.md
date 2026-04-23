@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 10:56 WIB
+**Diperbarui pada:** 23-04-2026 11:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,20 +1391,18 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mineros de Zacatecas 🆚 Atletico Morelia🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlas 🆚 Tigres UANL🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Salt Lake 🆚 Inter Miami CF🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Salt Lake 🆚 Inter Miami CF🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fortaleza F.C 🆚 America de Cali🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oakland Roots 🆚 Las Vegas Lights🛡️|🛡️09:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oakland Roots 🆚 Las Vegas Lights🛡️|🛡️09:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Angeles FC 🆚 Colorado Rapids🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Jose Earthquakes 🆚 Austin FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Jaiba Brava 🆚 Club Atletico La Paz🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Necaxa 🆚 Club Deportivo Guadalajara🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Tijuana 🆚 Pachuca🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Jaiba Brava 🆚 Club Atletico La Paz🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [23 Apr 2026 12:00 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
