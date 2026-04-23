@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 10:22 WIB
+**Diperbarui pada:** 23-04-2026 10:27 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -102,7 +102,6 @@
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
-- ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
@@ -835,6 +834,7 @@
 -  **[KS]** MK: MNet Sport tidak cocok id epg
 -  **[KS]** MK: Sport Klub FIGHT tidak cocok id epg
 -  **[KS]** MK: Viasat Kino Premiere tidak cocok id epg
+-  **[KS]** MY: beIN Sports tidak cocok id epg
 -  **[KS]** MT: TVM Sport+ tidak cocok id epg
 -  **[KS]** MX: AyM Sports tidak cocok id epg
 -  **[KS]** MX: Claro Sports tidak cocok id epg
@@ -1392,13 +1392,13 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Jong Aruba 🆚 SV Unistars🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Dallas 🆚 Minnesota United FC🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Red Bull Bragantino 🆚 Mirassol - SP🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Flamengo - RJ 🆚 Vitória - BA🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Red Bull Bragantino 🆚 Mirassol - SP🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Houston Dynamo 🆚 San Diego FC🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlas 🆚 Tigres UANL🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mineros de Zacatecas 🆚 Atletico Morelia🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Salt Lake 🆚 Inter Miami CF🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fortaleza F.C 🆚 America de Cali🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
