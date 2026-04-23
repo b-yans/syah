@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 23:32 WIB
+**Diperbarui pada:** 23-04-2026 23:38 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1400,6 +1400,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Biên Phòng 🆚 Hà Nội🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Akron Togliatti 🆚 Dynamo Makhachkala🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tallinna FC Levadia B 🆚 JK Tallinna Kalev🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Super Nova 🆚 FK Liepaja🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
