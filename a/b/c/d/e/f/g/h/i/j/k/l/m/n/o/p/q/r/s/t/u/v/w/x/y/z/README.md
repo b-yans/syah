@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 03:27 WIB
+**Diperbarui pada:** 24-04-2026 03:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1404,9 +1404,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Spartak Subotica 🆚 Backa Topola🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KS Wieczysta Krakow 🆚 Polonia Bytom🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mladost Lucani 🆚 Radnicki 1923 Kragujevac🛡️|🛡️01:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
