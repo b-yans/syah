@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 13:28 WIB
+**Diperbarui pada:** 23-04-2026 13:34 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -23,8 +23,8 @@
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 FTV SIANG: KETIKA BASRRENG KEPINCUT CENDOL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  11:30-16:30 WIB - MOTOGP RED BULL GP OF THE U.S [ID: SPOTV 2]🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  09:30-17:00 WIB - ALBACETE - EIBAR. SEPAKBOLA. SPANSKA 2. LIGA [RS: ARENA SPORT 1X2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  11:30-16:30 WIB - MOTOGP RED BULL GP OF THE U.S [ID: SPOTV 2]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  09:30-17:00 WIB - ALBACETE - EIBAR. SEPAKBOLA. SPANSKA 2. LIGA [RS: ARENA SPORT 1X2]🍜 otomatis masuk jadwal
 - ⚠️ **[BASI]** 📢  11:00-14:00 WIB - MLB BASEBALL [US: NBC SPORTS CALIFORNIA]🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢  11:35-13:30 WIB - MUNDIAL F1 - GP DE JAPON (T2026): CARRERA [ES: DAZN F1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-13:50 WIB - LALIGA : REAL SOCIEDAD VS GETAFE [MY: BEIN SPORTS]🍜 otomatis masuk jadwal
@@ -83,7 +83,7 @@
 - ⚠️ **[EVENT]** 📢  07:30-10:30 WIB - LALIGA EA SPORTS (T25/26): LEVANTE - SEVILLA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:30-10:30 WIB -  DINAMO - CS U CRAIOVA - MECI FOTBAL CUPA ROMANIEI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - ) MINNESOTA TIMBERWOLVES VS DENVER NUGGETS🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  09:30-10:30 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  09:30-10:30 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
 - ⚠️ **[BASI]** 📢  10:30-12:15 WIB - BASKET: NBA: OKLAHOMA CITY THUNDER - PHOENIX SUNS🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  10:30-13:00 WIB - OVIEDO - VILLARREAL. SEPAKBOLA. LIGA SPANYOL🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢  13:30-14:30 WIB - FOX SPORTS FIFA WORLD CUP ROUNDTABLE: USA HEAD COACHES🍜 otomatis masuk jadwal
