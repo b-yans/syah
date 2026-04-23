@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 22:59 WIB
+**Diperbarui pada:** 23-04-2026 23:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -93,7 +93,6 @@
 - ⚠️ **[FZ]** NZ: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
-- ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
 - ⚠️ **[FZ]** NO: V Sport 1 cocok [fz] (6263)
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
@@ -866,6 +865,7 @@
 -  **[KS]** NZ: Sky Sport Select tidak cocok id epg
 -  **[KS]** NO: eurosport 1 tidak cocok id epg
 -  **[KS]** NO: eurosport 2 tidak cocok id epg
+-  **[KS]** NO: eurosport Norge tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
@@ -1391,13 +1391,13 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️IBV Vestmannaeyjar 🆚 KR Reykjavik🛡️|🛡️20:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ittihad Kalba FC 🆚 Baniyas Club🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kerala Blasters FC 🆚 Odisha FC🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Duhok SC 🆚 Al Gharraf🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Navbahor Namangan 🆚 Sogdiana Jizak🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Pyunik 🆚 Urartu🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nasaf Qarshi 🆚 Lokomotiv Tashkent🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ittihad Kalba FC 🆚 Baniyas Club🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kerala Blasters FC 🆚 Odisha FC🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Duhok SC 🆚 Al Gharraf🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Navbahor Namangan 🆚 Sogdiana Jizak🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Pyunik 🆚 Urartu🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nasaf Qarshi 🆚 Lokomotiv Tashkent🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akron Togliatti 🆚 Dynamo Makhachkala🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
