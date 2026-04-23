@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 23:38 WIB
+**Diperbarui pada:** 23-04-2026 23:43 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,30 +1392,33 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nasaf Qarshi 🆚 Lokomotiv Tashkent🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Duhok SC 🆚 Al Gharraf🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ittihad Kalba FC 🆚 Baniyas Club🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kerala Blasters FC 🆚 Odisha FC🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Navbahor Namangan 🆚 Sogdiana Jizak🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Pyunik 🆚 Urartu🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ittihad Kalba FC 🆚 Baniyas Club🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Al-Sharjah 🆚 Al Wahda(UAE)🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Pyunik 🆚 Urartu🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kerala Blasters FC 🆚 Odisha FC🛡️|🛡️21:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Biên Phòng 🆚 Hà Nội🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Akron Togliatti 🆚 Dynamo Makhachkala🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tallinna FC Levadia B 🆚 JK Tallinna Kalev🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Super Nova 🆚 FK Liepaja🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Flora Tallinn II 🆚 Elva🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Super Nova 🆚 FK Liepaja🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️El Mokawloon El Arab 🆚 Ittihad Alexandria SC🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo Samarqand 🆚 FC OKMK Olmaliq🛡️|🛡️22:15 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Samsunspor 🆚 Trabzonspor🛡️|🛡️22:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Shabab FC 🆚 Al Rayyan🛡️|🛡️22:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Randers FC 🆚 Fredericia🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nordsjaelland 🆚 Aarhus AGF🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lyngbo W 🆚 FK Fyllingsdalen Women🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nordsjaelland 🆚 Aarhus AGF🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Napredak Krusevac 🆚 FK IMT Belgrad🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Viimsi JK 🆚 JK Welco Elekter🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Maardu 🆚 Tallinna FC Ararat TTU🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Viimsi JK 🆚 JK Welco Elekter🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Najma(KSA) 🆚 Al Taawoun🛡️|🛡️23:10 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Quwa Al Jawiya 🆚 Erbil SC🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Old Edwardians 🆚 Bo Rangers🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zakho SC 🆚 Al-Kahraba Club🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 NK Aluminij🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
