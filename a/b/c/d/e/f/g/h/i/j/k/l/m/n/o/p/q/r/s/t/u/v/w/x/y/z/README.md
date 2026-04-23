@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 11:23 WIB
+**Diperbarui pada:** 23-04-2026 11:29 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -53,7 +53,6 @@
 - ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
-- ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
@@ -171,7 +170,6 @@
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
-- ⚠️ **[FZ]** SE: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
@@ -387,6 +385,7 @@
 -  **[KS]** DK: TV 2 Sport tidak cocok id epg
 -  **[KS]** DK: TV 2 Sport X tidak cocok id epg
 -  **[KS]** DK: TV 3 Sport tidak cocok id epg
+-  **[KS]** DK: V Sport Ultra tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
 -  **[KS]** EG: Nile Sport tidak cocok id epg
@@ -1022,6 +1021,7 @@
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
+-  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
 -  **[KS]** CH: Blue Sport 1 tidak cocok id epg
 -  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
