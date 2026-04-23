@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 22:23 WIB
+**Diperbarui pada:** 23-04-2026 22:27 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg

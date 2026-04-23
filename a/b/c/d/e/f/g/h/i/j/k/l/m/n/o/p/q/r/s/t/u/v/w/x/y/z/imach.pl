@@ -2585,42 +2585,59 @@ https://aa.yukiuloml.shop/hls/ROOOOQQ.m3u8
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0020wib0020wib0020wib0020wib0020wib0020wib0020wib0020wib0020wib0020wib0020wib17_1776982800.0
 #EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  22:25-00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 00:25 WIB - 23:00 WIB - SEPAKBOLA: 2. BUNDESLIGA: SCHALKE - MUNSTER🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0025wib0025wib0025wib0025wib0025wib0025wib0025wib0025wib0025wib0025wib0025wib2300wibsepakbola2bundesligaschalkemunster_1776983100.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/23cf809bb5d4cc0720494217f09663e4.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 01:00 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS. PROFESSIONAL FIGHTERS🍜
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0100wibprofessionalfightersleagueplayoffsheavyweightswomensfeatherweightsprofessionalfighters_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/23cf809bb5d4cc0720494217f09663e4.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 01:00 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS. PROFESSIONAL FIGHTERS🍜
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib0100wibprofessionalfightersleagueplayoffsheavyweightswomensfeatherweightsprofessionalfighters_1776983400.0
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 24/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 00:30 WIB - 25/04/2026]🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0030wib25042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️ ⏳ 22:30-00:30 WIB - 24/04/2026] 🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 24/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=24042026_1776983400.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️ ⏳ 22:30-00:30 WIB - 25/04/2026] 🍜
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 00:30 WIB - 25/04/2026]🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=25042026_1776983400.0
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 24/04/2026] 🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2NxS1FIN1V1RFVGUmFFay5mbHY=&expire=1776961291&salt=785fccdf3da25c23&sig=f3c00a8981d559abe299e82354b57cfd8fb491a152f676d109fae6835f3ac51a
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/691b9836809a7b2ad10e6674f77c90e2.png", ⚠️  22:30-00:30 WIB - 24/04/2026] 🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-6MwcqKQH7UuDUFRaEk/playlist.m3u8
+#EXTINF:-1 tvg-url="" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.thesports.com/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png", ⚠️  22:30-00:30 WIB - 25/04/2026] 🍜
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1776961302&salt=3163416303dadfb7&sig=9a937bd20cc8c8789050a1fbdf5fae6c6b7947002679a0f994dad5ed7b199a68
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.colatv88xd.cc/football/team/d4c8121b5f738cfaf222779a43e7495d.png!w80", ⚠️ ⏳ 22:45-00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - ) SAMSUNSPOR VS TRABZONSPOR🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wib0045wibsamsunsportrabzonspor_1776984300.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://img.thesports.com/football/team/6d48cbd483dee74ed9aef387bb082d64.png", ⚠️ ⏳ 22:45-00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 00:45 WIB - 24/04/2026]🍜
