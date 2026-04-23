@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 11:29 WIB
+**Diperbarui pada:** 23-04-2026 11:34 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -78,7 +78,6 @@
 - ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
 - ⚠️ **[FZ]** GR: Nova Sports 5 cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 5 [vip] cocok [fz] (392147)
-- ⚠️ **[FZ]** HK: Now Sports 3 cocok [fz] (532233)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
@@ -729,6 +728,7 @@
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
 -  **[KS]** HK: Now Sports 1 tidak cocok id epg
 -  **[KS]** HK: Now Sports 2 tidak cocok id epg
+-  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 4 tidak cocok id epg
 -  **[KS]** HK: Now Sports 6 tidak cocok id epg
 -  **[KS]** HK: Now Sports 7 tidak cocok id epg
@@ -1393,9 +1393,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fortaleza F.C 🆚 America de Cali🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oakland Roots 🆚 Las Vegas Lights🛡️|🛡️09:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Angeles FC 🆚 Colorado Rapids🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Jose Earthquakes 🆚 Austin FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Los Angeles FC 🆚 Colorado Rapids🛡️|🛡️09:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Jose Earthquakes 🆚 Austin FC🛡️|🛡️09:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Tijuana 🆚 Pachuca🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Necaxa 🆚 Club Deportivo Guadalajara🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Jaiba Brava 🆚 Club Atletico La Paz🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
