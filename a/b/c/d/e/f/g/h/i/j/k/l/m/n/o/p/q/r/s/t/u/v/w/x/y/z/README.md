@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 10:39 WIB
+**Diperbarui pada:** 23-04-2026 10:44 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,87 +1390,7 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mineros de Zacatecas 🆚 Atletico Morelia🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlas 🆚 Tigres UANL🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Salt Lake 🆚 Inter Miami CF🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fortaleza F.C 🆚 America de Cali🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oakland Roots 🆚 Las Vegas Lights🛡️|🛡️09:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Angeles FC 🆚 Colorado Rapids🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Jose Earthquakes 🆚 Austin FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Tijuana 🆚 Pachuca🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Necaxa 🆚 Club Deportivo Guadalajara🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Jaiba Brava 🆚 Club Atletico La Paz🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [23 Apr 2026 12:00 WIB] otomatis masuk jadwal
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** TVRI Sports tidak cocok id epg
--  **[KS]** Historical Sports tidak cocok id epg
--  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** Xtrem Sports tidak cocok id epg
--  **[KS]** SPOTV 2+ tidak cocok id epg
--  **[KS]** SPOTV+ tidak cocok id epg
--  **[KS]** BEIN SPORTS 1 tidak cocok id epg
--  **[KS]** BEIN SPORTS 2 tidak cocok id epg
--  **[KS]** BEIN SPORTS 3 tidak cocok id epg
--  **[KS]** BEIN SPORTS 4 tidak cocok id epg
--  **[KS]** BEIN SPORTS 5 tidak cocok id epg
--  **[KS]** CBS Champions tidak cocok id epg
--  **[KS]** CBS Sports HQ tidak cocok id epg
--  **[KS]** Champions Figth tidak cocok id epg
--  **[KS]** Champions TV1 tidak cocok id epg
--  **[KS]** Champions TV2 tidak cocok id epg
--  **[KS]** Champions TV3 tidak cocok id epg
--  **[KS]** Champions TV5 tidak cocok id epg
--  **[KS]** Champions TV6 tidak cocok id epg
--  **[KS]** Dubai Sports tidak cocok id epg
--  **[KS]** Dubai Sports 2 tidak cocok id epg
--  **[KS]** Dubai Sports 3 tidak cocok id epg
--  **[KS]** FOX SPORTS 1 tidak cocok id epg
--  **[KS]** FOX SPORTS 2 tidak cocok id epg
--  **[KS]** FOX SPORTS 3 tidak cocok id epg
--  **[KS]** FOX SPORTS PREMIUM tidak cocok id epg
--  **[KS]** FUBO SPORTS 1 tidak cocok id epg
--  **[KS]** FUBO SPORTS 2 tidak cocok id epg
--  **[KS]** NBA TV tidak cocok id epg
--  **[KS]** Nova Sport 1 tidak cocok id epg
--  **[KS]** ONE SPORTS HD tidak cocok id epg
--  **[KS]** ONE SPORTS+ tidak cocok id epg
--  **[KS]** Prima Sport 1 tidak cocok id epg
--  **[KS]** Prima Sport 2 tidak cocok id epg
--  **[KS]** Prima Sport 3 tidak cocok id epg
--  **[KS]** Prima Sport 4 tidak cocok id epg
--  **[KS]** Spectrum Sportsnet La tidak cocok id epg
--  **[KS]** SPORT 1 tidak cocok id epg
--  **[KS]** SPORT 2 tidak cocok id epg
--  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPOTV tidak cocok id epg
--  **[KS]** Tennis Channel tidak cocok id epg
--  **[KS]** TNT Sports tidak cocok id epg
--  **[KS]** TNT Sports 2 tidak cocok id epg
--  **[KS]** TNT Sports 3 tidak cocok id epg
--  **[KS]** TNT Sports 4 tidak cocok id epg
--  **[KS]** Nova Sport 2 tidak cocok id epg
--  **[KS]** INDOSIAR tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
--  **[KS]** SCTV tidak cocok id epg
--  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Islam Negeri Sunan Ampel vs Universitas Negeri Surabaya Grup B Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
--  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
--  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
--  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
--  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
+- ⚠️ Tidak ada channel.
 
 ---
 
