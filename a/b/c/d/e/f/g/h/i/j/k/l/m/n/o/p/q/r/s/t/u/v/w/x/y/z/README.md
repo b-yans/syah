@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 04:58 WIB
+**Diperbarui pada:** 24-04-2026 05:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -9,6 +9,7 @@
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** AU: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
+- ⚠️ **[FZ]** AU: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
@@ -93,6 +94,7 @@
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NZ: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
+- ⚠️ **[FZ]** NZ: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
@@ -276,7 +278,6 @@
 -  **[KS]** AU: Sky Sport 7 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 8 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 9 tidak cocok id epg
--  **[KS]** AU: Sky Sport Select tidak cocok id epg
 -  **[KS]** AT: ORF Sport+ tidak cocok id epg
 -  **[KS]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
 -  **[KS]** AT: Sky Sport 2 tidak cocok id epg
@@ -858,7 +859,6 @@
 -  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 8 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 9 tidak cocok id epg
--  **[KS]** NZ: Sky Sport Select tidak cocok id epg
 -  **[KS]** NO: eurosport 1 tidak cocok id epg
 -  **[KS]** NO: eurosport 2 tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
@@ -1390,15 +1390,15 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Valur Reykjavik 🆚 Hafnarfjordur🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vikingur Reykjavik 🆚 Stjarnan Gardabaer🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SCU Torreense 🆚 AD Fafe🛡️|🛡️02:45 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vitoria Salvador Youth 🆚 Bragantino RB U20🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Real Santander Women 🆚 America de Cali Women🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vitoria Salvador Youth 🆚 Bragantino RB U20🛡️|🛡️03:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Real Santander Women 🆚 America de Cali Women🛡️|🛡️03:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dunbeholden FC 🆚 Harbour View FC🛡️|🛡️03:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ otomatis masuk jadwal
