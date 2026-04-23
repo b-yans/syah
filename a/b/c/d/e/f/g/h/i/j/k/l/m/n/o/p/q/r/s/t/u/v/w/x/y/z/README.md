@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 04:15 WIB
+**Diperbarui pada:** 24-04-2026 04:21 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,19 +1390,19 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Valur Reykjavik 🆚 Hafnarfjordur🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vikingur Reykjavik 🆚 Stjarnan Gardabaer🛡️|🛡️02:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Villarreal CF🛡️|🛡️02:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SCU Torreense 🆚 AD Fafe🛡️|🛡️02:45 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vitoria Salvador Youth 🆚 Bragantino RB U20🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Real Santander Women 🆚 America de Cali Women🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ otomatis masuk jadwal
