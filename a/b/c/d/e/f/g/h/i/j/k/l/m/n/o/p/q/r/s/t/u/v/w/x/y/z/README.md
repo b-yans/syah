@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 06:29 WIB
+**Diperbarui pada:** 24-04-2026 06:35 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -59,6 +59,10 @@
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
+- ⚠️ **[FZ]** DE: ESports 1 cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: ESports 1 [SAT] [VIP] cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: Sport 1 cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fz] (76707)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
@@ -71,9 +75,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
-- ⚠️ **[FZ]** IN: Star Sports 2 cocok [fz] (464295)
-- ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[EXACT]** ID: SCTV cocok (SCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
@@ -157,6 +158,7 @@
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
+- ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
@@ -558,8 +560,6 @@
 -  **[KS]** DE: Auto Motor Sport tidak cocok id epg
 -  **[KS]** DE: Edge Sport tidak cocok id epg
 -  **[KS]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: ESports 1 tidak cocok id epg
--  **[KS]** DE: ESports 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 2 tidak cocok id epg
@@ -605,8 +605,6 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
--  **[KS]** DE: Sport 1 tidak cocok id epg
--  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
 -  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
@@ -737,6 +735,9 @@
 -  **[KS]** HU: Sport 2 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
+-  **[KS]** IN: Star Sports 1 tidak cocok id epg
+-  **[KS]** IN: Star Sports 2 tidak cocok id epg
+-  **[KS]** IN: Star Sports 3 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
@@ -1040,7 +1041,6 @@
 -  **[KS]** CH: Blue Sport D2 tidak cocok id epg
 -  **[KS]** CH: Eurosport 1 tidak cocok id epg
 -  **[KS]** CH: Eurosport 2 tidak cocok id epg
--  **[KS]** CH: MySports 1 tidak cocok id epg
 -  **[KS]** CH: MySports 2 tidak cocok id epg
 -  **[KS]** CH: MySports 3 tidak cocok id epg
 -  **[KS]** CH: MySports 4 tidak cocok id epg
@@ -1390,19 +1390,17 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dunbeholden FC 🆚 Harbour View FC🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Palmira Women 🆚 Fortaleza CEIF FC Women🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sportvereniging Notch 🆚 Broki🛡️|🛡️04:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlético Mineiro - MG 🆚 Ceara🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sportvereniging Notch 🆚 Broki🛡️|🛡️04:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios Women 🆚 Llaneros Women🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlético Mineiro - MG 🆚 Ceara🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ituano  SP 🆚 Ferroviaria SP🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmeiras - SP 🆚 EC Jacuipense🛡️|🛡️05:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlante FC 🆚 Tepatitlan FC🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Defensa Y Justicia 🆚 Boca Juniors🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlante FC 🆚 Tepatitlan FC🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
