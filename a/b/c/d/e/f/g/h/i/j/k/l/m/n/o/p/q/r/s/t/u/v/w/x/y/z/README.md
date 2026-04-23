@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 07:02 WIB
+**Diperbarui pada:** 23-04-2026 07:08 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,24 +1390,24 @@
 ---
 
 ### 📁 ?PEEL=ON
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Potosi 🆚 Club Guabira🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Remo - PA🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Gimnasia La Plata🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 Botafogo PB🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Goiás EC 🆚 Cruzeiro - MG🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Potosi 🆚 Club Guabira🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Gimnasia La Plata🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Remo - PA🛡️|🛡️05:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Santos Fc - SP 🆚 Coritiba SAF - PR🛡️|🛡️05:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sarasota Paradise 🆚 Corpus Christi FC🛡️|🛡️05:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 FC Cajamarca🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barcelona SC(ECU) 🆚 Mushuc Runa🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️DC Power Women 🆚 Fort Lauderdale Utd (W)🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barcelona SC(ECU) 🆚 Mushuc Runa🛡️|🛡️06:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Boyaca Chico🛡️|🛡️06:20 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York Red Bulls 🆚 DC United🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Columbus Crew 🆚 Los Angeles Galaxy🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletic Club 🆚 Internacional - RS🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Toronto FC 🆚 Philadelphia Union🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York City FC 🆚 FC Cincinnati🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Columbus Crew 🆚 Los Angeles Galaxy🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orlando City 🆚 Charlotte FC🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rhode Island 🆚 Charleston Battery🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orlando City 🆚 Charlotte FC🛡️|🛡️06:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlanta United 🆚 New England Revolution🛡️|🛡️06:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Municipal Pérez Zeledón 🆚 CS Herediano🛡️|🛡️07:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
