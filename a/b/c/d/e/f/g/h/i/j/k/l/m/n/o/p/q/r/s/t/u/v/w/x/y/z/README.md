@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 05:41 WIB
+**Diperbarui pada:** 24-04-2026 05:46 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -43,7 +43,6 @@
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** CZ: Nova Sport 1 cocok [fz] (6263)
 - ⚠️ **[FZ]** CZ: Nova Sport 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
@@ -62,8 +61,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
-- ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
 - ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
 - ⚠️ **[FZ]** GR: Nova sports 2 [vip] cocok [fz] (7401)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
@@ -98,7 +95,6 @@
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
-- ⚠️ **[FZ]** NO: V Sport 1 cocok [fz] (6263)
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
@@ -367,6 +363,7 @@
 -  **[KS]** CZ: CT Sport tidak cocok id epg
 -  **[KS]** CZ: Eurosport 1 tidak cocok id epg
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
+-  **[KS]** CZ: Nova Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
 -  **[KS]** CZ: Sport 2 tidak cocok id epg
@@ -612,6 +609,8 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: Sport 1 tidak cocok id epg
 -  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
+-  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
 -  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
 -  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
@@ -865,6 +864,7 @@
 -  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
 -  **[KS]** NO: V Sport + tidak cocok id epg
+-  **[KS]** NO: V Sport 1 tidak cocok id epg
 -  **[KS]** OM: Oman TV Sport tidak cocok id epg
 -  **[KS]** PK: A Sports tidak cocok id epg
 -  **[KS]** PK: PTV Sports tidak cocok id epg
