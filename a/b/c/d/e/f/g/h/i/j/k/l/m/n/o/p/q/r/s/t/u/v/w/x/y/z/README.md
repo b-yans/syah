@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 00:05 WIB
+**Diperbarui pada:** 24-04-2026 00:10 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,40 +1390,39 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nasaf Qarshi 🆚 Lokomotiv Tashkent🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Duhok SC 🆚 Al Gharraf🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ittihad Kalba FC 🆚 Baniyas Club🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Navbahor Namangan 🆚 Sogdiana Jizak🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Radnicki Nis 🆚 Habitpharm Javor🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Pyunik 🆚 Urartu🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kerala Blasters FC 🆚 Odisha FC🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Sharjah 🆚 Al Wahda(UAE)🛡️|🛡️21:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Bihor Oradea 🆚 Sepsi OSK Sfantul Gheorghe🛡️|🛡️21:15 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akron Togliatti 🆚 Dynamo Makhachkala🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tallinna FC Levadia B 🆚 JK Tallinna Kalev🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Super Nova 🆚 FK Liepaja🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️El Mokawloon El Arab 🆚 Ittihad Alexandria SC🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Michel United FC 🆚 Saint Louis Suns United🛡️|🛡️21:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Flora Tallinn II 🆚 Elva🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Super Nova 🆚 FK Liepaja🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tallinna FC Levadia B 🆚 JK Tallinna Kalev🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️El Mokawloon El Arab 🆚 Ittihad Alexandria SC🛡️|🛡️22:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo Samarqand 🆚 FC OKMK Olmaliq🛡️|🛡️22:15 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Samsunspor 🆚 Trabzonspor🛡️|🛡️22:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Shabab FC 🆚 Al Rayyan🛡️|🛡️22:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Randers FC 🆚 Fredericia🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lyngbo W 🆚 FK Fyllingsdalen Women🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nordsjaelland 🆚 Aarhus AGF🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Napredak Krusevac 🆚 FK IMT Belgrad🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Samsunspor 🆚 Trabzonspor🛡️|🛡️22:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Maardu 🆚 Tallinna FC Ararat TTU🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Randers FC 🆚 Fredericia🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nordsjaelland 🆚 Aarhus AGF🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lyngbo W 🆚 FK Fyllingsdalen Women🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Napredak Krusevac 🆚 FK IMT Belgrad🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Viimsi JK 🆚 JK Welco Elekter🛡️|🛡️23:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Najma(KSA) 🆚 Al Taawoun🛡️|🛡️23:10 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Old Edwardians 🆚 Bo Rangers🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Quwa Al Jawiya 🆚 Erbil SC🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zakho SC 🆚 Al-Kahraba Club🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 NK Aluminij🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Moscow 🆚 FK Krasnodar🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Go Ahead Eagles 🆚 AZ Alkmaar🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Old Edwardians 🆚 Bo Rangers🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Quwa Al Jawiya 🆚 Erbil SC🛡️|🛡️23:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akhmat Grozny 🆚 Baltika Kaliningrad🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Go Ahead Eagles 🆚 AZ Alkmaar🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Moscow 🆚 FK Krasnodar🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Bataeh 🆚 Al-Ain FC🛡️|🛡️23:45 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Degerfors IF 🆚 AIK🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Thor Akureyri 🆚 Fram Reykjavik🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aalborg 🆚 Boldklubben af 1893🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vllaznia Shkoder 🆚 FC Dinamo City🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kalmar 🆚 IFK Goteborg🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️GAIS 🆚 Mjallby AIF🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Levante 🆚 Sevilla FC🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Malmo FF 🆚 IK Sirius FK🛡️|🛡️00:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
