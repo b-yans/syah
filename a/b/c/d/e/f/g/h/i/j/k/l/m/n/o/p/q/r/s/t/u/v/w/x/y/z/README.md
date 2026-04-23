@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 09:56 WIB
+**Diperbarui pada:** 23-04-2026 10:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -60,7 +60,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
 - ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
-- ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
 - ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
@@ -179,7 +178,6 @@
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
-- ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fz] (438445)
@@ -210,7 +208,6 @@
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
@@ -422,6 +419,7 @@
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
@@ -1067,6 +1065,7 @@
 -  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
+-  **[KS]** TR: beIN Sports Haber tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
 -  **[KS]** TR: CosmoSports tidak cocok id epg
@@ -1213,6 +1212,7 @@
 -  **[KS]** US: Root Sports tidak cocok id epg
 -  **[KS]** US: SportsGrid tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
+-  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
 -  **[KS]** US: Motorsport TV tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
@@ -1390,24 +1390,24 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Municipal Pérez Zeledón 🆚 CS Herediano🛡️|🛡️07:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Moron 🆚 Ferrocarril Midland🛡️|🛡️07:15 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Flamengo - RJ 🆚 Vitória - BA🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Red Bull Bragantino 🆚 Mirassol - SP🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Houston Dynamo 🆚 San Diego FC🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Dallas 🆚 Minnesota United FC🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Red Bull Bragantino 🆚 Mirassol - SP🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Jong Aruba 🆚 SV Unistars🛡️|🛡️07:30 23/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mineros de Zacatecas 🆚 Atletico Morelia🛡️|🛡️08:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlas 🆚 Tigres UANL🛡️|🛡️08:00 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mazatlan FC 🆚 Toluca🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlas 🆚 Tigres UANL🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mineros de Zacatecas 🆚 Atletico Morelia🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico San Luis 🆚 Santos Laguna🛡️|🛡️08:00 23/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universitario De Deportes 🆚 Deportivo Garcilaso🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Salt Lake 🆚 Inter Miami CF🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fortaleza F.C 🆚 America de Cali🛡️|🛡️08:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oakland Roots 🆚 Las Vegas Lights🛡️|🛡️09:00 23/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Jose Earthquakes 🆚 Austin FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Los Angeles FC 🆚 Colorado Rapids🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Saprissa 🆚 Guadalupe FC🛡️|🛡️09:30 23/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Jaiba Brava 🆚 Club Atletico La Paz🛡️|🛡️10:00 23/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
