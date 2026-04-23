@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 15:17 WIB
+**Diperbarui pada:** 23-04-2026 15:22 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -4802,8 +4802,15 @@
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
+- ⚠️ **[FZ]** PK: T Sports cocok [fz] (405715)
+- ⚠️ **[EXACT]** PT: SPORT TV + cocok (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 2 cocok [fz] (7235)
+- ⚠️ **[FZ]** PT: SPORT TV 3 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
+- ⚠️ **[FZ]** PT: SPORT TV 5 cocok [fz] (405715)
+- ⚠️ **[FZ]** PT: SPORT TV 6 cocok [fz] (405715)
+- ⚠️ **[FZ]** PT: SPORT TV 7 cocok [fz] (405715)
+- ⚠️ **[FZ]** PT: W-Sport cocok [fz] (405715)
 - ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fz] (381835)
@@ -4861,14 +4868,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
@@ -5532,7 +5539,6 @@
 -  **[KS]** OM: Oman TV Sport tidak cocok id epg
 -  **[KS]** PK: A Sports tidak cocok id epg
 -  **[KS]** PK: PTV Sports tidak cocok id epg
--  **[KS]** PK: T Sports tidak cocok id epg
 -  **[KS]** PK: Ten Sports tidak cocok id epg
 -  **[KS]** PS: Palestine Sport tidak cocok id epg
 -  **[KS]** PA: Cable Onda Sports tidak cocok id epg
@@ -5572,15 +5578,9 @@
 -  **[KS]** PL: TVP Sport tidak cocok id epg
 -  **[KS]** PT: Eurosport 1 tidak cocok id epg
 -  **[KS]** PT: Eurosport 2 tidak cocok id epg
--  **[KS]** PT: SPORT TV + tidak cocok id epg
 -  **[KS]** PT: SPORT TV 1 tidak cocok id epg
--  **[KS]** PT: SPORT TV 3 tidak cocok id epg
--  **[KS]** PT: SPORT TV 5 tidak cocok id epg
--  **[KS]** PT: SPORT TV 6 tidak cocok id epg
--  **[KS]** PT: SPORT TV 7 tidak cocok id epg
 -  **[KS]** PT: SPORT TV NBA tidak cocok id epg
 -  **[KS]** PT: Sporting TV tidak cocok id epg
--  **[KS]** PT: W-Sport tidak cocok id epg
 -  **[KS]** PT: Kombat Sport tidak cocok id epg
 -  **[KS]** PT: NBA TV tidak cocok id epg
 -  **[KS]** QA: beIN Sports 1 tidak cocok id epg
@@ -6057,7 +6057,7 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** [23 Apr 2026 12:00 WIB] diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** [23 Apr 2026 14:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -6117,11 +6117,11 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Brawijaya vs Universitas Ma Chung Grup E Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Institut Teknologi Sepuluh Nopember vs Universitas Airlangga Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
--  **[KS]** PERSITA vs Bali United FC BRI Super League tidak cocok id epg
 -  **[KS]** PSM Makassar vs PERSIK Kediri BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
+-  **[KS]** Malut United FC vs PERSEBAYA Surabaya BRI Super League tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 
 ---
