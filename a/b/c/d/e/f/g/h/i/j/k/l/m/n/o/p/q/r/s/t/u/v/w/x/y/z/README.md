@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 13:34 WIB
+**Diperbarui pada:** 23-04-2026 13:39 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -7,38 +7,57 @@
 -  **[KS]** ⚠️INDOSIAR⚠️ tidak cocok id epg
 -  **[KS]** ⚠️MNC TV⚠️ tidak cocok id epg
 -  **[KS]** ⚠️TVRI SPORT⚠️ tidak cocok id epg
-- ⚠️ **[BASI]** 📢  11:05-14:00 WIB - BASEBALL: MLB [DE: SPORTDIGITAL 1+]🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  11:05-14:00 WIB - BASEBALL: MLB [DE: SPORTDIGITAL 1+ SAT VIP]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  12:15-14:15 WIB - UNIV CRAIOVA - RAPID - MECI FOTBAL SUPERLIGA 1 [RO: PRIMA SPORT 3]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:15-15:15 WIB - SEPAKBOLA: DANSKA LIGA: VIBORG - BRONDBY [HR: SPORT KLUB 3]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:15-15:15 WIB - SEPAKBOLA: DANSKA LIGA: VIBORG - BRONDBY [RS: SPORT KLUB 3]🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  10:20-14:30 WIB - EWC 25 - LEAGUE OF LEGENDS [DE: ESPORTS 1]🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  10:20-14:30 WIB - EWC 25 - LEAGUE OF LEGENDS [DE: ESPORTS 1 SAT VIP]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  13:25-14:00 WIB - PORTUGALSKA LIGA - PREGLED [HR: SPORT KLUB 4]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:25-14:00 WIB - PORTUGALSKA LIGA - PREGLED [RS: SPORT KLUB 4]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:30-13:30 WIB - 2017: 3RD ODI, SRI LANKA VS INDIA; ONE-DAY INTERNATIONAL CRICKET [IN: SONY SPORTS TEN 5 SONY TEN 5]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - BARCELONA - CRVENA ZVEZDA. BASKET. EVROLIGA [QA: BEIN SPORTS PREMIUM 1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - SOUTHAMPTON VS. ARSENAL; FA CUP SOCCER [IN: SONY SPORTS TEN 2 SONY TEN 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:15-15:15 WIB - SEPAKBOLA: DANSKA LIGA: VIBORG - BRONDBY [SI: SPORT KLUB 3]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  10:20-14:30 WIB - EWC 25 - LEAGUE OF LEGENDS [DE: SPORT 1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  10:20-14:30 WIB - EWC 25 - LEAGUE OF LEGENDS [DE: SPORT 1 SAT VIP]🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  13:25-14:00 WIB - PORTUGALSKA LIGA - PREGLED [SI: SPORT KLUB 4]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 FTV SIANG: KETIKA BASRRENG KEPINCUT CENDOL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 FTV SIANG: KETIKA BASRRENG KEPINCUT CENDOL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  11:30-16:30 WIB - MOTOGP RED BULL GP OF THE U.S [ID: SPOTV 2]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  09:30-17:00 WIB - ALBACETE - EIBAR. SEPAKBOLA. SPANSKA 2. LIGA [RS: ARENA SPORT 1X2]🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  11:00-14:00 WIB - MLB BASEBALL [US: NBC SPORTS CALIFORNIA]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  11:35-13:30 WIB - MUNDIAL F1 - GP DE JAPON (T2026): CARRERA [ES: DAZN F1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-13:50 WIB - LALIGA : REAL SOCIEDAD VS GETAFE [MY: BEIN SPORTS]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - ELCHE VS ATLETICO MADRID - SPANISH LALIGA 2025/26 [QA: BEIN SPORTS 6]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - ELCHE VS ATLETICO MADRID - SPANISH LALIGA 2025/26 [US: BEIN SPORTS 6]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - DINO PRIZMIC (CRO) VS MATTEO BERRETTINI (ITA) - DAY 1 [QA: BEIN SPORTS 7]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - DINO PRIZMIC (CRO) VS MATTEO BERRETTINI (ITA) - DAY 1 [US: BEIN SPORTS 7]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - VOJVODINA - PARTIZAN. SEPAKBOLA. MOZZARTBET SUPERLIGA [QA: BEIN SPORTS PREMIUM 3]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - RUGBY SUPER LEAGUE [CA: SPORTSNET WORLD]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - SEPAKBOLA. ARSENAL - SPORTING. LIGA CHAMPIONS [HR: ARENA SPORT 7]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - SEPAKBOLA. ARSENAL - SPORTING. LIGA CHAMPIONS [RS: ARENA SPORT 7]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - PRO FUTSAL LEAGUE 2 [ID: MNC TV]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-13:45 WIB - ATP 1000 SHANGHAI 2025. LORENZO MUSETTI (ITA) VS LUCIANO DARDERI (ITA) [IT: SUPER TENNIS]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-16:00 WIB - DAZN LALIGA 2 [ES: DAZN LALIGA 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-14:30 WIB - FOX SPORTS FIFA WORLD CUP ROUNDTABLE: USA HEAD COACHES [CL: FOX SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-14:30 WIB - FOX SPORTS FIFA WORLD CUP ROUNDTABLE: USA HEAD COACHES [CO: FOX SPORTS 1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - LENS - TOULOUSE. SEPAKBOLA. LIGA PRANCIS [BIH: ARENA SPORT 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - LENS - TOULOUSE. SEPAKBOLA. LIGA PRANCIS [HR: ARENA SPORT 3]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-16:30 WIB - MLB BASEBALL [CA: SPORTSNET ONE]🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  11:30-13:30 WIB - 16:30 WIB - MOTOGP RED BULL GP OF THE U.S🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  11:35-13:35 WIB - 13:30 WIB - MUNDIAL F1 - GP DE JAPON : CARRERA🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  11:40-13:40 WIB - 13:10 WIB - BASKET - GRCKA LIGA: OLYMPIACOS - ARIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 13:50 WIB - LALIGA : REAL SOCIEDAD VS GETAFE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - ELCHE VS ATLETICO MADRID - SPANISH LALIGA 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - ELCHE VS ATLETICO MADRID - SPANISH LALIGA 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - DINO PRIZMIC  VS MATTEO BERRETTINI  - DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - DINO PRIZMIC  VS MATTEO BERRETTINI  - DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - VOJVODINA - PARTIZAN. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - RUGBY SUPER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - SEPAKBOLA. ARSENAL - SPORTING. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - SEPAKBOLA. ARSENAL - SPORTING. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - PRO FUTSAL LEAGUE 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 13:45 WIB - ATP 1000 SHANGHAI 2025. LORENZO MUSETTI  VS LUCIANO DARDERI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 16:00 WIB - DAZN LALIGA 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 22/02/20 SEOULSCAPE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 22/02/20 SEOULSCAPE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 04/02/21 MUSICA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 04/02/21 MUSICA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 17/07/20 MAGNA TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 17/07/20 MAGNA TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - GUANGZHOU XINGPAI VS WUHAN LIANZHEN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - PCU DOLPHINS VS LPU BATANGAS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - ]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 13:50 WIB - LALIGA 2 : DEPORTIVO VS MIRANDES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 13:30 WIB - PARTIZAN - METALOPLASTIKA. BOLA TANGAN. SUPERLIGA SRBIJE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 14:00 WIB - SEPAKBOLA. LIVERPOOL - PSG. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 13:45 WIB - CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 23/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 23/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 24/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 24/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 22/02/20 SEOULSCAPE🍜 otomatis masuk jadwal
@@ -47,32 +66,65 @@
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 04/02/21 MUSICA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 17/07/20 MAGNA TV🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 17/07/20 MAGNA TV🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - GUANGZHOU XINGPAI VS WUHAN LIANZHEN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - PCU DOLPHINS VS LPU BATANGAS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - 23/04/2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - ]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL [AL: ARENA SPORT 2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL [BIH: ARENA SPORT 2 PREMIUM]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA [AL: ARENA SPORT 5]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA [BIH: ARENA SPORT 5]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. RC LENS - TOULOUSE FC [BE: ELEVEN SPORTS 2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - COPA DO BRASIL DE FUTEBOL: GOIAS X CRUZEIRO - AO VIVO [BR: SPORTV]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - BASKETCAST [CA: NBA TV CANADA]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:30 WIB - BOKS. PACQUIAO - BARRIOS. WBC WELTERWEIGHT WORLD CHAMPIONSHIP [HR: ARENA SPORT 8]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:30 WIB - BOKS. PACQUIAO - BARRIOS. WBC WELTERWEIGHT WORLD CHAMPIONSHIP [RS: ARENA SPORT 8]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - TENIS [RO: DIGI SPORT 2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 WINTER DAN 14 [RS: SPORT KLUB ESPORTS]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. FC PORTO - CD TONDELA [US: ELEVEN SPORTS]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PFL 5: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS [US: FUBO SPORTS NETWORK]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - ) GANGWON VS CLB SEOUL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - ) URAWA REDS VS YOKOHAMA F. MARINOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:15-14:15 WIB - 14:15 WIB - UNIV CRAIOVA - RAPID - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:15-14:15 WIB - 14:10 WIB - MUNDIAL F1 - GP DE AUSTRALIA : CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - BARCELONA - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 13:30 WIB - 2017: 3RD ODI, SRI LANKA VS INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - SOUTHAMPTON VS. ARSENAL; FA CUP SOCCER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - 23/04/26 FTV SIANG: KETIKA BASRRENG KEPINCUT CENDOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - 23/04/26 FTV SIANG: KETIKA BASRRENG KEPINCUT CENDOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  12:30-14:30 WIB - 14:30 WIB - 23/04/26 BROWNIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. RC LENS - TOULOUSE FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - COPA DO BRASIL DE FUTEBOL: GOIAS X CRUZEIRO - AO VIVO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:00 WIB - BASKETCAST🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:30 WIB - BOKS. PACQUIAO - BARRIOS. WBC WELTERWEIGHT WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:30 WIB - BOKS. PACQUIAO - BARRIOS. WBC WELTERWEIGHT WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - TENIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:00 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 WINTER DAN 14🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. FC PORTO - CD TONDELA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PFL 5: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - 23/04/26 RAINBOW BUBBLEGEM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - 23/04/26 RAINBOW BUBBLEGEM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - 23/04/26 JHANAK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - 23/04/26 JHANAK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - OKLAHOMA - PHOENIX, G2. BASKET. NBA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - CHALON - BOURG. BASKET. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. PARIS SAINT-GERMAIN - OLYMPIQUE LYON🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 15:00 WIB - COPA DO BRASIL DE FUTEBOL: ATLETICO-MG X CEARA - AO VIVO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:00 WIB - ON THE CLOCK: NFL DRAFT SPECIAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 14:00 WIB - 2026 NFL DRAFT SPECIAL GAMETIME DECISIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 23/04/26 RAINBOW BUBBLEGEM🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 23/04/26 RAINBOW BUBBLEGEM🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 23/04/26 JHANAK🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - 23/04/26 JHANAK🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  11:02-11:37 WIB - CODIGO F1 (T2025): MEXICO🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  13:10-14:55 WIB - BASKET - NBA LIGA: PLAYOFFS (G2): SAN ANTONIO - PORTLAND🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL [HR: ARENA SPORT 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - REAL MADRID - ALAVES. SEPAKBOLA. LIGA SPANYOL [CZ: ARENA SPORT 2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA [HR: ARENA SPORT 5]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - TRENTO - REGGIO EMILIA. BASKET. LIGA ITALIA [RS: ARENA SPORT 5]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:10-15:10 WIB - 14:55 WIB - BASKET - NBA LIGA: PLAYOFFS : SAN ANTONIO - PORTLAND🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:15-15:15 WIB - 15:15 WIB - SEPAKBOLA: DANSKA LIGA: VIBORG - BRONDBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:15-15:15 WIB - 15:15 WIB - SEPAKBOLA: DANSKA LIGA: VIBORG - BRONDBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:25-15:25 WIB - 14:00 WIB - PORTUGALSKA LIGA - PREGLED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:25-15:25 WIB - 14:00 WIB - PORTUGALSKA LIGA - PREGLED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - 14:30 WIB - FOX SPORTS FIFA WORLD CUP ROUNDTABLE: USA HEAD COACHES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - 15:30 WIB - LENS - TOULOUSE. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - 16:30 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:05-01:05 WIB - 00:00 WIB - HARLEY-DAVIDSON BAGGER CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:05-01:05 WIB - 01:00 WIB - FOTBALL - NM MENN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:10-01:10 WIB - 01:10 WIB - ) AL NAJMA VS AL-TAAWOUN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:10-01:10 WIB - 01:10 WIB - ) AL HAZM VS AL-RIYADH🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:10-15:00 WIB - SEPAKBOLA: TURSKA LIGA - PREGLED🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:15-14:10 WIB - MUNDIAL F1 - GP DE AUSTRALIA (T2026): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:15-01:15 WIB - 00:15 WIB - REZUMATE BUNDESLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:15-16:00 WIB - VOLI - PRVA ODBOJKARSKA LIGA (M): FINALE (3. TEKMA): ACH VOLLEY - CALCIT VOLLEY🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:15-16:00 WIB - SUPERLIGA: REZUMATELE ETAPEI PLAY-OFF / PLAY-OUT ETAPA 5🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:15-18:15 WIB - TENIS - WTA 1000 MADRID🍜 otomatis masuk jadwal
@@ -80,48 +132,80 @@
 - ⚠️ **[EVENT]** 📢  15:17-17:17 WIB - TO PARIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:20-18:00 WIB - TENIS: ATP 500 PREGLED: BARCELONA🍜 otomatis masuk jadwal
 - ⚠️ **[BASI]** 📢  10:25-12:30 WIB -  LALIGA. REAL OVIEDO V VILLARREAL CF🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  23:30-01:30 WIB - 00:15 WIB - REZUMATE SUPERLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:30-10:30 WIB - LALIGA EA SPORTS (T25/26): LEVANTE - SEVILLA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:30-10:30 WIB -  DINAMO - CS U CRAIOVA - MECI FOTBAL CUPA ROMANIEI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - ) MINNESOTA TIMBERWOLVES VS DENVER NUGGETS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  09:30-10:30 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:30-01:30 WIB - 00:50 WIB - NRL THURSDAY NIGHT LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:30-01:30 WIB - 01:00 WIB - TENNIS: ATP & WTA MADRID OPEN 2026: DAY 2🍜 otomatis masuk jadwal
 - ⚠️ **[BASI]** 📢  10:30-12:15 WIB - BASKET: NBA: OKLAHOMA CITY THUNDER - PHOENIX SUNS🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  10:30-13:00 WIB - OVIEDO - VILLARREAL. SEPAKBOLA. LIGA SPANYOL🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  13:30-14:30 WIB - FOX SPORTS FIFA WORLD CUP ROUNDTABLE: USA HEAD COACHES🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:30-15:30 WIB - LENS - TOULOUSE. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:30-15:30 WIB - 5TH ODI: SRI LANKA VS. INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:30-16:30 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - DINAMO - U CLUJ - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:30-17:00 WIB - BASEBALL. WORLD SERIES G4. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 23/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 24/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:30-17:15 WIB - CUPA GERMANIEI: LEVERKUSEN-BAYERN MUNCHEN SEMIFINALA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:30-17:30 WIB - ESL PRO LIGA: MONGOLZ VS NAVI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - ) PSM MAKASSAR VS PERSIK KEDIRI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-17:30 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - PSM MAKASSAR VS PERSIK KEDIRI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - ) PERSITA VS BALI UNITED🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - ) PERSIJAP JEPARA VS PSBS BIAK NUMFOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 23/04/26] PERSITA VS BALI UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 24/04/26] PERSIJAP VS PSBS BIAK NUMFOR🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:30-18:45 WIB - BASKETBAL: MAXA NBL - PREDKOLO PLAY OFF🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:30-19:00 WIB - MAKAO, CETVRTFINALA, POLUFINALA I FINALE. BASKET 3X3. FIBA 3X3 WORLD TOUR🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:30-19:15 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:30-19:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PFL 6: WELTERWEIGHTS & LIGHTWEIGHTS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:30-19:30 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:30-19:30 WIB - 23/04/26 PRIMETIME NEWS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:01-20:01 WIB - 24/04/16 BERITA VIRAL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:05-21:00 WIB - BOKS: TOKYO NORMAN VS SASSAKI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:05-21:45 WIB - BUNDESLIGA. EINTRACHT FRANKFURT - RB LEIPZIG🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:05-22:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:05-23:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:10-02:10 WIB - 01:00 WIB - SEPAKBOLA - BUNDESLIGA: HOFFENHEIM - DORTMUND🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:15-20:00 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:15-20:15 WIB - FINALA - MECI FOTBAL UEFA YOUTH LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:15-20:50 WIB - LALIGA BEST 11: DAVID VILLA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - LIVERPOOL - PSG - MECI FOTBAL UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - LA LIGA: BARCELONA-CELTA VIGO ETAPA 33🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  22:15-23:00 WIB - VOLI (Z): PRVA LIGA SLOVENIJE: FINALE (3. TEKMA): OTP BANKA BRANIK - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - LA LIGA: BARCELONA-CELTA VIGO ETAPA 33🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:15-02:15 WIB - 02:15 WIB - ATLETICO MADRID - BARCELONA - MECI FOTBAL UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:15-02:15 WIB - 02:30 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:15-23:00 WIB - LIGA DIGI SPORT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:15-23:00 WIB - VOLI (Z): PRVA LIGA SLOVENIJE: FINALE (3. TEKMA): OTP BANKA BRANIK - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:20-02:20 WIB - 01:00 WIB - FORMULA 1: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:25-20:35 WIB - LALIGA: BARCELONA V CELTA VIGO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:25-23:00 WIB - SEPAKBOLA: 2. BUNDESLIGA: SCHALKE - MUNSTER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - 02:30 WIB - 2018: 1ST ODI - ENGLAND VS. INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - 03:30 WIB - LUBE - VERONA, POLUFINALE G4. VOLI. LIGA ITALIA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-12:00 WIB -  TENNIS: TOURNOI WTA DE MADRID🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - REAL SOCIEDAD - GETAFE. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 12:00 WIB -  TENNIS: TOURNOI WTA DE MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - REAL SOCIEDAD - GETAFE. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - ALMERIA - MALAGA. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - MONACO - ASVEL. BASKET. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01:00 WIB - SEPAKBOLA. SAZETAK. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 10:00 WIB -  TENIS: ATP MASTERS IN WTA 1000 MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01:00 WIB -  TENIS: ATP MASTERS & WTA 1000 MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01:50 WIB - LALIGA EA SPORTS : MALLORCA - VALENCIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 10:03 WIB - TENNIS: ATP WORLD TOUR 1000-TURNERING I MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - BURNLEY VS MANCHESTER CITY  - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:30 WIB - SENIOR PGA CHAMPIONSHIP 2026 - ROUND 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 03:50 WIB - TATA INDIAN PREMIER LEAGUE 2026  - M33: MUMBAI INDIANS VS CHENNAI SUPER KINGS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 01/11/25 MNCTV SPORT PRO FUTSAL LEAGUE 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 01/11/25 AMAZING KIDS : SPONGEBOB SQUAREPANTS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 20/09/16 BOBOIBOY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 01/11/25 BREAKING NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 28/05/16 KIDDIES WORLD🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - 04/06/18 POTRET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 02:00 WIB - ) LEVANTE VS SEVILLA FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 MNCTV SPORT PRO FUTSAL LEAGUE 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 AMAZING KIDS : SPONGEBOB SQUAREPANTS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 20/09/16 BOBOIBOY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 BREAKING NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 28/05/16 KIDDIES WORLD🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 04/06/18 POTRET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - ) LEVANTE VS SEVILLA FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - ) BASAKSEHIR VS KASIMPASA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - ALMERIA - MALAGA. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - MONACO - ASVEL. BASKET. LIGA PRANCIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-01:00 WIB - SEPAKBOLA. SAZETAK. EUROPA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-10:00 WIB -  TENIS: ATP MASTERS IN WTA 1000 MADRID🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-01:00 WIB -  TENIS: ATP MASTERS & WTA 1000 MADRID🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-01:50 WIB - LALIGA EA SPORTS (T25/26): MALLORCA - VALENCIA🍜 otomatis masuk jadwal
@@ -130,26 +214,39 @@
 - ⚠️ **[EVENT]** 📢  00:00-02:30 WIB - SENIOR PGA CHAMPIONSHIP 2026 - ROUND 4🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-03:50 WIB - TATA INDIAN PREMIER LEAGUE 2026 () - M33: MUMBAI INDIANS VS CHENNAI SUPER KINGS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 MNCTV SPORT PRO FUTSAL LEAGUE 2🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 AMAZING KIDS : SPONGEBOB SQUAREPANTS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 20/09/16 BOBOIBOY🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 01/11/25 BREAKING NEWS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 28/05/16 KIDDIES WORLD🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - 04/06/18 POTRET🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:00-02:00 WIB - ) LEVANTE VS SEVILLA FC🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:10-01:00 WIB - SEPAKBOLA - BUNDESLIGA: HOFFENHEIM - DORTMUND🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:15-02:30 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:15-02:15 WIB - ATLETICO MADRID - BARCELONA - MECI FOTBAL UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:20-01:00 WIB - FORMULA 1: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:30 WIB - 09:00 WIB - TENNIS: ATP & WTA - KONFERENZ MUTUA MADRID OPEN IN MADRID , 3. TAG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:30 WIB - 01:30 WIB - ARSENAL VS. SPORTING CP; UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:30 WIB - 06:00 WIB - TENNIS: ATP & WTA MADRID OPEN 2026. DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:30 WIB - 02:15 WIB - MECI BASCHET LIGA NATIONALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:30-02:30 WIB - ) FCSB VS PETROLUL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:30-09:00 WIB - TENNIS: ATP & WTA - KONFERENZ MUTUA MADRID OPEN IN MADRID (ESP), 3. TAG🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  00:30-01:30 WIB - ARSENAL VS. SPORTING CP; UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:30-06:00 WIB - TENNIS: ATP & WTA MADRID OPEN 2026. DAY 3🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  00:30-02:15 WIB - MECI BASCHET LIGA NATIONALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  00:48-03:00 WIB - NRL RUGBY🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-02:00 WIB - EQUESTRIAN: LONGINES LEAGUE OF NATIONS, OCALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 02:00 WIB - EQUESTRIAN: LONGINES LEAGUE OF NATIONS, OCALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 01:45 WIB - SPORT BROTHERS LEAGUE S03E01🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - SEPAKBOLA: SERIE A. UDINESE CALCIO - PARMA CALCIO 1913🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - HOFFENHEIM - DORTMUND. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - SEPAKBOLA. DINAMO - FENERBAHCE. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - BASKET. UNICAJA - ALBA. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 11:00 WIB -  TENNIS: ATP & WTA MADRID OPEN 2026: DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - OBOS-LIGAEN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 02:40 WIB - MOTOGP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - LALIGA EA SPORTS : REAL SOCIEDAD - GETAFE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 02:50 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 01:35 WIB -  WORLD RALLY CHAMPIONSHIP: SHAKEDOWN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 02:00 WIB - ANT & SAV VS THE WORLD🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - 03:00 WIB - ) RAYO VALLECANO VS CLB ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - ) RAYO VALLECANO VS CLB ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - ) DHAMK VS AL-OKHDOOD🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-01:45 WIB - SPORT BROTHERS LEAGUE S03E01🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - SEPAKBOLA: SERIE A. UDINESE CALCIO - PARMA CALCIO 1913🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - HOFFENHEIM - DORTMUND. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - SEPAKBOLA. DINAMO - FENERBAHCE. EUROPA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - BASKET. UNICAJA - ALBA. LIGA CHAMPIONS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - CHAMPIONSHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-11:00 WIB -  TENNIS: ATP & WTA MADRID OPEN 2026: DAY 3🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - OBOS-LIGAEN🍜 otomatis masuk jadwal
@@ -158,339 +255,543 @@
 - ⚠️ **[EVENT]** 📢  01:00-02:50 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-01:35 WIB -  WORLD RALLY CHAMPIONSHIP: SHAKEDOWN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:00-02:00 WIB - ANT & SAV VS THE WORLD🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  01:00-03:00 WIB - ) RAYO VALLECANO VS CLB ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - BARCELONA - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - ) RB LEIPZIG VS 1. FC UNION BERLIN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:30-03:30 WIB - LUBE - VERONA, POLUFINALE G4. VOLI. LIGA ITALIA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:30-02:30 WIB - 2018: 1ST ODI - ENGLAND VS. INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:37-03:37 WIB - 03:15 WIB - PREMIER LEAGUE. CHELSEA - MANCHESTER UNITED🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:37-03:15 WIB - PREMIER LEAGUE. CHELSEA - MANCHESTER UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - 03:45 WIB - ATLETICO - BARCELONA. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - 03:45 WIB - FUSSBALL: PRIMEIRA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - ) VFB STUTTGART VS SC FREIBURG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - ) S.S.C. NAPOLI VS U.S. CREMONESE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - ATLETICO - BARCELONA. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  01:45-03:45 WIB - FUSSBALL: PRIMEIRA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - RIVER PLATE - BOCA JUNIORS. SEPAKBOLA. ARGENTINSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  02:00-03:00 WIB - PRO FOOTVOLLEY TOUR: WINTER SERIES - SEMIFINALS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - 04:00 WIB - RIVER PLATE - BOCA JUNIORS. SEPAKBOLA. ARGENTINSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - 03:00 WIB - PRO FOOTVOLLEY TOUR: WINTER SERIES - SEMIFINALS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - 04:00 WIB - GIRONA - BETIS. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - ) PSV EINDHOVEN VS PEC ZWOLLE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - ) SUNDERLAND VS CAU LAC BO BONG DA NOTTINGHAM FOREST🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - ) REAL BETIS BALOMPIE VS REAL MADRID CF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - MEGA FIGHTS: SERGIO MARTINEZ VS. PAUL WILLIAMS II🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  02:00-04:00 WIB - GIRONA - BETIS. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - SEPAKBOLA: SERIE A. SSC NAPOLI - SS LAZIO🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - BASEBALL. CHICAGO CUBS - NY METS. MLB🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  03:00-04:55 WIB - BUNDESLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - 05:00 WIB - SEPAKBOLA: SERIE A. SSC NAPOLI - SS LAZIO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - 05:00 WIB - BASEBALL. CHICAGO CUBS - NY METS. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-05:00 WIB - 04:55 WIB - BUNDESLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:00-04:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  03:07-04:51 WIB - RUGBY : TOP 14🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  03:23-05:13 WIB - PREMIER LEAGUE. EVERTON - LIVERPOOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - 05:45 WIB - BENFICA - REAL MADRID. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - 05:45 WIB - FUSSBALL: LIGA PROFESIONAL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - BENFICA - REAL MADRID. SEPAKBOLA. UEFA LIGA SAMPIONA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  03:45-05:45 WIB - FUSSBALL: LIGA PROFESIONAL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - AEK ATHENS VS RAYO VALLECANO - UEFA CONFERENCE LEAGUE 2025/26🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:00-05:00 WIB - 2025 WORLD TAEKWONDO CHAMPIONSHIPS: MEN -80KG FINAL, WOMEN-46KG FINAL & WOMEN +73KG FINAL, DAY 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 06:00 WIB - AEK ATHENS VS RAYO VALLECANO - UEFA CONFERENCE LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 05:00 WIB - 2025 WORLD TAEKWONDO CHAMPIONSHIPS: MEN -80KG FINAL, WOMEN-46KG FINAL & WOMEN +73KG FINAL, DAY 4🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 06:00 WIB - MILANO - NAPOLI. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 06:00 WIB - SEPAKBOLA. RIJEKA - OMONIA. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 05:45 WIB - BRISTOL BEARS - GLOUCESTER RUGBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 06:00 WIB - - KERALA BLASTERS VS. ODISHA FC; INDIAN SUPER LEAGUE SOCCER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - 06:00 WIB - EFL CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:00-05:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - MILANO - NAPOLI. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - SEPAKBOLA. RIJEKA - OMONIA. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:00-05:45 WIB - BRISTOL BEARS - GLOUCESTER RUGBY🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - - KERALA BLASTERS VS. ODISHA FC; INDIAN SUPER LEAGUE SOCCER🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:00-06:00 WIB - EFL CHAMPIONSHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:05-04:50 WIB - TAJEMSTVI KRALOVSKYCH PALACU (7/8)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:30-06:30 WIB - LILLE - NICE. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:50-06:50 WIB - 06:30 WIB - - MUMBAI INDIANS VS. CHENNAI SUPER KINGS; TATA IPL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  04:50-06:30 WIB - - MUMBAI INDIANS VS. CHENNAI SUPER KINGS; TATA IPL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 07:00 WIB - RADNICKI NIS - JAVOR. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 07:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 08:00 WIB - AMERICKI SEPAKBOLA. NEW ENGLAND - LA CHARGERS. NFL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 09:00 WIB -  LPGA TOUR: THE CHEVRON CHAMPIONSHIP - DAY 1, PART 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 07:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. LILLE OSC - OGC NICE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 06:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - 08:00 WIB - VSIN BY THE BOOKS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - RADNICKI NIS - JAVOR. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  05:00-08:00 WIB - AMERICKI SEPAKBOLA. NEW ENGLAND - LA CHARGERS. NFL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:00-09:00 WIB -  LPGA TOUR: THE CHEVRON CHAMPIONSHIP - DAY 1, PART 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  05:00-07:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. LILLE OSC - OGC NICE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:00-06:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:00-08:00 WIB - VSIN BY THE BOOKS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:15-06:00 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF (ETAPA 6)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:15-07:15 WIB -  FC BIHOR - ACS SEPSI OSK SF. GHOERGHE - MECI FOTBAL LIGA 2🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:15-06:15 WIB - LONGINES FEI JUMPING WORLD CUP🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  05:30-08:30 WIB - FEYENOORD - GRONINGEN. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  05:30-07:30 WIB - ) PALMEIRAS VS EC JACUIPENSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 08:00 WIB - JOVENTUT - BASKONIA. BASKET. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 08:00 WIB - SEPAKBOLA. SPORTING - ARSENAL. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 07:55 WIB - LALIGA. TBA V TBA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 07:00 WIB - IEM RIO: G2 VS 3DMAX🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 07:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - 08:00 WIB - ]  AUTO RACING CHANNEL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ]  AUTO RACING CHANNEL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ) DEFENSA Y JUSTICIA VS BOCA JUNIORS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ) ATLANTA HAWKS VS NEW YORK KNICKS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ) PHILADELPHIA 76ERS VS DOI BONG RO BOSTON CELTICS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - JOVENTUT - BASKONIA. BASKET. LIGA SPANYOL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - SEPAKBOLA. SPORTING - ARSENAL. LIGA CHAMPIONS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:00-07:55 WIB - LALIGA. TBA V TBA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:00-07:00 WIB - IEM RIO: G2 VS 3DMAX🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:00-07:00 WIB - AMSOIL CHAMPIONSHIP SNOCROSS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  06:00-08:00 WIB - ]  AUTO RACING CHANNEL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 24/04/26 LIPUTAN 6 PAGI MOJI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:15-07:15 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF (ETAPA 6)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:15-07:15 WIB - PORSCHE SIXT CARRERA CUP DE 2025 - RACE 1 - SACHSENRING🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  06:15-07:15 WIB - MOTOGP CLASSICS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 24/04/26 LIPUTAN 6 PAGI MOJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - 09:00 WIB - NAPREDAK - IMT. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - 09:00 WIB - ZENIT KAZAN - DINAMO, FINALE G2. VOLI. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - 09:00 WIB - NORDSJAELLAND - AARHUS. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - 12:00 WIB -  E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 SPRING DAN 5🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - 08:00 WIB - NFL DRAFT COUNTDOWN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - ) TORONTO RAPTORS VS CLEVELAND CAVALIERS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - NAPREDAK - IMT. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - ZENIT KAZAN - DINAMO, FINALE G2. VOLI. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - SEPAKBOLA: LALIGA. FC BARCELONA - CELTA VIGO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - NORDSJAELLAND - AARHUS. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  07:00-12:00 WIB -  E-SPORTS: LEAGUE OF LEGENDS - EBL: 2026 SPRING DAN 5🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:00-09:00 WIB - ZENIT KAZAN - DINAMO, FINALE G2. VOLI. RUSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:00-08:00 WIB - NFL DRAFT COUNTDOWN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:10-07:45 WIB - FIFA WORLD CUP: STORIES FROM THE CITIES🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:30-09:30 WIB - ) OPERARIO VS FLUMINENSE RJ🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:45-09:45 WIB - SPARTAK - KRASNODAR. SEPAKBOLA. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:45-09:45 WIB - 09:45 WIB - SPARTAK - KRASNODAR. SEPAKBOLA. RUSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:45-09:45 WIB - 10:00 WIB - GA EAGLES - AZ ALKMAAR. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:45-10:00 WIB - GA EAGLES - AZ ALKMAAR. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-09:55 WIB - 10:40 WIB - SVENSKA HOCKEYLIGAN : SKELLEFTEA AIK - ROGLE BK - SVENSKA HOCKEYLIGAN : SKELLEF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-09:55 WIB - 10:40 WIB - EISHOCKEY: SVENSKA HOCKEYLIGAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:55-09:55 WIB - 10:00 WIB -  LALIGA. LEVANTE UD V SEVILLA FC🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:55-10:40 WIB - SVENSKA HOCKEYLIGAN : SKELLEFTEA AIK - ROGLE BK - SVENSKA HOCKEYLIGAN (FINALE, SPIEL 1): SKELLEF🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  07:55-10:40 WIB - EISHOCKEY: SVENSKA HOCKEYLIGAN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  07:55-10:00 WIB -  LALIGA. LEVANTE UD V SEVILLA FC🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - MINNESOTA VS DENVER - NBA SEASON 2025-2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:00-10:30 WIB - LEVANTE - SEVILLA. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-11:00 WIB -  BASEBALL: MLB (WASHINGTON NATIONALS / ATLANTA BRAVES. SAISON REGULIERE)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 10:00 WIB - MINNESOTA VS DENVER - NBA SEASON 2025-2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 10:30 WIB - LEVANTE - SEVILLA. SEPAKBOLA. LIGA SPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 10:00 WIB - WORLD RALLY CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 09:45 WIB -  BOLA TANGAN - LIGA JERMAN: FUCHSE - GUMMERSBACH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 10:00 WIB -  WORLD RALLY CHAMPIONSHIP: SPECIAL STAGE 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 11:00 WIB - PROBOX TV CONTENDER SERIES: FLAZ VS. GOMEZ🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 10:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X LAB GAYA HIDUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 11:00 WIB - 2026 NFL DRAFT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X LAB GAYA HIDUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - WORLD RALLY CHAMPIONSHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:00-09:45 WIB -  BOLA TANGAN - LIGA JERMAN: FUCHSE - GUMMERSBACH🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:00-10:00 WIB -  WORLD RALLY CHAMPIONSHIP: SPECIAL STAGE 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:00-11:00 WIB - PROBOX TV CONTENDER SERIES: FLAZ VS. GOMEZ🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:00-10:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X LAB GAYA HIDUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:00-11:00 WIB - 2026 NFL DRAFT🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:15-09:00 WIB - PREGLED 27. KOLA. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:30-09:05 WIB - 44CUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:30-09:15 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:30-03:00 WIB - CESENA - SAMPDORIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:49-10:49 WIB - 09:50 WIB - SOIR DE RUGBY🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:49-09:50 WIB - SOIR DE RUGBY🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:52-11:02 WIB - MUNDIAL F1 - GP DE MEXICO (T2025): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:50-10:45 WIB - 25/26 A-LEAGUE MEN ROUND 25 MELBOURNE VICTORY VS NEWCASTLE JETS FC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:52-10:52 WIB - 11:02 WIB - MUNDIAL F1 - GP DE MEXICO : CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:54-10:54 WIB - 11:00 WIB - LALIGA EA SPORTS : RAYO - ESPANYOL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:54-11:00 WIB - LALIGA EA SPORTS (T25/26): RAYO - ESPANYOL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:55-11:00 WIB -  RAYO VALLECANO / ESPANYOL BARCELONE (FOOTBALL. LIGA. 33E JOURNEE)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  08:55-11:10 WIB -  SEPAKBOLA: LALIGA. RAYO VALLECANO - RCD ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:55-10:55 WIB - 11:00 WIB -  RAYO VALLECANO / ESPANYOL BARCELONE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:55-10:55 WIB - 11:10 WIB -  SEPAKBOLA: LALIGA. RAYO VALLECANO - RCD ESPANYOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:58-10:58 WIB - 10:58 WIB - 25/02/25 BERITA VIRAL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  08:58-10:58 WIB - 25/02/25 BERITA VIRAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - SPARTAK - TSC. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - MLADOST - RADNICKI 1923. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. SC FREIBURG - 1. FC HEIDENHEIM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - SONDERJYSKE - MIDTJYLLAND. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB -  SEPAKBOLA: PORTUGALSKA LIGA: CASA PIA - BRAGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - 20/12/24 GGS TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 11:00 WIB - ) ALAJUELENSE VS PUNTARENAS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 20/12/24 GGS TV🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SPARTAK - TSC. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - MLADOST - RADNICKI 1923. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. SC FREIBURG - 1. FC HEIDENHEIM🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - SONDERJYSKE - MIDTJYLLAND. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - MLADOST - RADNICKI 1923. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  09:00-11:00 WIB -  SEPAKBOLA: PORTUGALSKA LIGA: CASA PIA - BRAGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - 20/12/24 GGS TV🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  09:00-11:00 WIB - ) ALAJUELENSE VS PUNTARENAS🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢  09:45-11:45 WIB -  CUPA GERMANIEI: STUTTGART-FREIBURG SEMIFINALA🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  09:55-12:00 WIB - LEAGUE TWO🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  10:00-12:00 WIB - PSV - ZWOLLE. SEPAKBOLA. HOLANDSKA LIGA🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  10:00-12:00 WIB - SALFORD - BROMLEY. SEPAKBOLA. LEAGUE TWO🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  10:00-12:00 WIB - SEPAKBOLA. CRYSTAL PALACE - FIORENTINA. KONFERENCIJSKA LIGA🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  10:00-12:00 WIB - SEPAKBOLA. ESTUDIANTES - CUSCO. COPA LIBERTADORES🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  10:00-11:00 WIB - SNOW LEAGUE '25/26🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  10:00-11:00 WIB - IEM RIO: NAVI VS HOTU🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  10:00-13:00 WIB - LALIGA EA SPORTS (T25/26): REAL OVIEDO - VILLARREAL🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢  11:00-13:00 WIB - VERONA - MILAN. SEPAKBOLA. LIGA ITALIA🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  10:45-13:45 WIB - 24/4 2026 MLB REGULAR SEASON SAN FRANCISCO GIANTS VS LOS ANGELES DODGERS ()🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  11:00-13:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. FC LORIENT - OLYMPIQUE MARSYLIA🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢  11:00-13:00 WIB - STRASBOURG - RENNES. SEPAKBOLA. LIGA PRANCIS🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢  11:40-13:10 WIB - BASKET - GRCKA LIGA: OLYMPIACOS - ARIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-13:50 WIB - LALIGA 2 : DEPORTIVO VS MIRANDES🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-13:30 WIB - PARTIZAN - METALOPLASTIKA. BOLA TANGAN. SUPERLIGA SRBIJE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-14:00 WIB - SEPAKBOLA. LIVERPOOL - PSG. LIGA CHAMPIONS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  12:00-13:45 WIB - CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - OKLAHOMA - PHOENIX, G2. BASKET. NBA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - CHALON - BOURG. BASKET. LIGA PRANCIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. PARIS SAINT-GERMAIN - OLYMPIQUE LYON🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-15:00 WIB - COPA DO BRASIL DE FUTEBOL: ATLETICO-MG X CEARA - AO VIVO🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - ON THE CLOCK: NFL DRAFT SPECIAL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  13:00-14:00 WIB - 2026 NFL DRAFT SPECIAL GAMETIME DECISIONS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - HOUSTON VS LA LAKERS - NBA SEASON 2025-2026🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - ROBERTO BAUTISTA AGUT (ESP) VS THIAGO AGUSTIN TIRANTE (ARG) - DAY 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - ZELEZNICAR - CRVENA ZVEZDA. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - NBA PLAYBACK🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-17:00 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - WTA 1000 MADRID (TENNIS WTA 2026 CZ/SK) 2. KOLO🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-18:00 WIB - MOTORSPORT: NASCAR CUP SERIES🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-15:00 WIB - TENIS KLASIK MAC🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-19:00 WIB - DAZN LALIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-15:50 WIB - LALIGA EA SPORTS (T25/26): GIRONA - BETIS🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  11:00-13:00 WIB - VERONA - MILAN. SEPAKBOLA. LIGA ITALIA🍜 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - HOUSTON VS LA LAKERS - NBA SEASON 2025-2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - ROBERTO BAUTISTA AGUT  VS THIAGO AGUSTIN TIRANTE  - DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - ZELEZNICAR - CRVENA ZVEZDA. SEPAKBOLA. MOZZARTBET SUPERLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - NBA PLAYBACK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 17:00 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - WTA 1000 MADRID  2. KOLO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 18:00 WIB - MOTORSPORT: NASCAR CUP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 15:00 WIB - TENIS KLASIK MAC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 19:00 WIB - DAZN LALIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 15:50 WIB - LALIGA EA SPORTS : GIRONA - BETIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - 06/09/22 UPDATE BISNIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - 06/09/22 GORO GORO KARTOLO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - OIVAREZ COLLEGE VS CEU SCORPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 16:00 WIB - ) BAY HAWKS VS CANTERBURY RAMS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 24/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 06/09/22 UPDATE BISNIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - 06/09/22 GORO GORO KARTOLO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - OIVAREZ COLLEGE VS CEU SCORPIONS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - ) BAY HAWKS VS CANTERBURY RAMS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-17:00 WIB - MLB BASEBALL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-16:00 WIB - WTA 1000 MADRID (TENNIS WTA 2026 CZ/SK) 2. KOLO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-15:00 WIB - TENIS KLASIK MAC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-19:00 WIB - DAZN LALIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:00-15:50 WIB - LALIGA EA SPORTS (T25/26): GIRONA - BETIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:10-16:10 WIB - 15:00 WIB - SEPAKBOLA: TURSKA LIGA - PREGLED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:15-16:15 WIB - 16:00 WIB - VOLI - PRVA ODBOJKARSKA LIGA : FINALE : ACH VOLLEY - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 15:30 WIB - 5TH ODI: SRI LANKA VS. INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 16:30 WIB - DINAMO - U CLUJ - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 17:00 WIB - BASEBALL. WORLD SERIES G4. MLB🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  14:30-16:30 WIB - 17:30 WIB - ESL PRO LIGA: MONGOLZ VS NAVI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:00-16:00 WIB - 2025 WORLD TAEKWONDO CHAMPIONSHIPS: WOMEN -73KG FINAL & MEN -54KG FINAL, MEN-87KG FINAL, DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 16:00 WIB - 2025 WORLD TAEKWONDO CHAMPIONSHIPS: WOMEN -73KG FINAL & MEN -54KG FINAL, MEN-87KG FINAL, DAY 3🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - EVERTON - LIVERPOOL. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - DEPORTIVO - MIRANDES. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 15:35 WIB - LALIGA BEST 11: MARCOS SENNA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. FC PORTO - CD TONDELA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - UNITED RUGBY CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 15:50 WIB - PORSCHE CARRERA CUP ITALIA: IMOLA - 2. UTRKA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:30 WIB - BRI SUPER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - TENIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 17:00 WIB - 16/09/25 LIGA 25/26: VILLARREAL VS REAL MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 23/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 24/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 25/04/2026]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 16/09/25 LIGA 25/26: VILLARREAL VS REAL MADRID🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - EVERTON - LIVERPOOL. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - DEPORTIVO - MIRANDES. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:00-15:35 WIB - LALIGA BEST 11: MARCOS SENNA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. FC PORTO - CD TONDELA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - UNITED RUGBY CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - DEPORTIVO - MIRANDES. SEPAKBOLA. SPANSKA 2. LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:00-15:50 WIB - PORSCHE CARRERA CUP ITALIA: IMOLA - 2. UTRKA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:00-17:30 WIB - BRI SUPER LEAGUE 2025/26🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - TENIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:00-17:00 WIB - 16/09/25 LIGA 25/26: VILLARREAL VS REAL MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:15-17:15 WIB - 16:00 WIB - SUPERLIGA: REZUMATELE ETAPEI PLAY-OFF / PLAY-OUT ETAPA 5🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:15-17:15 WIB - 18:15 WIB - TENIS - WTA 1000 MADRID🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:15-17:15 WIB - 01:00 WIB - WHEELCHAIR RUGBY NATIONAL C'SHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:15-01:00 WIB - WHEELCHAIR RUGBY NATIONAL C'SHIP (DAY 1)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  15:35-16:10 WIB - LALIGA BEST 11: DIEGO FORLAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:17-17:17 WIB - 17:17 WIB - TO PARIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 17:15 WIB - CUPA GERMANIEI: LEVERKUSEN-BAYERN MUNCHEN SEMIFINALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 17:30 WIB - ) PSM MAKASSAR VS PERSIK KEDIRI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 17:30 WIB - ) PERSITA VS BALI UNITED🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 17:30 WIB - ) PERSIJAP JEPARA VS PSBS BIAK NUMFOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 19:00 WIB - MAKAO, CETVRTFINALA, POLUFINALA I FINALE. BASKET 3X3. FIBA 3X3 WORLD TOUR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:30-17:30 WIB - 19:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PFL 6: WELTERWEIGHTS & LIGHTWEIGHTS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:35-17:35 WIB - 16:10 WIB - LALIGA BEST 11: DIEGO FORLAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:52-17:52 WIB - 17:50 WIB - LALIGA HYPERMOTION : REAL SOCIEDAD B - RACING🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:52-17:50 WIB - LALIGA HYPERMOTION (T25/26): REAL SOCIEDAD B - RACING🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  15:55-17:55 WIB - 18:05 WIB - LALIGA: ELCHE V ATLETICO MADRID🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  15:55-18:05 WIB - LALIGA: ELCHE V ATLETICO MADRID🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - CHARLTON ATHLETIC VS IPSWICH TOWN - EFL🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - JAIME FARIA (POR) VS HUBERT HURKACZ (POL) - DAY 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-17:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - V-LEAGUE WOMEN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - CHARLTON ATHLETIC VS IPSWICH TOWN - EFL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - JAIME FARIA  VS HUBERT HURKACZ  - DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 17:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 19:00 WIB - NASCAR CUP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - SEPAKBOLA. BAYERN - REAL MADRID. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - SEPAKBOLA: GRSKA LIGA: PLAYOUT: PANSERRAIKOS - ATROMITOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - WTA 1000 MADRID  2. KOLO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 16:35 WIB - WORLD DOWHNHILL SKATEBOARDING CHAMPIONSHIP 2025  - EL SALVADOR🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 17:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - 23/04/26 MAKAN RECEH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 18:00 WIB - 23/04/26 KABAR PETANG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 23/04/26 MAKAN RECEH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 23/04/26 KABAR PETANG🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:00-19:00 WIB - NASCAR CUP SERIES🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - SEPAKBOLA. BAYERN - REAL MADRID. LIGA CHAMPIONS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - SEPAKBOLA: GRSKA LIGA: PLAYOUT: PANSERRAIKOS - ATROMITOS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - WTA 1000 MADRID (TENNIS WTA 2026 CZ/SK) 2. KOLO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:00-16:35 WIB - WORLD DOWHNHILL SKATEBOARDING CHAMPIONSHIP 2025 #4 - EL SALVADOR🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:00-17:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 23/04/26 MAKAN RECEH🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:00-18:00 WIB - 23/04/26 KABAR PETANG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:30-18:30 WIB - 18:45 WIB - BASKETBAL: MAXA NBL - PREDKOLO PLAY OFF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:35-18:35 WIB - 18:35 WIB - 23/04/26 ADIT SOPO JARWO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:35-18:35 WIB - 23/04/26 ADIT SOPO JARWO🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  16:45-18:45 WIB - ARGES - CFR CLUJ - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:45-19:45 WIB - 23/4 2026 MLB REGULAR SEASON SAN FRANCISCO GIANTS VS LOS ANGELES DODGERS ()🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:45-18:45 WIB - 18:45 WIB - ARGES - CFR CLUJ - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  16:54-18:54 WIB - 18:54 WIB - 14/04/26 ETALASE AJAIB SAD GIRL VS BAD BOY🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  16:54-18:54 WIB - 14/04/26 ETALASE AJAIB SAD GIRL VS BAD BOY🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - TOTTENHAM - BRIGHTON. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - BARI - VENEZIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. ANGERS SCO - LE HAVRE AC🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - MAGDEBURG - FORTUNA. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-17:45 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-05:30 WIB - BREST - LENS. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-18:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - TOTTENHAM - BRIGHTON. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - BARI - VENEZIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. ANGERS SCO - LE HAVRE AC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - MAGDEBURG - FORTUNA. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 17:45 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 05:30 WIB - BREST - LENS. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 18:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - 14/04/26 VAKIFBANK VS FENERBAHCE MEDICANA : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - 11/12/24 GOSIP PANAS SELEBRITI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - 24/04/16 TVRI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - ) KAIRAT ALMATY II VS FK AKTOBE II🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - ) LG SAKERS VS GOYANG CARROT JUMPERS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 19:00 WIB - ) TOKYO VS MITO HOLLYHOCK🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 14/04/26 VAKIFBANK VS FENERBAHCE MEDICANA : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 11/12/24 GOSIP PANAS SELEBRITI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - 24/04/16 TVRI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - ) KAIRAT ALMATY II VS FK AKTOBE II🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - ) LG SAKERS VS GOYANG CARROT JUMPERS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - ) TOKYO VS MITO HOLLYHOCK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - TOTTENHAM - BRIGHTON. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. ANGERS SCO - LE HAVRE AC🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - MAGDEBURG - FORTUNA. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-17:45 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-19:00 WIB - BARI - VENEZIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:00-18:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:20-19:20 WIB - 18:00 WIB - TENIS: ATP 500 PREGLED: BARCELONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:30-19:30 WIB - 19:30 WIB - 23/04/26 PRIMETIME NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  17:45-19:45 WIB - 18:30 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  17:45-18:30 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - RAFAEL JODAR (ESP) VS JESPER DE JONG (NED) - DAY 1🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - NRL RUGBY🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - SEPAKBOLA. STRASBOURG - MAINZ. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-21:00 WIB - THE EMIRATES FA CUP 2025/26 QF: CHELSEA VS PORT VALE - QF: CHELSEA VS PORT VALE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-20:20 WIB - MUNDIAL F1 - GP DE SINGAPUR (T2025): CARRERA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - BRIGHTON AND HOVE ALBION VS CHELSEA (MW34) - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:00-19:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - RAFAEL JODAR  VS JESPER DE JONG  - DAY 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - NRL RUGBY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - SEPAKBOLA. STRASBOURG - MAINZ. KONFERENCIJSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 21:00 WIB - THE EMIRATES FA CUP 2025/26 QF: CHELSEA VS PORT VALE - QF: CHELSEA VS PORT VALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:20 WIB - MUNDIAL F1 - GP DE SINGAPUR : CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - BRIGHTON AND HOVE ALBION VS CHELSEA  - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 19:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X GADGET GADO GADO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 20:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X FAVORIT CIWICIWI🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X GADGET GADO GADO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X FAVORIT CIWICIWI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:30-21:30 WIB - UNITED FOOTBALL LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-21:00 WIB - THE EMIRATES FA CUP 2025/26 QF: CHELSEA VS PORT VALE - QF: CHELSEA VS PORT VALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-20:00 WIB - BRIGHTON AND HOVE ALBION VS CHELSEA (MW34) - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:00-19:00 WIB - ARENACROSS CHAMPIONSHIP SERIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:01-20:01 WIB - 20:01 WIB - 24/04/16 BERITA VIRAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:15-20:15 WIB - 19:00 WIB - TENIS: ATP 500 PREGLED: MUNICH🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:15-20:15 WIB - 20:15 WIB - FINALA - MECI FOTBAL UEFA YOUTH LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:25-20:25 WIB - 20:35 WIB - LALIGA: BARCELONA V CELTA VIGO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 19:15 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 21:30 WIB - UNITED FOOTBALL LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 20:30 WIB - 23/04/26 SAPA INDONESIA MALAM🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 20:30 WIB - ) VAN VS BKMA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - 23/04/26 SAPA INDONESIA MALAM🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  18:30-20:30 WIB - ) VAN VS BKMA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:00-20:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  18:30-21:30 WIB - UNITED FOOTBALL LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 20:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - NOTTINGHAM FOREST - BURNLEY. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - LUDOGORETS - CELTA. SEPAKBOLA. UEFA LIGA EVROPE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - ASVEL - FENERBAHCE. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 19:40 WIB - LALIGA BEST 11: CARLOS MARCHENA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - SEPAKBOLA: LALIGA. FC BARCELONA - CELTA VIGO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - SEPAKBOLA: SERIE A. INTER MEDIOLAN - CAGLIARI CALCIO🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - BRONDBY - SONDERJYSKE. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 22:00 WIB - LA PREMIER LEAGUE SUR CANAL+🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 22:00 WIB - PREMIER LEAGUE TV🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 20:00 WIB - BUNDESLIGA: REZUMAT ETAPA 30🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - ELCHE - ATLETICO MADRID - MECI FOTBAL LA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 19:45 WIB - KIDARENA - TASTELESS ROCKET LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - SA CUP '26: SWD V CHE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - 23/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 21:00 WIB - ) MALUT UNITED VS PERSEBAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ) MALUT UNITED VS PERSEBAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/26] MALUT UNITED VS PERSEBAYA SURABAYA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - NOTTINGHAM FOREST - BURNLEY. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - LUDOGORETS - CELTA. SEPAKBOLA. UEFA LIGA EVROPE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ASVEL - FENERBAHCE. BASKET. EVROLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-19:40 WIB - LALIGA BEST 11: CARLOS MARCHENA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SEPAKBOLA: LALIGA. FC BARCELONA - CELTA VIGO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SEPAKBOLA: SERIE A. INTER MEDIOLAN - CAGLIARI CALCIO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - BRONDBY - SONDERJYSKE. SEPAKBOLA. DANSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ASVEL - FENERBAHCE. BASKET. EVROLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-22:00 WIB - LA PREMIER LEAGUE SUR CANAL+🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-22:00 WIB - PREMIER LEAGUE TV🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-20:00 WIB - BUNDESLIGA: REZUMAT ETAPA 30🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ELCHE - ATLETICO MADRID - MECI FOTBAL LA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-19:45 WIB - KIDARENA - TASTELESS ROCKET LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - SA CUP '26: SWD V CHE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - 23/04/26 LAYAR DRAMA INDONESIA : TERIKAT JANJI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:00-21:00 WIB - ) MALUT UNITED VS PERSEBAYA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - 20:00 WIB - MOTOCROSS WORLD CHAMPIONSHIP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:15-21:15 WIB - 21:15 WIB - LIVERPOOL - PSG - MECI FOTBAL UEFA CHAMPIONS LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - 20:30 WIB - 4TH ODI: SRI LANKA VS INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - 22:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: FEATHERWEIGHTS + LIGHT HEAVYWEIGHTS. PROFESSIONAL FIGHTERS L🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - 21:30 WIB - ) FK ZORYA LUHANSK VS SHAKHTAR DONETSK🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:30-20:30 WIB - 4TH ODI: SRI LANKA VS INDIA; ONE-DAY INTERNATIONAL CRICKET🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:30-22:30 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: FEATHERWEIGHTS + LIGHT HEAVYWEIGHTS. PROFESSIONAL FIGHTERS L🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:30-21:30 WIB - ) FK ZORYA LUHANSK VS SHAKHTAR DONETSK🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:40-21:40 WIB - 20:15 WIB - LALIGA BEST 11: DAVID ALBELDA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:40-20:15 WIB - LALIGA BEST 11: DAVID ALBELDA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 21:45 WIB - MECI FOTBAL SUPERLIGA 1🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 21:45 WIB - 26/10/20 TAFSIR AL-QURAN🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  19:45-21:45 WIB - 26/10/20 TAFSIR AL-QURAN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - SEPAKBOLA. SAZETAK. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - V-LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - BUNDESLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 21:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA INGGRIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 21:00 WIB - SEPAKBOLA. SAZETAK. LIGA CHAMPIONS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 21:00 WIB - NASCAR CUP SERIES MOTOR RACING. KANSAS SPEEDWAY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 21:30 WIB - ATHLETIC CLUB DE BILBAO VS. CA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 21:00 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: SUMMER FINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 22:00 WIB - CRYSTAL PALACE VS WEST HAM UNITED  - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 00:00 WIB - TATA INDIAN PREMIER LEAGUE 2026 - M25: GUJARAT TITANS VS KOLKATA KNIGHT RIDERS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 22:00 WIB - 0 ANOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 22:00 WIB - 28/07/22 EP36 : THE CATCH-UP SHOW🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 22:30 WIB - 2026 IIHF U18 MEN'S HOCKEY CHAMPIONSHIP: CANADA VS. LATVIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 28/07/22 EP36 : THE CATCH-UP SHOW🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - NASCAR CUP SERIES MOTOR RACING. KANSAS SPEEDWAY🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-21:30 WIB - ATHLETIC CLUB DE BILBAO VS. CA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:00-21:00 WIB - E-SPORTS: LEAGUE OF LEGENDS - EBL: SUMMER FINALE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - CRYSTAL PALACE VS WEST HAM UNITED (MW33) - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-00:00 WIB - TATA INDIAN PREMIER LEAGUE 2026 - M25: GUJARAT TITANS VS KOLKATA KNIGHT RIDERS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 0 ANOS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:00-22:00 WIB - 28/07/22 EP36 : THE CATCH-UP SHOW🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:00-22:30 WIB - 2026 IIHF U18 MEN'S HOCKEY CHAMPIONSHIP: CANADA VS. LATVIA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:50-22:57 WIB - MUNDIAL F1 - GP DE ESTADOS UNIDOS (T2025): CARRERA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 21:00 WIB - BOKS: TOKYO NORMAN VS SASSAKI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 21:45 WIB - BUNDESLIGA. EINTRACHT FRANKFURT - RB LEIPZIG🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 20:50 WIB - LALIGA BEST 11: DAVID VILLA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 22:15 WIB - LA LIGA: BARCELONA-CELTA VIGO ETAPA 33🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  20:50-22:50 WIB - 22:57 WIB - MUNDIAL F1 - GP DE ESTADOS UNIDOS : CARRERA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - GALATASARAY - EFES. BASKET. TURSKA LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - GALATASARAY - EFES. BASKET. TURSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 22:00 WIB - PREGLED 30. KOLA. SEPAKBOLA. LIGA JERMAN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - AEK - CRAIOVA. SEPAKBOLA. UEFA LIGA KONFERENCIJA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - REAL MADRID - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. TSG 1899 HOFFENHEIM - BORUSSIA DORTMUND🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SPORTING CP - SL BENFICA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - DRESDEN - BOCHUM. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - SEPAKBOLA. ASTON VILLA - BOLOGNA. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 22:00 WIB - TENNIS: ATP & WTA INDIAN WELLS OPEN 2026: WTA FINAL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 22:00 WIB - FINAL: INDIA VS. PAKISTAN; 2025 ASIA CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 22:00 WIB - UNITED RUGBY CHAMPIONSHIP. ROUND 15🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - EUROLEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - SA CUP '26: SWD V CHEETAHS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - LALIGA HYPERMOTION : CASTELLON - BURGOS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. AS MONACO - AJ AUXERRE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - ) KERALA BLASTERS VS ODISHA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - 23:00 WIB - ) AL SHARJAH VS AL WAHDA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - AEK - CRAIOVA. SEPAKBOLA. UEFA LIGA KONFERENCIJA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - REAL MADRID - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA NIEMIECKA. TSG 1899 HOFFENHEIM - BORUSSIA DORTMUND🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SPORTING CP - SL BENFICA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - DRESDEN - BOCHUM. SEPAKBOLA. NEMACKA 2. LIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA. ASTON VILLA - BOLOGNA. EUROPA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - PREGLED 33. KOLA. SEPAKBOLA. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - REAL MADRID - CRVENA ZVEZDA. BASKET. EVROLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - TENNIS: ATP & WTA INDIAN WELLS OPEN 2026: WTA FINAL🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - FINAL: INDIA VS. PAKISTAN; 2025 ASIA CUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-22:00 WIB - UNITED RUGBY CHAMPIONSHIP. ROUND 15🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - EUROLEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SA CUP '26: SWD V CHEETAHS🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - LALIGA HYPERMOTION (T25/26): CASTELLON - BURGOS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - SEPAKBOLA: LIGA FRANCUSKA. AS MONACO - AJ AUXERRE🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - ) KERALA BLASTERS VS ODISHA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  21:00-23:00 WIB - ) AL SHARJAH VS AL WAHDA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:05-23:05 WIB - 22:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - 23:30 WIB - BURNLEY VS. MANCHESTER CITY; PREMIER LEAGUE SOCCER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - 23:30 WIB - REAL SOCIEDAD VS. DEPORTIVO ALA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - 23:30 WIB - BARCELONA - CELTA VIGO - MECI FOTBAL LA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - BURNLEY VS. MANCHESTER CITY; PREMIER LEAGUE SOCCER🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - REAL SOCIEDAD VS. DEPORTIVO ALA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:30-23:30 WIB - BARCELONA - CELTA VIGO - MECI FOTBAL LA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  21:51-23:51 WIB - 23:30 WIB - BUNDESLIGA. TSG HOFFENHEIM - BORUSSIA DORTMUND🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:51-23:30 WIB - BUNDESLIGA. TSG HOFFENHEIM - BORUSSIA DORTMUND🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - PSG - NANTES. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 00:00 WIB - PSG - NANTES. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 01:00 WIB - LA PREMIER LEAGUE SUR CANAL+🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 23:30 WIB - TENNIS: ATP & WTA MADRID OPEN 2026: DAY 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 02:00 WIB - NASCAR CUP SERIES - ADVENTHEALTH 400🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 00:00 WIB - WTA 1000 MADRID. ELSA JACQUEMOT  VS TYRA CATERINA GRANT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 00:15 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 23:00 WIB - REZUMATE SERIE A🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - 00:00 WIB - BOURNEMOUTH VS LEEDS UNITED  - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-01:00 WIB - LA PREMIER LEAGUE SUR CANAL+🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-23:30 WIB - TENNIS: ATP & WTA MADRID OPEN 2026: DAY 2🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-02:00 WIB - NASCAR CUP SERIES - ADVENTHEALTH 400🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - WTA 1000 MADRID. ELSA JACQUEMOT (FRA) VS TYRA CATERINA GRANT (ITA)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-00:15 WIB - PREMIER LEAGUE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-23:00 WIB - REZUMATE SERIE A🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:00-00:00 WIB - BOURNEMOUTH VS LEEDS UNITED (MW34) - PREMIER LEAGUE 2025/26🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:05-00:05 WIB - 23:05 WIB - RANDONEE: VERDENSCUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:05-00:05 WIB - 00:05 WIB - FRAUEN BUNDESLIGA '25/26🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  22:05-00:05 WIB - FRAUEN BUNDESLIGA '25/26🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  22:30-01:00 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS. PROFESSIONAL FIGHTERS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  22:45-00:45 WIB - ) SAMSUNSPOR VS TRABZONSPOR🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:00-01:30 WIB - STARI GRAD. MALI SEPAKBOLA. ARENINA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:15-00:15 WIB - 23:00 WIB - VOLI : PRVA LIGA SLOVENIJE: FINALE : OTP BANKA BRANIK - CALCIT VOLLEY🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:15-00:15 WIB - 23:00 WIB - LIGA DIGI SPORT🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:20-00:20 WIB - 17🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:25-00:25 WIB - 23:00 WIB - SEPAKBOLA: 2. BUNDESLIGA: SCHALKE - MUNSTER🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:30-00:30 WIB - 01:00 WIB - PROFESSIONAL FIGHTERS LEAGUE: PLAYOFFS: HEAVYWEIGHTS & WOMEN'S FEATHERWEIGHTS. PROFESSIONAL FIGHTERS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  22:45-00:45 WIB - 00:45 WIB - ) SAMSUNSPOR VS TRABZONSPOR🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - PANATHINAIKOS - MONACO. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 01:30 WIB - STARI GRAD. MALI SEPAKBOLA. ARENINA LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 01:00 WIB - PANATHINAIKOS - MONACO. BASKET. EVROLIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 01:00 WIB - SEPAKBOLA: LALIGA. REAL SOCIEDAD - GETAFE CF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 01:00 WIB - PORTO - TONDELA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 00:15 WIB - BARCELONETA - BRESCIA. VATERPOLO. LIGA SAMPIONA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - 01:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SC BRAGA - FC FAMALICAO🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - SEPAKBOLA: LALIGA. REAL SOCIEDAD - GETAFE CF🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - PORTO - TONDELA. SEPAKBOLA. PORTUGALSKA LIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:00-00:15 WIB - BARCELONETA - BRESCIA. VATERPOLO. LIGA SAMPIONA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:00-01:00 WIB - SEPAKBOLA: LIGA PORTUGALSKA. SC BRAGA - FC FAMALICAO🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:05-00:00 WIB - HARLEY-DAVIDSON BAGGER CUP🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:05-01:00 WIB - FOTBALL - NM MENN (CUPEN)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:10-01:10 WIB - ) AL NAJMA VS AL-TAAWOUN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:10-01:10 WIB - ) AL HAZM VS AL-RIYADH🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:15-00:15 WIB - REZUMATE BUNDESLIGA🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:30-00:50 WIB - NRL THURSDAY NIGHT LEAGUE (ROUND 8)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:30-01:00 WIB - TENNIS: ATP & WTA MADRID OPEN 2026: DAY 2🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:30-00:15 WIB - REZUMATE SUPERLIGA🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:40-00:20 WIB - FORMULA 1: FORMULA 1 CHINESE GRAND PRIX 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:40-01:40 WIB - 00:20 WIB - FORMULA 1: FORMULA 1 CHINESE GRAND PRIX 2026🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:45-01:45 WIB - 01:15 WIB - BUNDESLIGA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:45-01:45 WIB - 01:45 WIB - ) GO AHEAD EAGLES VS AZ ALKMAAR🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  23:45-01:15 WIB - BUNDESLIGA. FC ST. PAULI - 1. FC KOLN🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:45-01:45 WIB - ) GO AHEAD EAGLES VS AZ ALKMAAR🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  23:55-02:00 WIB - LALIGA : LEVANTE VS SEVILLA LVE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  23:55-01:55 WIB - 02:00 WIB - LALIGA : LEVANTE VS SEVILLA LVE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:07-05:07 WIB - 04:51 WIB - RUGBY : TOP 14🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  03:23-05:23 WIB - 05:13 WIB - PREMIER LEAGUE. EVERTON - LIVERPOOL🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:05-06:05 WIB - 04:50 WIB - TAJEMSTVI KRALOVSKYCH PALACU🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  04:30-06:30 WIB - 06:30 WIB - LILLE - NICE. SEPAKBOLA. LIGA PRANCIS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-07:15 WIB - 06:00 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-07:15 WIB - 06:15 WIB - LONGINES FEI JUMPING WORLD CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:15-07:15 WIB - 07:15 WIB -  FC BIHOR - ACS SEPSI OSK SF. GHOERGHE - MECI FOTBAL LIGA 2🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:30-07:30 WIB - 07:30 WIB - ) PALMEIRAS VS EC JACUIPENSE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  05:30-07:30 WIB - 08:30 WIB - FEYENOORD - GRONINGEN. SEPAKBOLA. HOLANDSKA LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 07:15 WIB -  LIGA A 2-A: BIHOR ORADEA-SEPSI SFANTU GHEORGHE PLAY-OFF🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 07:15 WIB - PORSCHE SIXT CARRERA CUP DE 2025 - RACE 1 - SACHSENRING🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 07:15 WIB - MOTOGP CLASSICS🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  06:15-08:15 WIB - 08:15 WIB - 24/04/26 LIPUTAN 6 PAGI MOJI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:10-09:10 WIB - 07:45 WIB - FIFA WORLD CUP: STORIES FROM THE CITIES🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:30-09:30 WIB - 09:30 WIB - ) OPERARIO VS FLUMINENSE RJ🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  07:30-09:30 WIB - 10:30 WIB - LALIGA EA SPORTS : LEVANTE - SEVILLA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:15-10:15 WIB - 09:00 WIB - PREGLED 27. KOLA. BASKET. LIGA ITALIA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - 03:00 WIB - CESENA - SAMPDORIA. SEPAKBOLA. ITALIJANSKA 2. LIGA🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - 09:05 WIB - 44CUP🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - 09:15 WIB -  CUPA ROMANIEI: DINAMO-UNIVERSITATEA CRAIOVA SEMIFINALE🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - 10:30 WIB -  DINAMO - CS U CRAIOVA - MECI FOTBAL CUPA ROMANIEI🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢  08:30-10:30 WIB - 10:30 WIB - ) MINNESOTA TIMBERWOLVES VS DENVER NUGGETS🍜 otomatis masuk jadwal
 - ⚠️ **[BASI]** 📢[FOOTBALL]MING CHUAN UNIVERSITY [VS] NATIONAL CHENG KUNG UNIV|11:00 23/04/2026🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢[FOOTBALL]BETHLEHEM VT FC [VS] ELECTRIC VENG FC|11:00 23/04/2026🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢[VOLLEYBALL]KA AKUREYRI [VS] THROTTUR REYKJAVIK|00:00 24/04/2026🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGZHOU XINGPAI [VS] WUHAN LIANZHEN[12:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGZHOU XINGPAI [VS] WUHAN LIANZHEN[12:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG RED TREASURE FOOTBALL CLUB [VS] LINQUAN ZHIKUANG[12:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANDEGERFORS IF [VS] AIK[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLATHOR AKUREYRI [VS] FRAM REYKJAVIK[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANMALMO FF [VS] IK SIRIUS FK[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANDEGERFORS IF [VS] AIK[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONAALBORG [VS] BOLDKLUBBEN AF 1893[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANKALMAR [VS] IFK GOTEBORG[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SPANISH LA LIGALEVANTE [VS] SEVILLA FC[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANGAIS [VS] MJALLBY AIF[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUETALA'EA EL GAISH [VS] KAHRABA ISMAILIA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANLJUNGSKILE [VS] HELSINGBORG[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEISMAILY SC [VS] MODERN SPORT FC[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC MINSK [VS] BATE BORISOV[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEBASAKSEHIR FUTBOL KULUBU [VS] KASIMPASA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BMONZA [VS] MODENA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGALEVANTE [VS] SEVILLA FC[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANKALMAR [VS] IFK GOTEBORG[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN ALLSVENSKANMALMO FF [VS] IK SIRIUS FK[00:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONLYNGBY [VS] ESBJERG[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEBASAKSEHIR FUTBOL KULUBU [VS] KASIMPASA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANLJUNGSKILE [VS] HELSINGBORG[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUETALA'EA EL GAISH [VS] KAHRABA ISMAILIA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BMONZA [VS] MODENA[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEISMAILY SC [VS] MODERN SPORT FC[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN 3.LIGAALEMANNIA AACHEN [VS] MSV DUISBURG[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAFC BLAU WEISS LINZ [VS] RHEINDORF ALTACH[00:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAFOTBAL CLUB FCSB [VS] PETROLUL PLOIESTI[00:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC MINSK [VS] BATE BORISOV[00:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUEFC RAPPERSWIL-JONA [VS] ETOILE CAROUGE[00:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGACASA PIA AC [VS] SPORTING BRAGA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK SPARTAK SUBOTICA [VS] BACKA TOPOLA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢POLAND LIGA 1KS WIECZYSTA KRAKOW [VS] POLONIA BYTOM[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEGHAZL EL MAHALLAH [VS] PETROJET[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAMLADOST LUCANI [VS] RADNICKI 1923 KRAGUJEVAC[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEZAMALEK SC [VS] PYRAMIDS FC[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢DANISH SUPERLIGASONDERJYSKE [VS] MIDTJYLLAND[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SPANISH LA LIGARAYO VALLECANO [VS] RCD ESPANYOL DE BARCELONA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAFOTBAL CLUB FCSB [VS] PETROLUL PLOIESTI[00:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAFC BLAU WEISS LINZ [VS] RHEINDORF ALTACH[00:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEDAMAC [VS] AL OKHDOOD[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEEMMEN [VS] DE GRAAFSCHAP[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEVVV VENLO [VS] ALMERE CITY FC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2CLERMONT [VS] BASTIA[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGARAYO VALLECANO [VS] RCD ESPANYOL DE BARCELONA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAMLADOST LUCANI [VS] RADNICKI 1923 KRAGUJEVAC[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEGHAZL EL MAHALLAH [VS] PETROJET[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK SPARTAK SUBOTICA [VS] BACKA TOPOLA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGACASA PIA AC [VS] SPORTING BRAGA[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEZAMALEK SC [VS] PYRAMIDS FC[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1KS WIECZYSTA KRAKOW [VS] POLONIA BYTOM[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH SUPERLIGASONDERJYSKE [VS] MIDTJYLLAND[01:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIESC CAMBUUR LEEUWARDEN [VS] VITESSE ARNHEM[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEJONG AJAX YOUTH [VS] FC UTRECHT YOUTH[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FRENCH LIGUE 2ANNECY [VS] PAU FC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEAZ ALKMAAR YOUTH [VS] RODA JC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEMVV MAASTRICHT [VS] FC OSS[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEEMMEN [VS] DE GRAAFSCHAP[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE LAVALLOIS MFC [VS] RODEZ AVEYRON[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2CLERMONT [VS] BASTIA[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEVVV VENLO [VS] ALMERE CITY FC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAKAZINCBARCIKA [VS] MTK BUDAPEST[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FRENCH LIGUE 2AMIENS [VS] MONTPELLIER HERAULT SC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEJONG AJAX YOUTH [VS] FC UTRECHT YOUTH[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FRENCH LIGUE 2RED STAR FC 93 [VS] GUINGAMP[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEDEN BOSCH [VS] ADO DEN HAAG[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEDORDRECHT [VS] WILLEM II[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIERKC WAALWIJK [VS] JONG PSV EINDHOVEN YOUTH[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE LAVALLOIS MFC [VS] RODEZ AVEYRON[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAKAZINCBARCIKA [VS] MTK BUDAPEST[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEAZ ALKMAAR YOUTH [VS] RODA JC[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEDEN BOSCH [VS] ADO DEN HAAG[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EERSTE DIVISIEFC EINDHOVEN [VS] HELMOND SPORT[01:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUESTADE NYONNAIS [VS] VADUZ[01:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUESINT-TRUIDENSE [VS] ANDERLECHT[01:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH SEGUNDA DIVISIONALBACETE BALOMPIE SAD [VS] EIBAR[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1WISLA KRAKOW [VS] PUSZCZA NIEPOLOMICE[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGAFAC WIEN [VS] SKN ST.POLTEN[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAJAGIELLONIA BIALYSTOK [VS] GORNIK ZABRZE[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SPANISH SEGUNDA DIVISIONALBACETE BALOMPIE SAD [VS] EIBAR[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BUNDESLIGARB LEIPZIG [VS] 1. FC UNION BERLIN[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢POLAND LIGA 1WISLA KRAKOW [VS] PUSZCZA NIEPOLOMICE[01:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DFB POKALVFB STUTTGART [VS] SC FREIBURG[01:45 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONST. PATRICKS ATHLETIC [VS] BOHEMIANS[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1STADE BRESTOIS 29 [VS] RC LENS[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUECERCLE BRUGGE [VS] FCV DENDER EH[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPSAINT JOHNSTONE [VS] RAITH ROVERS[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONWATERFORD UNITED [VS] GALWAY UNITED[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONST. PATRICKS ATHLETIC [VS] BOHEMIANS[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ITALIAN SERIE ANAPOLI [VS] CREMONESE[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONSHELBOURNE [VS] DROGHEDA UNITED[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONWATERFORD UNITED [VS] GALWAY UNITED[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1STADE BRESTOIS 29 [VS] RC LENS[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUECERCLE BRUGGE [VS] FCV DENDER EH[01:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEPSV EINDHOVEN [VS] PEC ZWOLLE[02:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONSAN ANTONIO BULO BULO [VS] REAL ORURO[02:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPLEICESTER CITY [VS] MILLWALL[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢IRELAND PREMIER DIVISIONDERRY CITY [VS] SHAMROCK ROVERS[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUESUNDERLAND [VS] NOTTINGHAM FOREST[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPLEICESTER CITY [VS] MILLWALL[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SPANISH LA LIGAREAL BETIS [VS] REAL MADRID[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUESUNDERLAND [VS] NOTTINGHAM FOREST[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ITALIAN SERIE BAVELLINO [VS] BARI[02:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAVALUR REYKJAVIK [VS] HAFNARFJORDUR[02:15 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAVIKINGUR REYKJAVIK [VS] STJARNAN GARDABAER[02:15 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAVALUR REYKJAVIK [VS] HAFNARFJORDUR[02:15 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGAALVERCA [VS] FC AROUCA[02:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SPANISH LA LIGAREAL OVIEDO [VS] VILLARREAL CF[02:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PERUVIAN LIGA 1LOS CHANKAS [VS] CIENCIANO[03:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
@@ -499,33 +800,33 @@
 - ⚠️ **[EVENT]** 📢PARAGUAYAN PRIMERA DIVISIONFC NACIONAL ASUNCION [VS] DEPORTIVO RECOLETA[03:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA ACUCUTA DEPORTIVO [VS] ATLETICO JUNIOR BARRANQUILLA[04:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UNITED STATES WOMEN'S NATIONAL SOCCER LEAGUERACING LOUISVILLE WOMEN [VS] ORLANDO PRIDE WOMEN[04:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4JUNGNANG CHORUS MUSTANG FC [VS] GEOJE CITIZEN[05:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAUNION LA CALERA [VS] COQUIMBO UNIDO[05:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1CLUB ATLETICO LANUS [VS] CENTRAL CORDOBA SDE[05:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4JUNGNANG CHORUS MUSTANG FC [VS] GEOJE CITIZEN[05:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1ESTUDIANTES RIO CUARTO [VS] ROSARIO CENTRAL[05:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1CLUB ATLETICO LANUS [VS] CENTRAL CORDOBA SDE[05:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢URUGUAY PRIMERA DIVISIONMONTEVIDEO CITY TORQUE [VS] BOSTON RIVER[05:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1DEFENSA Y JUSTICIA [VS] BOCA JUNIORS[06:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA ADEPORTIVO PASTO [VS] INDEPENDIENTE SANTA FE[06:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MEXICO ASCENSO MXATLANTE FC [VS] TEPATITLAN FC[06:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢COPA ECUADORINDEPENDIENTE AZOGUES [VS] POTTU VIA HO[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BRAZILIAN SERIE BPONTE PRETA [VS] AMERICA MG[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILLEON WOMEN [VS] SAINT LOUIS ATHLETICA WOMEN[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CANADIAN PREMIER LEAGUESUPRA DU QUEBEC [VS] HFX WANDERERS FC[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢PARAGUAYAN PRIMERA DIVISIONCERRO PORTENO [VS] SPORTIVO AMELIANO[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4NAMYANGJU CITIZEN [VS] JINJU CITIZEN[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA ADEPORTIVO PASTO [VS] INDEPENDIENTE SANTA FE[06:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1DEFENSA Y JUSTICIA [VS] BOCA JUNIORS[06:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MLS NEXT PROTORONTO FC II [VS] NEW YORK CITY TEAM B[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢COPA ECUADORINDEPENDIENTE AZOGUES [VS] POTTU VIA HO[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILLEON WOMEN [VS] SAINT LOUIS ATHLETICA WOMEN[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4NAMYANGJU CITIZEN [VS] JINJU CITIZEN[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CANADIAN PREMIER LEAGUESUPRA DU QUEBEC [VS] HFX WANDERERS FC[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BRAZILIAN SERIE BPONTE PRETA [VS] AMERICA MG[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PARAGUAYAN PRIMERA DIVISIONCERRO PORTENO [VS] SPORTIVO AMELIANO[06:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONREAL TOMAYAPO [VS] THE STRONGEST[07:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAPALESTINO [VS] D. CONCEPCION[07:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢LIGAPRO SERIE A CD UNIVERSIDAD CATOLICA [VS] MACARA[07:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONREAL TOMAYAPO [VS] THE STRONGEST[07:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ECUADORIAN CAMPEONATO SERIE BCD VARGAS TORRES [VS] SAN ANTONIO(ECU)[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UNITED STATES WOMEN'S NATIONAL SOCCER LEAGUEWASHINGTON SPIRIT WOMEN [VS] KANSAS CITY CURRENT WOMEN[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4PYEONGTAEK CITIZEN [VS] GEUMSAN INSAM FC[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BOLIVIAN PRIMERA DIVISIONINDEPENDIENTE PETROLERO [VS] UNIVERSITARIO DE VINTO[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1RACING CLUB DE AVELLANEDA [VS] BARRACAS CENTRAL[07:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 4PYEONGTAEK CITIZEN [VS] GEUMSAN INSAM FC[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED STATES WOMEN'S NATIONAL SOCCER LEAGUEWASHINGTON SPIRIT WOMEN [VS] KANSAS CITY CURRENT WOMEN[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ECUADORIAN CAMPEONATO SERIE BCD VARGAS TORRES [VS] SAN ANTONIO(ECU)[07:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHI LIGA DE PRIMERAAUDAX ITALIANO [VS] DEPORTES LIMACHE[07:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1RACING CLUB DE AVELLANEDA [VS] BARRACAS CENTRAL[07:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ARGENTINE DIVISION 1CA PLATENSE [VS] SAN LORENZO[07:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢MEXICO ASCENSO MXCLUB DEPORTIVO TAPATIO [VS] CANCUN FC[08:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CATEGORIA PRIMERA AMILLONARIOS [VS] DEPORTES TOLIMA[08:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MEXICO ASCENSO MXCLUB DEPORTIVO TAPATIO [VS] CANCUN FC[08:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILCLUB AMERICA WOMEN [VS] PACHUCA WOMEN[08:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MEXICO LIGA MX FEMENILCHIVAS GUADALAJARA WOMEN [VS] TOLUCA WOMEN[08:06 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢COSTA RICA PRIMERA DIVISIONLD ALAJUELENSE [VS] PUNTARENAS FC[09:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
@@ -534,445 +835,445 @@
 - ⚠️ **[BASI]** 📢WOMEN EMPOWERMENT LEAGUEJEF UNITED ICHIHARA CHIBA LADIES [VS] NTV TOKYO VERDY BELEZA[10:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢MEXICO LIGA MX FEMENILMONTERREY WOMEN [VS] TIGRES WOMEN[10:06 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢MEXICO LIGA MX FEMENILATLAS WOMEN [VS] JUAREZ FC WOMEN[10:10 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢AUSTRALIA W-LEAGUECANBERRA UNITED WOMEN [VS] MELBOURNE VICTORY WOMEN[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢J2/J3 100 YEAR VISION LEAGUEJUBILO IWATA [VS] FC GIFU[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢JAPANESE NADESHIKO LEAGUE 1NITTAIDAI SMG YOKOHAMA [VS] SETAGAYA SFIDWOMEN[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢J2/J3 100 YEAR VISION LEAGUEJUBILO IWATA [VS] FC GIFU[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢AUSTRALIA NORTHERN NEW SOUTH WALES PREMIER LEAGUENEWCASTLE OLYMPIC [VS] EDGEWORTH EAGLES FC[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢AUSTRALIA W-LEAGUECANBERRA UNITED WOMEN [VS] MELBOURNE VICTORY WOMEN[11:00 WIB 25/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEHEFEI CITY FOOTBALL CLUB [VS] YANGZHOU SANWAN LEDAO[12:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEKUNSHAN ZHANGPU [VS] SHANGHAI ZETIAN[12:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUKUSHIMA UNITED FC [VS] VENTFORET KOFU[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEAC NAGANO PARCEIRO LADIES [VS] SANFRECCE HIROSHIMA REGINA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 JEONBUK HYUNDAI MOTORS II [VS] DANGJIN CITIZEN[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESAGAN TOSU [VS] REILAC SHIGA FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KOREAN WK LEAGUEMUNGYEONG SANGMU WFC [VS] GYEONGJU KOREA HYDRO & NUCLEAR POWER WFC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEMYNAVI SENDAI LADIES [VS] INAC KOBE LEONESSA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 DAEJEON KORAIL [VS] CHANGWON CITY[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2SUWON SAMSUNG BLUEWINGS [VS] BUSAN I PARK[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETHESPA KUSATSU GUNMA [VS] YOKOHAMA FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEHOKKAIDO CONSADOLE SAPPORO [VS] IWAKI FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUJIEDA MYFC [VS] RB OMIYA ARDIJA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEZWEIGEN KANAZAWA FC [VS] NARA CLUB[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEALBIREX NIIGATA [VS] FC OSAKA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEVEGALTA SENDAI [VS] MONTEDIO YAMAGATA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETOCHIGI CITY [VS] TOCHIGI SC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BSKA KHABAROVSK II [VS] FC SATURN RAMENSKOE[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2PAJU CITIZEN FC [VS] GYEONGNAM FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEIMABARI FC [VS] KATALLER TOYAMA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NORTHERN NEW SOUTH WALES PREMIER LEAGUEADAMSTOWN ROSEBUDS FC [VS] WESTON WORKERS FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESHIMIZU S-PULSE [VS] NAGOYA GRAMPUS[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEGIRAVANZ KITAKYUSHU [VS] RENOFA YAMAGUCHI[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEURAWA RED DIAMONDS [VS] YOKOHAMA F. MARINOS[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETEGEVAJARO MIYAZAKI [VS] KAGOSHIMA UNITED[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEMEIZHOU QIANGMIN [VS] WUHAN LIANZHEN[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEYANTAI HUANGBOHAI NEW AREA [VS] GUANGZHOU XINGPAI[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1GANGWON FOOTBALL CLUB [VS] FOOTBALL CLUB SEOUL[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEGAINARE TOTTORI [VS] ROASSO KUMAMOTO[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEFAGIANO OKAYAMA [VS] AVISPA FUKUOKA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUKUSHIMA UNITED FC [VS] VENTFORET KOFU[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESAGAN TOSU [VS] REILAC SHIGA FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NORTHERN NEW SOUTH WALES PREMIER LEAGUEADAMSTOWN ROSEBUDS FC [VS] WESTON WORKERS FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEURAWA RED DIAMONDS [VS] YOKOHAMA F. MARINOS[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSKA KHABAROVSK II [VS] FC SATURN RAMENSKOE[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETEGEVAJARO MIYAZAKI [VS] KAGOSHIMA UNITED[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEHOKKAIDO CONSADOLE SAPPORO [VS] IWAKI FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETHESPA KUSATSU GUNMA [VS] YOKOHAMA FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEYANTAI HUANGBOHAI NEW AREA [VS] GUANGZHOU XINGPAI[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESHIMIZU S-PULSE [VS] NAGOYA GRAMPUS[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1GANGWON FOOTBALL CLUB [VS] FOOTBALL CLUB SEOUL[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 JEONBUK HYUNDAI MOTORS II [VS] DANGJIN CITIZEN[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEGIRAVANZ KITAKYUSHU [VS] RENOFA YAMAGUCHI[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 GYEONGJU KHNP [VS] ULSAN CITIZENS[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEALBIREX NIIGATA [VS] FC OSAKA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFUJIEDA MYFC [VS] RB OMIYA ARDIJA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEMEIZHOU QIANGMIN [VS] WUHAN LIANZHEN[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEIMABARI FC [VS] KATALLER TOYAMA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEFAGIANO OKAYAMA [VS] AVISPA FUKUOKA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEMYNAVI SENDAI LADIES [VS] INAC KOBE LEONESSA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2PAJU CITIZEN FC [VS] GYEONGNAM FC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 3 DAEJEON KORAIL [VS] CHANGWON CITY[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEZWEIGEN KANAZAWA FC [VS] NARA CLUB[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2SUWON SAMSUNG BLUEWINGS [VS] BUSAN I PARK[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WOMEN EMPOWERMENT LEAGUEAC NAGANO PARCEIRO LADIES [VS] SANFRECCE HIROSHIMA REGINA[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUETOCHIGI CITY [VS] TOCHIGI SC[12:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDPENINSULA POWER [VS] QUEENSLAND LIONS SC[13:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEKAWASAKI FRONTALE [VS] JEF UNITED ICHIHARA CHIBA[13:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEYENISEY KRASNOYARSK WOMEN [VS] CHERTANOVO MOSCOW WOMEN[13:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDPENINSULA POWER [VS] QUEENSLAND LIONS SC[13:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2DALIAN YINGBO B [VS] CHANGCHUN XIDU[14:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPINGTAN TEAM [VS] SANMING TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA W-LEAGUEBRISBANE ROAR WOMEN [VS] ADELAIDE UNITED WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1YANBIAN LONGDING [VS] SHAANXI UNION[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESANFRECCE HIROSHIMA [VS] CEREZO OSAKA[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUELIJIANG TEAM [VS] NUJIANG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1IPSWICH CITY [VS] SUNSHINE COAST WANDERERS FC[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUEHANG YUAN FC WOMEN [VS] TAIPEI BRAO WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESOLYMPIC KINGSWAY SC [VS] WESTERN KNIGHTS[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPUTIAN TEAM [VS] QUANZHOU TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEDIQING TIBETAN [VS] ZHAOTONG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUETIANMEN TEAM [VS] XIAOGAN TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES PREMIER LEAGUESYDNEY OLYMPIC [VS] UNIVERSITY NSW[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESFREMANTLE CITY [VS] SORRENTO F.C.[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUENINGDE TEAM [VS] NANPING TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANXI CHONGDE RONGHAI [VS] SHANGHAI PORT B[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUENEWCASTLE JETS [VS] CENTRAL COAST MARINERS[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUELONGYAN TEAM [VS] ZHANGZHOU TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUESANFRECCE HIROSHIMA [VS] CEREZO OSAKA[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUELINCANG TEAM [VS] BAOSHAN TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUETAICHUNG SAKURA (W) [VS] TAICHUNG BLUE WHALE WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESOLYMPIC KINGSWAY SC [VS] WESTERN KNIGHTS[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANXI CHONGDE RONGHAI [VS] SHANGHAI PORT B[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUELONGYAN TEAM [VS] ZHANGZHOU TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUENINGDE TEAM [VS] NANPING TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUETIANMEN TEAM [VS] XIAOGAN TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA W-LEAGUEBRISBANE ROAR WOMEN [VS] ADELAIDE UNITED WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESFREMANTLE CITY [VS] SORRENTO F.C.[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUEHANG YUAN FC WOMEN [VS] TAIPEI BRAO WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUENEWCASTLE JETS [VS] CENTRAL COAST MARINERS[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEDIQING TIBETAN [VS] ZHAOTONG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPINGTAN TEAM [VS] SANMING TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE HONG KONG PREMIER LEAGUENORTH DISTRICT [VS] KITCHEE[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1YANBIAN LONGDING [VS] SHAANXI UNION[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUETAICHUNG SAKURA (W) [VS] TAICHUNG BLUE WHALE WOMEN[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUELIJIANG TEAM [VS] NUJIANG TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FUJIAN FOOTBALL CITY LEAGUEPUTIAN TEAM [VS] QUANZHOU TEAM[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESARMADALE SC [VS] STIRLING MACEDONIA[14:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢IND DSDHINDUSTAN AERONAUTICS LIMITED [VS] DELHI FC XI[14:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANGHAI SECOND [VS] DALIAN KEWEI[14:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1INCHEON UNITED CLUB [VS] JEJU SK FC[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2CHEONAN CITY [VS] SEONGNAM FC[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2ANSAN GREENERS FC [VS] JEONNAM DRAGONS[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2TAI'AN TIANKUANG [VS] LANZHOU LONGYUAN ATHLETICS[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEJINAN TEAM [VS] JINING[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1BUCHEON FC 1995 [VS] GIMCHEON SANGMU FOOTBALL CLUB[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 1INCHEON UNITED CLUB [VS] JEJU SK FC[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2TAI'AN TIANKUANG [VS] LANZHOU LONGYUAN ATHLETICS[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN K LEAGUE 2CHEONAN CITY [VS] SEONGNAM FC[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2JIANGXI LUSHAN [VS] HUBEI ISTAR[14:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEYANTAI HUANGBOHAI NEW AREA [VS] MEIZHOU QIANGMIN[15:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEWUHAN GOLDEN BANKS OF TWO RIVERS [VS] GUANGDONG WUCHUAN YOUTH[15:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEJIANGSU CHANGJIN [VS] JI'NAN LINKSAFE[15:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEANHUI WANMEI [VS] NANJING LONGSHENG[15:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG RED TREASURE FOOTBALL CLUB [VS] WUHAN GOLDEN BANKS OF TWO RIVERS[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEJIANGSU CHANGJIN [VS] JI'NAN LINKSAFE[15:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEHILLS UNITED (W) [VS] NWS SPIRIT WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEWS WANDERERS B (W) [VS] MANLY UTD WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEENSHI TEAM [VS] HUANGSHI TEAM[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEZVEZDA 2005 WOMEN [VS] RUBIN KAZAN WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEAPIA L TIGERS WOMEN [VS] UNSW FC WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1SHENZHEN JUNIORS [VS] FOSHAN NANSHI[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2TARINGA ROVERS [VS] MORETON BAY UNITED RESERVES[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2GRANGE THISTLE SC [VS] BRISBANE KNIGHTS[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEGLADESVILLE RAVENS WOMEN [VS] BULLS ACADEMY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2MITCHELTON FC [VS] VIRGINIA UNITED[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG WUCHUAN YOUTH [VS] LINQUAN ZHIKUANG[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESC SAGAMIHARA [VS] SHONAN BELLMARE[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2SOUTHS UNITED [VS] SAMFORD RANGES[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NATIONAL PREMIER LEAGUES VICTORIACAROLINE SPRINGS GEORGE CROSS [VS] ALTONA MAGIC[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHENZHEN 2028 [VS] GUANGDONG MINGTU[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1CABOOLTURE FC [VS] REDLANDS UNITED FC[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUEDON BOSCO GARELLI UNITED [VS] PHILIPPINE ARMY FC[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUENORTHERN TIGERS FC WOMEN [VS] UNIVERSITY OF SYDNEY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEGLADESVILLE RAVENS WOMEN [VS] BULLS ACADEMY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢QLD D2GRANGE THISTLE SC [VS] BRISBANE KNIGHTS[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢QLD D2TARINGA ROVERS [VS] MORETON BAY UNITED RESERVES[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUESC SAGAMIHARA [VS] SHONAN BELLMARE[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢QLD D2MITCHELTON FC [VS] VIRGINIA UNITED[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢QLD D2SOUTHSIDE EAGLES [VS] CALOUNDRA[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKUDRIVKA NYVA U21 [VS] FC SHAKHTAR DONETSK U21[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NATIONAL PREMIER LEAGUES VICTORIACAROLINE SPRINGS GEORGE CROSS [VS] ALTONA MAGIC[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG WUCHUAN YOUTH [VS] LINQUAN ZHIKUANG[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUEWUHAN JIANGHAN WOMEN [VS] CHANGCHUN DAZHONGZHUOYUE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEILLAWARRA STINGRAYS WOMEN [VS] MT DRUITT TOWN RANGERS FC (W)[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEWS WANDERERS B (W) [VS] MANLY UTD WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢QLD D2SOUTHS UNITED [VS] SAMFORD RANGES[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2XIAMEN 1026 [VS] WUHAN THREE TOWNS B[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEHILLS UNITED (W) [VS] NWS SPIRIT WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHENZHEN 2028 [VS] GUANGDONG MINGTU[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUESYDNEY OLYMPIC FC WOMEN [VS] MACA SEARLE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1SHENZHEN JUNIORS [VS] FOSHAN NANSHI[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDMORETON CITY EXCELSIOR FC [VS] BRISBANE ROAR YOUTH[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUESYDNEY OLYMPIC FC WOMEN [VS] MACA SEARLE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢QLD D2SOUTHSIDE EAGLES [VS] CALOUNDRA[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL ASSOCIATION MEMBER ASSOCIATION CHAMPIONS LEAGUEGUANGDONG RED TREASURE FOOTBALL CLUB [VS] WUHAN GOLDEN BANKS OF TWO RIVERS[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUENORTHERN TIGERS FC WOMEN [VS] UNIVERSITY OF SYDNEY WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEZVEZDA 2005 WOMEN [VS] RUBIN KAZAN WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEAPIA L TIGERS WOMEN [VS] UNSW FC WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES WOMEN'S LEAGUEILLAWARRA STINGRAYS WOMEN [VS] MT DRUITT TOWN RANGERS FC (W)[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2XIAMEN 1026 [VS] WUHAN THREE TOWNS B[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUEWUHAN JIANGHAN WOMEN [VS] CHANGCHUN DAZHONGZHUOYUE WOMEN[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKUDRIVKA NYVA U21 [VS] FC SHAKHTAR DONETSK U21[15:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PSM MAKASSAR [VS] PERSIK KEDIRI[15:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PERSITA TANGERANG [VS] BALI UNITED[15:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PERSIJAP JEPARA [VS] PSBS BIAK NUMFOR[15:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 2PERSELA LAMONGAN [VS] BARITO PUTERA[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDGOLD COAST KNIGHTS [VS] GOLD COAST UNITED[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MADURA UNITED [VS] DEWA UNITED FC[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEWENSHAN TEAM [VS] YUXI TEAM[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDONESIAN LIGA 2SRIWIJAYA FC [VS] GARUDAYAKSA FC[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 2PERSELA LAMONGAN [VS] BARITO PUTERA[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEWENSHAN TEAM [VS] YUXI TEAM[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MADURA UNITED [VS] DEWA UNITED FC[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDGOLD COAST KNIGHTS [VS] GOLD COAST UNITED[15:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1ASTANA B [VS] AKADEMIYA ONTUSTIK[16:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1ASTANA B [VS] AKADEMIYA ONTUSTIK[16:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESBALCATTA FC [VS] PERTH REDSTAR[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEPDRM FC [VS] IMIGRESEN FC[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1LOGAN LIGHTNING [VS] BROADBEACH UNITED[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UKRAINIAN FIRST LEAGUEPRYKARPATTYA IVANO FRANKIVSK [VS] UCSA[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUELIAONING SHENBEI HEFENG WOMEN [VS] GUANGDONG WOMEN[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESDIANELLA WHITE EAGLES [VS] PERTH GLORY YOUTH[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1NAPOLI U19 [VS] INTER MILAN U20[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA NEW SOUTH WALES PREMIER LEAGUEMARCONI STALLIONS [VS] MANLY UNITED[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUELIAONING SHENBEI HEFENG WOMEN [VS] GUANGDONG WOMEN[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDEASTERN SUBURBS BRISBANE [VS] ROCHEDALE ROVERS[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1CESENA U20 [VS] SASSUOLO U20[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESDIANELLA WHITE EAGLES [VS] PERTH GLORY YOUTH[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUEDYNAMIC HERB CEBU [VS] MANILA DIGGER FC[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WESTERN AUSTRALIA NATIONAL PREMIER LEAGUESBALCATTA FC [VS] PERTH REDSTAR[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA NATIONAL PREMIER LEAGUES QUEENSLANDEASTERN SUBURBS BRISBANE [VS] ROCHEDALE ROVERS[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRALIA QUEENSLAND STATE LEAGUE 1LOGAN LIGHTNING [VS] BROADBEACH UNITED[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN FIRST LEAGUEPRYKARPATTYA IVANO FRANKIVSK [VS] UCSA[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1CESENA U20 [VS] SASSUOLO U20[16:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BANGLADESH CHAMPIONS LEAGUELITTLE FRIENDS CLUB [VS] SHUKTARA JUBO SANGSAD[16:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BANGLADESH PREMIER LEAGUEBASHUNDHARA KINGS [VS] BROTHERS UNION[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BANGLADESH PREMIER LEAGUEFAKIRERPOOL YOUNG MENS CLUB [VS] BANGLADESH POLICE CLUB[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BANGLADESH PREMIER LEAGUEPWD SPORTS CLUB [VS] MOHAMMEDAN DHAKA[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEV-VAREN NAGASAKI [VS] GAMBA OSAKA[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BANGLADESH PREMIER LEAGUEBASHUNDHARA KINGS [VS] BROTHERS UNION[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BANGLADESH PREMIER LEAGUEPWD SPORTS CLUB [VS] MOHAMMEDAN DHAKA[16:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUEMACARTHUR FC [VS] WELLINGTON PHOENIX[16:35 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUEWESTERN SYDNEY [VS] MELBOURNE VICTORY[16:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1EKIBASTUZETS [VS] FK KASPIY AKTAU B[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1EKIBASTUZETS [VS] FK KASPIY AKTAU B[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN WK LEAGUEHWACHEON KSPO WFC [VS] INCHEON HYUNDAI STEEL RED ANGELS WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1FK ARYS [VS] FC SHAKHTYOR KARAGANDY[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN DIVISION 1KAIRAT ALMATY II [VS] FK AKTOBE II[17:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN WK LEAGUESEOUL AMAZONES WOMEN [VS] CHANGNYEONG WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUEHOANG ANH GIA LAI [VS] XM HAI PHONG FC[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEFC TOKYO [VS] MITO HOLLYHOCK[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KOREAN WK LEAGUESEOUL AMAZONES WOMEN [VS] CHANGNYEONG WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JAPANESE J1 LEAGUEKASHIWA REYSOL [VS] KASHIMA ANTLERS[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUESUNNY BANK ATHLETIC CLUB TAIPEI (W) [VS] VALKYRIE (W)[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPPOLISSYA ZHYTOMYR U21 [VS] OBOLON KIEV U21[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEOKZHETPES [VS] KAISAR KYZYLORDA[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KOREAN WK LEAGUEHWACHEON KSPO WFC [VS] INCHEON HYUNDAI STEEL RED ANGELS WOMEN[17:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢VIETNAM NATIONAL FIRST CLASS LEAGUEQUANG NINH [VS] HO CHI MINH CITY[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3ADINAMO VLADIVOSTOK [VS] TYUMEN[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUEKAOHSIUNG ATTACKERSWOMEN [VS] HUALIEN WOMEN[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE HONG KONG PREMIER LEAGUEEASTERN DISTRICT [VS] HONG KONG FC[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE TAIWAN MULAN FOOTBALL LEAGUESUNNY BANK ATHLETIC CLUB TAIPEI (W) [VS] VALKYRIE (W)[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUS D3AALANIA VLADIKAVKAZ [VS] KUBAN KRASNODAR[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢J2/J3 100 YEAR VISION LEAGUEFC RYUKYU OKINAWA [VS] OITA TRINITA[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE HONG KONG PREMIER LEAGUEEASTERN DISTRICT [VS] HONG KONG FC[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPPOLISSYA ZHYTOMYR U21 [VS] OBOLON KIEV U21[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEOKZHETPES [VS] KAISAR KYZYLORDA[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3ADINAMO VLADIVOSTOK [VS] TYUMEN[17:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUELUDOGORETS RAZGRAD [VS] CSKA 1948 SOFIA[17:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢IND DSDFRIENDS UNITED [VS] GARHWAL FC[17:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BCATANZARO [VS] SPEZIA[17:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UKRAINIAN FIRST LEAGUEPROBIY HORODENKA [VS] METALURH ZAPORIZHYA[17:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢TURKISH FIRST LEAGUEBELEDIYE VANSPOR [VS] ISTANBULSPOR[17:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BCATANZARO [VS] SPEZIA[17:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢TURKISH FIRST LEAGUESERIK BELEDIYESPOR [VS] ATAKAS HATAYSPOR[17:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA DARWIN PREMIER LEAGUEMINDIL ACES [VS] UNIVERSITY AZZURRI FC[18:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA DARWIN PREMIER LEAGUEMINDIL ACES [VS] UNIVERSITY AZZURRI FC[18:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANDONG TAISHAN B [VS] QINGDAO RED LIONS[18:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUENINH BINH FC [VS] HANOI FC[18:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUECLB THANH HOA [VS] PVF CAND[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2BANGKOK [VS] TRAT FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2SISAKET UNITED [VS] SONGKHLA FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BZENIT PENZA [VS] FC AVANGARD KURSK[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUESTALLION LAGUNA FC [VS] ONE TAGUIG[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUEBECAMEX HO CHI MINH CITY [VS] THEP XANH NAM DINH FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BFK ROSTOV-2 [VS] RUBIN YALTA[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUECHENGDU RONGCHENG FC [VS] ZHEJIANG PROFESSIONAL FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2CHANTHABURI FC [VS] BEC TERO SASANA[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BDINAMO SAINT PETERSBURG [VS] SPARTAK 2 MOSCOW[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2SHANDONG TAISHAN B [VS] QINGDAO RED LIONS[18:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THAI LEAGUE 2CHAINAT HORNBILL FC [VS] PATTAYA DISCOVERY UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEBINZHOU [VS] LIAOCHENG TEAM[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2HERTHA BERLIN [VS] HOLSTEIN KIEL[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2NONGBUA PITCHAYA FC [VS] RASISALAI UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BMETALLURG LIPETSK [VS] VOLNA KOVERNINO[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2KASETSART FC [VS] CHIANGMAI UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2MAHASARAKHAM SBT FC [VS] KHONKAEN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THAI LEAGUE 1CHIANGRAI UNITED [VS] BANGKOK UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2NONGBUA PITCHAYA FC [VS] RASISALAI UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2KASETSART FC [VS] CHIANGMAI UNITED FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ENGLISH FA WOMEN'S SUPER LEAGUEBRIGHTON H.A. WOMEN [VS] MANCHESTER CITY WOMEN[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2NAKHON SI UNITED FC [VS] PATTANI[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2CHANTHABURI FC [VS] BEC TERO SASANA[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUECHENGDU RONGCHENG FC [VS] ZHEJIANG PROFESSIONAL FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK ROSTOV-2 [VS] RUBIN YALTA[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BMETALLURG LIPETSK [VS] VOLNA KOVERNINO[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢VIETNAM NATIONAL FIRST CLASS LEAGUEQUY NHON UNITED [VS] TRUONG TUOI DONG NAI[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUERYAZAN-VDV WOMEN [VS] FK ROSTOV WOMEN[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2BANGKOK [VS] TRAT FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONHVIDOVRE IF [VS] AC HORSENS[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2KARLSRUHER SC [VS] HANNOVER 96[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 2PHRAE UNITED FC [VS] NAKHON PATHOM FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3ADYNAMO KIROV [VS] STAVROPOLYE-2009[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2PREUBEN MUNSTER [VS] ARMINIA BIELEFELD[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1SUZHOU DONGWU [VS] DINGNAN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PHILIPPINES UNITED FOOTBALL LEAGUESTALLION LAGUNA FC [VS] ONE TAGUIG[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEBINZHOU [VS] LIAOCHENG TEAM[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEALTAY FK [VS] ZHENIS ASTANA[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2KARLSRUHER SC [VS] HANNOVER 96[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANOSTERS IF [VS] OSTERSUNDS FK[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1SUZHOU DONGWU [VS] DINGNAN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BDINAMO SAINT PETERSBURG [VS] SPARTAK 2 MOSCOW[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2NAKHON SI UNITED FC [VS] PATTANI[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2SISAKET UNITED [VS] SONGKHLA FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2HERTHA BERLIN [VS] HOLSTEIN KIEL[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUEBECAMEX HO CHI MINH CITY [VS] THEP XANH NAM DINH FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUERYAZAN-VDV WOMEN [VS] FK ROSTOV WOMEN[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3ADYNAMO KIROV [VS] STAVROPOLYE-2009[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BZENIT PENZA [VS] FC AVANGARD KURSK[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2MAHASARAKHAM SBT FC [VS] KHONKAEN UNITED[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢VIETNAM NATIONAL CHAMPION LEAGUECLB THANH HOA [VS] PVF CAND[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 2PHRAE UNITED FC [VS] NAKHON PATHOM FC[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2PREUBEN MUNSTER [VS] ARMINIA BIELEFELD[18:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢WUYUE CUPNINGBO TEAM [VS] LISHUI TEAM[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢WUYUE CUPHANGZHOU TEAM [VS] SHAOXING TEAM[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFK VAN CHARENTSAVAN [VS] BKMA[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFK VAN CHARENTSAVAN [VS] BKMA[18:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢WUYUE CUPNINGBO TEAM [VS] LISHUI TEAM[18:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUENORTHEAST UNITED [VS] FC GOA[18:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SINGAPORE PREMIER LEAGUETAMPINES ROVERS FC [VS] YOUNG LIONS[18:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUENORTHEAST UNITED [VS] FC GOA[18:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2HANGZHOU LINPING WUYUE [VS] GUANGZHOU DANDELION ALPHA FC[18:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ESTONIAN PREMIUM LIIGAHARJU JK LAAGRI [VS] TARTU JK MAAG TAMMEKA[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPWEST BROMWICH ALBION [VS] IPSWICH TOWN[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1GUANGXI HENGCHEN FOOTBALL CLUB [VS] NANJING CITY[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEALASHKERT [VS] FC NOAH[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CFA WOMEN'S SUPER LEAGUEGUANGXI PINGGUO BEINONG WOMEN [VS] SICHUAN WOMEN[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPMIDDLESBROUGH [VS] WATFORD[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUERIZHAO [VS] DEZHOU TEAM[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEWEIHAI TEAM [VS] WEIFANG[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1MEIZHOU HAKKA FC [VS] SHANGHAI JIADING HUILONG[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEFULHAM [VS] ASTON VILLA[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEYANTAI BANK [VS] DONGYING TEAM[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SINGAPORE PREMIER LEAGUEALBIREX NIIGATA FC [VS] TANJONG PAGAR UTD[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 1BG PATHUM UNITED [VS] NAKHON RATCHASIMA MAZDA FC[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPCHARLTON ATHLETIC [VS] HULL CITY[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2HAIMEN CODION [VS] BEIJING IT[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEEYUPSPOR [VS] GAZISEHIR GAZIANTEP[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEFK ROSTOV [VS] GAZOVIK ORENBURG[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1MEIZHOU HAKKA FC [VS] SHANGHAI JIADING HUILONG[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SINGAPORE PREMIER LEAGUEALBIREX NIIGATA FC [VS] TANJONG PAGAR UTD[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEFULHAM [VS] ASTON VILLA[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEALASHKERT [VS] FC NOAH[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPCHARLTON ATHLETIC [VS] HULL CITY[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPMIDDLESBROUGH [VS] WATFORD[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2GUIZHOU ZHUCHENG ATHLETIC FC [VS] WENZHOU PROFESSIONAL FOOTBALL CLUB[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUEYANTAI BANK [VS] DONGYING TEAM[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 1BG PATHUM UNITED [VS] NAKHON RATCHASIMA MAZDA FC[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPWEST BROMWICH ALBION [VS] IPSWICH TOWN[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEBENGALURU [VS] MUMBAI CITY FC[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2HAIMEN CODION [VS] BEIJING IT[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SHANDONG QILU FOOTBALL SUPER LEAGUERIZHAO [VS] DEZHOU TEAM[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 1GUANGXI HENGCHEN FOOTBALL CLUB [VS] NANJING CITY[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢WUYUE CUPHUZHOU TEAM [VS] JIAXING TEAM[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2GUIZHOU ZHUCHENG ATHLETIC FC [VS] WENZHOU PROFESSIONAL FOOTBALL CLUB[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ESTONIAN PREMIUM LIIGAHARJU JK LAAGRI [VS] TARTU JK MAAG TAMMEKA[18:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL LEAGUE 2CHENGDU RONGCHENG B [VS] GANZHOU RUISHI[18:35 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEXISHUANGBANNA TEAM [VS] HONGHE TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEZIGONG TEAM [VS] NANCHONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEYIBIN TEAM [VS] MIANYANG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUECHENGDU TEAM [VS] LESHAN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEXIANGYANG TEAM [VS] SUIZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUESHIYAN TEAM [VS] JINGZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEDEYANG TEAM [VS] DAZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEQIANJIANG TEAM [VS] EZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEQUJING TEAM [VS] DEHONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEZIGONG TEAM [VS] NANCHONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEYICHANG TEAM [VS] WUHAN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEKUNMING TEAM [VS] CHUXIONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEHUANGGANG TEAM [VS] JINGMEN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEXIANNING TEAM [VS] SHENNONGJIA TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEPU'ER TEAM [VS] DALI TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEHUANGGANG TEAM [VS] JINGMEN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUESHIYAN TEAM [VS] JINGZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEQIANJIANG TEAM [VS] EZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUECHENGDU TEAM [VS] LESHAN TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SICHUAN CITY FOOTBALL LEAGUEYIBIN TEAM [VS] MIANYANG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUEBEIJING GUOAN FC [VS] TIANJIN JINMEN TIGER FC[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEXISHUANGBANNA TEAM [VS] HONGHE TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUBEI CITY FOOTBALL LEAGUEXIANGYANG TEAM [VS] SUIZHOU TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEPU'ER TEAM [VS] DALI TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢YUNNAN CITY FOOTBALL LEAGUEKUNMING TEAM [VS] CHUXIONG TEAM[18:35 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUEYANCHENG TEAM [VS] SUQIAN TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GUANGDONG CITY FOOTBALL LEAGUEGUANGZHOU TEAM [VS] JIANGMEN TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUELIANYUNGANG TEAM [VS] WUXI TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUENANTONG TEAM [VS] XUZHOU TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JIANGSU CITY FOOTBALL LEAGUELIANYUNGANG TEAM [VS] WUXI TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GUANGDONG CITY FOOTBALL LEAGUEGUANGZHOU TEAM [VS] JIANGMEN TEAM[18:40 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢WELSH PREMIER LEAGUECOLWYN BAY [VS] PEN-Y-BONT FC[18:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRALIA A-LEAGUEPERTH GLORY [VS] BRISBANE ROAR[18:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MALUT UNITED [VS] PERSEBAYA SURABAYA[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONDIFAI AGSU FK [VS] SABAIL FC[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONDIFAI AGSU FK [VS] SABAIL FC[19:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1MALUT UNITED [VS] PERSEBAYA SURABAYA[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONSIMAL FK [VS] BAKU SPORTING FK[19:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AZERBAIJAN FIRST DIVISIONSIMAL FK [VS] BAKU SPORTING FK[19:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1PERSIB BANDUNG [VS] AREMA FC[19:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THAI LEAGUE 1SUKHOTHAI [VS] RATCHABURI FC[19:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEKYZYLZHAR PETROPAVLOVSK [VS] ORDABASY[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1BORNEO FC [VS] SEMEN PADANG[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEMIL-MUGAN FK [VS] STANDARD SUMGAYIT[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAVFL OSNABRUCK [VS] SC VERL[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2GRENOBLE [VS] LE MANS[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUESHANGHAI PORT FC [VS] WUHAN THREE TOWNS FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAERZGEBIRGE AUE [VS] SV WEHEN WIESBADEN[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THAI LEAGUE 1UTHAI THANI FOREST [VS] PORT FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BSALYUT-ENERGIA BELGOROD [VS] KVANT OBNINSK[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN 3.LIGAHANSA ROSTOCK [VS] SSV JAHN REGENSBURG[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE DE REIMS [VS] NANCY[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SPANISH LA LIGADEPORTIVO ALAVES [VS] RCD MALLORCA[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGALAHTI [VS] AC OULU[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKRYVBAS U21 [VS] DINAMO KYIV U21[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONHILLEROD FODBOLD [VS] KOLDING FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSALYUT-ENERGIA BELGOROD [VS] KVANT OBNINSK[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAFC BOTOSANI [VS] FC OTELUL GALATI[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEKYZYLZHAR PETROPAVLOVSK [VS] ORDABASY[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2STADE DE REIMS [VS] NANCY[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPKRYVBAS U21 [VS] DINAMO KYIV U21[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN 3.LIGATSG HOFFENHEIM YOUTH [VS] FC INGOLSTADT[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THAI LEAGUE 1UTHAI THANI FOREST [VS] PORT FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAERZGEBIRGE AUE [VS] SV WEHEN WIESBADEN[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDONESIAN LIGA 1BORNEO FC [VS] SEMEN PADANG[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 2GRENOBLE [VS] LE MANS[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢DANISH 1ST DIVISIONHILLEROD FODBOLD [VS] KOLDING FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEMIL-MUGAN FK [VS] STANDARD SUMGAYIT[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGADEPORTIVO ALAVES [VS] RCD MALLORCA[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN 3.LIGAVFL OSNABRUCK [VS] SC VERL[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN 3.LIGATSV 1860 MUNCHEN [VS] SSV ULM 1846[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHINESE FOOTBALL SUPER LEAGUESHANGHAI PORT FC [VS] WUHAN THREE TOWNS FC[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGALAHTI [VS] AC OULU[19:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEMELAKA FC [VS] SABAH FC[19:15 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEMELAKA FC [VS] SABAH FC[19:15 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEDPMM FC [VS] KUCHING CITY FC[19:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEZORYA [VS] FC SHAKHTAR DONETSK[19:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEZORYA [VS] FC SHAKHTAR DONETSK[19:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUEKOLOS KOVALIVKA [VS] SC POLTAVA[19:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢POLAND LIGA 1LKS LODZ [VS] STAL RZESZOW[19:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAKISVARDA MASTER GOOD FC [VS] DIOSGYOR VTK[19:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1LKS LODZ [VS] STAL RZESZOW[19:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASV AUSTRIA SALZBURG [VS] KAPFENBERG SV 1919[19:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAKORONA KIELCE [VS] GKS KATOWICE[19:45 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ICELAND BESTA-DEILD KARLAIBV VESTMANNAEYJAR [VS] KR REYKJAVIK[20:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEKELANTAN THE REAL WARRIORS [VS] SELANGOR FC[20:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDIAN LEAGUE DIVISION 1RAJASTHAN UNITED FC [VS] SREENIDI DECCAN[20:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJIPPO [VS] SJK SEINAJOKI[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BPESCARA [VS] JUVE STABIA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BFK POBEDA JUNIOR [VS] DRUZHBA MAIKOP[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BSUDTIROL [VS] MANTOVA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BFROSINONE [VS] CARRARESE[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BFK ORYOL [VS] ROTOR VOLGOGRAD B[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUECSKA SOFIA [VS] LEVSKI SOFIA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BLUHANSK [VS] KYZYLTASH BAKHCHYSARAI[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BSTROGINO MOSCOW [VS] FK SHUMBRAT SARANSK[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1PARMA U20 [VS] US CREMONESE U20[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BSHAHTER TAGANROG [VS] FC SEVASTOPOL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1LYON [VS] AJ AUXERRE[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJAPS [VS] EKENAS IF FOTBOLL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BRODINA MOSKVA III [VS] FK RYAZAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢INDIAN LEAGUE DIVISION 1CHANMARI FC [VS] DIAMOND HARBOUR FC[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANFALKENBERG [VS] GIF SUNDSVALL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BFK ASTRAKHAN [VS] NART CHERKESSK[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BACD VIRTUS ENTELLA [VS] PADOVA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUSSIAN FIRST LEAGUELEAGUESPARTAK KOSTROMA [VS] ARSENAL TULA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE APARMA [VS] PISA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1TORINO U19 [VS] ATALANTA U19[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE BA.C. REGGIANA 1919 [VS] PALERMO[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUETERENGGANU FC [VS] NEGERI SEMBILAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BFK CHAYKA 2 [VS] PSK DINSKOY RAYON[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUS D3BIZBERBASH [VS] FK ANGUSHT NAZRAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUEKELANTAN THE REAL WARRIORS [VS] SELANGOR FC[20:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEFC KRASNODAR WOMEN [VS] ZENIT ST PETERSBURG WOMEN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢TURKISH FIRST LEAGUEADANA DEMIRSPOR [VS] UMRANIYESPOR[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BSUDTIROL [VS] MANTOVA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJAPS [VS] EKENAS IF FOTBOLL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FRENCH LIGUE 1LYON [VS] AJ AUXERRE[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUECSKA SOFIA [VS] LEVSKI SOFIA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BFROSINONE [VS] CARRARESE[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1PARMA U20 [VS] US CREMONESE U20[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK CHAYKA 2 [VS] PSK DINSKOY RAYON[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BPESCARA [VS] JUVE STABIA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BLUHANSK [VS] KYZYLTASH BAKHCHYSARAI[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN FIRST LEAGUELEAGUESPARTAK KOSTROMA [VS] ARSENAL TULA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢MALAYSIAN SUPER LEAGUETERENGGANU FC [VS] NEGERI SEMBILAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE APARMA [VS] PISA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BIZBERBASH [VS] FK ANGUSHT NAZRAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAJIPPO [VS] SJK SEINAJOKI[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUS D3AAMKAR PERM [VS] DYNAMO MOSCOW B[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUENAFTAN NOVOPOLOCK [VS] FK VITEBSK[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH FIRST LEAGUEADANA DEMIRSPOR [VS] UMRANIYESPOR[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BA.C. REGGIANA 1919 [VS] PALERMO[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK ORYOL [VS] ROTOR VOLGOGRAD B[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK POBEDA JUNIOR [VS] DRUZHBA MAIKOP[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSHAHTER TAGANROG [VS] FC SEVASTOPOL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BRODINA MOSKVA III [VS] FK RYAZAN[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢INDIAN LEAGUE DIVISION 1CHANMARI FC [VS] DIAMOND HARBOUR FC[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BSTROGINO MOSCOW [VS] FK SHUMBRAT SARANSK[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE BACD VIRTUS ENTELLA [VS] PADOVA[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUS D3BFK ASTRAKHAN [VS] NART CHERKESSK[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUS D3ADINAMO BRIANSK [VS] ZENIT 2 ST. PETERSBURG[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BUNDESLIGA1. FSV MAINZ 05 [VS] FC BAYERN MUNICH[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANFALKENBERG [VS] GIF SUNDSVALL[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN CAMPIONATO PRIMAVERA 1TORINO U19 [VS] ATALANTA U19[20:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BUNDESLIGA1. FC HEIDENHEIM 1846 [VS] FC ST. PAULI[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BUNDESLIGAFC AUGSBURG [VS] EINTRACHT FRANKFURT[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BUNDESLIGAFC KOLN [VS] BAYER 04 LEVERKUSEN[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢BUNDESLIGAVFL WOLFSBURG [VS] BORUSSIA MONCHENGLADBACH[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGA1. FSV MAINZ 05 [VS] FC BAYERN MUNICH[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BUNDESLIGAFC KOLN [VS] BAYER 04 LEVERKUSEN[20:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGARADNICKI NIS [VS] HABITPHARM JAVOR[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGARADNICKI NIS [VS] HABITPHARM JAVOR[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-SHARJAH [VS] AL-WAHDA FC[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-SHARJAH [VS] AL-WAHDA FC[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEITTIHAD KALBA FC [VS] BANIYAS CLUB[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEKERALA BLASTERS FC [VS] ODISHA FC[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEKERALA BLASTERS FC [VS] ODISHA FC[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEPHARCO [VS] EL GOUNAH[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-DHAFRA [VS] AJMAN[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEBANK EL AHLY [VS] ZED FC[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢IRAQ STARS LEAGUEDUHOK SC [VS] AL GHARRAF[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENASAF QARSHI [VS] LOKOMOTIV TASHKENT[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEFC PYUNIK [VS] URARTU[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UZBEKISTAN SUPER LEAGUENAVBAHOR NAMANGAN [VS] SOGDIANA JIZAK[21:00 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-WASL SC [VS] DABBA AL-FUJAIRAH[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SCOTTISH PREMIERSHIPABERDEEN [VS] KILMARNOCK[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CROATIAN FOOTBALL LEAGUESLAVEN BELUPO [VS] HNK VUKOVAR 1991[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEKRYLYA SOVETOV [VS] LOKOMOTIV MOSCOW[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEFK AKTOBE LENTO [VS] IRTYSH PAVLODAR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWOLVERHAMPTON WANDERERS [VS] TOTTENHAM HOTSPUR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPROSS COUNTY [VS] GREENOCK MORTON[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NORWEGIAN ELITESERIENFREDRIKSTAD [VS] VIKING[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPBIRMINGHAM CITY [VS] BRISTOL CITY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUEOUD-HEVERLEE LEUVEN [VS] RC SPORTING CHARLEROI[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSTOKE CITY [VS] PORTSMOUTH[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPARBROATH [VS] PARTICK THISTLE FC[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPQUEENS PARK RANGERS [VS] DERBY COUNTY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEBANK EL AHLY [VS] ZED FC[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-DHAFRA [VS] AJMAN[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEPHARCO [VS] EL GOUNAH[21:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUELIVERPOOL [VS] CRYSTAL PALACE[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPOXFORD UNITED [VS] SHEFFIELD WEDNESDAY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NORWEGIAN 1.DIVISJONSOGNDAL [VS] ASANE FOTBALL[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ARMENIAN PREMIER LEAGUEARARAT-ARMENIA FC [VS] ARARAT YEREVAN[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPLNZ CHERKASY U21 [VS] METALIST 1925 KHARKIV(U21)[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEKAYSERISPOR [VS] CAYKUR RIZESPOR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ESTONIAN PREMIUM LIIGAFC NOMME UNITED [VS] FC KURESSAARE[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPQUEEN'S PARK [VS] DUNFERMLINE ATHLETIC[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSHEFFIELD UNITED [VS] PRESTON NORTH END[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWEST HAM UNITED [VS] EVERTON[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPAIRDRIE UNITED [VS] AYR UNITED[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢TURKISH SUPER LEAGUEKAYSERISPOR [VS] CAYKUR RIZESPOR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPQUEENS PARK RANGERS [VS] DERBY COUNTY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWOLVERHAMPTON WANDERERS [VS] TOTTENHAM HOTSPUR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢INDIAN SUPER LEAGUEJAMSHEDPUR FC [VS] CHENNAIYIN FC[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN ELITESERIENFREDRIKSTAD [VS] VIKING[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUEWEST HAM UNITED [VS] EVERTON[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPBIRMINGHAM CITY [VS] BRISTOL CITY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UKRAINIAN YOUTH TEAM CHAMPIONSHIPLNZ CHERKASY U21 [VS] METALIST 1925 KHARKIV(U21)[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH PREMIERSHIPABERDEEN [VS] KILMARNOCK[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPARBROATH [VS] PARTICK THISTLE FC[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SCOTTISH PREMIERSHIPSAINT MIRREN [VS] LIVINGSTON[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH PREMIER LEAGUELIVERPOOL [VS] CRYSTAL PALACE[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ANDORRAN PRIMERA DIVISIOUE SANTA COLOMA [VS] FC SANTA COLOMA[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSTOKE CITY [VS] PORTSMOUTH[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPNORWICH CITY [VS] SWANSEA CITY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPOXFORD UNITED [VS] SHEFFIELD WEDNESDAY[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPAIRDRIE UNITED [VS] AYR UNITED[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELGIAN PRO LEAGUEOUD-HEVERLEE LEUVEN [VS] RC SPORTING CHARLEROI[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FOOTBALL LEAGUESLAVEN BELUPO [VS] HNK VUKOVAR 1991[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ANDORRAN PRIMERA DIVISIOUE SANTA COLOMA [VS] FC SANTA COLOMA[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEKRYLYA SOVETOV [VS] LOKOMOTIV MOSCOW[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPQUEEN'S PARK [VS] DUNFERMLINE ATHLETIC[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢KAZAKHSTAN PREMIER LEAGUEFK AKTOBE LENTO [VS] IRTYSH PAVLODAR[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ENGLISH FOOTBALL LEAGUE CHAMPIONSHIPSHEFFIELD UNITED [VS] PRESTON NORTH END[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SCOTTISH CHAMPIONSHIPROSS COUNTY [VS] GREENOCK MORTON[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGAINTER TURKU [VS] IFK MARIEHAMN[21:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ROMANIAN LIGA IIFC BIHOR ORADEA [VS] SEPSI OSK SFANTUL GHEORGHE[21:15 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ROMANIAN LIGA IIFC BIHOR ORADEA [VS] SEPSI OSK SFANTUL GHEORGHE[21:15 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SPANISH LA LIGAGETAFE [VS] FC BARCELONA[21:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SPANISH SEGUNDA DIVISIONREAL VALLADOLID CF [VS] REAL SOCIEDAD B[21:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SPANISH LA LIGAGETAFE [VS] FC BARCELONA[21:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SYC PRST MICHEL UNITED FC [VS] SAINT LOUIS SUNS UNITED[21:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SYC PRST MICHEL UNITED FC [VS] SAINT LOUIS SUNS UNITED[21:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKRON TOGLIATTI [VS] DYNAMO MAKHACHKALA[21:30 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKRON TOGLIATTI [VS] DYNAMO MAKHACHKALA[21:30 WIB 23/04/2026] [SVR-BHNS2]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ROMANIAN SUPER LIGAHERMANNSTADT [VS] FK CSIKSZEREDA MIERCUREA CIUC[21:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEFEYENOORD [VS] GRONINGEN[21:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEFK GILAN GABALA [VS] ARAZ NAKHCHIVAN[21:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN 3.LIGASV WALDHOF MANNHEIM [VS] SCHWEINFURT 05 FC[21:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PORTUGUESE PRIMERA LIGACD TONDELA [VS] NACIONAL DA MADEIRA[21:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AZERBAIJAN PREMIER LEAGUEFK GILAN GABALA [VS] ARAZ NAKHCHIVAN[21:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEEL MOKAWLOON EL ARAB [VS] ITTIHAD ALEXANDRIA SC[22:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢TURKMENISTANYN YOKARY LIGASYARKADAG FK [VS] ALTYN ASYR FC[22:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUESLAVIA MOZYR [VS] NEMAN GRODNO[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGATPS TURKU [VS] GNISTAN HELSINKI[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGAVAASA VPS [VS] ILVES TAMPERE[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUESLAVIA MOZYR [VS] NEMAN GRODNO[22:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUENK DUBRAVA [VS] NK SESVETE[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUEHRVACE [VS] HNK ORIJENT 1919[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANOREBRO [VS] NORRBY IF[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELARUSIAN FIRST LEAGUEDINAMO-2 MINSK [VS] FK BUMPROM GOMEL[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢URUGUAY PRIMERA DIVISIONCA JUVENTUD [VS] LIVERPOOL URU[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEHARAS EL HODOOD [VS] WADI DEGLA SC[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANNORDIC UNITED FC [VS] SANDVIKENS IF[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAWOLFSBERGER AC [VS] GRAZER AK[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAKROMERIZ [VS] CHRUDIM[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UKRAINIAN PREMIER LEAGUERUKH VYNNYKY [VS] FC KARPATY LVIV[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC BARANOVICHI [VS] DINAMO MINSK[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢JORDAN PREMIER LEAGUEAL WEHDAT [VS] AL-JAZEERA[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAPUSKAS AKADEMIA FC [VS] UJPEST FC[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAKROMERIZ [VS] CHRUDIM[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢EGYPTIAN PREMIER LEAGUEHARAS EL HODOOD [VS] WADI DEGLA SC[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUENK DUBRAVA [VS] NK SESVETE[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN FIRST LEAGUEDINAMO-2 MINSK [VS] FK BUMPROM GOMEL[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAWOLFSBERGER AC [VS] GRAZER AK[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAFC HAKA [VS] KAPYLAN PALLO[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢AUSTRIAN BUNDESLIGAWSG TIROL [VS] SV RIED[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANNORDIC UNITED FC [VS] SANDVIKENS IF[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWEDEN SUPERETTANOREBRO [VS] NORRBY IF[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢JORDAN PREMIER LEAGUEAL WEHDAT [VS] AL-JAZEERA[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BELARUSIAN PREMIER LEAGUEFC BARANOVICHI [VS] DINAMO MINSK[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUEHRVACE [VS] HNK ORIJENT 1919[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢URUGUAY PRIMERA DIVISIONCA JUVENTUD [VS] LIVERPOOL URU[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢HUNGARY FIZZ LIGAPUSKAS AKADEMIA FC [VS] UJPEST FC[22:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢ITALIAN SERIE BVENEZIA [VS] EMPOLI[22:15 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASALECHIA GDANSK [VS] RAKOW CZESTOCHOWA[22:30 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL FATEH SC [VS] AL KHALEEJ CLUB[22:45 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DANISH SUPERLIGARANDERS FC [VS] FREDERICIA[23:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK NAPREDAK KRUSEVAC [VS] FK IMT BELGRAD[23:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢DANISH SUPERLIGANORDSJAELLAND [VS] AARHUS AGF[23:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK GRAFFIN VLASIM [VS] SK PROSTEJOV[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NORWEGIAN 2.DIVISJONGRORUD [VS] SKEID OSLO[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SERBIAN MOZZART BET SUPERLIGAFK NAPREDAK KRUSEVAC [VS] FK IMT BELGRAD[23:00 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAZAGLEBIE LUBIN [VS] LKS NIECIECZA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEDYNAMO MOSCOW WOMEN [VS] SPARTAK MOSCOW WOMEN[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THE BOTOLA PROKACM MARRAKECH [VS] WYDAD CASABLANCA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAPK-35 VANTAA [VS] KTP KOTKA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASK AUSTRIA KLAGENFURT [VS] SC AUSTRIA LUSTENAU[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THE BOTOLA PRORAJA CLUB ATHLETIC [VS] FUS RABAT[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK VIAGEM USTI NAD LABEM [VS] VIKTORIA ZIZKOV[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PROHASSANIA AGADIR [VS] ITTIHAD RIADI TANGER[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGAFC LIEFERING [VS] YOUNG VIOLETS AUSTRIA WIEN[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN 2.DIVISJONGRORUD [VS] SKEID OSLO[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢POLAND LIGA 1ZNICZ PRUSZKOW [VS] GORNIK LECZNA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASCHWARZ-WEISS BREGENZ [VS] FC HOGO HERTHA WELS[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASKU ERTL GLAS AMSTETTEN [VS] FIRST VIENNA FC 1894[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAKLUBI 04 HELSINKI [VS] MIKKELIN PALLOILIJAT[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGASJK SEINAJOEN [VS] JARO[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK GRAFFIN VLASIM [VS] SK PROSTEJOV[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THE BOTOLA PROYACOUB EL MANSOUR [VS] AS FAR RABAT[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THE BOTOLA PRORENAISSANCE ZMAMRA [VS] MAGHREB FEZ[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASKU ERTL GLAS AMSTETTEN [VS] FIRST VIENNA FC 1894[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢RUSSIAN WOMEN'S PREMIER LEAGUEDYNAMO MOSCOW WOMEN [VS] SPARTAK MOSCOW WOMEN[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASK AUSTRIA KLAGENFURT [VS] SC AUSTRIA LUSTENAU[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAPK-35 VANTAA [VS] KTP KOTKA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PRORAJA CLUB ATHLETIC [VS] FUS RABAT[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ESILIIGA BJOHVI FC LOKOMOTIV [VS] LEVADIA TALLINN U19[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THE BOTOLA PROCODM MEKNES [VS] DHJ DIFAA HASSANI JADIDI[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢CROATIAN FIRST FOOTBALL LEAGUEKARLOVAC [VS] NK DUGOPOLJE[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH YKKOSLIIGAKLUBI 04 HELSINKI [VS] MIKKELIN PALLOILIJAT[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK VIAGEM USTI NAD LABEM [VS] VIKTORIA ZIZKOV[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THE BOTOLA PRORENAISSANCE DE BERKANE [VS] OLYMPIQUE DCHEIRA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ESILIIGA BJOHVI FC LOKOMOTIV [VS] LEVADIA TALLINN U19[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGAFC LIEFERING [VS] YOUNG VIOLETS AUSTRIA WIEN[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢AUSTRIAN 2.LIGASCHWARZ-WEISS BREGENZ [VS] FC HOGO HERTHA WELS[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢PKO BANK POLSKI EKSTRAKLASAZAGLEBIE LUBIN [VS] LKS NIECIECZA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢THE BOTOLA PROUTS UNION TOUARGA SPORT RABAT [VS] OLYMPIQUE DE SAFI[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢FINNISH VEIKKAUSLIIGASJK SEINAJOEN [VS] JARO[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢THE BOTOLA PROHASSANIA AGADIR [VS] ITTIHAD RIADI TANGER[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢POLAND LIGA 1ZNICZ PRUSZKOW [VS] GORNIK LECZNA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢NORWEGIAN 1.DIVISJONSTROMMEN [VS] KONGSVINGER[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAKFC KOMARNO [VS] MFK SKALICA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAMICHALOVCE [VS] SPORT PODBREZOVA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢ITALIAN SERIE ABOLOGNA [VS] AS ROMA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUEGRASSHOPPER [VS] LUZERN[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK MAS TABORSKO [VS] FK PRIBRAM[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GEORGIA EROVNULI LIGASAMGURALI TSKH [VS] DINAMO TBILISI[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢THE BOTOLA PRORENAISSANCE DE BERKANE [VS] OLYMPIQUE DCHEIRA[23:00 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SWITZERLAND CHALLENGE LEAGUEFC WIL 1900 [VS] AARAU[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAFK KOSICE [VS] MFK RUZOMBEROK[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGASK ARTIS BRNO [VS] DYNAMO CESKE BUDEJOVICE[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUELAUSANNE SPORTS [VS] FC ZURICH[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NORWEGIAN ELITESERIENROSENBORG [VS] BRANN[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢ITALIAN SERIE ABOLOGNA [VS] AS ROMA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GEORGIA EROVNULI LIGASAMGURALI TSKH [VS] DINAMO TBILISI[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAMICHALOVCE [VS] SPORT PODBREZOVA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGASK ARTIS BRNO [VS] DYNAMO CESKE BUDEJOVICE[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUEGRASSHOPPER [VS] LUZERN[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢NORWEGIAN 1.DIVISJONSTROMMEN [VS] KONGSVINGER[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢CHANCE NARODNI LIGAFK MAS TABORSKO [VS] FK PRIBRAM[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAFK KOSICE [VS] MFK RUZOMBEROK[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SWITZERLAND SUPER LEAGUELAUSANNE SPORTS [VS] FC ZURICH[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢SLOVAK NIKE LIGAKFC KOMARNO [VS] MFK SKALICA[23:00 WIB 25/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL NAJMA(KSA) [VS] AL TAAWOUN[23:10 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢SAUDI PROFESSIONAL LEAGUEAL HAZEM [VS] AL RIYADH[23:10 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 21. FC KAISERSLAUTERN [VS] EINTRACHT BRAUNSCHWEIG[23:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUESPARTAK VARNA [VS] BEROE STARA ZAGORA[23:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 2FORTUNA DUSSELDORF [VS] DYNAMO DRESDEN[23:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL BATAEH [VS] AL AIN FC[23:45 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢BULGARIAN FIRST LEAGUESPARTAK VARNA [VS] BEROE STARA ZAGORA[23:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢GERMAN BUNDESLIGA 21. FC KAISERSLAUTERN [VS] EINTRACHT BRAUNSCHWEIG[23:30 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUEAKHMAT GROZNY [VS] BALTIKA KALININGRAD[23:45 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL BATAEH [VS] AL AIN FC[23:45 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢RUSSIAN PREMIER LEAGUESPARTAK MOSCOW [VS] FK KRASNODAR[23:45 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢NETHERLANDS EREDIVISIEGO AHEAD EAGLES [VS] AZ ALKMAAR[23:45 WIB 23/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢UNITED ARAB EMIRATES ADNOC PRO-LEAGUEAL-NASR DUBAI [VS] AL-JAZIRA(UAE)[23:45 WIB 24/04/2026] [SVR-BHNS1]🍜 otomatis masuk jadwal
@@ -982,8 +1283,8 @@
 - ⚠️ **[BASI]** 📢MEXICO LIGA MXCLUB TIJUANA [VS] PACHUCA[10:06 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢MEXICO LIGA MXNECAXA [VS] CHIVAS GUADALAJARA[10:10 WIB 23/04/2026] [SVR-BHNS1]🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢MEXICO LIGA MXNECAXA [VS] CHIVAS GUADALAJARA[10:10 WIB 23/04/2026] [SVR-BHNS2]🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢12:00 WIB 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢12:00 WIB 21/01/26 UFC BEST OF 2008 : UFC - YEAR END BEST OF (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 21/01/26 UFC BEST OF 2011 : UFC - YEAR END BEST OF (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 21/01/26 UFC BEST OF 2011 : UFC - YEAR END BEST OF (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 LIGA 25/26: VILLARREAL VS REAL MADRID (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢15:00 WIB 16/09/25 LIGA 25/26: VILLARREAL VS REAL MADRID (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢17:00 WIB 14/04/26 VAKIFBANK VS FENERBAHCE MEDICANA : TURKISH VOLLEYBALL 25/26 WOMEN'S LEAGUE (INTI)🍜 otomatis masuk jadwal
@@ -992,12 +1293,12 @@
 - ⚠️ **[EVENT]** 📢20:00 WIB 28/07/22 EP36 : THE CATCH-UP SHOW (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢09:00 WIB 20/12/24 GGS TV (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[BASI]** 📢10:00 WIB 02/05/24 TELEMATIN (INTI)🍜 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 📢10:00 WIB 02/05/24 TELEMATIN (ALT)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢10:00 WIB 02/05/24 LE GOUT DES RENCONTRES EN NOUVELLE-AQUITAINE (INTI)🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢10:00 WIB 02/05/24 LE GOUT DES RENCONTRES EN NOUVELLE-AQUITAINE (ALT)🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢11:00 WIB 29/09/21 THE LIBRARIAN: THE RETURN TO KING SOLOMON'S MINES (INTI)🍜 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 📢11:00 WIB 29/09/21 THE LIBRARIAN: THE RETURN TO KING SOLOMON'S MINES (ALT)🍜 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 SEOULSCAPE (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 SEOULSCAPE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 K-CULTURE MINUTES: K-STAGE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB 22/02/20 K-CULTURE MINUTES: K-STAGE (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢12:00 WIB 04/02/21 MUSICA (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢12:00 WIB 17/07/20 MAGNA TV (INTI)🍜 otomatis masuk jadwal
@@ -1008,14 +1309,14 @@
 - ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 MNCTV SPORT PRO FUTSAL LEAGUE 2 (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 AMAZING KIDS : SPONGEBOB SQUAREPANTS (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 AMAZING KIDS : SPONGEBOB SQUAREPANTS (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 BOBOIBOY (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 BOBOIBOY (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 SMURFS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 20/09/16 SMURFS (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BREAKING NEWS (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢00:00 WIB 01/11/25 BREAKING NEWS (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 KIDDIES WORLD (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 KIDDIES WORLD (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 POTRET (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 POTRET (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 CONA BLUE (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 28/05/16 CONA BLUE (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 TEK TOK (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢00:00 WIB 04/06/18 TEK TOK (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢08:00 WIB 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X LAB GAYA HIDUP (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢08:00 WIB 23/04/26 SPESIAL GAJIAN SALE BERSAMA VIDIO SHOPPING X LAB GAYA HIDUP (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢08:58 WIB 25/02/25 BERITA VIRAL (INTI)🍜 otomatis masuk jadwal
@@ -1032,16 +1333,16 @@
 - ⚠️ **[EVENT]** 📢13:00 WIB 23/04/26 JHANAK (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 UPDATE BISNIS (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 UPDATE BISNIS (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 GORO GORO KARTOLO (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 GORO GORO KARTOLO (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 GOSIP PANAS SELEBRITI (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 GOSIP PANAS SELEBRITI (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 BERITA GRESS (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢14:00 WIB 06/09/22 BERITA GRESS (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 ANAK INDONESIA (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢17:00 WIB 11/12/24 ANAK INDONESIA (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢17:00 WIB 24/04/16 TVRI (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢17:00 WIB 24/04/16 TVRI (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢18:01 WIB 24/04/16 BERITA VIRAL (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢18:01 WIB 24/04/16 BERITA VIRAL (ALT)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 TAFSIR AL-QURAN (INTI)🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 TAFSIR AL-QURAN (ALT)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 SEJADAH (INTI)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢19:45 WIB 26/10/20 SEJADAH (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (INTI)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢06:15 WIB 24/04/26 LIPUTAN 6 PAGI MOJI (ALT)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢16:00 WIB 23/04/26 MAKAN RECEH (INTI)🍜 otomatis masuk jadwal
@@ -1066,7 +1367,6 @@
 - ⚠️ **[EVENT]** 📢[UPCOMING] (15:30 WIB) PSM MAKASSAR VS PERSIK KEDIRI [BLV 7UP]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[UPCOMING] (15:30 WIB) PERSITA VS BALI UNITED [BLV SODA]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[UPCOMING] (15:30 WIB) PERSIJAP JEPARA VS PSBS BIAK NUMFOR [BLV BI DAO]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢15:30 WIB - PSM MAKASSAR VS PERSIK KEDIRI [IDN ISL] (V1)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[15:30 WIB 23/04/26] PERSITA VS BALI UNITED [FHD] [NANTIKAN]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[15:30 WIB 23/04/26] PERSITA VS BALI UNITED [HD] [NANTIKAN]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[15:30 WIB 23/04/26] PERSITA VS BALI UNITED [SD] [NANTIKAN]🍜 otomatis masuk jadwal
@@ -1095,8 +1395,8 @@
 - ⚠️ **[EVENT]** 📢[UPCOMING] (06:00 WIB) PHILADELPHIA 76ERS VS DOI BONG RO BOSTON CELTICS [BLV 247]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[UPCOMING] (07:00 WIB) TORONTO RAPTORS VS CLEVELAND CAVALIERS [BLV ROCKSTAR]🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢[UPCOMING] (07:30 WIB) OPERARIO VS FLUMINENSE RJ [BLV AQUA]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) GANGWON VS CLB SEOUL [BLV GIA LANG]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢[UPCOMING] (12:00 WIB) URAWA REDS VS YOKOHAMA F. MARINOS [BLV SPRITE]🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB - GUANGZHOU XINGPAI VS WUHAN LIANZHEN [CHN CH] (V1)🍜 otomatis masuk jadwal
+- ⚠️ **[EVENT]** 📢12:00 WIB - PCU DOLPHINS VS LPU BATANGAS [PHI] (V1)🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢14:00 WIB - OIVAREZ COLLEGE VS CEU SCORPIONS [PHI] (V1)🍜 otomatis masuk jadwal
 - ⚠️ **[EXACT]** 📢SPORTSTARS 2🍜 cocok (524064)
 - ⚠️ **[EXACT]** 📢SPORTSTARS 3🍜 cocok (524184)
@@ -1135,25 +1435,17 @@
 - ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
-- ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** CA: SportsNet One cocok [fz] (470873)
-- ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CL: TNT Sports 2 cocok [fz] (400480)
-- ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
-- ⚠️ **[FZ]** HR: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** HR: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** HR: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** HR: Arena Sport 6 cocok [fz] (381851)
 - ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** HR: Sport Klub FIGHT cocok [fz] (497509)
-- ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** CZ: Nova Sport 1 cocok [fz] (6263)
@@ -1171,8 +1463,10 @@
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
-- ⚠️ **[FZ]** DE: Sport 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: ESports 1 cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: ESports 1 [SAT] [VIP] cocok [fz] (76707)
+- ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
+- ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
 - ⚠️ **[FZ]** GR: Nova sports 2 cocok [fz] (7401)
@@ -1223,17 +1517,15 @@
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
+- ⚠️ **[FZ]** RS: Arena Sport 1x2 cocok [fz] (457028)
 - ⚠️ **[FZ]** RS: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** RS: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** RS: Arena Sport 4 cocok [fz] (381853)
-- ⚠️ **[FZ]** RS: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** RS: Arena Sport 6 cocok [fz] (381851)
 - ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
-- ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
-- ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
@@ -1272,6 +1564,7 @@
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
+- ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia cocok [fz] (465037)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
