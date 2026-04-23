@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 02:16 WIB
+**Diperbarui pada:** 24-04-2026 02:22 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1489,14 +1489,16 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Round 1 Day Session The Chevron Championship 2026 tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Day 3 tidak cocok id epg
--  **[KS]** Levante vs Sevilla LaLiga tidak cocok id epg
 -  **[KS]** Rayo Vallecano vs Espanyol LaLiga tidak cocok id epg
+-  **[KS]** Oviedo vs Villarreal LaLiga tidak cocok id epg
+-  **[KS]** Round 1 Night Session The Chevron Championship 2026 tidak cocok id epg
 -  **[KS]** Day 1 NFL Draft 2026 tidak cocok id epg
 -  **[KS]** Universitas Ma Chung vs Universitas Ciputra Makassar Grup E Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** BWF Thomas Uber Cup Finals 2026 Group Stage Court 2 tidak cocok id epg
 -  **[KS]** BWF Thomas Uber Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
+-  **[KS]** BWF Thomas Uber Cup Finals 2026 Group Stage Court 1 tidak cocok id epg
+-  **[KS]** Moto3 Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
 -  **[KS]** PERSIB vs Arema FC BRI Super League tidak cocok id epg
