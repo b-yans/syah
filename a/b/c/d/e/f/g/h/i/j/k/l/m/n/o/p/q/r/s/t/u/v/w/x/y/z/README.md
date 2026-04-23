@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 23:49 WIB
+**Diperbarui pada:** 23-04-2026 23:55 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -92,6 +92,7 @@
 - ⚠️ **[FZ]** NZ: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
+- ⚠️ **[FZ]** NO: eurosport Norge cocok [fz] (517650)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
 - ⚠️ **[FZ]** NO: V Sport 1 cocok [fz] (6263)
 - ⚠️ **[FZ]** NO: V Sport 2 cocok [fz] (407559)
@@ -865,7 +866,6 @@
 -  **[KS]** NZ: Sky Sport Select tidak cocok id epg
 -  **[KS]** NO: eurosport 1 tidak cocok id epg
 -  **[KS]** NO: eurosport 2 tidak cocok id epg
--  **[KS]** NO: eurosport Norge tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport 2 tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium tidak cocok id epg
 -  **[KS]** NO: TV 2 Sport Premium 2 tidak cocok id epg
