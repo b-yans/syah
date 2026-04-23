@@ -21,55 +21,20 @@ http://eyay.gw.lt:80///kontol8/283053
 http://eyay.gw.lt:80///kontol8/297552
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="538912" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/939de48a4e70e7e8ee0de9dff78e9e8f.png", 🇬🇧  01:00-11:00 WIB - ⋗ Tennis: ATP & WTA Madrid Open 2026: Day 3 [DE: Sky Sport Tennis SAT VIP]
 http://eyay.gw.lt:80///kontol8/308118
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381853" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png", ⚠️  01:45-03:45 WIB - Atletico – Barcelona. Sepakbola. UEFA Liga Šampiona [AL: Arena Sport 4]
-http://eyay.gw.lt:80///kontol8/193744
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381853" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/20150316bc2d82a859c3af18566e5f1e.png", ⚠️  01:45-03:45 WIB - Atletico – Barcelona. Sepakbola. UEFA Liga Šampiona [BIH: Arena Sport 4]
-http://eyay.gw.lt:80///kontol8/67717
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="438441" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png", ⚠️  01:45-03:45 WIB - Fußball: Primeira Liga [DE: Sportdigital Fussball]
-http://eyay.gw.lt:80///kontol8/3509
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="438441" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png", ⚠️  01:45-03:45 WIB - Fußball: Primeira Liga [DE: Sportdigital Fussball SAT VIP]
-http://eyay.gw.lt:80///kontol8/308125
-#EXTINF:-1 tvg-uid="9ffd166f02f1c817d7793806b927825a" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/gkxch9mi09nl1w.png", ⚠️  01:45-03:45 WIB - ) VFB Stuttgart vs SC Freiburg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://90sport.com/
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://90sport.com/
-#EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/143071_hd/index.m3u8?is_vip=true&token=dara-b9g647fw&x-sign=1e74c4191190f3f56dfe4832720e98c9&x-time=1776976800
-#EXTINF:-1 tvg-uid="e9de74a353a11e4a8f1e7dd8cd742337" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small", ⚠️  01:45-03:45 WIB - VFB STUTTGART VS SC FREIBURG
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=6a22462c953dd8c15e5558e60c6d4616&wsABSTime=1777020035
-#EXTINF:-1 tvg-uid="aba4259e1f38c2d0331e0f61123fcb3e" data-source="AXSPORTS Event" tvg-timestamp="1776969900" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Truiden%20VS%20Anderlecht%20%20Jupiler%20Pro%20League%20%5BServer%202%5D.jpg", ⚠️  01:45-03:45 WIB - ]  St. Truiden vs Anderlecht
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/138848_hd/index.m3u8?is_vip=false&token=37d36a30f36431f3f930b1e490cfee6b910fb966&x-sign=6a64d3de79bc268f081e78f2ccdf6e73&x-time=1776976200
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/5be7d853110e8f1f9a0af1b1042b1e71/image/small?v=1768601124", ⚠️  01:45-03:45 WIB - 24/04/2026🛡️
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-#EXTVLCOPT:http-origin=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/bc159540b37e4882877c045e433cf282/index.m3u8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/F8yWLTqon1_ydwSkxyBDz6cc8Ok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021542/38a00e.jpg", ⚠️  01:55-03:55 WIB - 24/04/26 PSV vs PEC Zwolle - Eredivisie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6685.drm|1777581837
-https://maling.pl/6685.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6685.drm|1777582155
+https://maling.pl/6685.mpd|1777582155
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/F8yWLTqon1_ydwSkxyBDz6cc8Ok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021542/38a00e.jpg", ⚠️  01:55-03:55 WIB - 24/04/26 PSV vs PEC Zwolle - Eredivisie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6685.drm|1777581837
-https://bostv.maling.pl/6685.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6685.drm|1777582155
+https://bostv.maling.pl/6685.mpd|1777582155
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381834" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg", 🇮🇩  02:00-04:00 WIB - River Plate – Boca Juniors. Sepakbola. ARGENTINSKA LIGA [QA: beIN Sports Premium 3]
 http://eyay.gw.lt:80///kontol8/280249
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png", ⚠️  02:00-04:00 WIB - ⋗ Tenis [RO: DIGI Sport 2]
@@ -79,15 +44,15 @@ http://eyay.gw.lt:80///kontol8/71459
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18189.drm|1777581837
-https://maling.pl/18189.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18189.drm|1777582155
+https://maling.pl/18189.mpd|1777582155
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/0cmvLLykRX6_npTcB709yeV76lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022012/7c8d03.jpg", ⚠️  02:00-04:00 WIB - 24/04/26 Zurich Classic of New Orleans 2026 - Round 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18189.drm|1777581837
-https://bostv.maling.pl/18189.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18189.drm|1777582155
+https://bostv.maling.pl/18189.mpd|1777582155
 #EXTINF:-1 tvg-uid="d42db3dd66aa2c4db53137ae28a245b2" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/kv9uwut4hwst8g.png", ⚠️  02:00-04:00 WIB - ) Salford City vs Bromley
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
@@ -95,14 +60,14 @@ https://bostv.maling.pl/18189.mpd|1777581837
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/372_hd/index.m3u8?is_vip=true&token=dara-d05uh774&x-sign=3ce1b4872ec9db03d9c57f1ff97f1f4c&x-time=1776976800
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/372_hd/index.m3u8?is_vip=true&token=dara-ao5jnj8p&x-sign=1c94781138b31fe57c9b9ea422017d44&x-time=1776977160
 #EXTINF:-1 tvg-uid="18a8041fb453863e2beacde389111538" data-source="AXSPORTS Event" tvg-timestamp="1776970800" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Salford%20City%20VS%20Bromley%20%20League%20Two%20%5BServer%201%5D.jpg", ⚠️  02:00-04:00 WIB - ]  Salford City vs Bromley
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=37d36a30f36431f3f930b1e490cfee6b910fb966&x-sign=6b02b9e76297765714b27f45304bf61f&x-time=1776976200
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=04ba2abe14bdec3185ef40e426bb6ecfe84ba8ce&x-sign=68ddb5e300c499f904dbc494b629ddc1&x-time=1776977100
 #EXTINF:-1 tvg-uid="2460b6e82c6feb54b00377660835522a" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/4y6jicrwmozzqf.png", ⚠️  02:00-04:00 WIB - ) PSV vs Zwolle FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
@@ -110,20 +75,20 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&tok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/1/chunks.m3u8?is_vip=true&token=dara-xx2hwx32&x-sign=1cccef2dcf3df80b9813ac4ef9b035af&x-time=1776976800
+https://livecdn-bp-dara.maypn.stream/stream/1/chunks.m3u8?is_vip=true&token=dara-dbudavlm&x-sign=5120ebbf921a9c4b42a31106d8117a6d&x-time=1776977160
 #EXTINF:-1 tvg-uid="bf28e00d87d2048ed5efe2e91c06a1d1" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5klqdyj/image/small", ⚠️  02:00-04:00 WIB - PSV EINDHOVEN VS PEC ZWOLLE
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=faaaaa9d7c029698d1ccd14e8294c1f1&wsABSTime=1777020036
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=17e5a781e6116d84953def61629d16ff&wsABSTime=1777020336
 #EXTINF:-1 tvg-uid="f0442c1708ff0d3a43099ddb3e147844" data-source="AXSPORTS Event" tvg-timestamp="1776970800" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20VS%20PEC%20Zwolle%20%20Eredivisie%20%5BServer%202%5D.jpg", ⚠️  02:00-04:00 WIB - ]  PSV Eindhoven vs PEC Zwolle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=37d36a30f36431f3f930b1e490cfee6b910fb966&x-sign=a4fefafdbf2a2738fa866dbb1f52efc4&x-time=1776976200
+https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=04ba2abe14bdec3185ef40e426bb6ecfe84ba8ce&x-sign=ad4ff8809869616d9dd1bb1fbb7db91d&x-time=1776977100
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/e3347a6a318f034708e9dad2bcecae44/image/small?v=1768601124", ⚠️  02:00-04:00 WIB - 24/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -152,15 +117,15 @@ https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=KhAE25sAxrs28nkYSBtOT00LxiNW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm|1777581837
-https://maling.pl/782.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/782.drm|1777582155
+https://maling.pl/782.mpd|1777582155
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/alDvFyoGkCP99rw9sELMz54iJRQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022204/0bfd76.jpg", ⚠️  02:15-04:15 WIB - 24/04/26 Mega Bollywood: Dear Zindagi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/782.drm|1777581837
-https://bostv.maling.pl/782.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/782.drm|1777582155
+https://bostv.maling.pl/782.mpd|1777582155
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/8bc79c3295827ac50acb30cf3e852b22/image/small?v=1768601124", ⚠️  02:15-04:15 WIB - 24/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -178,15 +143,15 @@ https://live.alilicloud.com/live/4c9406fdf373b1ab33aaa2085d739175/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777581837
-https://maling.pl/6299.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/6299.drm|1777582155
+https://maling.pl/6299.mpd|1777582155
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/m1BlxGTx9dk7LdmQ3ZkIsKpSHU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021546/904e39.jpg", ⚠️  02:25-04:25 WIB - 24/04/26 Oviedo vs Villarreal - LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777581837
-https://bostv.maling.pl/6299.mpd|1777581837
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/6299.drm|1777582155
+https://bostv.maling.pl/6299.mpd|1777582155
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="503053" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/0280017d72e93f3e2aec427a9f9790ad.svg", ⚠️  02:30-04:45 WIB - Premier League [NO: V Sport Premier League]
 http://eyay.gw.lt:80///kontol8/304581
 #EXTINF:-1 tvg-uid="8f9540ee959a83228216949aef77e58c" data-source="Live event 90sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/tf8chnps8w35cr.png", ⚠️  02:30-04:30 WIB - ) Real Oviedo vs Villarreal
@@ -196,13 +161,20 @@ http://eyay.gw.lt:80///kontol8/304581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-9zhalerp&x-sign=f5181181e114e6e45364c3554ceeba69&x-time=1776976800
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/112520_hd/index.m3u8?is_vip=true&token=dara-0dqf96ww&x-sign=84f69b430cbd0b03df828dae532c8a9a&x-time=1776977160
 #EXTINF:-1 tvg-uid="973760a6af2b97b80f242e04abd2efc9" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh562qg8n/image/small", ⚠️  02:30-04:30 WIB - REAL OVIEDO VS VILLARREAL
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=d2243c86f142c4dd2d207e577e8b015c&wsABSTime=1777020035
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c48a79340bbcfc5ab0cd32993e4f6da0&wsABSTime=1777020335
+#EXTINF:-1 tvg-uid="f89932b0924974f2241768fde930b495" data-source="AXSPORTS Event" tvg-timestamp="1776972600" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20VS%20Villarreal%20%20La%20Liga%20%5BServer%201%5D.jpg", ⚠️  02:30-04:30 WIB - ]  Oviedo vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=04ba2abe14bdec3185ef40e426bb6ecfe84ba8ce&x-sign=8a8d9ebc5c486725dcf1fb736b370774&x-time=1776977100
 #EXTINF:-1 tvg-expire="1776990600" tvg-start="1776972600" tvg-uid="f36f757383b1c87feccf06ac4d5c07b0" data-source="Center" tvg-chno="12" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png", ⚠️  02:30-04:30 WIB - ]  Villarreal at Real Oviedo
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
@@ -247,20 +219,13 @@ https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=ARxtCvVbeXisNy8JniRY75N9Ujnjp__
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://90sport.com/
 #EXTVLCOPT:http-origin=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-9axmpkzq&x-sign=60dbd29bc80e02d743fc41175aea6a9c&x-time=1776976800
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-25de65uh&x-sign=54fa4ed32c40658fef747ac59ddd1165&x-time=1776977160
 #EXTINF:-1 tvg-uid="7420c0d3ce22b9427de7ba0493f1fca2" data-source="Xoilacz" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlkg3qwzv/image/small", ⚠️  02:45-04:45 WIB - SCU TORREENSE VS AD FAFE
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=58ce44b6b0076155ef92bfc5744bb5dc&wsABSTime=1777020037
-#EXTINF:-1 tvg-uid="9385c0e659808f2e6beeb9390ccafb4e" data-source="AXSPORTS Event" tvg-timestamp="1776973500" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torreense%20VS%20Fafe%20%20Ta%C3%A7a%20de%20Portugal%20%5BServer%201%5D.jpg", ⚠️  02:45-04:45 WIB - ]  Torreense vs Fafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=37d36a30f36431f3f930b1e490cfee6b910fb966&x-sign=4e3c10db8b243e8e0debc801ad1f83aa&x-time=1776976200
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=84003fe7737e54703c43f047cab50190&wsABSTime=1777020337
 #EXTINF:-1 tvg-expire="1776991500" tvg-start="1776973500" tvg-uid="dba0feb29418ff08180d9ffdcc334e41" data-source="sportir" tvg-chno="4" group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png", ⚠️  02:45-04:45 WIB - ]  Los Angeles Dodgers vs San Francisco Giants
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
@@ -295,7 +260,7 @@ http://eyay.gw.lt:80///kontol8/6275
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc"}
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=a26c0f80b3a53e08f562578077d643a7&wsABSTime=1777020038
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=0307717dc5fe0249e8ed7c9ff8d32d89&wsABSTime=1777020337
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="" tvg-logo="https://img.rapid-api.icu/football/team/f959e6c71380069f2615066fc9fb73ac/image/small?v=1768601124", ⚠️  03:00-05:00 WIB - 24/04/2026🛡️
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -972,3 +937,5 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=ileaguesocce
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=obosligaen_1777086000.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png", ⚠️ ⏳ 03:00-05:30 WIB - Basel – Sion. Sepakbola. Švajcarska Liga
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=baselsionsepakbolavajcarskaliga_1777086000.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://i.ibb.co.com/B2Hh7SNT/prima-sport4.png", ⚠️ ⏳ 03:45-06:05 WIB - The United States Vs. Billie Holiday
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=theunitedstatesbillieholiday_1777088700.0

@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 03:43 WIB
+**Diperbarui pada:** 24-04-2026 03:49 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1406,7 +1406,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Patro Eisden 🆚 Beerschot Wilrijk🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sint-Truidense 🆚 Anderlecht🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVSK Lommel 🆚 RFC de Liege🛡️|🛡️01:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️VfB Stuttgart 🆚 SC Freiburg🛡️|🛡️01:45 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Antonio Bulo Bulo 🆚 Real Oruro🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Salford City 🆚 Bromley🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PSV Eindhoven 🆚 PEC Zwolle🛡️|🛡️02:00 24/04/2026🛡️ otomatis masuk jadwal
@@ -1419,6 +1419,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Real Santander Women 🆚 America de Cali Women🛡️|🛡️03:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[BASI]** [25 Apr 2026 01:25 WIB] diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1463,7 +1464,6 @@
 -  **[KS]** Prima Sport 1 tidak cocok id epg
 -  **[KS]** Prima Sport 2 tidak cocok id epg
 -  **[KS]** Prima Sport 3 tidak cocok id epg
--  **[KS]** Prima Sport 4 tidak cocok id epg
 -  **[KS]** Spectrum Sportsnet La tidak cocok id epg
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
