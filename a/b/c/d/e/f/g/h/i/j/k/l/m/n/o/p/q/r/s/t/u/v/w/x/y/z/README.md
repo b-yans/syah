@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 23-04-2026 22:04 WIB
+**Diperbarui pada:** 23-04-2026 22:09 WIB
 
 ### 📁 LIVE1.M3U
 -  **[KS]** ⚠️SCTV⚠️ tidak cocok id epg
@@ -14,12 +14,12 @@
 - ⚠️ **[EVENT]** 📢  20:16-22:16 WIB - 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:16-22:16 WIB - 23/04/26 VILIUS GAUBAS VS SEBASTIAN BAEZ - ROUND 1  | ATP 1000: MUTUA MADRID OPEN 2026🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  21:20-23:20 WIB - 24/04/2026]🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 21:00 WIB - BOKS: TOKYO NORMAN VS SASSAKI🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 21:45 WIB - BUNDESLIGA. EINTRACHT FRANKFURT - RB LEIPZIG🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
-- ⚠️ **[EVENT]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 otomatis masuk jadwal
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 21:00 WIB - BOKS: TOKYO NORMAN VS SASSAKI🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 21:45 WIB - BUNDESLIGA. EINTRACHT FRANKFURT - RB LEIPZIG🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 📢  20:05-22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 22:05 WIB - 23/04/26 TOP NEWS🍜 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 22:15 WIB - 22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 22:15 WIB - 22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
 - ⚠️ **[EVENT]** 📢  20:15-22:15 WIB - 22:15 WIB - 22:15 WIB - 22:15 WIB - 23/04/26 OUR UNIVERSE🍜 otomatis masuk jadwal
