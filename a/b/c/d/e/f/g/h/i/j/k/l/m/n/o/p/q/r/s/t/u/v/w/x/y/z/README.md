@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 05:57 WIB
+**Diperbarui pada:** 24-04-2026 06:03 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -154,7 +154,6 @@
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
-- ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
@@ -180,7 +179,6 @@
 - ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
 - ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
@@ -1018,6 +1016,7 @@
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
+-  **[KS]** SE: V Sport Extra tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
 -  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
@@ -1201,6 +1200,7 @@
 -  **[KS]** US: Fox Sports Detroit tidak cocok id epg
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
+-  **[KS]** US: FOX SPORTS Racing tidak cocok id epg
 -  **[KS]** US: FTF Sports tidak cocok id epg
 -  **[KS]** US: NBA League Pass 1 tidak cocok id epg
 -  **[KS]** US: NBA TV tidak cocok id epg
@@ -1395,9 +1395,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Los Chankas 🆚 Cienciano🛡️|🛡️03:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dunbeholden FC 🆚 Harbour View FC🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Palmira Women 🆚 Fortaleza CEIF FC Women🛡️|🛡️04:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Palmira Women 🆚 Fortaleza CEIF FC Women🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sportvereniging Notch 🆚 Broki🛡️|🛡️04:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlético Mineiro - MG 🆚 Ceara🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ituano  SP 🆚 Ferroviaria SP🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
