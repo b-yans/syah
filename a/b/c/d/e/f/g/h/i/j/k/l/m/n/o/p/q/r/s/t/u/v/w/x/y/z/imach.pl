@@ -3424,8 +3424,6 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2351wib2351w
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2351wib2330wibbundesligatsghoffenheimborussiadortmund_1776981060.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e326a62a0113f1ce66bf3a143b614ab6.jpg", ⚠️ ⏳ 21:51-23:51 WIB - 23:30 WIB - BUNDESLIGA. TSG HOFFENHEIM - BORUSSIA DORTMUND🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=2330wibbundesligatsghoffenheimborussiadortmund_1776981060.0
-#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e326a62a0113f1ce66bf3a143b614ab6.jpg", ⚠️ ⏳ 21:51-23:30 WIB - Bundesliga. TSG Hoffenheim – Borussia Dortmund
-https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=bundesligatsghoffenheimborussiadortmund_1776981060.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg", ⚠️ ⏳ 22:00-00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - PSG - NANTES. SEPAKBOLA. LIGA PRANCIS🍜
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=0000wib0000wib0000wibpsgnantessepakbolaligaprancis_1776981600.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg", ⚠️ ⏳ 22:00-00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - 00:00 WIB - PSG - NANTES. SEPAKBOLA. LIGA PRANCIS🍜
