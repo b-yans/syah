@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 06:24 WIB
+**Diperbarui pada:** 24-04-2026 06:29 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,8 +1390,8 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dunbeholden FC 🆚 Harbour View FC🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Cali Women 🆚 Junior Women🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dunbeholden FC 🆚 Harbour View FC🛡️|🛡️03:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Palmira Women 🆚 Fortaleza CEIF FC Women🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
@@ -1400,9 +1400,9 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios Women 🆚 Llaneros Women🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ituano  SP 🆚 Ferroviaria SP🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmeiras - SP 🆚 EC Jacuipense🛡️|🛡️05:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Defensa Y Justicia 🆚 Boca Juniors🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlante FC 🆚 Tepatitlan FC🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
