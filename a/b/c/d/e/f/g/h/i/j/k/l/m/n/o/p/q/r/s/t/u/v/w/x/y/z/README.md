@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 06:01 WIB
+**Diperbarui pada:** 25-04-2026 06:06 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,17 +1390,19 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad O&M 🆚 Moca FC🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cumbaya FC 🆚 CD El Nacional🛡️|🛡️03:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Racing Louisville Women 🆚 Orlando Pride Women🛡️|🛡️04:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atlético Lanús 🆚 Central Cordoba SDE🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Montevideo City Torque 🆚 Boston River🛡️|🛡️05:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Toronto FC II 🆚 New York City Team B🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Assisense/SP U23 🆚 tupa SP U23🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
