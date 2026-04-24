@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 06:43 WIB
+**Diperbarui pada:** 25-04-2026 06:48 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,19 +1390,18 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Louisville Women 🆚 Orlando Pride Women🛡️|🛡️04:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atlético Lanús 🆚 Central Cordoba SDE🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Montevideo City Torque 🆚 Boston River🛡️|🛡️05:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Toronto FC II 🆚 New York City Team B🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Assisense/SP U23 🆚 tupa SP U23🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres Zipaquira 🆚 Inter Palmira🛡️|🛡️06:10 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
@@ -1474,10 +1473,11 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
 -  **[KS]** Round 2 Night Session The Chevron Championship 2026 tidak cocok id epg
--  **[KS]** Day 2 NFL Draft 2026 tidak cocok id epg
 -  **[KS]** Universitas Ciputra Surabaya vs Universitas Airlangga Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** PUTRI TANGSEL CITY vs DIKLAT PUTRI KOTA TANGERANG HYDROPLUS Soccer League U15 tidak cocok id epg
 -  **[KS]** Japan vs South Africa BWF Uber Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
+-  **[KS]** Malaysia vs Turkiye BWF Uber Cup Finals 2026 Group Stage Court 1 tidak cocok id epg
+-  **[KS]** Chinese Taipei vs Sweden BWF Thomas Cup Finals 2026 Group Stage Court 2 tidak cocok id epg
 -  **[KS]** Moto3 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Persela Lamongan vs PS Barito Putera Pegadaian Championship tidak cocok id epg
 -  **[KS]** Sriwijaya FC vs Garudayaksa FC Pegadaian Championship tidak cocok id epg
