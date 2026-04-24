@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 22:27 WIB
+**Diperbarui pada:** 24-04-2026 22:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -173,7 +173,6 @@
 - ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
-- ⚠️ **[FZ]** US: NBC Sports Philadelphia cocok [fz] (465037)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
@@ -1208,6 +1207,7 @@
 -  **[KS]** US: NBC Sports Boston tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago Plus tidak cocok id epg
+-  **[KS]** US: NBC Sports Philadelphia tidak cocok id epg
 -  **[KS]** US: NBC Sports Washington tidak cocok id epg
 -  **[KS]** US: NFL Network tidak cocok id epg
 -  **[KS]** US: NFL RedZone tidak cocok id epg
@@ -1421,7 +1421,7 @@
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** [24 Apr 2026 19:25 WIB] diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
-- ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
+- ⚠️ **[BASI]** [25 Apr 2026 20:30 WIB] diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
