@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 09:28 WIB
+**Diperbarui pada:** 24-04-2026 09:33 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1395,9 +1395,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
