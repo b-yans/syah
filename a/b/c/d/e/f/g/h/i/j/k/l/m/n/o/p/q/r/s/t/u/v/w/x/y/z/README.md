@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 02:26 WIB
+**Diperbarui pada:** 25-04-2026 02:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -70,10 +70,14 @@
 - ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
-- ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
 - ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
+- ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
+- ⚠️ **[EXACT]** ID: RCTI cocok (RCTI.id)
+- ⚠️ **[EXACT]** ID: SCTV cocok (SCTV.id)
+- ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
+- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
@@ -728,20 +732,16 @@
 -  **[KS]** HU: Sport 2 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
+-  **[KS]** IN: Sony Sports Ten 3 (Sony Ten 3) tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 3 tidak cocok id epg
--  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
 -  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
--  **[KS]** ID: RCTI tidak cocok id epg
--  **[KS]** ID: SCTV tidak cocok id epg
--  **[KS]** ID: SpoTV tidak cocok id epg
--  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
 -  **[KS]** IR: Persiana Sports tidak cocok id epg
@@ -1411,20 +1411,20 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Alemannia Aachen 🆚 MSV Duisburg🛡️|🛡️00:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AB Akademisk 🆚 Naestved🛡️|🛡️00:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gutersloh 🆚 Sportfreunde Lotte🛡️|🛡️00:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dusseldorf II 🆚 Siegen Sportfreunde🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️US Orléans 🆚 Quevilly Rouen Métropole🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Enkoping 🆚 FC Arlanda🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stade Briochin 🆚 Concarneau🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bonner 🆚 SC Paderborn 07 II🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chateauroux 🆚 Fleury Merogis U.S.🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Rouen 🆚 Aubagne🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Rapperswil-Jona 🆚 Etoile Carouge🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Valenciennes 🆚 Dijon🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Le Puy Foot 43 Auvergne 🆚 Versailles 78🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sochaux 🆚 Bresse Péronnas 01🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fotbal Club FCSB 🆚 Petrolul Ploiesti🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Blau Weiss Linz 🆚 Rheindorf Altach🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caen 🆚 Villefranche🛡️|🛡️00:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dusseldorf II 🆚 Siegen Sportfreunde🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️US Orléans 🆚 Quevilly Rouen Métropole🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Enkoping 🆚 FC Arlanda🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Briochin 🆚 Concarneau🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bonner 🆚 SC Paderborn 07 II🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chateauroux 🆚 Fleury Merogis U.S.🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Rouen 🆚 Aubagne🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Rapperswil-Jona 🆚 Etoile Carouge🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Valenciennes 🆚 Dijon🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Le Puy Foot 43 Auvergne 🆚 Versailles 78🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sochaux 🆚 Bresse Péronnas 01🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fotbal Club FCSB 🆚 Petrolul Ploiesti🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Blau Weiss Linz 🆚 Rheindorf Altach🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Caen 🆚 Villefranche🛡️|🛡️00:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Cambuur Leeuwarden 🆚 Vitesse Arnhem🛡️|🛡️01:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham U21 🆚 West Ham United U21🛡️|🛡️01:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Annecy 🆚 Pau FC🛡️|🛡️01:00 25/04/2026🛡️ otomatis masuk jadwal
