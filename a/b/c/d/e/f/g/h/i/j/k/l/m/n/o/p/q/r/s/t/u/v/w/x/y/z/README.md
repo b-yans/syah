@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 13:21 WIB
+**Diperbarui pada:** 24-04-2026 13:24 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -201,14 +201,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
-- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
+- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
@@ -1391,8 +1391,8 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Papua New Guinea U16 (W) 🆚 Cook Islands U16 Women🛡️|🛡️11:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
@@ -1462,6 +1462,7 @@
 -  **[KS]** MNCTV tidak cocok id epg
 -  **[KS]** Universitas Cenderawasih vs Politeknik Perkapalan Negeri Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Moto3 Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** 3rd Place Laos vs Australia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Quarterfinals tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
