@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 03:57 WIB
+**Diperbarui pada:** 25-04-2026 04:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -26,8 +26,10 @@
 - ⚠️ **[FZ]** CA: SportsNet One cocok [fz] (470873)
 - ⚠️ **[FZ]** CA: SportsNet World cocok [fz] (470920)
 - ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
+- ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** CL: TNT Sports 2 cocok [fz] (400480)
 - ⚠️ **[FZ]** CO: FOX Sports 1 cocok [fz] (465248)
+- ⚠️ **[FZ]** CO: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** HR: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** HR: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** HR: Arena Sport 3 cocok [fz] (381849)
@@ -51,7 +53,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 10 cocok [fz] (459106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
-- ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
@@ -79,7 +80,9 @@
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
+- ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
+- ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
@@ -173,6 +176,7 @@
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** US: Eleven Sports cocok [fz] (6336)
 - ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
+- ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
@@ -182,6 +186,7 @@
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
+- ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -326,12 +331,10 @@
 -  **[KS]** CAR: TVJ Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports tidak cocok id epg
 -  **[KS]** CL: DirecTV Sports 2 tidak cocok id epg
--  **[KS]** CL: FOX SPORTS 2 tidak cocok id epg
 -  **[KS]** CL: TNT Sports Premium tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** CO: DirecTV Sports Plus tidak cocok id epg
--  **[KS]** CO: Fox Sports 2 tidak cocok id epg
 -  **[KS]** CO: FOX Sports 3 tidak cocok id epg
 -  **[KS]** CO: Win Sports tidak cocok id epg
 -  **[KS]** CO: Win Sports+ tidak cocok id epg
@@ -402,6 +405,7 @@
 -  **[KS]** FR: beIN Sports Max 5 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
@@ -810,7 +814,6 @@
 -  **[KS]** LA: DirecTV Sports tidak cocok id epg
 -  **[KS]** LA: DirecTV Sports 2 tidak cocok id epg
 -  **[KS]** LA: FOX Sports tidak cocok id epg
--  **[KS]** LA: FOX Sports 2 tidak cocok id epg
 -  **[KS]** LA: FOX Sports 3 tidak cocok id epg
 -  **[KS]** LA: Fox Sports Premium tidak cocok id epg
 -  **[KS]** LA: Golden Premier tidak cocok id epg
@@ -836,7 +839,6 @@
 -  **[KS]** MX: Claro Sports tidak cocok id epg
 -  **[KS]** MX: Claro Sports 2 tidak cocok id epg
 -  **[KS]** MX: Fox Sports tidak cocok id epg
--  **[KS]** MX: Fox Sports 2 tidak cocok id epg
 -  **[KS]** MX: Fox Sports 3 tidak cocok id epg
 -  **[KS]** MX: Golden Premier tidak cocok id epg
 -  **[KS]** NL: Eurosport 1 tidak cocok id epg
@@ -1194,7 +1196,6 @@
 -  **[KS]** US: beIN Sports 8 tidak cocok id epg
 -  **[KS]** US: CBS Sports Network tidak cocok id epg
 -  **[KS]** US: Fanduel Sports Network 10 tidak cocok id epg
--  **[KS]** US: Fox Sports 2 tidak cocok id epg
 -  **[KS]** US: Fox Sports Detroit tidak cocok id epg
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
@@ -1243,7 +1244,6 @@
 -  **[KS]** US: NFL Teams: CBS Bears (WBBM) Chicago IL [VIP] tidak cocok id epg
 -  **[KS]** US: NFL Teams: CBS Bengals (WKRC) Cincinnati OH [VIP] tidak cocok id epg
 -  **[KS]** VE: DirecTV Sports tidak cocok id epg
--  **[KS]** VE: Fox Sports 2 tidak cocok id epg
 -  **[KS]** VE: Fox Sports 3 tidak cocok id epg
 -  **[KS]** AL: Arctic (2018) tidak cocok id epg
 -  **[KS]** AL: Arctic Dogs (2019) tidak cocok id epg
@@ -1390,44 +1390,32 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fulham U21 🆚 West Ham United U21🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kazincbarcika 🆚 MTK Budapest🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hibernian Women 🆚 Celtic Women🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Red Star FC 93 🆚 Guingamp🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Den Bosch 🆚 ADO Den Haag🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Clermont 🆚 Bastia🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SC Cambuur Leeuwarden 🆚 Vitesse Arnhem🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Amiens 🆚 Montpellier Hérault SC🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Lavallois MFC 🆚 Rodez Aveyron🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Annecy 🆚 Pau FC🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Nyonnais 🆚 Vaduz🛡️|🛡️01:15 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FAC WIEN 🆚 SKN St.Polten🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Lorenzo Women 🆚 Social Atletico Television Women🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RB Leipzig 🆚 1. FC Union Berlin🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jagiellonia Bialystok 🆚 Gornik Zabrze🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wisla Krakow 🆚 Puszcza Niepolomice🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FAC WIEN 🆚 SKN St.Polten🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Albacete Balompié SAD 🆚 Eibar🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RB Leipzig 🆚 1. FC Union Berlin🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Partick Thistle Women 🆚 Glasgow City Women🛡️|🛡️01:35 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shelbourne 🆚 Drogheda United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Saint Johnstone 🆚 Raith Rovers🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St. Patricks Athletic 🆚 Bohemians🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Brestois 29 🆚 RC Lens🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shelbourne 🆚 Drogheda United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterford United 🆚 Galway United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napoli 🆚 Cremonese🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napoli 🆚 Cremonese🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cercle Brugge 🆚 FCV Dender EH🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterford United 🆚 Galway United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Saint Johnstone 🆚 Raith Rovers🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Avellino 🆚 Bari🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sunderland 🆚 Nottingham Forest🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sunderland 🆚 Nottingham Forest🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Millwall🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Derry City 🆚 Shamrock Rovers🛡️|🛡️02:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alverca 🆚 FC Arouca🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Afturelding 🆚 IR Reykjavik🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Millwall🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Avellino 🆚 Bari🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Derry City 🆚 Shamrock Rovers🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fylkir 🆚 KFR Aegir🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Afturelding 🆚 IR Reykjavik🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alverca 🆚 FC Arouca🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universidad O&M 🆚 Moca FC🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cumbaya FC 🆚 CD El Nacional🛡️|🛡️03:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ otomatis masuk jadwal
