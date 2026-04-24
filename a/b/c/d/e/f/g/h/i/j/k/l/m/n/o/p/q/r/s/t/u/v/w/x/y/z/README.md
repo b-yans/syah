@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 14:53 WIB
+**Diperbarui pada:** 24-04-2026 14:58 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,21 +1390,22 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OConnor Knights U23 🆚 Brindabella Blues FC U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles U23 🆚 Tuggeranong United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queanbeyan City U23 🆚 Belconnen United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monaro Panthers U23 🆚 Canberra Olympic U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra Croatia FC U23 🆚 Cooma Tigers U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** [24 Apr 2026 14:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1422,6 +1423,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
@@ -1471,7 +1473,7 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
 -  **[KS]** Universitas Cenderawasih vs Politeknik Perkapalan Negeri Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Moto3 Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Moto2 Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** 3rd Place Laos vs Australia ASEAN U17 Boys Championship tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Quarterfinals tidak cocok id epg
 -  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
