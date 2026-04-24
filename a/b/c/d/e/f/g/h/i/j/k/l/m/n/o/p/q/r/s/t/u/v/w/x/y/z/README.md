@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 11:25 WIB
+**Diperbarui pada:** 24-04-2026 11:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -69,7 +69,6 @@
 - ⚠️ **[FZ]** GR: Cosmote Sport 5 [vip] cocok [fz] (476557)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
 - ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
-- ⚠️ **[FZ]** HK: Now Sports 3 cocok [fz] (532233)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
@@ -732,6 +731,7 @@
 -  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
 -  **[KS]** HK: Now Sports 2 tidak cocok id epg
+-  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 4 tidak cocok id epg
 -  **[KS]** HK: Now Sports 6 tidak cocok id epg
 -  **[KS]** HK: Now Sports 7 tidak cocok id epg
@@ -1390,11 +1390,11 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Papua New Guinea U16 (W) 🆚 Cook Islands U16 Women🛡️|🛡️11:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** [24 Apr 2026 08:55 WIB] diblokir (KADALUARSA)
