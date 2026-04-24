@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 18:02 WIB
+**Diperbarui pada:** 24-04-2026 18:07 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1423,7 +1423,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan B 🆚 Qingdao Red Lions🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** [24 Apr 2026 16:55 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1489,10 +1489,9 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Negeri Surabaya vs Universitas Kristen Petra Grup B Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** 3rd Place Laos vs Australia ASEAN U17 Boys Championship tidak cocok id epg
--  **[KS]** MotoGP Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Universitas Brawijaya vs Universitas Negeri Malang Grup C Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Quarterfinals tidak cocok id epg
+-  **[KS]** Moto3 Practice Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
 -  **[KS]** PERSIB vs Arema FC BRI Super League tidak cocok id epg
 
