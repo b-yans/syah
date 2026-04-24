@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 16:26 WIB
+**Diperbarui pada:** 24-04-2026 16:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1396,21 +1396,20 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OConnor Knights U23 🆚 Brindabella Blues FC U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monaro Panthers U23 🆚 Canberra Olympic U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles U23 🆚 Tuggeranong United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra Croatia FC U23 🆚 Cooma Tigers U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queanbeyan City U23 🆚 Belconnen United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️OConnor Knights U23 🆚 Brindabella Blues FC U23🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monaro Panthers U23 🆚 Canberra Olympic U23🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra White Eagles U23 🆚 Tuggeranong United U23🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra Croatia FC U23 🆚 Cooma Tigers U23🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Queanbeyan City U23 🆚 Belconnen United U23🛡️|🛡️14:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jiangsu Changjin 🆚 Ji'nan Linksafe🛡️|🛡️15:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Nanjing Longsheng🛡️|🛡️15:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lambton Jaffas Reserves 🆚 Cooks Hill United Reserves🛡️|🛡️15:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Broadmeadow Magic Reserves 🆚 Maitland FC Reserves🛡️|🛡️15:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Persatuan Sepakbola Indonesia Jepara 🆚 PSBS Biak Numfor🛡️|🛡️15:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dong Thap 🆚 Khatoco Khanh Hoa🛡️|🛡️16:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hoang Anh Gia Lai 🆚 XM Hai Phong FC🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** [24 Apr 2026 14:25 WIB] diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1476,11 +1475,10 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Cenderawasih vs Politeknik Perkapalan Negeri Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Moto2 Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Universitas Negeri Surabaya vs Universitas Kristen Petra Grup B Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** 3rd Place Laos vs Australia ASEAN U17 Boys Championship tidak cocok id epg
+-  **[KS]** MotoGP Free Practice 1 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Quarterfinals tidak cocok id epg
--  **[KS]** PERSIJAP vs PSBS Biak BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIB vs Arema FC BRI Super League tidak cocok id epg
 -  **[KS]** PERSIB vs Arema FC BRI Super League tidak cocok id epg
 
