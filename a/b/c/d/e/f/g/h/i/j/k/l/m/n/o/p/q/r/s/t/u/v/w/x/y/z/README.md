@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 03:14 WIB
+**Diperbarui pada:** 25-04-2026 03:20 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1414,7 +1414,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Clermont 🆚 Bastia🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Lavallois MFC 🆚 Rodez Aveyron🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Den Bosch 🆚 ADO Den Haag🛡️|🛡️01:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stade Nyonnais 🆚 Vaduz🛡️|🛡️01:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Nyonnais 🆚 Vaduz🛡️|🛡️01:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jagiellonia Bialystok 🆚 Gornik Zabrze🛡️|🛡️01:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Albacete Balompié SAD 🆚 Eibar🛡️|🛡️01:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Leipzig 🆚 1. FC Union Berlin🛡️|🛡️01:30 25/04/2026🛡️ otomatis masuk jadwal
