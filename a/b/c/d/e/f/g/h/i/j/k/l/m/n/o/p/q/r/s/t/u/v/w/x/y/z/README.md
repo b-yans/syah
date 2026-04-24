@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 20:29 WIB
+**Diperbarui pada:** 24-04-2026 20:35 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -151,7 +151,6 @@
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** TR: beIN Sports 2 cocok [fz] (524174)
@@ -1052,6 +1051,7 @@
 -  **[KS]** CH: MySports 8 tidak cocok id epg
 -  **[KS]** CH: MySports 9 tidak cocok id epg
 -  **[KS]** CH: MySports EDGE [vip] tidak cocok id epg
+-  **[KS]** CH: V Sport Live 1 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 1 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 3 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 4 tidak cocok id epg
@@ -1399,31 +1399,24 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shandong Taishan B 🆚 Qingdao Red Lions🛡️|🛡️18:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Taraz 🆚 FK Yelimay Semey B🛡️|🛡️18:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PVF-CAND B 🆚 Van Hien University🛡️|🛡️18:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Northeast United 🆚 FC Goa🛡️|🛡️18:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tampines Rovers FC 🆚 Young Lions🛡️|🛡️18:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hangzhou Linping Wuyue 🆚 Guangzhou Dandelion Alpha🛡️|🛡️18:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng B 🆚 Ganzhou Ruishi🛡️|🛡️18:35 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Northeast United 🆚 FC Goa🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampines Rovers FC 🆚 Young Lions🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hangzhou Linping Wuyue 🆚 Guangzhou Dandelion Alpha🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng B 🆚 Ganzhou Ruishi🛡️|🛡️18:35 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Polissya Zhytomyr U21 🆚 Obolon Kiev U21🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Persib Bandung 🆚 Arema FC🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LNZ Cherkasy U21 🆚 Metalist 1925 Kharkiv(U21)🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kryvbas U21 🆚 Dinamo Kyiv U21🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hóa chất Đức Giang Lào Cai 🆚 VTV Bình Điền Long An🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️U17 Việt Nam 🆚 U17 Malaysia🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Malaysia U17 🆚 Vietnam U17🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hang Sai 🆚 S.L. Benfica de Macau🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kelantan The Real Warriors 🆚 Selangor FC🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Khan Tengri FC 🆚 Jaiyq🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rajasthan United FC 🆚 Sreenidi Deccan🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shurtan Guzor 🆚 Yaypan FK🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [24 Apr 2026 19:25 WIB] otomatis masuk jadwal
-- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
--  **[KS]** MNC TV tidak cocok id epg
--  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** TVRI Sports tidak cocok id epg
 -  **[KS]** Historical Sports tidak cocok id epg
@@ -1435,17 +1428,8 @@
 -  **[KS]** Xtrem Sports tidak cocok id epg
 -  **[KS]** INDOSIAR+ tidak cocok id epg
 -  **[KS]** SCTV+ tidak cocok id epg
--  **[KS]** SPORTSTARS 2+ tidak cocok id epg
--  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
--  **[KS]** SPOTV 2+ tidak cocok id epg
--  **[KS]** SPOTV+ tidak cocok id epg
--  **[KS]** BEIN SPORTS 1 tidak cocok id epg
--  **[KS]** BEIN SPORTS 2 tidak cocok id epg
--  **[KS]** BEIN SPORTS 3 tidak cocok id epg
 -  **[KS]** BEIN SPORTS 4 tidak cocok id epg
 -  **[KS]** BEIN SPORTS 5 tidak cocok id epg
--  **[KS]** CBS Champions tidak cocok id epg
 -  **[KS]** CBS Sports HQ tidak cocok id epg
 -  **[KS]** Champions Figth tidak cocok id epg
 -  **[KS]** Champions TV1 tidak cocok id epg
@@ -1460,28 +1444,17 @@
 -  **[KS]** FOX SPORTS 2 tidak cocok id epg
 -  **[KS]** FOX SPORTS 3 tidak cocok id epg
 -  **[KS]** FOX SPORTS PREMIUM tidak cocok id epg
--  **[KS]** FUBO SPORTS 1 tidak cocok id epg
--  **[KS]** FUBO SPORTS 2 tidak cocok id epg
 -  **[KS]** NBA TV tidak cocok id epg
--  **[KS]** Nova Sport 1 tidak cocok id epg
--  **[KS]** ONE SPORTS HD tidak cocok id epg
--  **[KS]** ONE SPORTS+ tidak cocok id epg
 -  **[KS]** Prima Sport 1 tidak cocok id epg
--  **[KS]** Prima Sport 2 tidak cocok id epg
--  **[KS]** Prima Sport 3 tidak cocok id epg
 -  **[KS]** Prima Sport 4 tidak cocok id epg
 -  **[KS]** Spectrum Sportsnet La tidak cocok id epg
--  **[KS]** SPORT 1 tidak cocok id epg
--  **[KS]** SPORT 2 tidak cocok id epg
 -  **[KS]** Sports TV tidak cocok id epg
--  **[KS]** SPORTSTARTS 3 tidak cocok id epg
 -  **[KS]** SPOTV tidak cocok id epg
 -  **[KS]** Tennis Channel tidak cocok id epg
 -  **[KS]** TNT Sports tidak cocok id epg
 -  **[KS]** TNT Sports 2 tidak cocok id epg
 -  **[KS]** TNT Sports 3 tidak cocok id epg
 -  **[KS]** TNT Sports 4 tidak cocok id epg
--  **[KS]** Nova Sport 2 tidak cocok id epg
 -  **[KS]** INDOSIAR tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
