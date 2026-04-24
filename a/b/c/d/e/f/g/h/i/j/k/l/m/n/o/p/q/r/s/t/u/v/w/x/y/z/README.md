@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 14:47 WIB
+**Diperbarui pada:** 24-04-2026 14:53 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,12 +1392,12 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles U23 🆚 Tuggeranong United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queanbeyan City U23 🆚 Belconnen United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
