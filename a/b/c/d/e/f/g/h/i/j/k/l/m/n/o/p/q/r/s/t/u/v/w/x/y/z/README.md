@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 19:52 WIB
+**Diperbarui pada:** 24-04-2026 19:57 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1412,6 +1412,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brisbane Strikers 🆚 St George Willawong FC🛡️|🛡️17:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Taraz 🆚 FK Yelimay Semey B🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan B 🆚 Qingdao Red Lions🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PVF-CAND B 🆚 Van Hien University🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayswater City 🆚 Perth SC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
@@ -1425,8 +1426,12 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LNZ Cherkasy U21 🆚 Metalist 1925 Kharkiv(U21)🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hóa chất Đức Giang Lào Cai 🆚 VTV Bình Điền Long An🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Malaysia U17 🆚 Vietnam U17🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️U17 Việt Nam 🆚 U17 Malaysia🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [24 Apr 2026 19:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1444,6 +1449,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
