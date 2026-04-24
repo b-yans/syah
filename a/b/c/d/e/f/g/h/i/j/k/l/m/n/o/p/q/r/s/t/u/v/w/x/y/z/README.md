@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 05:56 WIB
+**Diperbarui pada:** 25-04-2026 06:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -9,7 +9,6 @@
 - ⚠️ **[FZ]** AU: Fox Sports 502 cocok [fz] (537762)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
-- ⚠️ **[FZ]** AU: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
@@ -80,7 +79,6 @@
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
@@ -89,7 +87,6 @@
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
-- ⚠️ **[FZ]** NZ: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
 - ⚠️ **[FZ]** NO: TV 2 Sport 1 cocok [fz] (412749)
 - ⚠️ **[FZ]** NO: V Sport + cocok [fz] (481079)
@@ -156,6 +153,7 @@
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
+- ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** TR: beIN Sports 2 cocok [fz] (524174)
@@ -166,7 +164,6 @@
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
 - ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
@@ -271,6 +268,7 @@
 -  **[KS]** AU: Sky Sport 7 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 8 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 9 tidak cocok id epg
+-  **[KS]** AU: Sky Sport Select tidak cocok id epg
 -  **[KS]** AT: ORF Sport+ tidak cocok id epg
 -  **[KS]** AT: ORF SPORT+ [SAT] [VIP] tidak cocok id epg
 -  **[KS]** AT: Sky Sport 2 tidak cocok id epg
@@ -756,6 +754,7 @@
 -  **[KS]** IE: Sky Sports Arena tidak cocok id epg
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
 -  **[KS]** IE: Sky Sports Golf tidak cocok id epg
+-  **[KS]** IE: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
 -  **[KS]** IE: Sky Sports Premier League tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
@@ -857,6 +856,7 @@
 -  **[KS]** NZ: Sky Sport 7 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 8 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 9 tidak cocok id epg
+-  **[KS]** NZ: Sky Sport Select tidak cocok id epg
 -  **[KS]** NO: eurosport 1 tidak cocok id epg
 -  **[KS]** NO: eurosport 2 tidak cocok id epg
 -  **[KS]** NO: eurosport Norge tidak cocok id epg
@@ -1050,7 +1050,6 @@
 -  **[KS]** CH: MySports 8 tidak cocok id epg
 -  **[KS]** CH: MySports 9 tidak cocok id epg
 -  **[KS]** CH: MySports EDGE [vip] tidak cocok id epg
--  **[KS]** CH: V Sport Live 1 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 1 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 3 tidak cocok id epg
 -  **[KS]** TH: True Premiere Football 4 tidak cocok id epg
@@ -1128,6 +1127,7 @@
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Mix tidak cocok id epg
 -  **[KS]** UK: Sky Sports Mix [vip] tidak cocok id epg
@@ -1395,7 +1395,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cumbaya FC 🆚 CD El Nacional🛡️|🛡️03:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Racing Louisville Women 🆚 Orlando Pride Women🛡️|🛡️04:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
