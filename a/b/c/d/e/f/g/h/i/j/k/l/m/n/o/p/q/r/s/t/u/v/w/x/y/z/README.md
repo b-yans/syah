@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 21:34 WIB
+**Diperbarui pada:** 24-04-2026 21:40 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,36 +1390,33 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampines Rovers FC 🆚 Young Lions🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hangzhou Linping Wuyue 🆚 Guangzhou Dandelion Alpha🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Northeast United 🆚 FC Goa🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng B 🆚 Ganzhou Ruishi🛡️|🛡️18:35 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LNZ Cherkasy U21 🆚 Metalist 1925 Kharkiv(U21)🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kryvbas U21 🆚 Dinamo Kyiv U21🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Persib Bandung 🆚 Arema FC🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Polissya Zhytomyr U21 🆚 Obolon Kiev U21🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Malaysia U17 🆚 Vietnam U17🛡️|🛡️19:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️U17 Việt Nam 🆚 U17 Malaysia🛡️|🛡️19:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shurtan Guzor 🆚 Yaypan FK🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kelantan The Real Warriors 🆚 Selangor FC🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Khan Tengri FC 🆚 Jaiyq🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rajasthan United FC 🆚 Sreenidi Deccan🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hang Sai 🆚 S.L. Benfica de Macau🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Krylya Sovetov Samara Women 🆚 CSKA Moscow Women🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Majd FC 🆚 Al Thaid🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kelantan The Real Warriors 🆚 Selangor FC🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shurtan Guzor 🆚 Yaypan FK🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Khan Tengri FC 🆚 Jaiyq🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rajasthan United FC 🆚 Sreenidi Deccan🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dibba Al-Hisn 🆚 Al Arabi(UAE)🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Emirates Club 🆚 Masfout🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ahli Al-Fujirah 🆚 Al-Ittifaq Dubai🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Jazira Al-Hamra 🆚 Al-Hamriyah🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xorazm Urganch 🆚 Neftchi Fergana🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Emirates Club 🆚 Masfout🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Majd FC 🆚 Al Thaid🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ahli Al-Fujirah 🆚 Al-Ittifaq Dubai🛡️|🛡️20:55 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pharco 🆚 El Gounah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Dhafra 🆚 Ajman🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bank El Ahly 🆚 ZED FC🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Wasl SC 🆚 Dabba Al-Fujairah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Wasl SC 🆚 Dabba Al-Fujairah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xorazm Urganch 🆚 Neftchi Fergana🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Dhafra 🆚 Ajman🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Muharraq 🆚 Al-Riffa🛡️|🛡️21:20 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hermannstadt 🆚 FK Csikszereda Miercurea Ciuc🛡️|🛡️21:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Công an TPHCM 🆚 Thể Công Tân Cảng 🛡️|🛡️21:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** [24 Apr 2026 19:25 WIB] diblokir (KADALUARSA)
