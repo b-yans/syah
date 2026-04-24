@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 09:22 WIB
+**Diperbarui pada:** 24-04-2026 09:28 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,20 +1391,20 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
