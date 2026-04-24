@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 05:06 WIB
+**Diperbarui pada:** 25-04-2026 05:11 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,8 +1393,8 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Afturelding 🆚 IR Reykjavik🛡️|🛡️02:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Alverca 🆚 FC Arouca🛡️|🛡️02:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fylkir 🆚 KFR Aegir🛡️|🛡️02:15 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad O&M 🆚 Moca FC🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cumbaya FC 🆚 CD El Nacional🛡️|🛡️03:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ otomatis masuk jadwal
@@ -1470,15 +1470,14 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Napoli vs Cremonese Serie A tidak cocok id epg
--  **[KS]** Real Betis vs Real Madrid LaLiga tidak cocok id epg
--  **[KS]** Sunderland vs Nottingham Forest Premier League tidak cocok id epg
 -  **[KS]** Round 2 Night Session The Chevron Championship 2026 tidak cocok id epg
 -  **[KS]** Day 2 NFL Draft 2026 tidak cocok id epg
 -  **[KS]** Universitas Ciputra Surabaya vs Universitas Airlangga Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** PUTRI TANGSEL CITY vs DIKLAT PUTRI KOTA TANGERANG HYDROPLUS Soccer League U15 tidak cocok id epg
 -  **[KS]** Japan vs South Africa BWF Uber Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
 -  **[KS]** Moto3 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Persela Lamongan vs PS Barito Putera Pegadaian Championship tidak cocok id epg
+-  **[KS]** Sriwijaya FC vs Garudayaksa FC Pegadaian Championship tidak cocok id epg
 -  **[KS]** Madura United FC vs Dewa United Banten FC BRI Super League tidak cocok id epg
 
 ---
