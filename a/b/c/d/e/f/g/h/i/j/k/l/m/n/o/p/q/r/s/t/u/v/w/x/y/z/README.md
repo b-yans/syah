@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 04:07 WIB
+**Diperbarui pada:** 25-04-2026 04:13 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,33 +1392,32 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Nyonnais 🆚 Vaduz🛡️|🛡️01:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Lorenzo Women 🆚 Social Atletico Television Women🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jagiellonia Bialystok 🆚 Gornik Zabrze🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wisla Krakow 🆚 Puszcza Niepolomice🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FAC WIEN 🆚 SKN St.Polten🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Albacete Balompié SAD 🆚 Eibar🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RB Leipzig 🆚 1. FC Union Berlin🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FAC WIEN 🆚 SKN St.Polten🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wisla Krakow 🆚 Puszcza Niepolomice🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jagiellonia Bialystok 🆚 Gornik Zabrze🛡️|🛡️01:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Partick Thistle Women 🆚 Glasgow City Women🛡️|🛡️01:35 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shelbourne 🆚 Drogheda United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Saint Johnstone 🆚 Raith Rovers🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St. Patricks Athletic 🆚 Bohemians🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Brestois 29 🆚 RC Lens🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shelbourne 🆚 Drogheda United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterford United 🆚 Galway United🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napoli 🆚 Cremonese🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napoli 🆚 Cremonese🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cercle Brugge 🆚 FCV Dender EH🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stade Brestois 29 🆚 RC Lens🛡️|🛡️01:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Leicester City 🆚 Millwall🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Avellino 🆚 Bari🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Betis 🆚 Real Madrid🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Derry City 🆚 Shamrock Rovers🛡️|🛡️02:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alverca 🆚 FC Arouca🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fylkir 🆚 KFR Aegir🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Afturelding 🆚 IR Reykjavik🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alverca 🆚 FC Arouca🛡️|🛡️02:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universidad O&M 🆚 Moca FC🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Riestra 🆚 CA Independiente🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bolivia (w) U17 🆚 Chile Women U17🛡️|🛡️03:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cumbaya FC 🆚 CD El Nacional🛡️|🛡️03:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Nacional Asuncion 🆚 Deportivo Recoleta🛡️|🛡️03:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
