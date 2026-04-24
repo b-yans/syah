@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 06:57 WIB
+**Diperbarui pada:** 24-04-2026 07:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -13,7 +13,6 @@
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
-- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
@@ -295,6 +294,7 @@
 -  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
 -  **[KS]** BE: Eurosport 2 tidak cocok id epg
+-  **[KS]** BE: Play Sports 1 tidak cocok id epg
 -  **[KS]** BE: Play Sports 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
@@ -1390,17 +1390,19 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Palmira Women 🆚 Fortaleza CEIF FC Women🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Talleres Cordoba Reserve 🆚 Belgrano Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gimnasia Mendoza Reserves 🆚 Independiente Rivadavia Reserves🛡️|🛡️04:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sportvereniging Notch 🆚 Broki🛡️|🛡️04:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios Women 🆚 Llaneros Women🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlético Mineiro - MG 🆚 Ceara🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ituano  SP 🆚 Ferroviaria SP🛡️|🛡️05:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ituano  SP 🆚 Ferroviaria SP🛡️|🛡️05:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Millonarios Women 🆚 Llaneros Women🛡️|🛡️05:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlético Mineiro - MG 🆚 Ceara🛡️|🛡️05:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palmeiras - SP 🆚 EC Jacuipense🛡️|🛡️05:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atlante FC 🆚 Tepatitlan FC🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Defensa Y Justicia 🆚 Boca Juniors🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
