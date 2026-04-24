@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 18:18 WIB
+**Diperbarui pada:** 24-04-2026 18:24 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1404,12 +1404,10 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles 🆚 Tuggeranong United🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Rahmatgonj MFS🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macarthur FC 🆚 Wellington Phoenix🛡️|🛡️16:35 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macarthur FC 🆚 Wellington Phoenix🛡️|🛡️16:35 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dandenong City SC 🆚 Dandenong Thunder🛡️|🛡️16:45 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Broadmeadow Magic 🆚 Maitland🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lambton Jarvis 🆚 Cooks Hill United🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Albans Saints 🆚 South Melbourne🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hoang Anh Gia Lai 🆚 XM Hai Phong FC🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hoang Anh Gia Lai 🆚 XM Hai Phong FC🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kolos Kovalivka U21 🆚 SC Poltava U21🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Women 🆚 Charlestown Azzuri Women🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
@@ -1427,7 +1425,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayswater City 🆚 Perth SC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PVF-CAND B 🆚 Van Hien University🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Taraz 🆚 FK Yelimay Semey B🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [24 Apr 2026 16:55 WIB] otomatis masuk jadwal
