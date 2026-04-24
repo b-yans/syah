@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 18:24 WIB
+**Diperbarui pada:** 24-04-2026 18:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -75,7 +75,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
 - ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
-- ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
@@ -748,6 +747,7 @@
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: RCTI tidak cocok id epg
 -  **[KS]** ID: SCTV tidak cocok id epg
+-  **[KS]** ID: SpoTV tidak cocok id epg
 -  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
@@ -1392,22 +1392,24 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Persatuan Sepakbola Indonesia Jepara 🆚 PSBS Biak Numfor🛡️|🛡️15:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dong Thap 🆚 Khatoco Khanh Hoa🛡️|🛡️16:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queanbeyan City 🆚 Belconnen United🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brisbane Olympic United FC 🆚 Magic United TFA🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sydney FC Youth 🆚 Sutherland Sharks🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️OConnor Knights 🆚 Brindabella Blues FC🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Heidelberg United 🆚 Avondale FC🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monaro Panthers 🆚 Canberra Olympic🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Abahani Limited Dhaka 🆚 Fortis FC🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra FC 🆚 Cooma Tigers🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Green Gully Cavaliers 🆚 Preston Lions🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles 🆚 Tuggeranong United🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Rahmatgonj MFS🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Queanbeyan City 🆚 Belconnen United🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brisbane Olympic United FC 🆚 Magic United TFA🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sydney FC Youth 🆚 Sutherland Sharks🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️OConnor Knights 🆚 Brindabella Blues FC🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Heidelberg United 🆚 Avondale FC🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monaro Panthers 🆚 Canberra Olympic🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Abahani Limited Dhaka 🆚 Fortis FC🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra FC 🆚 Cooma Tigers🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Green Gully Cavaliers 🆚 Preston Lions🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra White Eagles 🆚 Tuggeranong United🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Arambagh KS 🆚 Rahmatgonj MFS🛡️|🛡️16:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macarthur FC 🆚 Wellington Phoenix🛡️|🛡️16:35 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macarthur FC 🆚 Wellington Phoenix🛡️|🛡️16:35 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dandenong City SC 🆚 Dandenong Thunder🛡️|🛡️16:45 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Broadmeadow Magic 🆚 Maitland🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lambton Jarvis 🆚 Cooks Hill United🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Albans Saints 🆚 South Melbourne🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hoang Anh Gia Lai 🆚 XM Hai Phong FC🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hoang Anh Gia Lai 🆚 XM Hai Phong FC🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kolos Kovalivka U21 🆚 SC Poltava U21🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Women 🆚 Charlestown Azzuri Women🛡️|🛡️17:00 24/04/2026🛡️ otomatis masuk jadwal
@@ -1426,8 +1428,10 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PVF-CAND B 🆚 Van Hien University🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Taraz 🆚 FK Yelimay Semey B🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ninh Binh FC 🆚 Hanoi FC🛡️|🛡️18:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [24 Apr 2026 16:55 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1445,6 +1449,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
