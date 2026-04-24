@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 19:14 WIB
+**Diperbarui pada:** 24-04-2026 19:19 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -187,13 +187,13 @@
 - ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[BASI]** AL: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: The 15.17 To Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
-- ⚠️ **[BASI]** PT: The 15:17 to Paris diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
@@ -1416,7 +1416,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Adelaide Olympic 🆚 Adelaide Blue Eagles🛡️|🛡️17:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sheger Ketema (w) 🆚 Lideta Sub City Women🛡️|🛡️17:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St Albans Saints 🆚 South Melbourne🛡️|🛡️17:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Oakleigh Cannons 🆚 Bentleigh greens🛡️|🛡️17:15 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Oakleigh Cannons 🆚 Bentleigh greens🛡️|🛡️17:15 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spring Hills FC Women 🆚 Melbourne Victory FC Youth(W)🛡️|🛡️17:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Queensland Lions Women 🆚 Souths United SC Women🛡️|🛡️17:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bentleigh Greens Women 🆚 Essendon Royals Women🛡️|🛡️17:30 24/04/2026🛡️ otomatis masuk jadwal
