@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 21:13 WIB
+**Diperbarui pada:** 24-04-2026 21:18 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1490,9 +1490,11 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
 -  **[KS]** Final Malaysia vs Vietnam ASEAN U17 Boys Championship tidak cocok id epg
--  **[KS]** Moto2 Practice Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Universitas Surabaya vs Institut Teknologi Sepuluh Nopember Grup D Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** MotoGP Practice Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Brussels P2 Premier Padel 2026 Quarterfinals tidak cocok id epg
+-  **[KS]** Round 2 Day Session The Chevron Championship 2026 tidak cocok id epg
+-  **[KS]** Final Game 2 Galatasaray HDI Sigorta vs Ziraat Bankkart Turkish Mens Volleyball League tidak cocok id epg
 -  **[KS]** Madura United FC vs Dewa United Banten FC BRI Super League tidak cocok id epg
 
 ---
