@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 09:33 WIB
+**Diperbarui pada:** 24-04-2026 09:39 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -7,12 +7,12 @@
 - ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
-- ⚠️ **[FZ]** AU: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** AU: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
+- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
@@ -42,18 +42,21 @@
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** CZ: Sport 1 cocok [fz] (426490)
+- ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
+- ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
+- ⚠️ **[FZ]** FR: beIN Sports 2 cocok [fz] (524174)
+- ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
-- ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
 - ⚠️ **[FZ]** FR: CANAL+ Sport cocok [fz] (521272)
+- ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
-- ⚠️ **[FZ]** DE: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
+- ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
@@ -63,21 +66,27 @@
 - ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fz] (76707)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
+- ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
+- ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
+- ⚠️ **[FZ]** GR: Cosmote Sport 5 cocok [fz] (476557)
+- ⚠️ **[FZ]** GR: Cosmote Sport 5 [vip] cocok [fz] (476557)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
 - ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
+- ⚠️ **[FZ]** HK: Now Sports 3 cocok [fz] (532233)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
-- ⚠️ **[FZ]** HU: Sport 1 cocok [fz] (426490)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
+- ⚠️ **[FZ]** IN: Star Sports 1 cocok [fz] (464285)
+- ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
 - ⚠️ **[EXACT]** ID: Indosiar cocok (Indosiar.id)
 - ⚠️ **[EXACT]** ID: SCTV cocok (SCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Premier Sports 2 cocok [fz] (408658)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
+- ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** IT: Super Tennis cocok [fz] (5816)
@@ -86,7 +95,6 @@
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
 - ⚠️ **[FZ]** NL: Fox Sports 1 cocok [fz] (465248)
-- ⚠️ **[FZ]** NZ: Sky Sport 1 cocok [fz] (403251)
 - ⚠️ **[FZ]** NZ: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** NZ: Sky Sport Select cocok [fz] (406533)
 - ⚠️ **[FZ]** NO: V Sport Premier League cocok [fz] (503053)
@@ -96,13 +104,16 @@
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** PK: T Sports cocok [fz] (405715)
+- ⚠️ **[FZ]** PH: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[EXACT]** PT: SPORT TV + cocok (405715)
+- ⚠️ **[FZ]** PT: SPORT TV 2 cocok [fz] (7235)
 - ⚠️ **[FZ]** PT: SPORT TV 3 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
 - ⚠️ **[FZ]** PT: SPORT TV 5 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 6 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 7 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: W-Sport cocok [fz] (405715)
+- ⚠️ **[FZ]** QA: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[FZ]** QA: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
@@ -118,6 +129,8 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
+- ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
+- ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
@@ -141,7 +154,9 @@
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
+- ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport cocok [fz] (521272)
+- ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
@@ -153,12 +168,15 @@
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
+- ⚠️ **[FZ]** SE: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
+- ⚠️ **[FZ]** TR: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** UK: Premier Sports 2 cocok [fz] (408658)
+- ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fz] (438445)
+- ⚠️ **[FZ]** UK: Sky Sports Premier League 50fps [vip] cocok [fz] (438445)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Sky Sports Cricket cocok [fz] (6254)
 - ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
@@ -182,8 +200,10 @@
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia cocok [fz] (465037)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
+- ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
+- ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -262,6 +282,7 @@
 -  **[KS]** AU: Fox Sports 504 AFL tidak cocok id epg
 -  **[KS]** AU: Fox Sports 505 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 507 tidak cocok id epg
+-  **[KS]** AU: Sky Sport 1 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 2 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 3 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 5 tidak cocok id epg
@@ -290,7 +311,6 @@
 -  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
 -  **[KS]** BE: Eurosport 2 tidak cocok id epg
--  **[KS]** BE: Play Sports 1 tidak cocok id epg
 -  **[KS]** BE: Play Sports 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
@@ -355,7 +375,6 @@
 -  **[KS]** HR: Sport Klub 8 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 9 tidak cocok id epg
 -  **[KS]** CZ: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 2 tidak cocok id epg
 -  **[KS]** CZ: CT Sport tidak cocok id epg
 -  **[KS]** CZ: Eurosport 1 tidak cocok id epg
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
@@ -363,6 +382,7 @@
 -  **[KS]** CZ: Nova Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
+-  **[KS]** CZ: Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Sport 2 tidak cocok id epg
 -  **[KS]** CZ: Sport 5 tidak cocok id epg
 -  **[KS]** CZ: Canal+ Sport 3 tidak cocok id epg
@@ -375,7 +395,6 @@
 -  **[KS]** DK: TV 2 Sport tidak cocok id epg
 -  **[KS]** DK: TV 2 Sport X tidak cocok id epg
 -  **[KS]** DK: TV 3 Sport tidak cocok id epg
--  **[KS]** DK: V Sport Ultra tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
 -  **[KS]** EG: Nile Sport tidak cocok id epg
@@ -403,16 +422,14 @@
 -  **[KS]** FI: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** FI: V Sport 1 Suomi tidak cocok id epg
 -  **[KS]** FR: beIN Sports 1 tidak cocok id epg
--  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
--  **[KS]** FR: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 5 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 2 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 4 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 5 tidak cocok id epg
@@ -474,6 +491,7 @@
 -  **[KS]** DE: Sky Bundesliga 8 [SPIELTAG] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 9 [SPIELTAG] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport 1 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 10 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 2 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 3 tidak cocok id epg
@@ -486,7 +504,6 @@
 -  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Premier League tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
@@ -602,8 +619,6 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
--  **[KS]** DE: Sportdigital Fussball tidak cocok id epg
--  **[KS]** DE: Sportdigital Fussball [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
 -  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
 -  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
@@ -644,8 +659,6 @@
 -  **[KS]** GR: Cosmote Sport 3 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 4 tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 4 [vip] tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 tidak cocok id epg
--  **[KS]** GR: Cosmote Sport 5 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 6 tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 6 [vip] tidak cocok id epg
 -  **[KS]** GR: Cosmote Sport 7 tidak cocok id epg
@@ -723,7 +736,6 @@
 -  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
 -  **[KS]** HK: Now Sports 2 tidak cocok id epg
--  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 4 tidak cocok id epg
 -  **[KS]** HK: Now Sports 6 tidak cocok id epg
 -  **[KS]** HK: Now Sports 7 tidak cocok id epg
@@ -731,12 +743,11 @@
 -  **[KS]** HU: Eurosport 1 tidak cocok id epg
 -  **[KS]** HU: Eurosport 2 tidak cocok id epg
 -  **[KS]** HU: M4 Sport tidak cocok id epg
+-  **[KS]** HU: Sport 1 tidak cocok id epg
 -  **[KS]** HU: Sport 2 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
--  **[KS]** IN: Star Sports 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports 2 tidak cocok id epg
--  **[KS]** IN: Star Sports 3 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
 -  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
@@ -754,11 +765,11 @@
 -  **[KS]** IQ: Al Rabiaa Sport 2 tidak cocok id epg
 -  **[KS]** IQ: Anbar TV tidak cocok id epg
 -  **[KS]** IQ: Iraqia Sport tidak cocok id epg
+-  **[KS]** IE: Premier Sports 2 tidak cocok id epg
 -  **[KS]** IE: Sky Sports Arena tidak cocok id epg
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
 -  **[KS]** IE: Sky Sports Golf tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
--  **[KS]** IE: Sky Sports Premier League tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
 -  **[KS]** IL: Eurosport 1 tidak cocok id epg
 -  **[KS]** IL: Yes Sport 1 tidak cocok id epg
@@ -849,6 +860,7 @@
 -  **[KS]** NL: Ziggo Sport Select tidak cocok id epg
 -  **[KS]** NL: Ziggo Sport Tennis (Ziggo Sport 4) tidak cocok id epg
 -  **[KS]** NL: Ziggo Sport Voetbal (Ziggo Sport 2) tidak cocok id epg
+-  **[KS]** NZ: Sky Sport 1 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 2 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 3 tidak cocok id epg
 -  **[KS]** NZ: Sky Sport 5 tidak cocok id epg
@@ -873,7 +885,6 @@
 -  **[KS]** PY: Tigo Sports Plus tidak cocok id epg
 -  **[KS]** PE: Liga 1 Max tidak cocok id epg
 -  **[KS]** PH: beIN Sports 1 tidak cocok id epg
--  **[KS]** PH: beIN Sports 2 tidak cocok id epg
 -  **[KS]** PH: beIN Sports 3 tidak cocok id epg
 -  **[KS]** PH: One Sports tidak cocok id epg
 -  **[KS]** PH: One Sports + tidak cocok id epg
@@ -906,13 +917,11 @@
 -  **[KS]** PT: Eurosport 1 tidak cocok id epg
 -  **[KS]** PT: Eurosport 2 tidak cocok id epg
 -  **[KS]** PT: SPORT TV 1 tidak cocok id epg
--  **[KS]** PT: SPORT TV 2 tidak cocok id epg
 -  **[KS]** PT: SPORT TV NBA tidak cocok id epg
 -  **[KS]** PT: Sporting TV tidak cocok id epg
 -  **[KS]** PT: Kombat Sport tidak cocok id epg
 -  **[KS]** PT: NBA TV tidak cocok id epg
 -  **[KS]** QA: beIN Sports 1 tidak cocok id epg
--  **[KS]** QA: beIN Sports 2 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 3 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 4 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 5 tidak cocok id epg
@@ -936,10 +945,8 @@
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 2 tidak cocok id epg
--  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 5 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
--  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
 -  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
@@ -975,9 +982,7 @@
 -  **[KS]** SI: SPORT TV 3 tidak cocok id epg
 -  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
--  **[KS]** ZA: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 2 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
@@ -1019,7 +1024,6 @@
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
 -  **[KS]** SE: V Sport Extra tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
--  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
 -  **[KS]** CH: Blue Sport 1 tidak cocok id epg
 -  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
@@ -1059,7 +1063,6 @@
 -  **[KS]** TH: True Sport 3 tidak cocok id epg
 -  **[KS]** TH: True Sport 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 1 tidak cocok id epg
--  **[KS]** TR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
@@ -1110,10 +1113,9 @@
 -  **[KS]** UK: Hub Premier 5 tidak cocok id epg
 -  **[KS]** UK: Hub Premier 6 tidak cocok id epg
 -  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Premier Sports 2 tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Premier League tidak cocok id epg
--  **[KS]** UK: Sky Sports Premier League 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports+ tidak cocok id epg
 -  **[KS]** UK: Eurosport 1 tidak cocok id epg
 -  **[KS]** UK: Eurosport 2 tidak cocok id epg
@@ -1211,9 +1213,7 @@
 -  **[KS]** US: NFL Network tidak cocok id epg
 -  **[KS]** US: NFL RedZone tidak cocok id epg
 -  **[KS]** US: Root Sports tidak cocok id epg
--  **[KS]** US: Spectrum SportsNet tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
--  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
 -  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
@@ -1390,21 +1390,21 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
