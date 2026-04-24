@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 00:34 WIB
+**Diperbarui pada:** 25-04-2026 00:40 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -50,7 +50,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 9 cocok [fz] (459142)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
-- ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
@@ -137,7 +136,6 @@
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
-- ⚠️ **[FZ]** ZA: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
 - ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
@@ -409,6 +407,7 @@
 -  **[KS]** FR: CANAL+ Sport tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
+-  **[KS]** FR: CANAL+ Sport 360 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 4 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 5 tidak cocok id epg
 -  **[KS]** FR: Eurosport 1 tidak cocok id epg
@@ -980,6 +979,7 @@
 -  **[KS]** ZA: CANAL+ Sport tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
+-  **[KS]** ZA: CANAL+ Sport 360 tidak cocok id epg
 -  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
 -  **[KS]** ZA: NBA TV tidak cocok id epg
