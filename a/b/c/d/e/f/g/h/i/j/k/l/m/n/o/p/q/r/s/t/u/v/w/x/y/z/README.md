@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 12:24 WIB
+**Diperbarui pada:** 24-04-2026 12:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -64,6 +64,8 @@
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
 - ⚠️ **[FZ]** GR: Cosmote Sport 5 cocok [fz] (476557)
 - ⚠️ **[FZ]** GR: Cosmote Sport 5 [vip] cocok [fz] (476557)
+- ⚠️ **[FZ]** GR: Nova Sports 5 cocok [fz] (392147)
+- ⚠️ **[FZ]** GR: Nova Sports 5 [vip] cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
 - ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
@@ -676,8 +678,6 @@
 -  **[KS]** GR: Nova Sports 3 tidak cocok id epg
 -  **[KS]** GR: Nova Sports 3 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports 4 tidak cocok id epg
--  **[KS]** GR: Nova Sports 5 tidak cocok id epg
--  **[KS]** GR: Nova Sports 5 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports Extra 1 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports Extra 2 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports Extra 3 [vip] tidak cocok id epg
