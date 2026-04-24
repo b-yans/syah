@@ -15,14 +15,10 @@ http://eyay.gw.lt:80///kontol8/301196
 http://eyay.gw.lt:80///kontol8/304774
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="7673" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png", 🇬🇧  00:30-06:00 WIB - Tennis: ATP & WTA Madrid Open 2026. Day 4 [UK: Sky Sports Main Event]
 http://eyay.gw.lt:80///kontol8/283053
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6254" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png", 🇬🇧  00:50-04:50 WIB - ⋗ County Championship. Day 1: Surrey v Essex [UK: Sky Sports Cricket]
-http://eyay.gw.lt:80///kontol8/269
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="538912" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/4dfe7d4fa4bd2e6449d6026f1ce2cce8.png", 🇬🇧  01:00-10:00 WIB - ⋗ Tennis: ATP & WTA Madrid Open 2026: Day 4 [DE: Sky Sport Tennis]
 http://eyay.gw.lt:80///kontol8/297552
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="538912" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/939de48a4e70e7e8ee0de9dff78e9e8f.png", 🇬🇧  01:00-10:00 WIB - ⋗ Tennis: ATP & WTA Madrid Open 2026: Day 4 [DE: Sky Sport Tennis SAT VIP]
 http://eyay.gw.lt:80///kontol8/308118
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="538917" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", ⚠️  02:00-04:50 WIB - ⋗ UCI Track World Cup: Nilai-Day One [UK: TNT Sports 8]
-http://eyay.gw.lt:80///kontol8/7435
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="400480" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/41cfb33524d540bc9b8b46dd820e110a.png", ⚠️  02:15-05:15 WIB - MotoGP [CL: TNT Sports 2]
 http://eyay.gw.lt:80///kontol8/279612
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="400480" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", ⚠️  02:15-05:15 WIB - MotoGP [UK: TNT Sports 2]
@@ -31,10 +27,6 @@ http://eyay.gw.lt:80///kontol8/273
 http://eyay.gw.lt:80///kontol8/2100
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="450294" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-03/f88caef97c69e6330ea980ec68fd58cf.svg", ⚠️  02:15-05:00 WIB - Baseball: MLB [DE: Sportdigital 1+ SAT VIP]
 http://eyay.gw.lt:80///kontol8/308124
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="406540" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png", ⚠️  02:45-04:50 WIB - Mundial F1 – GP de China (T2025): Carrera [ES: DAZN F1]
-http://eyay.gw.lt:80///kontol8/1672
-#EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="537119" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9d88105ec852b210fcc224cee8c9998e.png", ⚠️  02:50-04:50 WIB - Premier League [SE: V Sport Premium]
-http://eyay.gw.lt:80///kontol8/6275
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="381835" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png", 🇮🇩  03:00-05:00 WIB - Galatasaray – Efes. Basket. Turska Liga [QA: beIN Sports Premium 2]
 http://eyay.gw.lt:80///kontol8/280145
 #EXTINF:-1 group-title=" 🛡️SIARAN LANGSUNG🛡️" tvg-id="6339" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ad32ef6fe9e5cbcdb683b77c5624e060.png", ⚠️  03:00-05:00 WIB - Sepakbola: LaLiga. Girona FC – Real Betis Balompie [BE: Eleven Sports 3]
@@ -337,6 +329,8 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=170720magnat
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=betisrealmadridsepakbolaligaspanyol_1777120200.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="https://thumbor.prod.vidiocdn.com/ciTzhPpWOZhOA7FA-iSiiVsoFhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021416/23b1e0.jpg", 🇹🇭 ⏳ 12:30-14:30 WIB - 25/04/26 Brownis On The Weekend
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=250426brownisontheweekend_1777120200.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png", ⚠️ ⏳ 12:45-14:55 WIB - Mundial F1 – GP de China (T2026): Carrera
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=mundialf1gpdechinacarrera_1777121100.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0cbb5978c829aecd89ee19dffae6bb33.png", ⚠️ ⏳ 13:00-15:00 WIB - Brighton – Chelsea. Sepakbola. Liga Inggris
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=brightonchelseasepakbolaligainggris_1777122000.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png", ⚠️ ⏳ 13:00-15:00 WIB - Monaco – Asvel. Basket. Liga Prancis
@@ -759,3 +753,5 @@ https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=bundesligama
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=fiaformularegionaleuropeanchship2026race2redbullring_1777178100.0
 #EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3fd301641bce0168b1acca2acfd8c8f7.jpg", 🇮🇩 ⏳ 04:40-06:45 WIB - ⋗ Ekstraklasa Soccer: Korona Kielce vs. GKS Katowice. Ekstraklasa Soccer (EXBUD Arena, POL)
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=ekstraklasasoccerkoronakielcegkskatowiceekstraklasasoccer_1777178400.0
+#EXTINF:-1 group-title="📅 JADWAL 24 JAM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png", 🇮🇩 ⏳ 04:50-07:05 WIB - ⋗ West Ham United vs Everton – English Premier League 2025/26 Week 34
+https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php?m=westhamunitedevertonenglishpremierleague202526week_1777179000.0

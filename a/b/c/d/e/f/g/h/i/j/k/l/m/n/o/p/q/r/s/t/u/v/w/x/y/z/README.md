@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 04:45 WIB
+**Diperbarui pada:** 25-04-2026 04:50 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -165,7 +165,6 @@
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
-- ⚠️ **[FZ]** UK: Sky Sports Cricket cocok [fz] (6254)
 - ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
@@ -173,7 +172,6 @@
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
 - ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
-- ⚠️ **[FZ]** UK: TNT Sports 8 cocok [fz] (538917)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
@@ -1125,6 +1123,7 @@
 -  **[KS]** UK: Sky Sports Action / NFL 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Arena tidak cocok id epg
 -  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
+-  **[KS]** UK: Sky Sports Cricket tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf tidak cocok id epg
@@ -1143,6 +1142,7 @@
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 5 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 7 tidak cocok id epg
+-  **[KS]** UK: TNT Sports 8 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
 -  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
 -  **[KS]** UK: Ginx eSports tidak cocok id epg
