@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 10:55 WIB
+**Diperbarui pada:** 24-04-2026 11:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -48,7 +48,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
-- ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
@@ -421,6 +420,7 @@
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 5 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 6 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
@@ -1392,11 +1392,11 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** [24 Apr 2026 08:55 WIB] diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
