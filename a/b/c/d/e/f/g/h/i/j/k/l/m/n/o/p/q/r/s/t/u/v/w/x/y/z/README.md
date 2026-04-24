@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 20:56 WIB
+**Diperbarui pada:** 24-04-2026 21:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -53,8 +53,6 @@
 - ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
-- ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
@@ -76,7 +74,6 @@
 - ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IE: Sky Sports Main Event cocok [fz] (7673)
-- ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
@@ -113,7 +110,6 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
 - ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fz] (5864)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
-- ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
@@ -158,7 +154,6 @@
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
 - ⚠️ **[FZ]** UK: Sky Sports Cricket cocok [fz] (6254)
-- ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** UK: Sky Sports Main Event cocok [fz] (7673)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
@@ -479,6 +474,8 @@
 -  **[KS]** DE: Sky Sport 7 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 8 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 9 tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Golf tidak cocok id epg
 -  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
@@ -778,6 +775,7 @@
 -  **[KS]** IT: Rai Sport tidak cocok id epg
 -  **[KS]** IT: Sky Sport 24 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
+-  **[KS]** IT: Sky Sport F1 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Golf tidak cocok id epg
 -  **[KS]** IT: Sky Sport Max tidak cocok id epg
 -  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
@@ -942,6 +940,7 @@
 -  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 5 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
+-  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
 -  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
@@ -1128,6 +1127,7 @@
 -  **[KS]** UK: Sky Sports Arena tidak cocok id epg
 -  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports F1 tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
@@ -1398,13 +1398,13 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampines Rovers FC 🆚 Young Lions🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hangzhou Linping Wuyue 🆚 Guangzhou Dandelion Alpha🛡️|🛡️18:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng B 🆚 Ganzhou Ruishi🛡️|🛡️18:35 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hóa chất Đức Giang Lào Cai 🆚 VTV Bình Điền Long An🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kryvbas U21 🆚 Dinamo Kyiv U21🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Polissya Zhytomyr U21 🆚 Obolon Kiev U21🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Persib Bandung 🆚 Arema FC🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LNZ Cherkasy U21 🆚 Metalist 1925 Kharkiv(U21)🛡️|🛡️19:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Regar-TadAZ Tursunzoda 🆚 FC Khatlon🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Hóa chất Đức Giang Lào Cai 🆚 VTV Bình Điền Long An🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sukhothai 🆚 Ratchaburi FC🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kryvbas U21 🆚 Dinamo Kyiv U21🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Polissya Zhytomyr U21 🆚 Obolon Kiev U21🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Persib Bandung 🆚 Arema FC🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LNZ Cherkasy U21 🆚 Metalist 1925 Kharkiv(U21)🛡️|🛡️19:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️U17 Việt Nam 🆚 U17 Malaysia🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Malaysia U17 🆚 Vietnam U17🛡️|🛡️19:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Khan Tengri FC 🆚 Jaiyq🛡️|🛡️20:00 24/04/2026🛡️ otomatis masuk jadwal
@@ -1417,6 +1417,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Wasl SC 🆚 Dabba Al-Fujairah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [24 Apr 2026 19:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
