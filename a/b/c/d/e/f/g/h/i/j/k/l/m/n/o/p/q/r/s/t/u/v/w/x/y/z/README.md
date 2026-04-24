@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 12:57 WIB
+**Diperbarui pada:** 24-04-2026 13:03 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -152,7 +152,6 @@
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
 - ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
-- ⚠️ **[FZ]** ES: DAZN LaLiga 2 cocok [fz] (406530)
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
@@ -191,6 +190,7 @@
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
+- ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -1005,6 +1005,7 @@
 -  **[KS]** ES: Movistar Liga De Campeones 7 tidak cocok id epg
 -  **[KS]** ES: Movistar Liga De Campeones 8 tidak cocok id epg
 -  **[KS]** ES: Movistar Liga De Campeones FHD tidak cocok id epg
+-  **[KS]** ES: DAZN LaLiga 2 tidak cocok id epg
 -  **[KS]** ES: beIN Sports n tidak cocok id epg
 -  **[KS]** ES: Esport 3 tidak cocok id epg
 -  **[KS]** ES: Eurosport 1 tidak cocok id epg
@@ -1213,7 +1214,6 @@
 -  **[KS]** US: NFL RedZone tidak cocok id epg
 -  **[KS]** US: Root Sports tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
--  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
 -  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
@@ -1390,7 +1390,7 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Papua New Guinea U16 (W) 🆚 Cook Islands U16 Women🛡️|🛡️11:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Papua New Guinea U16 (W) 🆚 Cook Islands U16 Women🛡️|🛡️11:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
