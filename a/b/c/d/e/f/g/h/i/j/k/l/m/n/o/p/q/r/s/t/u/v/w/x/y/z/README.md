@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 15:20 WIB
+**Diperbarui pada:** 24-04-2026 15:26 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -203,14 +203,14 @@
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E04 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E05 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E06 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E07 diblokir (KADALUARSA)
-- ⚠️ **[BASI]** EN: 11.22.63 S01 E08 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E04 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E05 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E06 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E07 otomatis masuk jadwal
+- ⚠️ **[EVENT]** EN: 11.22.63 S01 E08 otomatis masuk jadwal
 -  **[KS]** AFG: RTA Sport tidak cocok id epg
 -  **[KS]** AF: Africa 24 Sport tidak cocok id epg
 -  **[KS]** AF: Azam Sport 1 tidak cocok id epg
