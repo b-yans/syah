@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 09:54 WIB
+**Diperbarui pada:** 24-04-2026 10:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -44,7 +44,6 @@
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
-- ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
@@ -128,7 +127,6 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
-- ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
 - ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
@@ -163,10 +161,10 @@
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
+- ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
-- ⚠️ **[FZ]** SE: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
@@ -182,7 +180,6 @@
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
-- ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
 - ⚠️ **[FZ]** UK: TNT Sports 8 cocok [fz] (538917)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
@@ -201,7 +198,6 @@
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
@@ -393,6 +389,7 @@
 -  **[KS]** DK: TV 2 Sport tidak cocok id epg
 -  **[KS]** DK: TV 2 Sport X tidak cocok id epg
 -  **[KS]** DK: TV 3 Sport tidak cocok id epg
+-  **[KS]** DK: V Sport Ultra tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
 -  **[KS]** EG: Nile Sport tidak cocok id epg
@@ -944,6 +941,7 @@
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 2 tidak cocok id epg
+-  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 5 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
@@ -1022,8 +1020,8 @@
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
--  **[KS]** SE: V Sport Extra tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
+-  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
 -  **[KS]** CH: Blue Sport 1 tidak cocok id epg
 -  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
@@ -1143,6 +1141,7 @@
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: TNT Sports 4 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 5 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 7 tidak cocok id epg
@@ -1214,6 +1213,7 @@
 -  **[KS]** US: NFL RedZone tidak cocok id epg
 -  **[KS]** US: Root Sports tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
+-  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
 -  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
@@ -1390,23 +1390,22 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Deportivo Tapatío 🆚 Cancun FC🛡️|🛡️08:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Millonarios 🆚 Deportes Tolima🛡️|🛡️08:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Shanghai Shenhua U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shandong Taishan U21 🆚 🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LD Alajuelense 🆚 Puntarenas FC🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ 🆚 Yunnan Yukun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zhejiang Professional FC U21 🆚 Nantong Zhiyun U21🛡️|🛡️09:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[FZ]** Prima Sport 4 cocok [fz] (9534)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
@@ -1456,6 +1455,7 @@
 -  **[KS]** Prima Sport 1 tidak cocok id epg
 -  **[KS]** Prima Sport 2 tidak cocok id epg
 -  **[KS]** Prima Sport 3 tidak cocok id epg
+-  **[KS]** Prima Sport 4 tidak cocok id epg
 -  **[KS]** Spectrum Sportsnet La tidak cocok id epg
 -  **[KS]** SPORT 1 tidak cocok id epg
 -  **[KS]** SPORT 2 tidak cocok id epg
