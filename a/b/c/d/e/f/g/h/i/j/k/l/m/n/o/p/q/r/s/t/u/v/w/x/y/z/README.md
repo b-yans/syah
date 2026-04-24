@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 13:57 WIB
+**Diperbarui pada:** 24-04-2026 14:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -22,6 +22,7 @@
 - ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
 - ⚠️ **[FZ]** CA: NBA TV Canada cocok [fz] (470366)
 - ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
+- ⚠️ **[FZ]** CA: SportsNet One cocok [fz] (470873)
 - ⚠️ **[FZ]** CA: SportsNet World cocok [fz] (470920)
 - ⚠️ **[FZ]** CL: FOX SPORTS 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** CL: FOX SPORTS 2 cocok [fz] (465280)
@@ -42,11 +43,13 @@
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
+- ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: beIN Sports 2 cocok [fz] (524174)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
+- ⚠️ **[FZ]** FR: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** FR: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
@@ -148,6 +151,7 @@
 - ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
+- ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 360 cocok [fz] (516373)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
@@ -196,11 +200,11 @@
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
@@ -328,7 +332,6 @@
 -  **[KS]** CA: beIN Sports tidak cocok id epg
 -  **[KS]** CA: SportsNet 360 tidak cocok id epg
 -  **[KS]** CA: SportsNet East tidak cocok id epg
--  **[KS]** CA: SportsNet One tidak cocok id epg
 -  **[KS]** CA: SportsNet Ontario tidak cocok id epg
 -  **[KS]** CA: SportsNet Pacific tidak cocok id epg
 -  **[KS]** CA: SportsNet West tidak cocok id epg
@@ -362,7 +365,6 @@
 -  **[KS]** HR: Sport Klub 8 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 9 tidak cocok id epg
 -  **[KS]** CZ: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** CZ: Canal+ Sport 2 tidak cocok id epg
 -  **[KS]** CZ: CT Sport tidak cocok id epg
 -  **[KS]** CZ: Eurosport 1 tidak cocok id epg
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
@@ -421,7 +423,6 @@
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** FR: CANAL+ Sport 2 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 4 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport 5 tidak cocok id epg
@@ -978,7 +979,6 @@
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
--  **[KS]** ZA: CANAL+ Sport 2 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** ZA: Canal+ Sport 4 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 5 tidak cocok id epg
@@ -1390,9 +1390,12 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Papua New Guinea U16 (W) 🆚 Cook Islands U16 Women🛡️|🛡️11:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kunshan Zhangpu 🆚 Shanghai Zetian🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
