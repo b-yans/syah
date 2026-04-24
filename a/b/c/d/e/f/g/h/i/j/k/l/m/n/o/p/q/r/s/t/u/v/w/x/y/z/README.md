@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 16:43 WIB
+**Diperbarui pada:** 24-04-2026 16:48 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1416,6 +1416,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Heidelberg United 🆚 Avondale FC🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monaro Panthers 🆚 Canberra Olympic🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Green Gully Cavaliers 🆚 Preston Lions🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macarthur FC 🆚 Wellington Phoenix🛡️|🛡️16:35 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
