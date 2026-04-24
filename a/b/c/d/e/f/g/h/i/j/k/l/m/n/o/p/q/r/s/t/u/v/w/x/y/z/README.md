@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 15:59 WIB
+**Diperbarui pada:** 24-04-2026 16:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -122,7 +122,6 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
 - ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fz] (5864)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
-- ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
 - ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
@@ -938,6 +937,7 @@
 -  **[KS]** RO: Antena Sport tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
+-  **[KS]** RO: Prima Sport 1 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 2 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 5 tidak cocok id epg
@@ -1390,12 +1390,12 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dalian Yingbo B 🆚 Changchun Xidu🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mechal FC Women 🆚 Adama Ketema Women🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wuhan Three Towns U20 🆚 Lanzhou Longyuan Athletic U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianjin Jinmen Tiger U20 🆚 Qingdao Red Lions U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanghai Port U20 🆚 Beijing Guoan U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shenzhen Peng City U20 🆚 Qingdao Hainiu U20🛡️|🛡️14:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Second 🆚 Dalian Kewei🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra Croatia FC U23 🆚 Cooma Tigers U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra White Eagles U23 🆚 Tuggeranong United U23🛡️|🛡️14:30 24/04/2026🛡️ otomatis masuk jadwal
