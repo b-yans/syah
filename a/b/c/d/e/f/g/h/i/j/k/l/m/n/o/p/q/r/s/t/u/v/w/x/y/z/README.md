@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 01:38 WIB
+**Diperbarui pada:** 25-04-2026 01:44 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -13,7 +13,6 @@
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
-- ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
@@ -282,6 +281,7 @@
 -  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
 -  **[KS]** BE: Eurosport 2 tidak cocok id epg
+-  **[KS]** BE: Play Sports 1 tidak cocok id epg
 -  **[KS]** BE: Play Sports 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
