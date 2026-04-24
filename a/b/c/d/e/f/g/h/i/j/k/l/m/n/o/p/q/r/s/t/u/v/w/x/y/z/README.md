@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 20:46 WIB
+**Diperbarui pada:** 24-04-2026 20:51 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1417,7 +1417,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Wasl SC 🆚 Dabba Al-Fujairah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [24 Apr 2026 19:25 WIB] otomatis masuk jadwal
-- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
