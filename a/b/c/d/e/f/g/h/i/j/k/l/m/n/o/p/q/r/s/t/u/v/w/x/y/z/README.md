@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 08:55 WIB
+**Diperbarui pada:** 24-04-2026 09:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,11 +1393,11 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atlante FC 🆚 Tepatitlan FC🛡️|🛡️06:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Pasto 🆚 Independiente Santa Fe🛡️|🛡️06:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Defensa Y Justicia 🆚 Boca Juniors🛡️|🛡️06:00 24/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Waterhouse FC 🆚 Treasure Beach🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Universidad Católica 🆚 Macara🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Palestino 🆚 D. Concepcion🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Tomayapo 🆚 The Strongest🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Inter Wanica 🆚 SV Flora🛡️|🛡️07:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Athletico Paranaense - PR 🆚 Atletico Clube Goianiense🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fluminense - RJ🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Dakota 🆚 SV La Fama🛡️|🛡️07:30 24/04/2026🛡️ otomatis masuk jadwal
