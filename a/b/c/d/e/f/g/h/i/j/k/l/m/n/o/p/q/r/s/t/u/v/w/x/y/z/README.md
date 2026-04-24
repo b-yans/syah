@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 00:02 WIB
+**Diperbarui pada:** 25-04-2026 00:07 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,50 +1390,57 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Dhafra 🆚 Ajman🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xorazm Urganch 🆚 Neftchi Fergana🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bunyodkor 🆚 FK Andijon🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bank El Ahly 🆚 ZED FC🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pharco 🆚 El Gounah🛡️|🛡️21:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Muharraq 🆚 Al-Riffa🛡️|🛡️21:20 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ostrowitz 🆚 Smorgon FC🛡️|🛡️21:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hermannstadt 🆚 FK Csikszereda Miercurea Ciuc🛡️|🛡️21:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TPS Turku 🆚 Gnistan Helsinki🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Slavia Mozyr 🆚 Neman Grodno🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hegelmann Litauen II 🆚 FK Kauno Zalgiris II🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Babrungas 🆚 FK Garliava🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ostrowitz 🆚 Smorgon FC🛡️|🛡️21:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sporting CP U23 🆚 Benfica U23🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TPS Turku 🆚 Gnistan Helsinki🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vaasa VPS 🆚 Ilves Tampere🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Babrungas 🆚 FK Garliava🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hegelmann Litauen II 🆚 FK Kauno Zalgiris II🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Slavia Mozyr 🆚 Neman Grodno🛡️|🛡️22:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dubai United 🆚 Gulf United FC🛡️|🛡️22:10 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qizilqum Zarafshon 🆚 FK Kokand 1912🛡️|🛡️22:15 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BE1 NFA 🆚 Ekranas Panevezys🛡️|🛡️22:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Glasgow Rangers Women 🆚 Hearts Women🛡️|🛡️22:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Fateh SC 🆚 Al Khaleej Club🛡️|🛡️22:45 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SJK Seinajoen 🆚 Jaro🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Schwarz-Weiss Bregenz 🆚 FC HOGO Hertha Wels🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PK-35 Vantaa 🆚 KTP Kotka🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Liefering 🆚 Young Violets Austria Wien🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Klubi 04 Helsinki 🆚 Mikkelin Palloilijat🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Znicz Pruszkow 🆚 Gornik Leczna🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dynamo Moscow Women 🆚 Spartak Moscow Women🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SK Austria Klagenfurt 🆚 SC Austria Lustenau🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Galatasaray 🆚 Ziraat Bankasi🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Karlovac 🆚 NK Dugopolje🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Schwarz-Weiss Bregenz 🆚 FC HOGO Hertha Wels🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SJK Seinajoen 🆚 Jaro🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zaglebie Lubin 🆚 LKS Nieciecza🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Nomme United U21 🆚 Nomme JK Kalju II🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Karlovac 🆚 NK Dugopolje🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SK Austria Klagenfurt 🆚 SC Austria Lustenau🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Klubi 04 Helsinki 🆚 Mikkelin Palloilijat🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PK-35 Vantaa 🆚 KTP Kotka🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Galatasaray 🆚 Ziraat Bankasi🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Liefering 🆚 Young Violets Austria Wien🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SKU Ertl Glas Amstetten 🆚 First Vienna FC 1894🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grorud 🆚 Skeid Oslo🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Podbeskidzie Bielsko-Biala 🆚 Zaglebie Sosnowiec🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dynamo Moscow Women 🆚 Spartak Moscow Women🛡️|🛡️23:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al Hazem 🆚 Al Riyadh🛡️|🛡️23:10 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Luawa FC 🆚 Kamboi Eagles🛡️|🛡️23:15 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️1. FC Kaiserslautern 🆚 Eintracht Braunschweig🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️1. FC Kaiserslautern 🆚 Eintracht Braunschweig🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Ahly 🆚 Al Faisaly🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AS Real Bamako 🆚 AS Bakaridjan🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Ahly 🆚 Al Faisaly🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spartak Varna 🆚 Beroe Stara Zagora🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️1. FC Kaiserslautern 🆚 Eintracht Braunschweig🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️1. FC Kaiserslautern 🆚 Eintracht Braunschweig🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Helsingor 🆚 Ishoj IF🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fortuna Dusseldorf 🆚 Dynamo Dresden🛡️|🛡️23:30 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Al-Nasr Dubai 🆚 Al-Jazira(UAE)🛡️|🛡️23:45 24/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Başakşehir Futbol Kulübü 🆚 Kasimpasa🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lyngby 🆚 Esbjerg🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Skive IK 🆚 Fremad Amager🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gutersloh 🆚 Sportfreunde Lotte🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Zalgiris Vilnius B 🆚 DFK Dainava Alytus🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alemannia Aachen 🆚 MSV Duisburg🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Trollhattan 🆚 Skovde AIK🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monza 🆚 Modena🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AB Akademisk 🆚 Naestved🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Minsk 🆚 BATE Borisov🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pforzheim 🆚 FSV 08 Bissingen🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rosenborg B 🆚 Aalesund FK B🛡️|🛡️00:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 08.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 01:25 WIB] otomatis masuk jadwal
