@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 17:30 WIB
+**Diperbarui pada:** 24-04-2026 17:35 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1400,6 +1400,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lambton Jaffas Reserves 🆚 Cooks Hill United Reserves🛡️|🛡️15:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Anhui Wanmei 🆚 Nanjing Longsheng🛡️|🛡️15:00 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jiangsu Changjin 🆚 Ji'nan Linksafe🛡️|🛡️15:00 24/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Laos U17 🆚 Australia U17🛡️|🛡️15:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Persatuan Sepakbola Indonesia Jepara 🆚 PSBS Biak Numfor🛡️|🛡️15:30 24/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dong Thap 🆚 Khatoco Khanh Hoa🛡️|🛡️16:00 24/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra FC 🆚 Cooma Tigers🛡️|🛡️16:30 24/04/2026🛡️ otomatis masuk jadwal
