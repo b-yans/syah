@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 21:40 WIB
+**Diperbarui pada:** 24-04-2026 21:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -110,6 +110,7 @@
 - ⚠️ **[FZ]** RO: DIGI Sport 2 cocok [fz] (6506)
 - ⚠️ **[FZ]** RO: DIGI Sport 3 cocok [fz] (5864)
 - ⚠️ **[FZ]** RO: DIGI Sport 4 cocok [fz] (5866)
+- ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Esport cocok [fz] (446948)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
@@ -940,7 +941,6 @@
 -  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Prima Sport 5 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
--  **[KS]** RO: Sport Extra tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
 -  **[KS]** RO: Viasat Kino Premiere tidak cocok id epg
