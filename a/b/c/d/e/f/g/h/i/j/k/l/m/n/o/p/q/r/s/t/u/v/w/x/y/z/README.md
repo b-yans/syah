@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 05:45 WIB
+**Diperbarui pada:** 25-04-2026 05:51 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1400,6 +1400,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atlético Lanús 🆚 Central Cordoba SDE🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Montevideo City Torque 🆚 Boston River🛡️|🛡️05:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
