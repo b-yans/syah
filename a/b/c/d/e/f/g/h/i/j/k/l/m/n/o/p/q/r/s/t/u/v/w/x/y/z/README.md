@@ -1,11 +1,12 @@
 # LAPORAN
-**Diperbarui pada:** 24-04-2026 14:58 WIB
+**Diperbarui pada:** 24-04-2026 15:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** AL: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fz] (381854)
+- ⚠️ **[FZ]** AU: Fox Sports 502 cocok [fz] (537762)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** AU: Sky Sport Select cocok [fz] (406533)
@@ -19,7 +20,6 @@
 - ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
 - ⚠️ **[FZ]** CA: NBA TV Canada cocok [fz] (470366)
 - ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** CA: SportsNet One cocok [fz] (470873)
@@ -265,7 +265,6 @@
 -  **[KS]** AU: beIN Sports 1 tidak cocok id epg
 -  **[KS]** AU: beIN Sports 1 [vip] tidak cocok id epg
 -  **[KS]** AU: Fox Sports 501 tidak cocok id epg
--  **[KS]** AU: Fox Sports 502 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 503 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 504 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 504 AFL tidak cocok id epg
@@ -314,6 +313,7 @@
 -  **[KS]** BR: Premiere FC 7 tidak cocok id epg
 -  **[KS]** BR: Band Sports tidak cocok id epg
 -  **[KS]** BR: FOX SPORTS tidak cocok id epg
+-  **[KS]** BR: SPORTV tidak cocok id epg
 -  **[KS]** BR: SPORTV 2 tidak cocok id epg
 -  **[KS]** BR: SPORTV 3 tidak cocok id epg
 -  **[KS]** BG: Diema Sport tidak cocok id epg
@@ -1423,7 +1423,6 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
