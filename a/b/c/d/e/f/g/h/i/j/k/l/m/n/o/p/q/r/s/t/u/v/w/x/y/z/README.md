@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 20:22 WIB
+**Diperbarui pada:** 25-04-2026 20:27 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,176 +1391,171 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lokomotiv Oslo 🆚 Nordstrand🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Bielsko-Biala Women 🆚 Opole Women🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Casuarina FC 🆚 Palmerston🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Belediye Vanspor 🆚 Istanbulspor🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Catanzaro 🆚 Spezia🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Serik Belediyespor 🆚 Atakas Hatayspor🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kongsvinger IL B 🆚 Alta🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dynamo Kirov 🆚 Dynamo Stavropol🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Catanzaro 🆚 Spezia🛡️|🛡️17:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chengdu Rongcheng 🆚 Zhejiang Professional FC🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sundby BK 🆚 IF Lyseng🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Skjetten Fotball 🆚 Ulfstind🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Suzhou Dongwu 🆚 Dingnan United🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Binzhou Team 🆚 Liaocheng Team🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preuben Munster 🆚 Arminia Bielefeld🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Quy Nhon United 🆚 Truong Tuoi Dong Nai🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Holbaek 🆚 BK Frem🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sundby BK 🆚 IF Lyseng🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dynamo Kirov 🆚 Dynamo Stavropol🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lysekloster 🆚 Eik-Tonsberg🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chiangrai United 🆚 Bangkok United FC🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shao Jiang 🆚 Gala FC🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stallion Laguna FC 🆚 One Taguig🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hertha Berlin 🆚 Holstein Kiel🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS Roma U20 🆚 Juventus U20🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sandvikens 🆚 Pors Grenland🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bayern Munchen U19 🆚 RB Leipzig U19🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brighton & Hove Albion Women 🆚 Manchester City Women🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stjordals Blink 🆚 Follo🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Grei 🆚 Ullern FC🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hvidovre IF 🆚 AC Horsens🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ryazan-VDV Women 🆚 FK Rostov Women🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Altay FK 🆚 Zhenis Astana🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stallion Laguna FC 🆚 One Taguig🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hvidovre IF 🆚 AC Horsens🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bayern Munchen U19 🆚 RB Leipzig U19🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Stjordals Blink 🆚 Follo🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ryazan-VDV Women 🆚 FK Rostov Women🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AS Roma U20 🆚 Juventus U20🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brighton & Hove Albion Women 🆚 Manchester City Women🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Binzhou Team 🆚 Liaocheng Team🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sandvikens 🆚 Pors Grenland🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hertha Berlin 🆚 Holstein Kiel🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Suzhou Dongwu 🆚 Dingnan United🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Holbaek 🆚 BK Frem🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preuben Munster 🆚 Arminia Bielefeld🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shao Jiang 🆚 Gala FC🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Notodden FK 🆚 Bjarg🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Minija 🆚 Siauliai B🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Konnerud 🆚 Frigg🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Spor Toto 🆚 Halkbank🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Karlsruher SC 🆚 Hannover 96🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kauno Zalgiris 🆚 FK Riteriai🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Suduva 🆚 FK Panevezys🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Slask Wroclaw II 🆚 Sandecja Nowy Sacz🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Harju JK Laagri 🆚 Tartu JK Maag Tammeka🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kauno Zalgiris 🆚 FK Riteriai🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Rostov 🆚 Gazovik Orenburg🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ETSV Weiche Flensburg 🆚 FC Schoningen08🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bengaluru 🆚 Mumbai City FC🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Weihai Team 🆚 Weifang Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Hakka 🆚 Ningbo Professional Football Club🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eyupspor 🆚 Gazisehir Gaziantep🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham 🆚 Aston Villa🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham 🆚 Aston Villa🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Huzhou Team 🆚 Jiaxing Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlton Athletic 🆚 Hull City🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yantai Team 🆚 Dongying Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Watford🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BG Pathum United 🆚 Nakhon Ratchasima Mazda FC🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rizhao Team 🆚 Dezhou Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guizhou Guiyang Athletic 🆚 Wenzhou Professional Football Club🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangxi Pingguo Beinong Women 🆚 Sichuan Women🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Haimen Codion 🆚 Beijing IT🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️West Bromwich Albion 🆚 Ipswich Town🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VSK Arhus 🆚 Brabrand🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Harju JK Laagri 🆚 Tartu JK Maag Tammeka🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangxi Hengchen 🆚 Nanjing City🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Albirex Niigata FC 🆚 Tanjong Pagar Utd🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham 🆚 Aston Villa🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Weihai Team 🆚 Weifang Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlton Athletic 🆚 Hull City🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Huzhou Team 🆚 Jiaxing Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bengaluru 🆚 Mumbai City FC🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️West Bromwich Albion 🆚 Ipswich Town🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Hakka 🆚 Ningbo Professional Football Club🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yantai Team 🆚 Dongying Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guizhou Guiyang Athletic 🆚 Wenzhou Professional Football Club🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Haimen Codion 🆚 Beijing IT🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Middlesbrough 🆚 Watford🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eyupspor 🆚 Gazisehir Gaziantep🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangxi Pingguo Beinong Women 🆚 Sichuan Women🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Alashkert 🆚 FC Noah🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deyang Team 🆚 Dazhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Longyan Team 🆚 Zhangzhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pu'er Team 🆚 Dali Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BG Pathum United 🆚 Nakhon Ratchasima Mazda FC🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Albirex Niigata FC 🆚 Tanjong Pagar Utd🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VSK Arhus 🆚 Brabrand🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rizhao Team 🆚 Dezhou Team🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xianning Team 🆚 Shennongjia Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zigong Team 🆚 Nanchong Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pingtan Team 🆚 Sanming Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Longyan Team 🆚 Zhangzhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kunming Team 🆚 Chuxiong Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deyang Team 🆚 Dazhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️YIbin Team 🆚 Mianyang Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yichang Team 🆚 Wuhan Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xiangyang Team 🆚 Suizhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️YIbin Team 🆚 Mianyang Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pu'er Team 🆚 Dali Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pingtan Team 🆚 Sanming Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shiyan Team 🆚 Jingzhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xishuangbanna Team 🆚 Honghe Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Beijing Guoan 🆚 Tianjin Jinmen Tiger🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qujing Team 🆚 Dehong Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qianjiang Team 🆚 Ezhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Putian Team 🆚 Quanzhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Team 🆚 Leshan Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qujing Team 🆚 Dehong Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Huanggang Team 🆚 Jingmen Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lianyungang Team 🆚 Wuxi Team🛡️|🛡️18:40 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qianjiang Team 🆚 Ezhou Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Beijing Guoan 🆚 Tianjin Jinmen Tiger🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chengdu Team 🆚 Leshan Team🛡️|🛡️18:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nantong Team 🆚 Xuzhou Team🛡️|🛡️18:40 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangzhou Team 🆚 Jiangmen Team🛡️|🛡️18:40 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lianyungang Team 🆚 Wuxi Team🛡️|🛡️18:40 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yancheng Team 🆚 Suqian Team🛡️|🛡️18:40 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Perth Glory 🆚 Brisbane Roar🛡️|🛡️18:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baerum SK 🆚 Heming🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Leipzig Women 🆚 Werder Bremen Women🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Junkeren 🆚 Eidsvold Turn🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Leipzig Women 🆚 Werder Bremen Women🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Stade DE Reims 🆚 Nancy🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naesby 🆚 Vanlose🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Astoria Walldorf 🆚 SC Freiburg II🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IK Uppsala Women 🆚 FC Rosengard Women🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Os Turn Fotball 🆚 Fana🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hansa Rostock 🆚 SSV Jahn Regensburg🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spjelkavik 🆚 Volda🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naesby 🆚 Vanlose🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️IK Uppsala Women 🆚 FC Rosengard Women🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Astoria Walldorf 🆚 SC Freiburg II🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahlinger 🆚 SG Sonnenhof Grossaspach🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Os Turn Fotball 🆚 Fana🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Spjelkavik 🆚 Volda🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sardor Tursunzoda 🆚 Barkchi Hisor🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Alavés 🆚 RCD Mallorca🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Wuhan Three Towns🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC 08 Homburg 🆚 SG Barockstadt Fulda-Lehnerz🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union Carl Berner 🆚 Gamle Oslo🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shanghai Port 🆚 Wuhan Three Towns🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Akra 🆚 Staal Jorpeland🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hillerod Fodbold 🆚 Kolding FC🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️İmişli FK 🆚 Sumgayit FK🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Erzgebirge Aue 🆚 SV Wehen Wiesbaden🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC 08 Homburg 🆚 SG Barockstadt Fulda-Lehnerz🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TSV Schott Mainz 🆚 Stuttgarter Kickers🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️İmişli FK 🆚 Sumgayit FK🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hillerod Fodbold 🆚 Kolding FC🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TSG Hoffenheim Youth 🆚 FC Ingolstadt🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bronshoj 🆚 Horsholm-Usserod IK🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Erzgebirge Aue 🆚 SV Wehen Wiesbaden🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lahti 🆚 AC Oulu🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vard Haugesund 🆚 Gneist🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rot-Weiss Oberhausen 🆚 Wuppertaler🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fyllingsdalen 🆚 Askoy FK🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atomsfera Mazeikiai 🆚 FK Neptunas Klaipeda🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayern Alzenau 🆚 SV Sandhausen🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Parvoz Bobojon Ghafurov 🆚 Khosilot Parkhar🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kyzylzhar Petropavlovsk 🆚 Ordabasy🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rot-Weiss Oberhausen 🆚 Wuppertaler🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atomsfera Mazeikiai 🆚 FK Neptunas Klaipeda🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Parvoz Bobojon Ghafurov 🆚 Khosilot Parkhar🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bayern Alzenau 🆚 SV Sandhausen🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fyllingsdalen 🆚 Askoy FK🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brodd 🆚 Varhaug🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fortuna Koln 🆚 Wiedenbruck🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hessen Kassel 🆚 TSG Balingen🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phonix Lubeck 🆚 SSV Jeddeloh🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fortuna Koln 🆚 Wiedenbruck🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Uthai Thani Forest 🆚 Port FC🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phonix Lubeck 🆚 SSV Jeddeloh🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TSV 1860 München 🆚 SSV Ulm 1846🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Botosani 🆚 FC Otelul Galati🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VfL Osnabrück 🆚 SC Verl🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grenoble 🆚 Le Mans🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Roskilde 🆚 Thisted FC🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lorenskog 🆚 Ullensaker/Kisa IL🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grenoble 🆚 Le Mans🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️VfL Osnabrück 🆚 SC Verl🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orkla 🆚 Ranheim B🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hà Nội 🆚 Thể Công Tân Cảng🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fram Larvik 🆚 Oppsal🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lorenskog 🆚 Ullensaker/Kisa IL🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St Pauli II 🆚 Hannover 96 Am🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fram Larvik 🆚 Oppsal🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hà Nội 🆚 Thể Công Tân Cảng🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️DPMM FC 🆚 Kuching City FC🛡️|🛡️19:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️LKS Lodz 🆚 Stal Rzeszow🛡️|🛡️19:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Austria Salzburg 🆚 Kapfenberg SV 1919🛡️|🛡️19:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kisvárda Master Good FC 🆚 Diosgyor VTK🛡️|🛡️19:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Korona Kielce 🆚 GKS Katowice🛡️|🛡️19:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Zawiercie 🆚 Politechnika Lublin🛡️|🛡️19:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Korona Kielce 🆚 GKS Katowice🛡️|🛡️19:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Frosinone 🆚 Carrarese🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naftan Novopolotsk 🆚 FK Vitebsk🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Torino U20 🆚 Atalanta U20🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naftan Novopolotsk 🆚 FK Vitebsk🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sotra 🆚 Mjondalen IF🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ACD Virtus Entella 🆚 Padova🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KS Iliria Fushe 🆚 Apolonia Fier🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SudTirol 🆚 Mantova🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Slovan Velvary 🆚 Velke Hamry🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KS Iliria Fushe 🆚 Apolonia Fier🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Forde 🆚 Varegg🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djurgardens Women 🆚 IFK Norrkoping DFK Women🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ACD Virtus Entella 🆚 Padova🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pescara 🆚 Juve Stabia🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djurgardens Women 🆚 IFK Norrkoping DFK Women🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SudTirol 🆚 Mantova🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Rodina-M Moscow 🆚 FK Ryazan🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️TJ Start Brno 🆚 Hlucin🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JIPPO 🆚 SJK Akatemia🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️A.C. Reggiana 1919 🆚 Palermo🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kastrioti Kruje 🆚 KF Luftetari🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️A.C. Reggiana 1919 🆚 Palermo🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Oryol 🆚 Rotor Volgograd-2🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JaPS 🆚 Ekenas IF Fotboll🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KF Laci 🆚 KS Perparimi Kukesi🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JaPS 🆚 Ekenas IF Fotboll🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Amkar Perm 🆚 Dynamo Moscow B🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kristianstads DFF Women 🆚 Vaxjo Women🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Flekkeroy IL 🆚 Mandalskameratene🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kristianstads DFF Women 🆚 Vaxjo Women🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Besa Kavaje 🆚 KS Korabi Peshkopi🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CSKA Sofia 🆚 Levski Sofia🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hungary U17 🆚 Armenia U17🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Parma 🆚 Pisa🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CSKA Sofia 🆚 Levski Sofia🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pogradeci 🆚 Skenderbeu Korca🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Madla IL 🆚 Vag🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Parma 🆚 Pisa🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Burreli 🆚 Lushnja KS🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BATE-2 Borisov 🆚 FK Orsha🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Madla IL 🆚 Vag🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Artilheiros 🆚 Gorilla Universe🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adana Demirspor 🆚 Umraniyespor🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Terengganu FC 🆚 Negeri Sembilan🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vitalo 🆚 Le Messager Ngozi🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Banik Most-Sous 🆚 Slovan Liberec II🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️BATE-2 Borisov 🆚 FK Orsha🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adana Demirspor 🆚 Umraniyespor🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
