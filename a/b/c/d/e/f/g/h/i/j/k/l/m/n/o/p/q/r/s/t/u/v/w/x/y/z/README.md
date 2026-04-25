@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 06:59 WIB
+**Diperbarui pada:** 25-04-2026 07:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -136,7 +136,6 @@
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
 - ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** SI: SPORT TV 2 cocok [fz] (444123)
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
 - ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
@@ -973,6 +972,7 @@
 -  **[KS]** SI: Sport Klub 1 tidak cocok id epg
 -  **[KS]** SI: Sport Klub Golf tidak cocok id epg
 -  **[KS]** SI: SPORT TV 1 tidak cocok id epg
+-  **[KS]** SI: SPORT TV 2 tidak cocok id epg
 -  **[KS]** SI: SPORT TV 3 tidak cocok id epg
 -  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
@@ -1392,7 +1392,7 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cucuta Deportivo 🆚 Atletico Junior Barranquilla🛡️|🛡️04:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Louisville Women 🆚 Orlando Pride Women🛡️|🛡️04:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Union La Calera 🆚 Coquimbo Unido🛡️|🛡️05:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atlético Lanús 🆚 Central Cordoba SDE🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes Rio Cuarto 🆚 Rosario Central🛡️|🛡️05:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Montevideo City Torque 🆚 Boston River🛡️|🛡️05:30 25/04/2026🛡️ otomatis masuk jadwal
