@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 08:23 WIB
+**Diperbarui pada:** 25-04-2026 08:28 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1392,11 +1392,11 @@
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Montevideo City Torque 🆚 Boston River🛡️|🛡️05:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Assisense/SP U23 🆚 tupa SP U23🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Toronto FC II 🆚 New York City Team B🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tigres Zipaquira 🆚 Inter Palmira🛡️|🛡️06:10 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
