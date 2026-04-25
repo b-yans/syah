@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 23:14 WIB
+**Diperbarui pada:** 25-04-2026 23:21 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1447,9 +1447,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Marino Academy U22 🆚 Cailungo🛡️|🛡️21:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Nomme United 🆚 FC Kuressaare🛡️|🛡️21:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Queen's Park 🆚 Dunfermline Athletic🛡️|🛡️21:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Valladolid CF 🆚 Real Sociedad B🛡️|🛡️21:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Valladolid CF 🆚 Real Sociedad B🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Tondela 🆚 Nacional da Madeira🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Gilan Gabala 🆚 Araz Nakhchivan🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Waldhof Mannheim 🆚 Schweinfurt 05 FC🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
