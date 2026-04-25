@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 10:46 WIB
+**Diperbarui pada:** 25-04-2026 10:51 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1398,11 +1398,12 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey Women 🆚 Tigres Women🛡️|🛡️10:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wellington Olympic 🆚 Island Bay United🛡️|🛡️10:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 08:55 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** Lomba Panahan Nasional Pepper Saving Bank Cup Bagi Penyandang Disabilitas ke-4 & Lomba Seleksi Timnas ke-1 Tahun 2027 | 12.00 WIB otomatis masuk jadwal
