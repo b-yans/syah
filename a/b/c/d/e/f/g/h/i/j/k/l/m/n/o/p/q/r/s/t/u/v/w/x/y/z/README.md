@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 09:54 WIB
+**Diperbarui pada:** 25-04-2026 09:59 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1402,8 +1402,8 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
-- ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** [25 Apr 2026 08:55 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Lomba Panahan Nasional Pepper Saving Bank Cup Bagi Penyandang Disabilitas ke-4 & Lomba Seleksi Timnas ke-1 Tahun 2027 | 12.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1471,10 +1471,7 @@
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
 -  **[KS]** Universitas Ciputra Surabaya vs Universitas Airlangga Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** PUTRI TANGSEL CITY vs DIKLAT PUTRI KOTA TANGERANG HYDROPLUS Soccer League U15 tidak cocok id epg
--  **[KS]** Chinese Taipei vs Sweden BWF Thomas Cup Finals 2026 Group Stage Court 2 tidak cocok id epg
--  **[KS]** Japan vs South Africa BWF Uber Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
--  **[KS]** Malaysia vs Turkiye BWF Uber Cup Finals 2026 Group Stage Court 1 tidak cocok id epg
+-  **[KS]** CIPTA CENDIKIA FA vs SSB ANJELO HYDROPLUS Soccer League U15 tidak cocok id epg
 -  **[KS]** Moto3 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Persela Lamongan vs PS Barito Putera Pegadaian Championship tidak cocok id epg
 -  **[KS]** Sriwijaya FC vs Garudayaksa FC Pegadaian Championship tidak cocok id epg
