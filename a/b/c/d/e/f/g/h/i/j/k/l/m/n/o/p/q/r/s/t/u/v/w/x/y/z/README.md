@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 19:13 WIB
+**Diperbarui pada:** 25-04-2026 19:18 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -214,13 +214,13 @@
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
-- ⚠️ **[BASI]** AL: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
-- ⚠️ **[BASI]** EN: The 15:17 to Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: The 15.17 To Paris (2018) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
-- ⚠️ **[BASI]** PT: The 15:17 to Paris diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
 - ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
@@ -1408,7 +1408,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kaohsiung Attackers Women 🆚 Hualien Women🛡️|🛡️17:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Eastern District 🆚 Hong Kong FC🛡️|🛡️17:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Ryukyu Okinawa 🆚 Oita Trinita🛡️|🛡️17:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ludogorets Razgrad 🆚 CSKA 1948 Sofia🛡️|🛡️17:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ludogorets Razgrad 🆚 CSKA 1948 Sofia🛡️|🛡️17:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Bielsko-Biala Women 🆚 Opole Women🛡️|🛡️17:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Casuarina FC 🆚 Palmerston🛡️|🛡️17:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Belediye Vanspor 🆚 Istanbulspor🛡️|🛡️17:30 25/04/2026🛡️ otomatis masuk jadwal
