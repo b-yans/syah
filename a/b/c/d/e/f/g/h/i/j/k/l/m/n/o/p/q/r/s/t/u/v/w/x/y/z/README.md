@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 09:43 WIB
+**Diperbarui pada:** 25-04-2026 09:48 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,17 +1390,17 @@
 ---
 
 ### 📁 ?PEEL=ON
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Independiente Petrolero 🆚 Universitario De Vinto🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Club de Avellaneda 🆚 Barracas Central🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Audax Italiano 🆚 Deportes Limache🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America Women 🆚 Pachuca Women🛡️|🛡️08:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chivas Guadalajara Women 🆚 Toluca Women🛡️|🛡️08:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportes Quindio 🆚 Envigado FC🛡️|🛡️08:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Reserves 🆚 Edgeworth Eagles Reserves🛡️|🛡️09:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
