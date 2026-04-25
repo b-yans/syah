@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 15:42 WIB
+**Diperbarui pada:** 25-04-2026 15:47 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -7,6 +7,7 @@
 - ⚠️ **[FZ]** AL: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** AL: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** AU: Fox Sports 502 cocok [fz] (537762)
+- ⚠️ **[FZ]** AU: Fox Sports 505 cocok [fz] (537806)
 - ⚠️ **[FZ]** AU: Fox Sports 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** AU: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** BE: Eleven Sports 1 cocok [fz] (6338)
@@ -288,7 +289,6 @@
 -  **[KS]** AU: Fox Sports 503 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 504 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 504 AFL tidak cocok id epg
--  **[KS]** AU: Fox Sports 505 tidak cocok id epg
 -  **[KS]** AU: Fox Sports 507 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 1 tidak cocok id epg
 -  **[KS]** AU: Sky Sport 2 tidak cocok id epg
