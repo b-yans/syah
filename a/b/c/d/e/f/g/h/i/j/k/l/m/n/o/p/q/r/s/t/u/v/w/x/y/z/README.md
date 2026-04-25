@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 01:24 WIB
+**Diperbarui pada:** 26-04-2026 01:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -81,8 +81,9 @@
 - ⚠️ **[FZ]** IN: Star Sports Select 1 cocok [fz] (464065)
 - ⚠️ **[FZ]** IN: Star Sports Select 2 cocok [fz] (464238)
 - ⚠️ **[FZ]** ID: beIN Sports 3 cocok [fz] (524063)
-- ⚠️ **[EXACT]** ID: SCTV cocok (SCTV.id)
+- ⚠️ **[FZ]** ID: MNC TV cocok [fz] (MNCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
+- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
@@ -753,10 +754,9 @@
 -  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
--  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: RCTI tidak cocok id epg
--  **[KS]** ID: SpoTV 2 tidak cocok id epg
+-  **[KS]** ID: SCTV tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
 -  **[KS]** IR: Persiana Sports tidak cocok id epg
