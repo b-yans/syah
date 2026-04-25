@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 16:08 WIB
+**Diperbarui pada:** 25-04-2026 16:13 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,56 +1393,56 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Heidelberg United Women 🆚 Keilor Park (w)🛡️|🛡️13:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Murdoch Uni Melville 🆚 Subiaco AFC🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lincang Team 🆚 Baoshan Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kingsley Westside 🆚 Cockburn City🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Balcatta FC 🆚 Perth RedStar🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️UWA-Nedlands FC 🆚 Quinns FC🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Taichung Sakura (W) 🆚 Taichung Blue Whale Women🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inglewood United 🆚 Willip🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olympic Kingsway SC 🆚 Western Knights🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️North District 🆚 Kitchee🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Diqing Team 🆚 Zhaotong Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hang Yuan FC Women 🆚 Taipei Brao Women🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianmen Team 🆚 Xiaogan Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Taichung Sakura (W) 🆚 Taichung Blue Whale Women🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ipswich City 🆚 Sunshine Coast Wanderers FC🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brisbane Roar Women 🆚 Adelaide United Women🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shanxi Chongde Ronghai 🆚 Shanghai Port B🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sanfrecce Hiroshima 🆚 Cerezo Osaka🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Balcatta FC 🆚 Perth RedStar🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lijiang Team 🆚 Nujiang Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ipswich City 🆚 Sunshine Coast Wanderers FC🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Diqing Team 🆚 Zhaotong Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fremantle City 🆚 Sorrento F.C.🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brisbane Roar Women 🆚 Adelaide United Women🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Armadale SC 🆚 Stirling Macedonia🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kingsley Westside 🆚 Cockburn City🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yanbian Longding 🆚 Shaanxi Union🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sydney Olympic 🆚 University NSW🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tianmen Team 🆚 Xiaogan Team🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ningde Team 🆚 Nanping Team🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️North District 🆚 Kitchee🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Armadale SC 🆚 Stirling Macedonia🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olympic Kingsway SC 🆚 Western Knights🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fremantle City 🆚 Sorrento F.C.🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inglewood United 🆚 Willip🛡️|🛡️14:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cheonan City 🆚 Seongnam FC🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jinan Team 🆚 Jining Team🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ansan Greeners FC 🆚 Jeonnam Dragons🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jiangxi Lushan 🆚 Hubei Istar🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tai'an Tiankuang 🆚 Lanzhou Longyuan Athletic🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bucheon FC 1995 🆚 Gimcheon Sangmu Football Club🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jinan Team 🆚 Jining Team🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Incheon United Club 🆚 Jeju SK FC🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ansan Greeners FC 🆚 Jeonnam Dragons🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kudrivka Nyva U21 🆚 FC Shakhtar Donetsk U21🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Don Bosco Garelli United 🆚 Philippine Army FC🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grange Thistle SC 🆚 Brisbane Knights🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xiamen Feilu 🆚 Wuhan Three Towns B🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Souths United 🆚 Samford Rangers🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zvezda 2005 Women 🆚 Rubin Kazan Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ningde Team 🆚 Nanping Team🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bucheon FC 1995 🆚 Gimcheon Sangmu Football Club🛡️|🛡️14:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vysocina Jihlava U19 🆚 Slovan Liberec U19🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Moreton City Excelsior FC 🆚 Brisbane Roar Youth🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Sagamihara 🆚 Shonan Bellmare🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Juniors 🆚 Foshan Nanshi🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Taringa Rovers 🆚 Moreton Bay United Reserves🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xiamen Feilu 🆚 Wuhan Three Towns B🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grange Thistle SC 🆚 Brisbane Knights🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangzhou Huadu Red Treasure 🆚 Wuhan Golden Banks of Two Rivers🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Enshi Team 🆚 Huangshi Team🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Apia L Tigers Women 🆚 UNSW FC Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SC Sagamihara 🆚 Shonan Bellmare🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Peninsula Power Women 🆚 Caboolture FC (w)🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caboolture FC 🆚 Redlands United FC🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Apia L Tigers Women 🆚 UNSW FC Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zvezda 2005 Women 🆚 Rubin Kazan Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caroline Springs George Cross 🆚 Altona Magic🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ceahlaul Piatra Neamt 🆚 CS Dinamo Bucuresti🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Southside Eagles 🆚 Caloundra🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Northern Tigers FC Women 🆚 University of Sydney Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangdong Wuchuan Youth 🆚 Linquan Zhikuang🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen 2028 🆚 Guangdong Mingtu🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Taringa Rovers 🆚 Moreton Bay United Reserves🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Don Bosco Garelli United 🆚 Philippine Army FC🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Souths United 🆚 Samford Rangers🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kudrivka Nyva U21 🆚 FC Shakhtar Donetsk U21🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Enshi Team 🆚 Huangshi Team🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Moreton City Excelsior FC 🆚 Brisbane Roar Youth🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wuhan Jiangda Women 🆚 Changchun Dazhongzhuoyue Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ceahlaul Piatra Neamt 🆚 CS Dinamo Bucuresti🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen 2028 🆚 Guangdong Mingtu🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shenzhen Juniors 🆚 Foshan Nanshi🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Northern Tigers FC Women 🆚 University of Sydney Women🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caboolture FC 🆚 Redlands United FC🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Guangdong Wuchuan Youth 🆚 Linquan Zhikuang🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Southside Eagles 🆚 Caloundra🛡️|🛡️15:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SK Motorlet Praha 🆚 Domazlice🛡️|🛡️15:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Pisek 🆚 Loko Vltavin🛡️|🛡️15:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SK Petrin Plzen 🆚 Sokol Hostoun🛡️|🛡️15:15 25/04/2026🛡️ otomatis masuk jadwal
@@ -1454,17 +1454,17 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️UM-Damansara United 🆚 Selangor PKNS🛡️|🛡️15:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs Brisbane 🆚 Rochedale Rovers🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cesena U20 🆚 Sassuolo U20🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mitchelton Women 🆚 Virginia United SC Women🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dianella White Eagles 🆚 Perth Glory Youth🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mandurah City 🆚 Joondalup City🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Liaoning Shenbei Hefeng Women 🆚 Guangdong Women🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Napoli U20 🆚 Inter Milan U20🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dianella White Eagles 🆚 Perth Glory Youth🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Marconi Stallions 🆚 Manly United🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PDRM FC 🆚 Imigresen FC🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mandurah City 🆚 Joondalup City🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dynamic Herb Cebu 🆚 Manila Digger FC🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Liaoning Shenbei Hefeng Women 🆚 Guangdong Women🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️PDRM FC 🆚 Imigresen FC🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mitchelton Women 🆚 Virginia United SC Women🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** [25 Apr 2026 13:55 WIB] diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
+- ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1531,13 +1531,6 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Negeri Surabaya vs Institut Teknologi Sepuluh Nopember Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** ASTAM FC LADIES vs RRI SOCCER SCHOOL HYDROPLUS Soccer League U15 tidak cocok id epg
--  **[KS]** Moto2 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
--  **[KS]** Persela Lamongan vs PS Barito Putera Pegadaian Championship tidak cocok id epg
--  **[KS]** Sriwijaya FC vs Garudayaksa FC Pegadaian Championship tidak cocok id epg
--  **[KS]** Madura United FC vs Dewa United Banten FC BRI Super League tidak cocok id epg
--  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
 ---
 
