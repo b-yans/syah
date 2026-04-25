@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 11:56 WIB
+**Diperbarui pada:** 25-04-2026 12:01 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -65,7 +65,6 @@
 - ⚠️ **[FZ]** DE: Sky Sport 4 cocok [fz] (403248)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
@@ -97,7 +96,6 @@
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
@@ -156,7 +154,6 @@
 - ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
 - ⚠️ **[FZ]** RS: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
-- ⚠️ **[FZ]** RS: Sport Klub ESports cocok [fz] (497492)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
 - ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
@@ -177,7 +174,6 @@
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: V Sport Football cocok [fz] (537102)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
-- ⚠️ **[FZ]** SE: V Sport Extra cocok [fz] (537118)
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
@@ -192,8 +188,6 @@
 - ⚠️ **[FZ]** UK: Hub Premier 3 cocok [fz] (537791)
 - ⚠️ **[FZ]** UK: Hub Premier 4 cocok [fz] (537775)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fz] (438445)
-- ⚠️ **[FZ]** UK: Sky Sports Premier League 50fps [vip] cocok [fz] (438445)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
 - ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
@@ -214,7 +208,6 @@
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
-- ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
@@ -226,11 +219,11 @@
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
+- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
+- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
@@ -512,6 +505,7 @@
 -  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport Premier League tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
@@ -776,6 +770,7 @@
 -  **[KS]** IE: Sky Sports Golf tidak cocok id epg
 -  **[KS]** IE: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
+-  **[KS]** IE: Sky Sports Premier League tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
 -  **[KS]** IL: Eurosport 1 tidak cocok id epg
 -  **[KS]** IL: Yes Sport 1 tidak cocok id epg
@@ -979,6 +974,7 @@
 -  **[KS]** RS: Sport Klub 10 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 6 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 7 tidak cocok id epg
+-  **[KS]** RS: Sport Klub ESports tidak cocok id epg
 -  **[KS]** RS: Cinestar TV Premiere 1 tidak cocok id epg
 -  **[KS]** RS: Cinestar TV Premiere 2 tidak cocok id epg
 -  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
@@ -1027,6 +1023,7 @@
 -  **[KS]** SE: TV4 Sport Live 1/C More Sport 1 tidak cocok id epg
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
+-  **[KS]** SE: V Sport Extra tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
 -  **[KS]** CH: Blue Sport 1 tidak cocok id epg
@@ -1116,6 +1113,8 @@
 -  **[KS]** UK: Premier Sports 2 tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football tidak cocok id epg
 -  **[KS]** UK: Sky Sports Football 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports Premier League tidak cocok id epg
+-  **[KS]** UK: Sky Sports Premier League 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports+ tidak cocok id epg
 -  **[KS]** UK: Eurosport 1 tidak cocok id epg
 -  **[KS]** UK: Eurosport 2 tidak cocok id epg
@@ -1202,6 +1201,7 @@
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
 -  **[KS]** US: FTF Sports tidak cocok id epg
+-  **[KS]** US: Marquee Sports Network tidak cocok id epg
 -  **[KS]** US: NBA League Pass 1 tidak cocok id epg
 -  **[KS]** US: NBA TV tidak cocok id epg
 -  **[KS]** US: NBC Sports Boston tidak cocok id epg
@@ -1393,19 +1393,19 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Reserves 🆚 Edgeworth Eagles Reserves🛡️|🛡️09:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey Women 🆚 Tigres Women🛡️|🛡️10:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wellington Olympic 🆚 Island Bay United🛡️|🛡️10:45 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra United Women 🆚 Melbourne Victory Women🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra United Women 🆚 Melbourne Victory Women🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jubilo Iwata 🆚 FC Gifu🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hisamitsu Springs Women 🆚 JT Marvelous Women🛡️|🛡️11:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 11:25 WIB] otomatis masuk jadwal
