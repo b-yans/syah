@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 10:51 WIB
+**Diperbarui pada:** 25-04-2026 10:56 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1405,7 +1405,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wellington Olympic 🆚 Island Bay United🛡️|🛡️10:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [25 Apr 2026 08:55 WIB] otomatis masuk jadwal
+- ⚠️ **[BASI]** [25 Apr 2026 08:55 WIB] diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Lomba Panahan Nasional Pepper Saving Bank Cup Bagi Penyandang Disabilitas ke-4 & Lomba Seleksi Timnas ke-1 Tahun 2027 | 12.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
