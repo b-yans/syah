@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 13:57 WIB
+**Diperbarui pada:** 25-04-2026 14:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -22,7 +22,6 @@
 - ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fz] (381854)
 - ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
 - ⚠️ **[FZ]** BR: SPORTV 2 cocok [fz] (523271)
-- ⚠️ **[FZ]** CA: NBA TV Canada cocok [fz] (470366)
 - ⚠️ **[FZ]** CA: SportsNet 360 cocok [fz] (470392)
 - ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
 - ⚠️ **[FZ]** CA: SportsNet One cocok [fz] (470873)
@@ -81,6 +80,7 @@
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
 - ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
 - ⚠️ **[FZ]** HK: Now Sports 5 cocok [fz] (532219)
+- ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
@@ -187,6 +187,7 @@
 - ⚠️ **[FZ]** UK: Hub Premier 3 cocok [fz] (537791)
 - ⚠️ **[FZ]** UK: Hub Premier 4 cocok [fz] (537775)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
+- ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fz] (537810)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
 - ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
@@ -207,22 +208,23 @@
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
 - ⚠️ **[FZ]** US: Fubo Sports Network cocok [fz] (408644)
+- ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
+- ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: Spectrum SportsNet cocok [fz] (409245)
 - ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** US: Tennis Channel cocok [fz] (465236)
 - ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E01 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E02 diblokir (KADALUARSA)
 - ⚠️ **[BASI]** EN: 11.22.63 S01 E03 diblokir (KADALUARSA)
@@ -346,6 +348,7 @@
 -  **[KS]** BG: Nova Sport tidak cocok id epg
 -  **[KS]** BG: Auto Motor Sport tidak cocok id epg
 -  **[KS]** CA: beIN Sports tidak cocok id epg
+-  **[KS]** CA: NBA TV Canada tidak cocok id epg
 -  **[KS]** CA: SportsNet East tidak cocok id epg
 -  **[KS]** CA: SportsNet Ontario tidak cocok id epg
 -  **[KS]** CA: SportsNet Pacific tidak cocok id epg
@@ -746,7 +749,6 @@
 -  **[KS]** HU: Eurosport 2 tidak cocok id epg
 -  **[KS]** HU: M4 Sport tidak cocok id epg
 -  **[KS]** HU: Sport 1 tidak cocok id epg
--  **[KS]** HU: Sport 2 tidak cocok id epg
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
@@ -1118,7 +1120,6 @@
 -  **[KS]** UK: Sky Sports+ tidak cocok id epg
 -  **[KS]** UK: Eurosport 1 tidak cocok id epg
 -  **[KS]** UK: Eurosport 2 tidak cocok id epg
--  **[KS]** UK: Hub Sports 2 [vip] tidak cocok id epg
 -  **[KS]** UK: Hub Sports 3 [vip] tidak cocok id epg
 -  **[KS]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
 -  **[KS]** UK: Setanta Sports 1 tidak cocok id epg
@@ -1201,19 +1202,18 @@
 -  **[KS]** US: Fox Sports Florida tidak cocok id epg
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
 -  **[KS]** US: FTF Sports tidak cocok id epg
--  **[KS]** US: Marquee Sports Network tidak cocok id epg
 -  **[KS]** US: NBA League Pass 1 tidak cocok id epg
 -  **[KS]** US: NBA TV tidak cocok id epg
 -  **[KS]** US: NBC Sports Boston tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago Plus tidak cocok id epg
 -  **[KS]** US: NBC Sports Philadelphia tidak cocok id epg
--  **[KS]** US: NBC Sports Philadelphia Plus tidak cocok id epg
 -  **[KS]** US: NBC Sports Washington tidak cocok id epg
 -  **[KS]** US: NFL Network tidak cocok id epg
 -  **[KS]** US: NFL RedZone tidak cocok id epg
 -  **[KS]** US: Root Sports tidak cocok id epg
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
+-  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
 -  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
@@ -1390,39 +1390,39 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jubilo Iwata 🆚 FC Gifu🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra United Women 🆚 Melbourne Victory Women🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jungnang Chorus Mustang FC 🆚 Geoje Citizen🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Canberra United Women 🆚 Melbourne Victory Women🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Hisamitsu Springs Women 🆚 JT Marvelous Women🛡️|🛡️11:35 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Imabari 🆚 Kataller Toyama🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors II 🆚 Dangjin Citizen🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tegevajaro Miyazaki 🆚 Kagoshima United🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fujieda MYFC 🆚 RB Omiya Ardija🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yantai New Area 🆚 Guangzhou Xingpai🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gyeongju KHNP 🆚 Ulsan Citizens🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Urawa Red Diamonds 🆚 Yokohama F. Marinos🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebuds FC 🆚 Weston Workers FC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shimizu S-Pulse 🆚 Nagoya Grampus🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Albirex Niigata 🆚 FC Osaka🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tochigi City 🆚 Tochigi SC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Thespa Kusatsu Gunma 🆚 Yokohama FC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Wuhan Lianzhen🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Daejeon Korail 🆚 Changwon City🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Preston Lions Women 🆚 Melbourne City Youth(W)🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vegalta Sendai 🆚 Montedio Yamagata🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Suwon Samsung Bluewings 🆚 Busan I Park🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fukushima United FC 🆚 Ventforet Kofu🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gangwon Football Club 🆚 Football Club Seoul🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fagiano Okayama 🆚 Avispa Fukuoka🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sagan Tosu 🆚 Reilac Shiga FC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hokkaido Consadole Sapporo 🆚 Iwaki FC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Zweigen Kanazawa FC 🆚 Nara Club🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Paju Frontier FC 🆚 Gyeongnam FC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Giravanz Kitakyushu 🆚 Renofa Yamaguchi🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mungyeong Sangmu WFC 🆚 Gyeongju Korea Hydro & Nuclear Power WFC🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yantai New Area 🆚 Guangzhou Xingpai🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tegevajaro Miyazaki 🆚 Kagoshima United🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors II 🆚 Dangjin Citizen🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fagiano Okayama 🆚 Avispa Fukuoka🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gangwon Football Club 🆚 Football Club Seoul🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Daejeon Korail 🆚 Changwon City🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Adamstown Rosebuds FC 🆚 Weston Workers FC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Thespa Kusatsu Gunma 🆚 Yokohama FC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Suwon Samsung Bluewings 🆚 Busan I Park🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hokkaido Consadole Sapporo 🆚 Iwaki FC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sagan Tosu 🆚 Reilac Shiga FC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fukushima United FC 🆚 Ventforet Kofu🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vegalta Sendai 🆚 Montedio Yamagata🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Albirex Niigata 🆚 FC Osaka🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shimizu S-Pulse 🆚 Nagoya Grampus🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gyeongju KHNP 🆚 Ulsan Citizens🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Paju Frontier FC 🆚 Gyeongnam FC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mungyeong Sangmu WFC 🆚 Gyeongju Korea Hydro & Nuclear Power WFC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Meizhou Qiangmin 🆚 Wuhan Lianzhen🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fujieda MYFC 🆚 RB Omiya Ardija🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Imabari 🆚 Kataller Toyama🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Giravanz Kitakyushu 🆚 Renofa Yamaguchi🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zweigen Kanazawa FC 🆚 Nara Club🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tochigi City 🆚 Tochigi SC🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Urawa Red Diamonds 🆚 Yokohama F. Marinos🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Preston Lions Women 🆚 Melbourne City Youth(W)🛡️|🛡️12:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kawasaki Frontale 🆚 JEF United Ichihara Chiba🛡️|🛡️13:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yenisey Krasnoyarsk Women 🆚 Chertanovo Moscow Women🛡️|🛡️13:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Heidelberg United Women 🆚 Keilor Park (w)🛡️|🛡️13:15 25/04/2026🛡️ otomatis masuk jadwal
