@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 03:44 WIB
+**Diperbarui pada:** 26-04-2026 03:51 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -170,8 +170,6 @@
 - ⚠️ **[FZ]** TR: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
-- ⚠️ **[FZ]** UK: Hub Premier 3 cocok [fz] (537791)
-- ⚠️ **[FZ]** UK: Hub Premier 4 cocok [fz] (537775)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** UK: Sky Sports Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** UK: Sky Sports Premier League 50fps [vip] cocok [fz] (438445)
@@ -1111,6 +1109,8 @@
 -  **[KS]** AE: StarzPlay Sports 2 tidak cocok id epg
 -  **[KS]** AE: StarzPlay Sports 3 tidak cocok id epg
 -  **[KS]** UK: Hub Premier 1 tidak cocok id epg
+-  **[KS]** UK: Hub Premier 3 tidak cocok id epg
+-  **[KS]** UK: Hub Premier 4 tidak cocok id epg
 -  **[KS]** UK: Hub Premier 5 tidak cocok id epg
 -  **[KS]** UK: Hub Premier 6 tidak cocok id epg
 -  **[KS]** UK: Premier Sports 1 50fps [vip] tidak cocok id epg
@@ -1418,9 +1418,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Telmo 🆚 All Boys🛡️|🛡️01:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Renate AC 🆚 Pro Patria🛡️|🛡️01:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Darmstadt 98 🆚 SV Elversberg🛡️|🛡️01:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hellas Verona 🆚 Lecce🛡️|🛡️01:45 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sligo Rovers 🆚 Dundalk🛡️|🛡️01:45 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KVC Westerlo 🆚 Royal Antwerp🛡️|🛡️01:45 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hellas Verona 🆚 Lecce🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sligo Rovers 🆚 Dundalk🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVC Westerlo 🆚 Royal Antwerp🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nublense 🆚 O.Higgins🛡️|🛡️02:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fleury 91 Women 🆚 Paris Saint Germain Women🛡️|🛡️02:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Bucaramanga 🆚 Jaguares de Cordoba🛡️|🛡️02:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1452,7 +1452,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Martin San Juan 🆚 Quilmes🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Moengo Tapoe 🆚 SV Robinhood🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1470,7 +1469,6 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
