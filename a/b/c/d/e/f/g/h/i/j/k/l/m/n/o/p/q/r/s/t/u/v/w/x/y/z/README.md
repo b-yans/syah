@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 18:22 WIB
+**Diperbarui pada:** 25-04-2026 18:27 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1469,7 +1469,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham 🆚 Aston Villa🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fulham 🆚 Aston Villa🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [25 Apr 2026 16:25 WIB] otomatis masuk jadwal
+- ⚠️ **[BASI]** [25 Apr 2026 16:25 WIB] diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
