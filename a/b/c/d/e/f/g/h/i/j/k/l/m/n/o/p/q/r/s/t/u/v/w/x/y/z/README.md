@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 04:38 WIB
+**Diperbarui pada:** 26-04-2026 04:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -158,6 +158,7 @@
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
 - ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
+- ⚠️ **[FZ]** ES: DAZN LaLiga 2 cocok [fz] (406530)
 - ⚠️ **[FZ]** ES: M+ LaLiga cocok [fz] (406566)
 - ⚠️ **[FZ]** ES: beIN Sports Xtra ñ cocok [fz] (413152)
 - ⚠️ **[FZ]** SE: TV4 Tennis cocok [fz] (537113)
@@ -188,7 +189,6 @@
 - ⚠️ **[FZ]** UK: TNT Sports 5 cocok [fz] (538919)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
 - ⚠️ **[FZ]** UK: TNT Sports 7 cocok [fz] (538915)
-- ⚠️ **[FZ]** UK: TNT Sports 8 cocok [fz] (538917)
 - ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports 6 cocok [fz] (532979)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
@@ -1010,7 +1010,6 @@
 -  **[KS]** ES: Movistar Liga De Campeones 7 tidak cocok id epg
 -  **[KS]** ES: Movistar Liga De Campeones 8 tidak cocok id epg
 -  **[KS]** ES: Movistar Liga De Campeones FHD tidak cocok id epg
--  **[KS]** ES: DAZN LaLiga 2 tidak cocok id epg
 -  **[KS]** ES: beIN Sports n tidak cocok id epg
 -  **[KS]** ES: Esport 3 tidak cocok id epg
 -  **[KS]** ES: Eurosport 1 tidak cocok id epg
@@ -1142,6 +1141,7 @@
 -  **[KS]** UK: TNT Sports 3 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: TNT Sports 8 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
 -  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
 -  **[KS]** UK: Ginx eSports tidak cocok id epg
@@ -1391,46 +1391,50 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hellas Verona 🆚 Lecce🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVC Westerlo 🆚 Royal Antwerp🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sligo Rovers 🆚 Dundalk🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Bucaramanga 🆚 Jaguares de Cordoba🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nublense 🆚 O.Higgins🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KVC Westerlo 🆚 Royal Antwerp🛡️|🛡️01:45 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Madrid 🆚 Athletic Club🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Madrid 🆚 Athletic Club🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nacional Potosi 🆚 Gualberto Villarroel Deportivo San José🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fleury 91 Women 🆚 Paris Saint Germain Women🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Twente Enschede 🆚 NEC Nijmegen🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Malaga 🆚 Castellon🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dijon Women 🆚 Paris FC Women🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Bucaramanga 🆚 Jaguares de Cordoba🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fleury 91 Women 🆚 Paris Saint Germain Women🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nublense 🆚 O.Higgins🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Twente Enschede 🆚 NEC Nijmegen🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nacional Potosi 🆚 Gualberto Villarroel Deportivo San José🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Malaga 🆚 Castellon🛡️|🛡️02:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Toulouse FC 🆚 AS Monaco🛡️|🛡️02:05 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Independiente del Valle 🆚 Club Leones del Norte🛡️|🛡️02:10 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Mafra 🆚 Clube Desportivo Trofense🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zamora FC Barinas B 🆚 Barquisimeto🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mineros de Guayana 🆚 Bolívar SC VEN🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vitoria Guimaraes 🆚 Rio Ave🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zamora FC Barinas B 🆚 Barquisimeto🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Mafra 🆚 Clube Desportivo Trofense🛡️|🛡️02:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Salcedo FC 🆚 Delfines Del Este🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Academia Anzoategui 🆚 Zamora Barinas🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madriz FC 🆚 Rancho Santana FC🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Estudiantes La Plata 🆚 Talleres Cordoba🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Salcedo FC 🆚 Delfines Del Este🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monagas SC 🆚 Academia Puerto Cabello🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aragua FC 🆚 Deportivo Miranda🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 SC Paysandu Para🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Trujillanos 🆚 Deportivo La Guaira🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Portuguesa FC 🆚 Universidad Central de Venezuela🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caracas FC 🆚 Rayo Zuliano🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Uruguay Women U17 🆚 Peru (w) U17🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Trujillanos 🆚 Deportivo La Guaira🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jalapa 🆚 Walter Ferretti🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aragua FC 🆚 Deportivo Miranda🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️UNAN Managua 🆚 HYH Export Sebaco FC🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Itabaiana(SE) 🆚 SC Paysandu Para🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Tachira 🆚 Carabobo🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brusque FC 🆚 AD Confiança🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Uruguay Women U17 🆚 Peru (w) U17🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Caracas FC 🆚 Rayo Zuliano🛡️|🛡️03:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Moengo Tapoe 🆚 SV Robinhood🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Martin San Juan 🆚 Quilmes🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Sporting Cristal🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Moengo Tapoe 🆚 SV Robinhood🛡️|🛡️03:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sportivo Luqueno 🆚 Club Sportivo Trinidense🛡️|🛡️03:45 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Minnesota United FC 🆚 Los Angeles FC🛡️|🛡️03:45 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Lara 🆚 Atletico El Vigia🛡️|🛡️04:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pereira 🆚 Atletico Nacional Medellin🛡️|🛡️04:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Rafaela 🆚 Gimnasia Jujuy🛡️|🛡️04:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Academia del Balompié Boliviano 🆚 Blooming🛡️|🛡️04:15 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Santos Fc - SP🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Internacional - RS🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Remo - PA 🆚 Cruzeiro - MG🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Santos Fc - SP🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
@@ -1497,11 +1501,14 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Round 3 The Chevron Championship 2026 tidak cocok id epg
--  **[KS]** Verona vs Lecce Serie A tidak cocok id epg
--  **[KS]** Atletico Madrid vs Athletic Club LaLiga tidak cocok id epg
 -  **[KS]** ROKET FC vs PUTRI TANGSEL CITY HYDROPLUS Soccer League U18 tidak cocok id epg
 -  **[KS]** Universitas Cenderawasih vs Universitas Ciputra Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Thailand vs Spain BWF Uber Cup Finals 2026 Group Stage Court 2 tidak cocok id epg
+-  **[KS]** France vs Algeria BWF Thomas Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
+-  **[KS]** Indonesia vs Thailand BWF Thomas Cup Finals 2026 Group Stage Court 1 tidak cocok id epg
+-  **[KS]** MotoGP Warm Up Riders Parade Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Persipal FC vs Persipura Jayapura Pegadaian Championship tidak cocok id epg
+-  **[KS]** Persekat Tegal vs Persiraja Banda Aceh Pegadaian Championship tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
