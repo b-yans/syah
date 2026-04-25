@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 12:28 WIB
+**Diperbarui pada:** 25-04-2026 12:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -20,6 +20,7 @@
 - ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fz] (381854)
+- ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
 - ⚠️ **[FZ]** BR: SPORTV 2 cocok [fz] (523271)
 - ⚠️ **[FZ]** CA: NBA TV Canada cocok [fz] (470366)
 - ⚠️ **[FZ]** CA: SportsNet 360 cocok [fz] (470392)
@@ -334,7 +335,6 @@
 -  **[KS]** BR: Premiere FC 7 tidak cocok id epg
 -  **[KS]** BR: Band Sports tidak cocok id epg
 -  **[KS]** BR: FOX SPORTS tidak cocok id epg
--  **[KS]** BR: SPORTV tidak cocok id epg
 -  **[KS]** BR: SPORTV 3 tidak cocok id epg
 -  **[KS]** BG: Diema Sport tidak cocok id epg
 -  **[KS]** BG: Diema Sport 2 tidak cocok id epg
@@ -1398,7 +1398,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterrey Women 🆚 Tigres Women🛡️|🛡️10:06 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wellington Olympic 🆚 Island Bay United🛡️|🛡️10:45 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
