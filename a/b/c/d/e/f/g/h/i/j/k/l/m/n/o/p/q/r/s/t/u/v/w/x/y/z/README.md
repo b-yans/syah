@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 20:43 WIB
+**Diperbarui pada:** 25-04-2026 20:47 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1464,7 +1464,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lianyungang Team 🆚 Wuxi Team🛡️|🛡️18:40 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nantong Team 🆚 Xuzhou Team🛡️|🛡️18:40 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yancheng Team 🆚 Suqian Team🛡️|🛡️18:40 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Perth Glory 🆚 Brisbane Roar🛡️|🛡️18:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Perth Glory 🆚 Brisbane Roar🛡️|🛡️18:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Baerum SK 🆚 Heming🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Leipzig Women 🆚 Werder Bremen Women🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Junkeren 🆚 Eidsvold Turn🛡️|🛡️19:00 25/04/2026🛡️ otomatis masuk jadwal
