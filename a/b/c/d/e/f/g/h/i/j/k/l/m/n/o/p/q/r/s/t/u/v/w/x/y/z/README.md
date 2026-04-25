@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 20:11 WIB
+**Diperbarui pada:** 25-04-2026 20:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1426,9 +1426,9 @@
 - ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Spor Toto 🆚 Halkbank🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Karlsruher SC 🆚 Hannover 96🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Konnerud 🆚 Frigg🛡️|🛡️18:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Suduva 🆚 FK Panevezys🛡️|🛡️18:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kauno Zalgiris 🆚 FK Riteriai🛡️|🛡️18:15 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Slask Wroclaw II 🆚 Sandecja Nowy Sacz🛡️|🛡️18:15 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Suduva 🆚 FK Panevezys🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kauno Zalgiris 🆚 FK Riteriai🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Slask Wroclaw II 🆚 Sandecja Nowy Sacz🛡️|🛡️18:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️ETSV Weiche Flensburg 🆚 FC Schoningen08🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Harju JK Laagri 🆚 Tartu JK Maag Tammeka🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Rostov 🆚 Gazovik Orenburg🛡️|🛡️18:30 25/04/2026🛡️ otomatis masuk jadwal
