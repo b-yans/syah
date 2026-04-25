@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 23:28 WIB
+**Diperbarui pada:** 25-04-2026 23:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -20,7 +20,6 @@
 - ⚠️ **[FZ]** BIH: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** BIH: Arena Sport 4 cocok [fz] (381853)
 - ⚠️ **[FZ]** BIH: Arena Sport 5 cocok [fz] (381854)
-- ⚠️ **[FZ]** BR: SPORTV cocok [fz] (523358)
 - ⚠️ **[FZ]** BR: SPORTV 2 cocok [fz] (523271)
 - ⚠️ **[FZ]** CA: SportsNet 360 cocok [fz] (470392)
 - ⚠️ **[FZ]** CA: SportsNet New York cocok [fz] (464777)
@@ -89,7 +88,6 @@
 - ⚠️ **[FZ]** ID: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[EXACT]** ID: SCTV cocok (SCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
-- ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
@@ -328,6 +326,7 @@
 -  **[KS]** BR: Premiere FC 7 tidak cocok id epg
 -  **[KS]** BR: Band Sports tidak cocok id epg
 -  **[KS]** BR: FOX SPORTS tidak cocok id epg
+-  **[KS]** BR: SPORTV tidak cocok id epg
 -  **[KS]** BR: SPORTV 3 tidak cocok id epg
 -  **[KS]** BG: Diema Sport tidak cocok id epg
 -  **[KS]** BG: Diema Sport 2 tidak cocok id epg
@@ -755,6 +754,7 @@
 -  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
 -  **[KS]** ID: RCTI tidak cocok id epg
+-  **[KS]** ID: SpoTV 2 tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
 -  **[KS]** IR: Persiana Sports tidak cocok id epg
@@ -1450,10 +1450,10 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Valladolid CF 🆚 Real Sociedad B🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Getafe 🆚 FC Barcelona🛡️|🛡️21:15 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CD Tondela 🆚 Nacional da Madeira🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Gilan Gabala 🆚 Araz Nakhchivan🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Waldhof Mannheim 🆚 Schweinfurt 05 FC🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Feyenoord 🆚 Groningen🛡️|🛡️21:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CD Tondela 🆚 Nacional da Madeira🛡️|🛡️21:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FK Gilan Gabala 🆚 Araz Nakhchivan🛡️|🛡️21:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Waldhof Mannheim 🆚 Schweinfurt 05 FC🛡️|🛡️21:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Feyenoord 🆚 Groningen🛡️|🛡️21:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dinamo-2 Minsk 🆚 FK BumProm Gomel🛡️|🛡️22:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CA Juventud 🆚 Liverpool URU🛡️|🛡️22:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puskas Akademia FC 🆚 Ujpest FC🛡️|🛡️22:00 25/04/2026🛡️ otomatis masuk jadwal
@@ -1468,6 +1468,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️WSG Tirol 🆚 SV Ried🛡️|🛡️22:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Haka 🆚 Käpylän Pallo🛡️|🛡️22:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[BASI]** [26 Apr 2026 20:25 WIB] diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1485,6 +1486,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
