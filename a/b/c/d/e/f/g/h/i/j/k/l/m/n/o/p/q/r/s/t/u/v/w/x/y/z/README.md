@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 06:24 WIB
+**Diperbarui pada:** 26-04-2026 06:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -13,7 +13,6 @@
 - ⚠️ **[FZ]** BE: Eleven Sports 2 cocok [fz] (6340)
 - ⚠️ **[FZ]** BE: Eleven Sports 3 cocok [fz] (6339)
 - ⚠️ **[FZ]** BE: Play Sports 1 cocok [fz] (480057)
-- ⚠️ **[FZ]** BE: Play Sports 2 cocok [fz] (480054)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 1 Premium cocok [fz] (381850)
 - ⚠️ **[FZ]** BIH: Arena Sport 2 Premium cocok [fz] (381848)
@@ -54,8 +53,6 @@
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
-- ⚠️ **[FZ]** FR: beIN Sports Max 7 cocok [fz] (459113)
-- ⚠️ **[FZ]** FR: beIN Sports Max 8 cocok [fz] (459121)
 - ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] cocok [fz] (489756)
 - ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] cocok [fz] (489756)
 - ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
@@ -78,7 +75,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** IN: Star Sports 2 cocok [fz] (464295)
 - ⚠️ **[FZ]** IN: Star Sports 3 cocok [fz] (464163)
 - ⚠️ **[FZ]** IN: Star Sports Select 1 cocok [fz] (464065)
 - ⚠️ **[FZ]** IN: Star Sports Select 2 cocok [fz] (464238)
@@ -306,6 +302,7 @@
 -  **[KS]** BH: Bahrain Sports 1 tidak cocok id epg
 -  **[KS]** BH: Bahrain Sports 2 tidak cocok id epg
 -  **[KS]** BE: Eurosport 2 tidak cocok id epg
+-  **[KS]** BE: Play Sports 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 1 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 2 tidak cocok id epg
 -  **[KS]** BE: Voo Sport World 3 tidak cocok id epg
@@ -416,6 +413,8 @@
 -  **[KS]** FI: V Sport 1 Suomi tidak cocok id epg
 -  **[KS]** FR: beIN Sports 1 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
+-  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 9 tidak cocok id epg
 -  **[KS]** FR: CANAL+ MotoGP tidak cocok id epg
 -  **[KS]** FR: CANAL+ Sport tidak cocok id epg
@@ -743,6 +742,7 @@
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Star Sports 1 tidak cocok id epg
+-  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
 -  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
@@ -1390,41 +1390,41 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Martin San Juan 🆚 Quilmes🛡️|🛡️03:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Moengo Tapoe 🆚 SV Robinhood🛡️|🛡️03:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Martin San Juan 🆚 Quilmes🛡️|🛡️03:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Comerciantes Unidos 🆚 Sporting Cristal🛡️|🛡️03:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sportivo Luqueno 🆚 Club Sportivo Trinidense🛡️|🛡️03:45 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Lara 🆚 Atletico El Vigia🛡️|🛡️04:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Rafaela 🆚 Gimnasia Jujuy🛡️|🛡️04:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Pereira 🆚 Atletico Nacional Medellin🛡️|🛡️04:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Lara 🆚 Atletico El Vigia🛡️|🛡️04:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Academia del Balompié Boliviano 🆚 Blooming🛡️|🛡️04:15 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Remo - PA 🆚 Cruzeiro - MG🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Internacional - RS🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Santos Fc - SP🛡️|🛡️04:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Santos Fc - SP🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Internacional - RS🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Remo - PA 🆚 Cruzeiro - MG🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cruz Azul Women 🆚 Unam Pumas Women🛡️|🛡️04:45 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Loudoun United 🆚 Charleston Battery🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Carolina Core 🆚 Crown Legacy FC🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nacional Montevideo 🆚 Danubio FC🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Sport Emelec 🆚 Liga Dep Universitaria Quito🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Richmond Kickers 🆚 Charlotte Independence🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nacional Montevideo 🆚 Danubio FC🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universidad de Chile 🆚 Univ Catolica🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Loudoun United 🆚 Charleston Battery🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Carolina Core 🆚 Crown Legacy FC🛡️|🛡️05:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sarmiento Junin 🆚 Club Atletico Tigre🛡️|🛡️05:15 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tormenta FC 🆚 FC Naples🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Britannia 🆚 Racing Club Aruba🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Red Stars Women 🆚 Boston Legacy W🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo PB 🆚 Floresta CE🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maranhao 🆚 Volta Redonda🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Louisville City FC 🆚 Fort Wayne FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chattanooga Red Wolves 🆚 Corpus Christi FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pittsburgh Riverhounds 🆚 Greenville Triumph🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo PB 🆚 Floresta CE🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Britannia 🆚 Racing Club Aruba🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tormenta FC 🆚 FC Naples🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Red Stars Women 🆚 Boston Legacy W🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pachuca 🆚 Pumas U.N.A.M.🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hartford Athletic 🆚 Rhode Island🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lexington 🆚 Forward Madison FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Indy Eleven 🆚 Omaha🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Louisville City FC 🆚 Fort Wayne FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chattanooga Red Wolves 🆚 Corpus Christi FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pittsburgh Riverhounds 🆚 Greenville Triumph🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali 🆚 America de Cali🛡️|🛡️06:10 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
