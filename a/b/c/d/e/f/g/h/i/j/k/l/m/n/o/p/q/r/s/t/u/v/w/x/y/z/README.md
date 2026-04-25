@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 09:59 WIB
+**Diperbarui pada:** 25-04-2026 10:04 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -49,6 +49,7 @@
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Canal+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
+- ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
@@ -139,7 +140,6 @@
 - ⚠️ **[FZ]** RO: Prima Sport 1 cocok [fz] (6832)
 - ⚠️ **[FZ]** RO: Prima Sport 2 cocok [fz] (6830)
 - ⚠️ **[FZ]** RO: Prima Sport 3 cocok [fz] (6831)
-- ⚠️ **[FZ]** RO: Prima Sport 4 cocok [fz] (6828)
 - ⚠️ **[FZ]** RO: Prima Sport 5 cocok [fz] (6829)
 - ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
@@ -182,6 +182,7 @@
 - ⚠️ **[FZ]** SE: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** SE: V Sport Motor cocok [fz] (68308)
 - ⚠️ **[FZ]** SE: V Sport Premium cocok [fz] (537119)
+- ⚠️ **[FZ]** SE: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** CH: MySports 1 cocok [fz] (76707)
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
@@ -405,7 +406,6 @@
 -  **[KS]** DK: TV 2 Sport tidak cocok id epg
 -  **[KS]** DK: TV 2 Sport X tidak cocok id epg
 -  **[KS]** DK: TV 3 Sport tidak cocok id epg
--  **[KS]** DK: V Sport Ultra tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports tidak cocok id epg
 -  **[KS]** EC: DirecTV Sports Plus tidak cocok id epg
 -  **[KS]** EG: Nile Sport tidak cocok id epg
@@ -950,6 +950,7 @@
 -  **[KS]** RO: Antena Sport tidak cocok id epg
 -  **[KS]** RO: Eurosport 1 tidak cocok id epg
 -  **[KS]** RO: Eurosport 2 tidak cocok id epg
+-  **[KS]** RO: Prima Sport 4 tidak cocok id epg
 -  **[KS]** RO: Realitatea Sportiva tidak cocok id epg
 -  **[KS]** RO: TVR Sport tidak cocok id epg
 -  **[KS]** RO: Auto Motor Sport tidak cocok id epg
@@ -1025,7 +1026,6 @@
 -  **[KS]** SE: TV4 Sport Live 2/C More Sport 2 tidak cocok id epg
 -  **[KS]** SE: TV4 Sportkanalen tidak cocok id epg
 -  **[KS]** SE: V Sport Hockey tidak cocok id epg
--  **[KS]** SE: V Sport Ultra tidak cocok id epg
 -  **[KS]** SE: V Sport Vinter tidak cocok id epg
 -  **[KS]** CH: Blue Sport 1 tidak cocok id epg
 -  **[KS]** CH: Blue Sport 10 LIVE [vip] tidak cocok id epg
@@ -1390,17 +1390,18 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Independiente Petrolero 🆚 Universitario De Vinto🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Club de Avellaneda 🆚 Barracas Central🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Audax Italiano 🆚 Deportes Limache🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America Women 🆚 Pachuca Women🛡️|🛡️08:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club America Women 🆚 Pachuca Women🛡️|🛡️08:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chivas Guadalajara Women 🆚 Toluca Women🛡️|🛡️08:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportes Quindio 🆚 Envigado FC🛡️|🛡️08:15 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Reserves 🆚 Edgeworth Eagles Reserves🛡️|🛡️09:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 08:55 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** Lomba Panahan Nasional Pepper Saving Bank Cup Bagi Penyandang Disabilitas ke-4 & Lomba Seleksi Timnas ke-1 Tahun 2027 | 12.00 WIB otomatis masuk jadwal
