@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 20:52 WIB
+**Diperbarui pada:** 25-04-2026 20:57 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1558,9 +1558,9 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️1. FSV Mainz 05 🆚 FC Bayern Munich🛡️|🛡️20:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Augsburg 🆚 Eintracht Frankfurt🛡️|🛡️20:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:25 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1626,15 +1626,14 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Moto2 Qualifying Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
--  **[KS]** Brighton vs Man City Womens Super League tidak cocok id epg
--  **[KS]** Fulham vs Aston Villa Premier League tidak cocok id epg
--  **[KS]** Universitas Wijaya Kusuma vs Universitas Katolik Darma Cendika Grup D Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** West Bromwich Albion vs Ipswich EFL Championship tidak cocok id epg
--  **[KS]** PSIS Semarang vs Kendal Tornado FC Pegadaian Championship tidak cocok id epg
+-  **[KS]** Liverpool vs Crystal Palace Premier League tidak cocok id epg
+-  **[KS]** Wolves vs Tottenham Premier League tidak cocok id epg
 -  **[KS]** PSMS Medan vs Adhyaksa FC Pegadaian Championship tidak cocok id epg
 -  **[KS]** Persikad vs FC Bekasi City Pegadaian Championship tidak cocok id epg
 -  **[KS]** Alaves vs Mallorca LaLiga tidak cocok id epg
+-  **[KS]** MotoGP Tissot SPRINT Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Parma vs Pisa Serie A tidak cocok id epg
+-  **[KS]** West Ham vs Everton Premier League tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
