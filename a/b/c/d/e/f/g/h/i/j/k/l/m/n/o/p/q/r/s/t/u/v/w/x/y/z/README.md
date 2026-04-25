@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 08:44 WIB
+**Diperbarui pada:** 25-04-2026 08:50 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1394,8 +1394,8 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ponte Preta 🆚 America MG🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Toronto FC II 🆚 New York City Team B🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Paraguay U17 Women 🆚 Argentina Women U17🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tigres Zipaquira 🆚 Inter Palmira🛡️|🛡️06:10 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
