@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 18:32 WIB
+**Diperbarui pada:** 25-04-2026 18:37 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1407,8 +1407,8 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bashundhara Kings 🆚 Brothers Union🛡️|🛡️16:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fakirerpool Young Mens Club 🆚 Bangladesh Police Club🛡️|🛡️16:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️PWD Sports Club 🆚 Mohammedan Dhaka🛡️|🛡️16:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Western Sydney 🆚 Melbourne Victory🛡️|🛡️16:35 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Western Sydney 🆚 Melbourne Victory🛡️|🛡️16:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Western Sydney 🆚 Melbourne Victory🛡️|🛡️16:35 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Western Sydney 🆚 Melbourne Victory🛡️|🛡️16:35 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Valadares Gaia FC Women 🆚 SF Damaiense Women🛡️|🛡️17:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Polissya Zhytomyr U21 🆚 Obolon Kiev U21🛡️|🛡️17:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kaohsiung Attackers Women 🆚 Hualien Women🛡️|🛡️17:00 25/04/2026🛡️ otomatis masuk jadwal
