@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 11:40 WIB
+**Diperbarui pada:** 25-04-2026 11:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1393,19 +1393,19 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Reserves 🆚 Edgeworth Eagles Reserves🛡️|🛡️09:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️JEF United Ichihara Chiba Ladies 🆚 NTV Tokyo Verdy Beleza🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey Women 🆚 Tigres Women🛡️|🛡️10:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melville United 🆚 East Coast Bays🛡️|🛡️10:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Wellington Olympic 🆚 Island Bay United🛡️|🛡️10:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra United Women 🆚 Melbourne Victory Women🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jubilo Iwata 🆚 FC Gifu🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic 🆚 Edgeworth Eagles FC🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hisamitsu Springs Women 🆚 JT Marvelous Women🛡️|🛡️11:35 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 11:25 WIB] otomatis masuk jadwal
