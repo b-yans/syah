@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 09:11 WIB
+**Diperbarui pada:** 25-04-2026 09:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -158,6 +158,7 @@
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** TR: beIN Sports 2 cocok [fz] (524174)
+- ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Hub Premier 3 cocok [fz] (537791)
 - ⚠️ **[FZ]** UK: Hub Premier 4 cocok [fz] (537775)
@@ -1062,7 +1063,6 @@
 -  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
--  **[KS]** TR: beIN Sports Haber tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 2 tidak cocok id epg
 -  **[KS]** TR: CosmoSports tidak cocok id epg
