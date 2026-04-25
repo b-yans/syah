@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 10:15 WIB
+**Diperbarui pada:** 25-04-2026 10:20 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1390,18 +1390,18 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Audax Italiano 🆚 Deportes Limache🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Racing Club de Avellaneda 🆚 Barracas Central🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Audax Italiano 🆚 Deportes Limache🛡️|🛡️07:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club America Women 🆚 Pachuca Women🛡️|🛡️08:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chivas Guadalajara Women 🆚 Toluca Women🛡️|🛡️08:06 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportes Quindio 🆚 Envigado FC🛡️|🛡️08:15 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Olympic FC Reserves 🆚 Edgeworth Eagles Reserves🛡️|🛡️09:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Miramar Rangers 🆚 Petone FC🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Adamstown Rosebud Reserves 🆚 Weston Workers Reserves🛡️|🛡️09:30 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Puebla 🆚 Queretaro FC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birkenhead United 🆚 Western Springs AFC🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs AFC 🆚 Tauranga City United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Auckland City 🆚 Fencibles United🛡️|🛡️10:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterrey Women 🆚 Tigres Women🛡️|🛡️10:06 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [25 Apr 2026 08:55 WIB] otomatis masuk jadwal
