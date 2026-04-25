@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 08:55 WIB
+**Diperbarui pada:** 25-04-2026 09:00 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -82,6 +82,7 @@
 - ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
 - ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** LA: FOX Sports 2 cocok [fz] (465280)
+- ⚠️ **[FZ]** MK: MNet Sport cocok [fz] (469407)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
 - ⚠️ **[FZ]** MX: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
@@ -828,7 +829,6 @@
 -  **[KS]** LY: Libya Sport TV 2 tidak cocok id epg
 -  **[KS]** MK: Cinestar TV Premiere 1 tidak cocok id epg
 -  **[KS]** MK: Cinestar TV Premiere 2 tidak cocok id epg
--  **[KS]** MK: MNet Sport tidak cocok id epg
 -  **[KS]** MK: Sport Klub FIGHT tidak cocok id epg
 -  **[KS]** MK: Viasat Kino Premiere tidak cocok id epg
 -  **[KS]** MT: TVM Sport+ tidak cocok id epg
@@ -1397,9 +1397,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Porteno 🆚 Sportivo Ameliano🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Supra Du Quebec 🆚 HFX Wanderers FC🛡️|🛡️06:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tigres Zipaquira 🆚 Inter Palmira🛡️|🛡️06:10 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Petrolero 🆚 Universitario De Vinto🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CRKSV Jong Colombia 🆚 Jong Holland🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Independiente Petrolero 🆚 Universitario De Vinto🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Washington Spirit Women 🆚 Kansas City Current Women🛡️|🛡️07:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Audax Italiano 🆚 Deportes Limache🛡️|🛡️07:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Racing Club de Avellaneda 🆚 Barracas Central🛡️|🛡️07:30 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America Women 🆚 Pachuca Women🛡️|🛡️08:00 25/04/2026🛡️ otomatis masuk jadwal
