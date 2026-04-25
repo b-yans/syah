@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 21:44 WIB
+**Diperbarui pada:** 25-04-2026 21:50 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1440,7 +1440,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️LKS Lodz 🆚 Stal Rzeszow🛡️|🛡️19:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Austria Salzburg 🆚 Kapfenberg SV 1919🛡️|🛡️19:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kisvárda Master Good FC 🆚 Diosgyor VTK🛡️|🛡️19:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Korona Kielce 🆚 GKS Katowice🛡️|🛡️19:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Korona Kielce 🆚 GKS Katowice🛡️|🛡️19:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sotra 🆚 Mjondalen IF🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Naftan Novopolotsk 🆚 FK Vitebsk🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Torino U20 🆚 Atalanta U20🛡️|🛡️20:00 25/04/2026🛡️ otomatis masuk jadwal
