@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 17:39 WIB
+**Diperbarui pada:** 25-04-2026 17:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1421,7 +1421,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Pharma 🆚 FC Vilkhivtsi🛡️|🛡️15:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wenshan Team 🆚 Yuxi Team🛡️|🛡️15:30 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Darwin Hearts 🆚 Darwin Olympics🛡️|🛡️15:30 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️UM-Damansara United 🆚 Selangor PKNS🛡️|🛡️15:45 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️UM-Damansara United 🆚 Selangor PKNS🛡️|🛡️15:45 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Logan Lightning 🆚 Broadbeach United🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cesena U20 🆚 Sassuolo U20🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eastern Suburbs Brisbane 🆚 Rochedale Rovers🛡️|🛡️16:00 25/04/2026🛡️ otomatis masuk jadwal
