@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 14:34 WIB
+**Diperbarui pada:** 25-04-2026 14:39 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1442,7 +1442,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Jets 🆚 Central Coast Mariners🛡️|🛡️14:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Newcastle Jets 🆚 Central Coast Mariners🛡️|🛡️14:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** [25 Apr 2026 11:25 WIB] diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** [25 Apr 2026 13:55 WIB] otomatis masuk jadwal
 - ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [25 Apr 2026 20:30 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
@@ -1510,9 +1510,9 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Negeri Malang vs Universitas Brawijaya Grup E Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
+-  **[KS]** Universitas Negeri Surabaya vs Institut Teknologi Sepuluh Nopember Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** ASTAM FC LADIES vs RRI SOCCER SCHOOL HYDROPLUS Soccer League U15 tidak cocok id epg
--  **[KS]** Moto3 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Moto2 Free Practice 2 Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Persela Lamongan vs PS Barito Putera Pegadaian Championship tidak cocok id epg
 -  **[KS]** Sriwijaya FC vs Garudayaksa FC Pegadaian Championship tidak cocok id epg
 -  **[KS]** Madura United FC vs Dewa United Banten FC BRI Super League tidak cocok id epg
