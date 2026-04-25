@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 25-04-2026 13:31 WIB
+**Diperbarui pada:** 25-04-2026 13:36 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1397,7 +1397,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Auckland United 🆚 Manukau United🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jungnang Chorus Mustang FC 🆚 Geoje Citizen🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nittaidai SMG Yokohama 🆚 Setagaya SfidWomen🛡️|🛡️11:00 25/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Hisamitsu Springs Women 🆚 JT Marvelous Women🛡️|🛡️11:35 25/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[VOLLEYBALL]🛡️Hisamitsu Springs Women 🆚 JT Marvelous Women🛡️|🛡️11:35 25/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yantai New Area 🆚 Guangzhou Xingpai🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Urawa Red Diamonds 🆚 Yokohama F. Marinos🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fujieda MYFC 🆚 RB Omiya Ardija🛡️|🛡️12:00 25/04/2026🛡️ otomatis masuk jadwal
