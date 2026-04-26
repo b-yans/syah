@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 21:42 WIB
+**Diperbarui pada:** 26-04-2026 21:48 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1447,7 +1447,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Forli 🆚 Perugia🛡️|🛡️19:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Molde 🆚 Vålerenga Fotball Elite🛡️|🛡️19:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vis Pesaro 🆚 US Sambenedettese🛡️|🛡️19:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Widzew lodz 🆚 Motor Lublin🛡️|🛡️19:45 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Widzew lodz 🆚 Motor Lublin🛡️|🛡️19:45 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Birmingham Women 🆚 Ipswich Town Women🛡️|🛡️20:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Werder Bremen II 🆚 Hamburger SV II🛡️|🛡️20:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shillong Lajong FC 🆚 Dempo🛡️|🛡️20:00 26/04/2026🛡️ otomatis masuk jadwal
