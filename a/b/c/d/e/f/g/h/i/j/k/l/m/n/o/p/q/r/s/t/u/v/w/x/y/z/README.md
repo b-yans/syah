@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 08:39 WIB
+**Diperbarui pada:** 26-04-2026 08:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1428,6 +1428,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Fortaleza F.C🛡️|🛡️08:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Diego FC 🆚 Portland Timbers🛡️|🛡️08:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Turnamen Tenis Penantang Putra Internasional ATP Gwangju Terbuka 2026 | 09.00 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1445,6 +1446,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
