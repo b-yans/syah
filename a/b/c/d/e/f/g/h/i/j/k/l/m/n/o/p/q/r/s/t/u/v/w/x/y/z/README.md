@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 07:11 WIB
+**Diperbarui pada:** 26-04-2026 07:18 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -37,29 +37,34 @@
 - ⚠️ **[FZ]** HR: Arena Sport 7 cocok [fz] (410641)
 - ⚠️ **[FZ]** HR: Arena Sport 8 cocok [fz] (410632)
 - ⚠️ **[FZ]** HR: Arena Sport 9 cocok [fz] (410631)
+- ⚠️ **[FZ]** HR: Sport Klub 2 cocok [fz] (497469)
+- ⚠️ **[FZ]** HR: Sport Klub 3 cocok [fz] (497508)
+- ⚠️ **[FZ]** HR: Sport Klub 4 cocok [fz] (497489)
+- ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** CZ: Nova Sport 3 cocok [fz] (7747)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
-- ⚠️ **[FZ]** FR: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[FZ]** FR: beIN Sports Max 10 cocok [fz] (459106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
-- ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] cocok [fz] (489756)
-- ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] cocok [fz] (489756)
-- ⚠️ **[FZ]** DE: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** DE: Sky Sport F1 [SAT] [VIP] cocok [fz] (427687)
+- ⚠️ **[FZ]** DE: Sky Bundesliga cocok [fz] (409238)
+- ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fz] (409238)
+- ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] cocok [fz] (538725)
+- ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] cocok [fz] (538725)
+- ⚠️ **[FZ]** DE: Sky Sport Golf cocok [fz] (540082)
+- ⚠️ **[FZ]** DE: Sky Sport Golf [SAT] [VIP] cocok [fz] (540082)
 - ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis cocok [fz] (538912)
-- ⚠️ **[FZ]** DE: Sky Sport Tennis [SAT] [VIP] cocok [fz] (538912)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
+- ⚠️ **[FZ]** DE: More Than Sports TV cocok [fz] (540056)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
+- ⚠️ **[FZ]** DE: Sky Sport Golf HD [VIP] cocok [fz] (540082)
 - ⚠️ **[FZ]** GR: Nova Sports 3 cocok [fz] (7747)
 - ⚠️ **[FZ]** GR: Nova Sports 3 [vip] cocok [fz] (7747)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
@@ -70,14 +75,18 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 3 (Sony Ten 3) cocok [fz] (534215)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
-- ⚠️ **[FZ]** ID: beIN Sports 3 cocok [fz] (524063)
+- ⚠️ **[FZ]** IN: Star Sports 2 cocok [fz] (464295)
+- ⚠️ **[FZ]** IN: Star Sports Select 1 cocok [fz] (464065)
+- ⚠️ **[FZ]** IN: Star Sports Select 2 cocok [fz] (464238)
 - ⚠️ **[FZ]** ID: MNC TV cocok [fz] (MNCTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
+- ⚠️ **[FZ]** IE: Sky Sports Golf cocok [fz] (540082)
 - ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fz] (438445)
-- ⚠️ **[FZ]** IT: Sky Sport F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** IT: Sky Sport Tennis cocok [fz] (538912)
+- ⚠️ **[FZ]** IT: Sky Sport Golf cocok [fz] (540082)
+- ⚠️ **[FZ]** IT: Sky Sport Max cocok [fz] (540044)
+- ⚠️ **[FZ]** IT: Sky Sport Uno cocok [fz] (540067)
 - ⚠️ **[FZ]** MK: MNet Sport cocok [fz] (469407)
 - ⚠️ **[EXACT]** MY: beIN Sports cocok (beINSports.my)
 - ⚠️ **[FZ]** MX: Sky Sports LaLiga cocok [fz] (427680)
@@ -89,7 +98,6 @@
 - ⚠️ **[FZ]** NO: V Sport 3 cocok [fz] (407581)
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** PK: T Sports cocok [fz] (405715)
-- ⚠️ **[FZ]** PH: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[EXACT]** PT: SPORT TV + cocok (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 2 cocok [fz] (7235)
 - ⚠️ **[FZ]** PT: SPORT TV 3 cocok [fz] (405715)
@@ -97,7 +105,6 @@
 - ⚠️ **[FZ]** PT: SPORT TV 5 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 6 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: W-Sport cocok [fz] (405715)
-- ⚠️ **[FZ]** QA: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[FZ]** QA: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 1 cocok [fz] (381833)
 - ⚠️ **[FZ]** QA: beIN Sports Premium 2 cocok [fz] (381835)
@@ -117,6 +124,7 @@
 - ⚠️ **[FZ]** RO: Sport Extra cocok [fz] (407799)
 - ⚠️ **[FZ]** RS: Arena Sport 1 cocok [fz] (381850)
 - ⚠️ **[FZ]** RS: Arena Sport 1 Premium cocok [fz] (381850)
+- ⚠️ **[FZ]** RS: Arena Sport 1x2 cocok [fz] (457028)
 - ⚠️ **[FZ]** RS: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** RS: Arena Sport 3 cocok [fz] (381849)
 - ⚠️ **[FZ]** RS: Arena Sport 4 cocok [fz] (381853)
@@ -125,10 +133,21 @@
 - ⚠️ **[FZ]** RS: Arena Sport 7 cocok [fz] (410641)
 - ⚠️ **[FZ]** RS: Arena Sport 8 cocok [fz] (410632)
 - ⚠️ **[FZ]** RS: Arena Sport 9 cocok [fz] (410631)
+- ⚠️ **[FZ]** RS: Sport Klub 2 cocok [fz] (497469)
+- ⚠️ **[FZ]** RS: Sport Klub 3 cocok [fz] (497508)
+- ⚠️ **[FZ]** RS: Sport Klub 4 cocok [fz] (497489)
+- ⚠️ **[FZ]** RS: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** SK: Arena Sport 1 cocok [fz] (381850)
+- ⚠️ **[FZ]** SI: Sport Klub 2 cocok [fz] (497469)
+- ⚠️ **[FZ]** SI: Sport Klub 3 cocok [fz] (497508)
+- ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
+- ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
 - ⚠️ **[FZ]** ZA: SuperSport Premier League cocok [fz] (463746)
 - ⚠️ **[FZ]** ZA: SuperSport Action cocok [fz] (463710)
+- ⚠️ **[FZ]** ES: LaLiga TV Hypermotion cocok [fz] (540072)
+- ⚠️ **[FZ]** ES: LaLiga TV Hypermotion 2 cocok [fz] (540072)
+- ⚠️ **[FZ]** ES: LaLiga TV Hypermotion 3 cocok [fz] (540072)
 - ⚠️ **[FZ]** ES: DAZN F1 cocok [fz] (406540)
 - ⚠️ **[FZ]** ES: DAZN LaLiga cocok [fz] (406588)
 - ⚠️ **[FZ]** ES: DAZN LaLiga 1 FHD [VIP] cocok [fz] (406588)
@@ -143,7 +162,6 @@
 - ⚠️ **[FZ]** CH: V Sport Live 1 cocok [fz] (12160)
 - ⚠️ **[FZ]** CH: V Sport Live 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** CH: V Sport Live 3 cocok [fz] (407581)
-- ⚠️ **[FZ]** TR: beIN Sports 3 cocok [fz] (524063)
 - ⚠️ **[FZ]** TR: beIN Sports Haber cocok [fz] (522582)
 - ⚠️ **[FZ]** UK: Hub Premier 2 cocok [fz] (537766)
 - ⚠️ **[FZ]** UK: Premier Sports 1 cocok [fz] (408613)
@@ -153,8 +171,7 @@
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
-- ⚠️ **[FZ]** UK: Sky Sports F1 cocok [fz] (427687)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (538912)
+- ⚠️ **[FZ]** UK: Sky Sports Golf cocok [fz] (540082)
 - ⚠️ **[FZ]** UK: talkSPORT cocok [fz] (12205)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 10 cocok [fz] (463027)
@@ -162,7 +179,6 @@
 - ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
 - ⚠️ **[FZ]** UK: TNT Sports 5 cocok [fz] (538919)
 - ⚠️ **[FZ]** UK: TNT Sports 6 cocok [fz] (538920)
-- ⚠️ **[FZ]** UK: Sky Sports Tennis cocok [fz] (538912)
 - ⚠️ **[FZ]** US: beIN Sports Xtra 1 cocok [fz] (413152)
 - ⚠️ **[FZ]** US: Fox Sports 1 cocok [fz] (465248)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
@@ -334,10 +350,6 @@
 -  **[KS]** HR: Max Sport 1 tidak cocok id epg
 -  **[KS]** HR: Max Sport 2 tidak cocok id epg
 -  **[KS]** HR: Sport Klub 1 tidak cocok id epg
--  **[KS]** HR: Sport Klub 2 tidak cocok id epg
--  **[KS]** HR: Sport Klub 3 tidak cocok id epg
--  **[KS]** HR: Sport Klub 4 tidak cocok id epg
--  **[KS]** HR: Sport Klub 5 tidak cocok id epg
 -  **[KS]** HR: Sport Klub FIGHT tidak cocok id epg
 -  **[KS]** HR: Sportska tidak cocok id epg
 -  **[KS]** HR: CineStar TV Premiere 1 tidak cocok id epg
@@ -396,6 +408,7 @@
 -  **[KS]** FI: V Sport 1 Suomi tidak cocok id epg
 -  **[KS]** FR: beIN Sports 1 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
+-  **[KS]** FR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** FR: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
@@ -443,8 +456,6 @@
 -  **[KS]** DE: RTL+ Sport Event 7 tidak cocok id epg
 -  **[KS]** DE: RTL+ Sport Event 8 tidak cocok id epg
 -  **[KS]** DE: RTL+ Sport Event 9 tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga tidak cocok id epg
--  **[KS]** DE: Sky Bundesliga [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 [SPIELTAG] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Bundesliga 1 UHD [vip] tidak cocok id epg
@@ -474,10 +485,12 @@
 -  **[KS]** DE: Sky Sport 7 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 8 tidak cocok id epg
 -  **[KS]** DE: Sky Sport 9 tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 tidak cocok id epg
+-  **[KS]** DE: Sky Sport F1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport Tennis tidak cocok id epg
+-  **[KS]** DE: Sky Sport Tennis [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 1 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 10 tidak cocok id epg
 -  **[KS]** DE: Magenta Sport 11 tidak cocok id epg
@@ -586,7 +599,6 @@
 -  **[KS]** DE: EuroSport Extra 7 [VIP] tidak cocok id epg
 -  **[KS]** DE: EuroSport Extra 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: EuroSport Extra 9 [VIP] tidak cocok id epg
--  **[KS]** DE: More Than Sports TV tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 2 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 3 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 4 [VIP] tidak cocok id epg
@@ -625,7 +637,6 @@
 -  **[KS]** DE: DAZN Event NFL 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: DAZN Event NFL 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 1 [VIP] tidak cocok id epg
--  **[KS]** DE: Sky Sport Golf HD [VIP] tidak cocok id epg
 -  **[KS]** GR: AEK Super League Pass tidak cocok id epg
 -  **[KS]** GR: Cablenet Sports 1 tidak cocok id epg
 -  **[KS]** GR: Cablenet Sports 2 tidak cocok id epg
@@ -726,11 +737,9 @@
 -  **[KS]** HU: Sport Klub tidak cocok id epg
 -  **[KS]** IN: DD Sports tidak cocok id epg
 -  **[KS]** IN: Star Sports 1 tidak cocok id epg
--  **[KS]** IN: Star Sports 2 tidak cocok id epg
 -  **[KS]** IN: Star Sports 3 tidak cocok id epg
--  **[KS]** IN: Star Sports Select 1 tidak cocok id epg
--  **[KS]** IN: Star Sports Select 2 tidak cocok id epg
 -  **[KS]** ID: beIN Sports 1 tidak cocok id epg
+-  **[KS]** ID: beIN Sports 3 tidak cocok id epg
 -  **[KS]** ID: Indosiar tidak cocok id epg
 -  **[KS]** ID: MNC Sports tidak cocok id epg
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
@@ -748,7 +757,6 @@
 -  **[KS]** IE: Premier Sports 2 tidak cocok id epg
 -  **[KS]** IE: Sky Sports Arena tidak cocok id epg
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
--  **[KS]** IE: Sky Sports Golf tidak cocok id epg
 -  **[KS]** IE: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
@@ -770,11 +778,10 @@
 -  **[KS]** IT: Rai Sport tidak cocok id epg
 -  **[KS]** IT: Sky Sport 24 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
--  **[KS]** IT: Sky Sport Golf tidak cocok id epg
--  **[KS]** IT: Sky Sport Max tidak cocok id epg
+-  **[KS]** IT: Sky Sport F1 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
 -  **[KS]** IT: Sky Sport NBA tidak cocok id epg
--  **[KS]** IT: Sky Sport Uno tidak cocok id epg
+-  **[KS]** IT: Sky Sport Tennis tidak cocok id epg
 -  **[KS]** IT: Sportitalia Plus tidak cocok id epg
 -  **[KS]** IT: Sportitalia SoloCalcio tidak cocok id epg
 -  **[KS]** IT: Super Tennis tidak cocok id epg
@@ -871,6 +878,7 @@
 -  **[KS]** PE: Liga 1 Max tidak cocok id epg
 -  **[KS]** PH: beIN Sports 1 tidak cocok id epg
 -  **[KS]** PH: beIN Sports 2 tidak cocok id epg
+-  **[KS]** PH: beIN Sports 3 tidak cocok id epg
 -  **[KS]** PH: One Sports tidak cocok id epg
 -  **[KS]** PH: One Sports + tidak cocok id epg
 -  **[KS]** PH: TAP Sports tidak cocok id epg
@@ -909,6 +917,7 @@
 -  **[KS]** PT: NBA TV tidak cocok id epg
 -  **[KS]** QA: beIN Sports 1 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 2 tidak cocok id epg
+-  **[KS]** QA: beIN Sports 3 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 4 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 5 tidak cocok id epg
 -  **[KS]** QA: beIN Sports 6 tidak cocok id epg
@@ -952,15 +961,10 @@
 -  **[KS]** SA: StarzPlay Sports 2 tidak cocok id epg
 -  **[KS]** SA: StarzPlay Sports 3 tidak cocok id epg
 -  **[KS]** RS: Arena Esport tidak cocok id epg
--  **[KS]** RS: Arena Sport 1x2 tidak cocok id epg
 -  **[KS]** RS: Eurosport 1 tidak cocok id epg
 -  **[KS]** RS: Eurosport 2 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 1 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 10 tidak cocok id epg
--  **[KS]** RS: Sport Klub 2 tidak cocok id epg
--  **[KS]** RS: Sport Klub 3 tidak cocok id epg
--  **[KS]** RS: Sport Klub 4 tidak cocok id epg
--  **[KS]** RS: Sport Klub 5 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 6 tidak cocok id epg
 -  **[KS]** RS: Sport Klub 7 tidak cocok id epg
 -  **[KS]** RS: Sport Klub ESports tidak cocok id epg
@@ -969,10 +973,6 @@
 -  **[KS]** RS: Viasat Kino Premiere tidak cocok id epg
 -  **[KS]** SI: Eurosport 2 tidak cocok id epg
 -  **[KS]** SI: Sport Klub 1 tidak cocok id epg
--  **[KS]** SI: Sport Klub 2 tidak cocok id epg
--  **[KS]** SI: Sport Klub 3 tidak cocok id epg
--  **[KS]** SI: Sport Klub 4 tidak cocok id epg
--  **[KS]** SI: Sport Klub 5 tidak cocok id epg
 -  **[KS]** SI: Sport Klub Golf tidak cocok id epg
 -  **[KS]** SI: SPORT TV 1 tidak cocok id epg
 -  **[KS]** SI: SPORT TV 2 tidak cocok id epg
@@ -994,9 +994,6 @@
 -  **[KS]** ZA: SuperSport Maximo 2 tidak cocok id epg
 -  **[KS]** ZA: SuperSport Motorsport tidak cocok id epg
 -  **[KS]** ES: LaLiga TV Bar tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 2 tidak cocok id epg
--  **[KS]** ES: LaLiga TV Hypermotion 3 tidak cocok id epg
 -  **[KS]** ES: Movistar LaLiga tidak cocok id epg
 -  **[KS]** ES: Movistar LaLiga 2 tidak cocok id epg
 -  **[KS]** ES: Movistar LaLiga 3 tidak cocok id epg
@@ -1064,6 +1061,7 @@
 -  **[KS]** TH: True Sport 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 1 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 2 tidak cocok id epg
+-  **[KS]** TR: beIN Sports 3 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 4 tidak cocok id epg
 -  **[KS]** TR: beIN Sports 5 tidak cocok id epg
 -  **[KS]** TR: beIN Sports Max 1 tidak cocok id epg
@@ -1125,8 +1123,8 @@
 -  **[KS]** UK: Sky Sports Box Office tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket tidak cocok id epg
 -  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports F1 tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
--  **[KS]** UK: Sky Sports Golf tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
@@ -1134,6 +1132,7 @@
 -  **[KS]** UK: Sky Sports Mix [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Racing tidak cocok id epg
 -  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports Tennis [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 tidak cocok id epg
@@ -1144,6 +1143,7 @@
 -  **[KS]** UK: TNT Sports 9 tidak cocok id epg
 -  **[KS]** UK: Viaplay xtra-FreeSports tidak cocok id epg
 -  **[KS]** UK: Ginx eSports tidak cocok id epg
+-  **[KS]** UK: Sky Sports Tennis tidak cocok id epg
 -  **[KS]** UK: World Of FreeSports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports tidak cocok id epg
 -  **[KS]** UA: Setanta Sports 1 tidak cocok id epg
@@ -1390,50 +1390,49 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Academia del Balompié Boliviano 🆚 Blooming🛡️|🛡️04:15 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Bahia - BA 🆚 Santos Fc - SP🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Remo - PA 🆚 Cruzeiro - MG🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Botafogo - RJ 🆚 Internacional - RS🛡️|🛡️04:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cruz Azul Women 🆚 Unam Pumas Women🛡️|🛡️04:45 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Sport Emelec 🆚 Liga Dep Universitaria Quito🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Richmond Kickers 🆚 Charlotte Independence🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Loudoun United 🆚 Charleston Battery🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nacional Montevideo 🆚 Danubio FC🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad de Chile 🆚 Univ Catolica🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Sport Emelec 🆚 Liga Dep Universitaria Quito🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Carolina Core 🆚 Crown Legacy FC🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sarmiento Junin 🆚 Club Atletico Tigre🛡️|🛡️05:15 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo PB 🆚 Floresta CE🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Red Stars Women 🆚 Boston Legacy W🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Loudoun United 🆚 Charleston Battery🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad de Chile 🆚 Univ Catolica🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nacional Montevideo 🆚 Danubio FC🛡️|🛡️05:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sarmiento Junin 🆚 Club Atletico Tigre🛡️|🛡️05:15 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tormenta FC 🆚 FC Naples🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Britannia 🆚 Racing Club Aruba🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maranhao 🆚 Volta Redonda🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lexington 🆚 Forward Madison FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Red Stars Women 🆚 Boston Legacy W🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Britannia 🆚 Racing Club Aruba🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Botafogo PB 🆚 Floresta CE🛡️|🛡️05:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chattanooga Red Wolves 🆚 Corpus Christi FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pachuca 🆚 Pumas U.N.A.M.🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Indy Eleven 🆚 Omaha🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pittsburgh Riverhounds 🆚 Greenville Triumph🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hartford Athletic 🆚 Rhode Island🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Indy Eleven 🆚 Omaha🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pachuca 🆚 Pumas U.N.A.M.🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Louisville City FC 🆚 Fort Wayne FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lexington 🆚 Forward Madison FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali 🆚 America de Cali🛡️|🛡️06:10 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tampa Bay Rowdies 🆚 Sarasota Paradise🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Cincinnati 🆚 New York Red Bulls🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sporting Jax 🆚 Miami FC🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Columbus Crew 🆚 Philadelphia Union🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tampa Bay Sun Women 🆚 Carolina Ascent Women🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sport Club do Recife 🆚 Gremio Novorizontino🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️DC United 🆚 Orlando City🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Guabira 🆚 Always Ready🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tampa Bay Rowdies 🆚 Sarasota Paradise🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️DC United 🆚 Orlando City🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sporting Jax 🆚 Miami FC🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Houston Dash Women 🆚 North Carolina Courage Women🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Mirassol - SP🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Juventude 🆚 Londrina PR🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Tulsa 🆚 Knoxville troops🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Juventude 🆚 Londrina PR🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
