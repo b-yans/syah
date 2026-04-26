@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 16:24 WIB
+**Diperbarui pada:** 26-04-2026 16:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1407,17 +1407,17 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Grange Thistle (w) 🆚 Moreton City Excelsior Women🛡️|🛡️14:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yunnan Yukun U20 🆚 Hubei Istar U20🛡️|🛡️14:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gladesville Ravens Women 🆚 Bulls Academy Women🛡️|🛡️14:10 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Taichung Rock FC 🆚 Taiwan Power Company FC🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melbourne City 🆚 Adelaide United🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gwangju Football Club 🆚 FC Anyang🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ulsan HD FC 🆚 Daejeon Citizen🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yongin FC 🆚 Gimhae City🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chungbuk Cheongju FC 🆚 Chungnam Asan🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hang Yuen FC 🆚 Taichung Futuro🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tainan City Steel 🆚 Ming Chuan University🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maoming Team 🆚 Yunfu Team🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qingyuan Team 🆚 Shaoguan Team🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Changchun Yatai 🆚 Guangdong Guangzhou Power🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Taichung Rock FC 🆚 Taiwan Power Company FC🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Melbourne City 🆚 Adelaide United🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gwangju Football Club 🆚 FC Anyang🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ulsan HD FC 🆚 Daejeon Citizen🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yongin FC 🆚 Gimhae City🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chungbuk Cheongju FC 🆚 Chungnam Asan🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hang Yuen FC 🆚 Taichung Futuro🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tainan City Steel 🆚 Ming Chuan University🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Maoming Team 🆚 Yunfu Team🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Qingyuan Team 🆚 Shaoguan Team🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Changchun Yatai 🆚 Guangdong Guangzhou Power🛡️|🛡️14:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Beijing Women 🆚 Zhejiang Hangzhou Women🛡️|🛡️15:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hefei City 🆚 Nanjing Longsheng🛡️|🛡️15:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Capalaba Women 🆚 Brisbane City Women🛡️|🛡️15:00 26/04/2026🛡️ otomatis masuk jadwal
