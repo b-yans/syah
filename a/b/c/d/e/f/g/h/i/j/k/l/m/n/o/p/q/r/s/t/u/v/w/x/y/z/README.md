@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 11:29 WIB
+**Diperbarui pada:** 26-04-2026 11:35 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -185,6 +185,7 @@
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
+- ⚠️ **[FZ]** UK: talkSPORT cocok [fz] (12205)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 10 cocok [fz] (463027)
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
@@ -1135,7 +1136,6 @@
 -  **[KS]** UK: Sky Sports Racing tidak cocok id epg
 -  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Tennis [vip] tidak cocok id epg
--  **[KS]** UK: talkSPORT tidak cocok id epg
 -  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
@@ -1390,32 +1390,31 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Diego FC 🆚 Portland Timbers🛡️|🛡️08:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Fortaleza F.C🛡️|🛡️08:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orange County SC 🆚 El Paso Locomotive FC🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sacramento Republic FC 🆚 Spokane Velocity🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterey Bay FC 🆚 Oakland Roots🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napier City Rovers 🆚 Wellington Phoenix Reserve🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun U20 🆚 Guangdong Guangzhou Power U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lanzhou Longyuan Athletic U20 🆚 Shenzhen Peng City U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Qingdao Red Lions U20 🆚 Shanghai Port U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Las Vegas Lights 🆚 Athletic Club Boise🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Seattle Sounders 🆚 FC Dallas🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vancouver Whitecaps 🆚 Colorado Rapids🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sacramento Republic FC 🆚 Spokane Velocity🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lanzhou Longyuan Athletic U20 🆚 Shenzhen Peng City U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterey Bay FC 🆚 Oakland Roots🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napier City Rovers 🆚 Wellington Phoenix Reserve🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Seattle Sounders 🆚 FC Dallas🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Las Vegas Lights 🆚 Athletic Club Boise🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vancouver Whitecaps 🆚 Colorado Rapids🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America 🆚 Atlas🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orca Kamogawa FC 🆚 VONDS Ichihara (W)🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maitland FC Women 🆚 New Lambton FC Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Juarez 🆚 Atletico San Luis🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charleston City Blues 🆚 Valentine🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Omiya Ardija Ventus 🆚 Urawa Red Diamonds Ladies🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️West Canberra Wanderers FC Women 🆚 Tuggeranong Utd Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Okayama Yunogo Belle Women 🆚 Viamaterras Miyazaki Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yokohama FC Seagulls Women 🆚 Shizuoka Sangyo University Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vanraure Hachinohe FC 🆚 Blaublitz Akita🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yokohama FC Seagulls Women 🆚 Shizuoka Sangyo University Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️RB Omiya Ardija Ventus 🆚 Urawa Red Diamonds Ladies🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Okayama Yunogo Belle Women 🆚 Viamaterras Miyazaki Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sydney United 58 FC 🆚 Wollongong Wolves🛡️|🛡️11:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
