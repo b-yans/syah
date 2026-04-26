@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 02:24 WIB
+**Diperbarui pada:** 27-04-2026 02:30 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -43,7 +43,6 @@
 - ⚠️ **[FZ]** HR: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** CZ: Arena Sport 2 cocok [fz] (381848)
 - ⚠️ **[FZ]** CZ: Arena Sport 1 cocok [fz] (381850)
-- ⚠️ **[FZ]** CZ: Nova Sport 3 cocok [fz] (7747)
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
@@ -60,8 +59,6 @@
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
-- ⚠️ **[FZ]** GR: Nova Sports 3 cocok [fz] (7747)
-- ⚠️ **[FZ]** GR: Nova Sports 3 [vip] cocok [fz] (7747)
 - ⚠️ **[FZ]** GR: Nova Sports 5 cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 5 [vip] cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
@@ -73,7 +70,6 @@
 - ⚠️ **[FZ]** IN: Sony Sports Ten 5 (Sony Ten 5) cocok [fz] (534195)
 - ⚠️ **[FZ]** IN: Star Sports 2 cocok [fz] (464295)
 - ⚠️ **[FZ]** IN: Star Sports Select 1 cocok [fz] (464065)
-- ⚠️ **[EXACT]** ID: RCTI cocok (RCTI.id)
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
@@ -362,6 +358,7 @@
 -  **[KS]** CZ: Eurosport 2 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 2 tidak cocok id epg
+-  **[KS]** CZ: Nova Sport 3 tidak cocok id epg
 -  **[KS]** CZ: Nova Sport 4 tidak cocok id epg
 -  **[KS]** CZ: Sport 1 tidak cocok id epg
 -  **[KS]** CZ: Sport 2 tidak cocok id epg
@@ -674,6 +671,8 @@
 -  **[KS]** GR: Nova Sports 1 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova sports 2 tidak cocok id epg
 -  **[KS]** GR: Nova sports 2 [vip] tidak cocok id epg
+-  **[KS]** GR: Nova Sports 3 tidak cocok id epg
+-  **[KS]** GR: Nova Sports 3 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports 4 tidak cocok id epg
 -  **[KS]** GR: Nova Sports Extra 1 [vip] tidak cocok id epg
 -  **[KS]** GR: Nova Sports Extra 2 [vip] tidak cocok id epg
@@ -746,6 +745,7 @@
 -  **[KS]** ID: MNC Sports 2 tidak cocok id epg
 -  **[KS]** ID: MNC TV tidak cocok id epg
 -  **[KS]** ID: NBA TV tidak cocok id epg
+-  **[KS]** ID: RCTI tidak cocok id epg
 -  **[KS]** ID: SCTV tidak cocok id epg
 -  **[KS]** ID: TVRI Sport tidak cocok id epg
 -  **[KS]** IR: GEM Sport tidak cocok id epg
@@ -1416,10 +1416,10 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brumunddal 🆚 Bjorkelangen🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zulte-Waregem 🆚 RAAL La Louvière🛡️|🛡️00:15 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lillestrom 🆚 Bodo Glimt🛡️|🛡️00:15 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Debreceni VSC 🆚 Győri ETO FC🛡️|🛡️00:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Olimpia Grudziadz 🆚 Warta Poznan🛡️|🛡️00:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Siroki Brijeg 🆚 HSK Zrinjski Mostar🛡️|🛡️00:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Madrid Women 🆚 DUX Logrono Women🛡️|🛡️00:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Debreceni VSC 🆚 Győri ETO FC🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olimpia Grudziadz 🆚 Warta Poznan🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Siroki Brijeg 🆚 HSK Zrinjski Mostar🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Madrid Women 🆚 DUX Logrono Women🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Posusje 🆚 Sarajevo🛡️|🛡️00:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus AGF 🆚 Midtjylland🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Dinamo 1948 🆚 FC Rapid 1923🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
