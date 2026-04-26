@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 02:56 WIB
+**Diperbarui pada:** 27-04-2026 03:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -62,7 +62,6 @@
 - ⚠️ **[FZ]** GR: Nova Sports 5 cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 5 [vip] cocok [fz] (392147)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
-- ⚠️ **[FZ]** HK: Now Sports 1 cocok [fz] (532222)
 - ⚠️ **[FZ]** HU: Sport 2 cocok [fz] (537810)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 1 (Sony Ten 1) cocok [fz] (534237)
 - ⚠️ **[FZ]** IN: Sony Sports Ten 2 (Sony Ten 2) cocok [fz] (534239)
@@ -163,7 +162,6 @@
 - ⚠️ **[FZ]** UK: Sky Sports Tennis [vip] cocok [fz] (540057)
 - ⚠️ **[FZ]** UK: talkSPORT cocok [fz] (12205)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
-- ⚠️ **[FZ]** UK: TNT Sports 10 cocok [fz] (463027)
 - ⚠️ **[FZ]** UK: TNT Sports 2 cocok [fz] (400480)
 - ⚠️ **[FZ]** UK: TNT Sports 3 cocok [fz] (400479)
 - ⚠️ **[FZ]** UK: TNT Sports 4 cocok [fz] (400478)
@@ -722,6 +720,7 @@
 -  **[KS]** GR: Nova Premiere Horror tidak cocok id epg
 -  **[KS]** GR: Vitrína Nova Premiere tidak cocok id epg
 -  **[KS]** GT: Tigo Sports tidak cocok id epg
+-  **[KS]** HK: Now Sports 1 tidak cocok id epg
 -  **[KS]** HK: Now Sports 2 tidak cocok id epg
 -  **[KS]** HK: Now Sports 3 tidak cocok id epg
 -  **[KS]** HK: Now Sports 4 tidak cocok id epg
@@ -1137,6 +1136,7 @@
 -  **[KS]** UK: Sky Sports Racing tidak cocok id epg
 -  **[KS]** UK: Sky Sports Racing 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 1 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: TNT Sports 10 tidak cocok id epg
 -  **[KS]** UK: TNT Sports 2 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 3 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: TNT Sports 4 50fps [vip] tidak cocok id epg
@@ -1409,15 +1409,15 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olimpia Grudziadz 🆚 Warta Poznan🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Madrid Women 🆚 DUX Logrono Women🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Posusje 🆚 Sarajevo🛡️|🛡️00:45 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Moron 🆚 Racing de Cordoba🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Rivadavia 🆚 Gimnasia y Esgrima de Mendoza🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Dinamo 1948 🆚 FC Rapid 1923🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tristan Suarez 🆚 Gimnasia yTiro🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KA Akureyri 🆚 Keflavik🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nueva Chicago 🆚 Colegiales🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vojvodina Novi Sad 🆚 FK Zeleznicar Pancevo🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macara 🆚 Libertad FC🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus AGF 🆚 Midtjylland🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Moron 🆚 Racing de Cordoba🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Independiente Rivadavia 🆚 Gimnasia y Esgrima de Mendoza🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Dinamo 1948 🆚 FC Rapid 1923🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tristan Suarez 🆚 Gimnasia yTiro🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KA Akureyri 🆚 Keflavik🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nueva Chicago 🆚 Colegiales🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vojvodina Novi Sad 🆚 FK Zeleznicar Pancevo🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Macara 🆚 Libertad FC🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Aarhus AGF 🆚 Midtjylland🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 Sport Huancayo🛡️|🛡️01:15 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 Maribor🛡️|🛡️01:15 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
