@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 10:56 WIB
+**Diperbarui pada:** 26-04-2026 11:03 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -196,7 +196,9 @@
 - ⚠️ **[FZ]** US: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[FZ]** US: FOX SPORTS 506 cocok [fz] (537794)
 - ⚠️ **[FZ]** US: FOX SPORTS Racing cocok [fz] (470641)
+- ⚠️ **[FZ]** US: Marquee Sports Network cocok [fz] (465271)
 - ⚠️ **[FZ]** US: NBC Sports Bay Area cocok [fz] (465163)
+- ⚠️ **[FZ]** US: NBC Sports Boston cocok [fz] (464910)
 - ⚠️ **[FZ]** US: NBC Sports California cocok [fz] (465054)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia cocok [fz] (465037)
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
@@ -1202,10 +1204,8 @@
 -  **[KS]** US: Fox Sports Ohio tidak cocok id epg
 -  **[KS]** US: FTF Sports tidak cocok id epg
 -  **[KS]** US: Fubo Sports Network tidak cocok id epg
--  **[KS]** US: Marquee Sports Network tidak cocok id epg
 -  **[KS]** US: NBA League Pass 1 tidak cocok id epg
 -  **[KS]** US: NBA TV tidak cocok id epg
--  **[KS]** US: NBC Sports Boston tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago tidak cocok id epg
 -  **[KS]** US: NBC Sports Chicago Plus tidak cocok id epg
 -  **[KS]** US: NBC Sports Washington tidak cocok id epg
@@ -1390,32 +1390,32 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Charlestown Azzurri Reserves 🆚 Valentine Phoenix Reserves🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Morelia 🆚 Mineros de Zacatecas🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Esteli 🆚 Matagalpa FC🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Managua FC 🆚 Diriangen🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Charlestown Azzurri Reserves 🆚 Valentine Phoenix Reserves🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Toluca 🆚 Club Leon🛡️|🛡️08:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Deportivo Guadalajara 🆚 Club Tijuana🛡️|🛡️08:07 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Fortaleza F.C🛡️|🛡️08:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️San Diego FC 🆚 Portland Timbers🛡️|🛡️08:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qingdao Red Lions U20 🆚 Shanghai Port U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Napier City Rovers 🆚 Wellington Phoenix Reserve🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun U20 🆚 Guangdong Guangzhou Power U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lanzhou Longyuan Athletic U20 🆚 Shenzhen Peng City U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterey Bay FC 🆚 Oakland Roots🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orange County SC 🆚 El Paso Locomotive FC🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sacramento Republic FC 🆚 Spokane Velocity🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Fortaleza F.C🛡️|🛡️08:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lanzhou Longyuan Athletic U20 🆚 Shenzhen Peng City U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun U20 🆚 Guangdong Guangzhou Power U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Qingdao Red Lions U20 🆚 Shanghai Port U20🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Napier City Rovers 🆚 Wellington Phoenix Reserve🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sacramento Republic FC 🆚 Spokane Velocity🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Monterey Bay FC 🆚 Oakland Roots🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orange County SC 🆚 El Paso Locomotive FC🛡️|🛡️09:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vancouver Whitecaps 🆚 Colorado Rapids🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Las Vegas Lights 🆚 Athletic Club Boise🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Seattle Sounders 🆚 FC Dallas🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Las Vegas Lights 🆚 Athletic Club Boise🛡️|🛡️09:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America 🆚 Atlas🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maitland FC Women 🆚 New Lambton FC Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orca Kamogawa FC 🆚 VONDS Ichihara (W)🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Juarez 🆚 Atletico San Luis🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America 🆚 Atlas🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charleston City Blues 🆚 Valentine🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[BASI]** [26 Apr 2026 08:55 WIB] diblokir (KADALUARSA)
