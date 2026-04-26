@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 09:31 WIB
+**Diperbarui pada:** 26-04-2026 09:38 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1429,7 +1429,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orange County SC 🆚 El Paso Locomotive FC🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** [26 Apr 2026 08:55 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1494,14 +1494,14 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** ROKET FC vs PUTRI TANGSEL CITY HYDROPLUS Soccer League U18 tidak cocok id epg
+-  **[KS]** PERSIPO PUTRI vs SSB ANJELO HYDROPLUS Soccer League U18 tidak cocok id epg
 -  **[KS]** Universitas Cenderawasih vs Universitas Ciputra Surabaya Grup A Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Thailand vs Spain BWF Uber Cup Finals 2026 Group Stage Court 2 tidak cocok id epg
 -  **[KS]** France vs Algeria BWF Thomas Cup Finals 2026 Group Stage Court 3 tidak cocok id epg
 -  **[KS]** Indonesia vs Thailand BWF Thomas Cup Finals 2026 Group Stage Court 1 tidak cocok id epg
 -  **[KS]** MotoGP Warm Up Riders Parade Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
--  **[KS]** Persipal FC vs Persipura Jayapura Pegadaian Championship tidak cocok id epg
 -  **[KS]** Persekat Tegal vs Persiraja Banda Aceh Pegadaian Championship tidak cocok id epg
+-  **[KS]** Persipal FC vs Persipura Jayapura Pegadaian Championship tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
