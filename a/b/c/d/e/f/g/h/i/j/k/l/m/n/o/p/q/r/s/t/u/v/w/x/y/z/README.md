@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 08:59 WIB
+**Diperbarui pada:** 26-04-2026 09:05 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1411,11 +1411,11 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Club do Recife 🆚 Gremio Novorizontino🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Cincinnati 🆚 New York Red Bulls🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampa Bay Rowdies 🆚 Sarasota Paradise🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Tulsa 🆚 Knoxville troops🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Juventude 🆚 Londrina PR🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Mirassol - SP🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Houston Dash Women 🆚 North Carolina Courage Women🛡️|🛡️07:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Tulsa 🆚 Knoxville troops🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Juventude 🆚 Londrina PR🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Mirassol - SP🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Houston Dash Women 🆚 North Carolina Courage Women🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Fire 🆚 Sporting Kansas City🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️River Plate 🆚 Aldosivi Mar del Plata🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St. Louis City SC 🆚 San Jose Earthquakes🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
