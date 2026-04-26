@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 20:30 WIB
+**Diperbarui pada:** 26-04-2026 20:36 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1434,7 +1434,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Genclerbirligi 🆚 Kocaelispor🛡️|🛡️18:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun 🆚 Dalian K'un City🛡️|🛡️18:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Jinhua Team 🆚 Ningbo Team🛡️|🛡️18:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dalian Yingbo 🆚 Yunnan Yukun🛡️|🛡️18:35 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Dalian Yingbo 🆚 Yunnan Yukun🛡️|🛡️18:35 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Niva Dolbizno 🆚 FK Lida🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Djurgardens 🆚 Hammarby🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus Fremad 🆚 Hobro🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1459,6 +1459,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eintracht Trier 🆚 Kickers Offenbach🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ayutthaya United 🆚 PT Prachuap FC🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Orenburg-2 🆚 Akron Togliatti-2🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Nakhon Ratchasima Women 🆚 🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ahrobiznes Volochysk 🆚 FC Inhulets Petrove🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gloria 2018 Bistrita Nasaud Women 🆚 Vasas Odorhei Women🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cordoba 🆚 Sporting Gijon🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
