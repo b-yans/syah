@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 19:26 WIB
+**Diperbarui pada:** 26-04-2026 19:32 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1409,10 +1409,10 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ajax Amsterdam Women 🆚 Feyenoord Rotterdam Women🛡️|🛡️17:15 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Excelsior SBV 🆚 FC Utrecht🛡️|🛡️17:15 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Wisla Plock 🆚 Radomiak Radom🛡️|🛡️17:15 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tatung FC 🆚 Sunny Bank Athletic Club Taipei🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Harstad 🆚 Tromso B🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tatung FC 🆚 Sunny Bank Athletic Club Taipei🛡️|🛡️17:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Harstad 🆚 Tromso B🛡️|🛡️17:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hong Linh Ha Tinh 🆚 Cong An Ho Chi Minh City🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hong Linh Ha Tinh 🆚 Cong An Ho Chi Minh City🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jerv 🆚 Treaff🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1429,6 +1429,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chongqing Tonglianglong 🆚 Qingdao West Coast🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tottenham Hotspur Women 🆚 Manchester United Women🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Kaluga 🆚 Veles🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Fenerbahce 🆚 Istanbul GSK🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tobol Kostanai 🆚 FK Kaspyi Aktau🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Durham Wildcats LFC Women 🆚 Sheffield United Women🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Isloch Minsk 🆚 Dnepr Mogilev🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1484,6 +1485,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FSV Frankfurt 🆚 TSV Steinbach Haiger🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gloria 2018 Bistrita Nasaud Women 🆚 Vasas Odorhei Women🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cordoba 🆚 Sporting Gijon🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Nakhon Ratchasima Women 🆚 🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Orenburg-2 🆚 Akron Togliatti-2🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Asane Fotball B 🆚 Djerv 1919🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ahrobiznes Volochysk 🆚 FC Inhulets Petrove🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1497,9 +1499,11 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mashuk-KMV 🆚 Volgar-Gazprom Astrachan🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eintracht Trier 🆚 Kickers Offenbach🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Eintracht Frankfurt Women 🆚 VfL Wolfsburg Women🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️BC Thông tin - BĐ19 🆚 VTV Bình Điền Long An🛡️|🛡️19:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cong An Ha Noi FC 🆚 Song Lam Nghe An🛡️|🛡️19:15 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cong An Ha Noi FC 🆚 Song Lam Nghe An🛡️|🛡️19:15 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
+- ⚠️ **[EVENT]** Kompetisi Olahraga Gyeonggi-do untuk Penyandang Disabilitas ke-16 2025 (Biliar) Hari ke-1 | 07.20 WIB otomatis masuk jadwal
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
@@ -1517,6 +1521,7 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
+-  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
