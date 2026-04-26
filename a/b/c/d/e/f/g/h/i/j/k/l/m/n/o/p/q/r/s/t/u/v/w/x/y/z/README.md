@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 16:04 WIB
+**Diperbarui pada:** 26-04-2026 16:11 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1406,7 +1406,7 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Kwoon Chung Southern 🆚 EnGenius Kowloon City🛡️|🛡️14:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Grange Thistle (w) 🆚 Moreton City Excelsior Women🛡️|🛡️14:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yunnan Yukun U20 🆚 Hubei Istar U20🛡️|🛡️14:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gladesville Ravens Women 🆚 Bulls Academy Women🛡️|🛡️14:10 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Gladesville Ravens Women 🆚 Bulls Academy Women🛡️|🛡️14:10 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Gwangju Football Club 🆚 FC Anyang🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Taichung Rock FC 🆚 Taiwan Power Company FC🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melbourne City 🆚 Adelaide United🛡️|🛡️14:30 26/04/2026🛡️ otomatis masuk jadwal
