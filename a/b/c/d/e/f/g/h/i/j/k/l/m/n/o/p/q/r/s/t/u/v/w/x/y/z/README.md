@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 04:09 WIB
+**Diperbarui pada:** 27-04-2026 04:16 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -173,7 +173,6 @@
 - ⚠️ **[FZ]** US: NBC Sports Philadelphia Plus cocok [fz] (496620)
 - ⚠️ **[FZ]** US: SportsGrid cocok [fz] (489130)
 - ⚠️ **[FZ]** US: SportsNet New York cocok [fz] (464777)
-- ⚠️ **[FZ]** US: Motorsport TV cocok [fz] (463814)
 - ⚠️ **[FZ]** VE: Fox Sports 2 cocok [fz] (465280)
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
@@ -1215,6 +1214,7 @@
 -  **[KS]** US: Sportsman Channel tidak cocok id epg
 -  **[KS]** US: Tennis Channel tidak cocok id epg
 -  **[KS]** US: Xtrem Sports tidak cocok id epg
+-  **[KS]** US: Motorsport TV tidak cocok id epg
 -  **[KS]** US: Fox College Sports Atlantic tidak cocok id epg
 -  **[KS]** US: Fox College Sports Pacific tidak cocok id epg
 -  **[KS]** US: CineBox Premiere tidak cocok id epg
@@ -1390,48 +1390,48 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 Sport Huancayo🛡️|🛡️01:15 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 Maribor🛡️|🛡️01:15 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Estudiantes de Caseros🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chacarita juniors 🆚 Ferrocarril Midland🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Marseille 🆚 OGC Nice🛡️|🛡️01:45 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Corinthians - SP 🆚 Vasco da Gama Saf - RJ🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sao Bernardo 🆚 Goiás EC🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Connecticut United FC 🆚 Philadelphia Union II🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Oruro 🆚 The Strongest🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad de Concepcion 🆚 Colo Colo🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Madryn 🆚 Defensores de Belgrano🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AD Ceuta 🆚 Racing Santander🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Agropecuario de Carlos Casares 🆚 San Martin Tucuman🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Grêmio - RS 🆚 Coritiba SAF - PR🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Connecticut United FC 🆚 Philadelphia Union II🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Renaissance de Berkane 🆚 Olympique Dcheira🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Deportivo Madryn 🆚 Defensores de Belgrano🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Universidad de Concepcion 🆚 Colo Colo🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AD Ceuta 🆚 Racing Santander🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Corinthians - SP 🆚 Vasco da Gama Saf - RJ🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sao Bernardo 🆚 Goiás EC🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Oruro 🆚 The Strongest🛡️|🛡️02:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Academia Puerto Cabello B 🆚 Urena SC🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AVS Futebol SAD 🆚 Sporting CP🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monagas B 🆚 Dynamo Puerto FC🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Frontera 🆚 Atletico Barinas🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AVS Futebol SAD 🆚 Sporting CP🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Academia Puerto Cabello B 🆚 Urena SC🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quepos Cambute FC 🆚 CS Uruguay De Coronado🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Inter de Limeira🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Avila FC 🆚 Maritimo de La Guaira🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Central Norte Salta 🆚 Club Ciudad de Bolivar🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Guemes 🆚 Atletico Atlanta🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anapolis FC 🆚 Figueirense🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orsomarso (w) 🆚 Atletico Nacional Medellin (W)🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️MINNESOTA United B 🆚 North Texas SC🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto Women 🆚 Independiente Santa Fe (W)🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Argentina Women U17 🆚 Colombia U17 Women🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Inter de Limeira🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orsomarso (w) 🆚 Atletico Nacional Medellin (W)🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago flame B 🆚 Orlando City B🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Pasto Women 🆚 Independiente Santa Fe (W)🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Anapolis FC 🆚 Figueirense🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Argentina Women U17 🆚 Colombia U17 Women🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Guemes 🆚 Atletico Atlanta🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chaco For Ever 🆚 Atletico Mitre de Santiago del Estero🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Quepos Cambute FC 🆚 CS Uruguay De Coronado🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Central Norte Salta 🆚 Club Ciudad de Bolivar🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Avila FC 🆚 Maritimo de La Guaira🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Grau 🆚 Alianza Lima🛡️|🛡️03:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Belgrano 🆚 Gimnasia La Plata🛡️|🛡️03:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atlético Newell's Old Boys 🆚 Instituto de Córdoba🛡️|🛡️03:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Belgrano 🆚 Gimnasia La Plata🛡️|🛡️03:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Sportivo 2 de Mayo 🆚 Club Guaraní🛡️|🛡️03:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Xelaju MC 🆚 Coban Imperial🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Saint Louis City B 🆚 Ventura County FC🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Maipu 🆚 Almagro🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Operario Ferroviario PR 🆚 Fortaleza🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️New York Red Bulls B 🆚 Columbus Crew B🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ceara 🆚 Vila Nova🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Maipu 🆚 Almagro🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Saint Louis City B 🆚 Ventura County FC🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aguilas Doradas 🆚 Deportiva Once Caldas🛡️|🛡️04:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Kompetisi Olahraga Gyeonggi-do untuk Penyandang Disabilitas ke-16 2025 (Biliar) Hari ke-1 | 07.20 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1448,7 +1448,6 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
