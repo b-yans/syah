@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 11:56 WIB
+**Diperbarui pada:** 26-04-2026 12:02 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -50,7 +50,6 @@
 - ⚠️ **[FZ]** DK: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** DK: V Sport Ultra cocok [fz] (480584)
 - ⚠️ **[FZ]** FI: V Sport 2 cocok [fz] (407559)
-- ⚠️ **[FZ]** FR: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** FR: beIN Sports Max 4 cocok [fz] (459115)
 - ⚠️ **[FZ]** FR: beIN Sports Max 5 cocok [fz] (532976)
 - ⚠️ **[FZ]** FR: beIN Sports Max 6 cocok [fz] (459136)
@@ -153,7 +152,6 @@
 - ⚠️ **[FZ]** SI: Sport Klub 4 cocok [fz] (497489)
 - ⚠️ **[FZ]** SI: Sport Klub 5 cocok [fz] (497507)
 - ⚠️ **[FZ]** ZA: SuperSport Football cocok [fz] (463676)
-- ⚠️ **[FZ]** ZA: CANAL+ Premier League cocok [fz] (430106)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport cocok [fz] (521272)
 - ⚠️ **[FZ]** ZA: CANAL+ Sport 2 cocok [fz] (407672)
 - ⚠️ **[FZ]** ZA: SuperSport Action cocok [fz] (463710)
@@ -211,11 +209,11 @@
 - ⚠️ **[EVENT]** AL: The 15:17 to Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 2.22.2017 (2017) otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: The 15:17 to Paris (2018) otomatis masuk jadwal
-- ⚠️ **[EVENT]** NO: 10.000 Timmar (2014) otomatis masuk jadwal
+- ⚠️ **[BASI]** NO: 10.000 Timmar (2014) diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** NO: The 15.17 To Paris (2018) otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: A Arte da Luz Tem 20.000 Anos otomatis masuk jadwal
 - ⚠️ **[EVENT]** PT: The 15:17 to Paris otomatis masuk jadwal
-- ⚠️ **[EVENT]** TR: M.Ö. 10.000 otomatis masuk jadwal
+- ⚠️ **[BASI]** TR: M.Ö. 10.000 diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E01 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E02 otomatis masuk jadwal
 - ⚠️ **[EVENT]** EN: 11.22.63 S01 E03 otomatis masuk jadwal
@@ -422,6 +420,7 @@
 -  **[KS]** FR: beIN Sports 1 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 2 tidak cocok id epg
 -  **[KS]** FR: beIN Sports 3 tidak cocok id epg
+-  **[KS]** FR: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 10 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 7 tidak cocok id epg
 -  **[KS]** FR: beIN Sports Max 8 tidak cocok id epg
@@ -985,6 +984,7 @@
 -  **[KS]** SI: SPORT TV 3 tidak cocok id epg
 -  **[KS]** ZA: SuperSport Premier League tidak cocok id epg
 -  **[KS]** ZA: Canal+ MotoGP tidak cocok id epg
+-  **[KS]** ZA: CANAL+ Premier League tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 1 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 3 tidak cocok id epg
 -  **[KS]** ZA: CANAL+ Sport 360 tidak cocok id epg
@@ -1402,13 +1402,13 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Las Vegas Lights 🆚 Athletic Club Boise🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vancouver Whitecaps 🆚 Colorado Rapids🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Seattle Sounders 🆚 FC Dallas🛡️|🛡️09:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orca Kamogawa FC 🆚 VONDS Ichihara (W)🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Juarez 🆚 Atletico San Luis🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Maitland FC Women 🆚 New Lambton FC Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charleston City Blues 🆚 Valentine🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club America 🆚 Atlas🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Atletico La Paz 🆚 Club Jaiba Brava🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Orca Kamogawa FC 🆚 VONDS Ichihara (W)🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Juarez 🆚 Atletico San Luis🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Maitland FC Women 🆚 New Lambton FC Women🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Charleston City Blues 🆚 Valentine🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club America 🆚 Atlas🛡️|🛡️10:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vanraure Hachinohe FC 🆚 Blaublitz Akita🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Okayama Yunogo Belle Women 🆚 Viamaterras Miyazaki Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️West Canberra Wanderers FC Women 🆚 Tuggeranong Utd Women🛡️|🛡️11:00 26/04/2026🛡️ otomatis masuk jadwal
