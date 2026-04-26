@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 10:50 WIB
+**Diperbarui pada:** 26-04-2026 10:56 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1418,7 +1418,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charleston City Blues 🆚 Valentine🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC Women 🆚 IGA Kunoichi Women🛡️|🛡️10:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** [26 Apr 2026 08:55 WIB] otomatis masuk jadwal
+- ⚠️ **[BASI]** [26 Apr 2026 08:55 WIB] diblokir (KADALUARSA)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
