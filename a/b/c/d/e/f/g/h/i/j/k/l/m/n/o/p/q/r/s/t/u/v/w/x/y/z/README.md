@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 17:22 WIB
+**Diperbarui pada:** 26-04-2026 17:28 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1449,7 +1449,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Fiorentina 🆚 Sassuolo🛡️|🛡️17:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[BASI]** [26 Apr 2026 13:55 WIB] diblokir (KADALUARSA)
+- ⚠️ **[EVENT]** [26 Apr 2026 16:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1514,13 +1514,13 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** RAGA NEGERI vs PUTRI JP JAKARTA HYDROPLUS Soccer League U18 tidak cocok id epg
--  **[KS]** Universitas Airlangga vs Universitas Negeri Surabaya Grup F Putri CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Beijing Arctic Ocean vs Zhetysu VC AVC Womens Champions League tidak cocok id epg
+-  **[KS]** Universitas Brawijaya vs Universitas Ma Chung Grup C Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
 -  **[KS]** Persekat Tegal vs Persiraja Banda Aceh Pegadaian Championship tidak cocok id epg
 -  **[KS]** Persipal FC vs Persipura Jayapura Pegadaian Championship tidak cocok id epg
--  **[KS]** Moto3 Race Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
--  **[KS]** Pool B: Beijing Arctic Ocean (CHN) - Zhetysu (KAZ) tidak cocok id epg
+-  **[KS]** Moto2 Race Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
+-  **[KS]** Fiorentina vs Sassuolo Serie A tidak cocok id epg
+-  **[KS]** Coventry City vs Wrexham EFL Championship tidak cocok id epg
+-  **[KS]** Fenerbahce Medicana vs Istanbul Genclik Spor Turkish Mens Volleyball League tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
