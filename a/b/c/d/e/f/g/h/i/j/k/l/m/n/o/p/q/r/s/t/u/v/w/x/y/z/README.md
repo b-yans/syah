@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 13:08 WIB
+**Diperbarui pada:** 26-04-2026 13:15 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -61,10 +61,6 @@
 - ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] cocok [fz] (538725)
 - ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
-- ⚠️ **[FZ]** DE: ESports 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: ESports 1 [SAT] [VIP] cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 cocok [fz] (76707)
-- ⚠️ **[FZ]** DE: Sport 1 [SAT] [VIP] cocok [fz] (76707)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
@@ -571,6 +567,8 @@
 -  **[KS]** DE: Auto Motor Sport tidak cocok id epg
 -  **[KS]** DE: Edge Sport tidak cocok id epg
 -  **[KS]** DE: Edge sport [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: ESports 1 tidak cocok id epg
+-  **[KS]** DE: ESports 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 tidak cocok id epg
 -  **[KS]** DE: Eurosport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Eurosport 2 tidak cocok id epg
@@ -616,6 +614,8 @@
 -  **[KS]** DE: NOW TV Sky Sports+ 7 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 9 [VIP] tidak cocok id epg
+-  **[KS]** DE: Sport 1 tidak cocok id epg
+-  **[KS]** DE: Sport 1 [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: LG 661 Spiegel TV Konflikte tidak cocok id epg
 -  **[KS]** DE: LG 707 SPORT DIGITAL FUSSBALL tidak cocok id epg
 -  **[KS]** DE: LG 710 Sport digital Free tidak cocok id epg
@@ -1393,31 +1393,32 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️RB Omiya Ardija Ventus 🆚 Urawa Red Diamonds Ladies🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Vanraure Hachinohe FC 🆚 Blaublitz Akita🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Yokohama FC Seagulls Women 🆚 Shizuoka Sangyo University Women🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Okayama Yunogo Belle Women 🆚 Viamaterras Miyazaki Women🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️West Canberra Wanderers FC Women 🆚 Tuggeranong Utd Women🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Okayama Yunogo Belle Women 🆚 Viamaterras Miyazaki Women🛡️|🛡️11:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sydney United 58 FC 🆚 Wollongong Wolves🛡️|🛡️11:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra Olympic Women 🆚 Belconnen United Women🛡️|🛡️11:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Western Sydney Wanderers AM 🆚 SD Raiders FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Belmont Swansea United SC 🆚 Kahibah FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra FC Women 🆚 Majura FC (W)🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kochi United 🆚 Tokushima Vortis🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Blacktown City Demons 🆚 Spirit FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Suwon Football Club 🆚 Gimpo FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Boroondara Eagles Women 🆚 Alamein Women🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yeoju Citizen 🆚 Pocheon FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sydney FC 🆚 Auckland FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Pohang Steelers🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Seoul E-Land FC 🆚 Hwaseong FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Belmont Swansea United SC 🆚 Kahibah FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Siheung City 🆚 Yangpyeong🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rockdale City Suns 🆚 St George City FA🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lake Macquarie (W) 🆚 Adamstown Rosebud Women🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Yeoju Citizen 🆚 Pocheon FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Jeonbuk Hyundai Motors 🆚 Pohang Steelers🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Matsumoto Yamaga FC 🆚 AC Nagano Parceiro🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Canberra FC Women 🆚 Majura FC (W)🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chuncheon Citizen 🆚 Mokpo City🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Melbourne City NPL 🆚 Hume City🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lake Macquarie (W) 🆚 Adamstown Rosebud Women🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Seoul E-Land FC 🆚 Hwaseong FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Matsumoto Yamaga FC 🆚 AC Nagano Parceiro🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Busan Transportation Corporation 🆚 Gangneung Citizen🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Kochi United 🆚 Tokushima Vortis🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ji'nan Linksafe 🆚 Yangzhou Sanwan Ledao🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Boroondara Eagles Women 🆚 Alamein Women🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Busan Transportation Corporation 🆚 Gangneung Citizen🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Central Coast Mariners Youth 🆚 Newcastle Jets FC Youth🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sydney FC 🆚 Auckland FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Blacktown City Demons 🆚 Spirit FC🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rockdale City Suns 🆚 St George City FA🛡️|🛡️12:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NGU Nagoya Women 🆚 AS Harima ALBION Women🛡️|🛡️12:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Ehime FC 🆚 Kamatamare Sanuki🛡️|🛡️13:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 11:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
