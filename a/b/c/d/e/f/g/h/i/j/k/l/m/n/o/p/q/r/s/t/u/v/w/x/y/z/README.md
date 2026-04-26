@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 18:07 WIB
+**Diperbarui pada:** 26-04-2026 18:14 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1449,6 +1449,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Coventry City 🆚 Wrexham🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️London City Lionesses Women 🆚 Leicester City Women🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vendsyssel 🆚 HIK Hellerup🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[VOLLEYBALL]🛡️Fenerbahce 🆚 Istanbul GSK🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Kaluga 🆚 Veles🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FK Isloch Minsk 🆚 Dnepr Mogilev🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Milan U20 🆚 Cagliari U20🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
@@ -1459,6 +1460,7 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Pari Nizhniy Novgorod 🆚 Spartak Moscow🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 16:25 WIB] otomatis masuk jadwal
+- ⚠️ **[EVENT]** Kompetisi Olahraga Gyeonggi-do untuk Penyandang Disabilitas ke-16 2025 (Biliar) Hari ke-1 | 07.20 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
