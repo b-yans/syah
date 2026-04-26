@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 02:49 WIB
+**Diperbarui pada:** 27-04-2026 02:56 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1391,56 +1391,56 @@
 
 ### 📁 ?PEEL=ON
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Atletico Ottawa 🆚 Vancouver FC🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ironi Tiberias 🆚 Hapoel Kiryat Shmona🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Egnatia 🆚 FK Vora🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Spartak Trnava 🆚 Slovan Bratislava🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 Panserraikos🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Besiktas JK 🆚 Karagumruk🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CF Estrela Amadora SAD 🆚 FC Porto🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hapoel Jerusalem 🆚 Hapoel Haifa🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Santa Clara 🆚 Sporting Braga🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CS Petrocub 🆚 Sheriff Tiraspol🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Ironi Tiberias 🆚 Hapoel Kiryat Shmona🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️AEL Larisa 🆚 Panserraikos🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Metalurgi Rustavi 🆚 FC Iberia 1999 Tbilisi🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Besiktas JK 🆚 Karagumruk🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brumunddal 🆚 Bjorkelangen🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Spartak Trnava 🆚 Slovan Bratislava🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CF Estrela Amadora SAD 🆚 FC Porto🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Egnatia 🆚 FK Vora🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️CS Petrocub 🆚 Sheriff Tiraspol🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hapoel Jerusalem 🆚 Hapoel Haifa🛡️|🛡️00:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Zulte-Waregem 🆚 RAAL La Louvière🛡️|🛡️00:15 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lillestrom 🆚 Bodo Glimt🛡️|🛡️00:15 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Siroki Brijeg 🆚 HSK Zrinjski Mostar🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Debreceni VSC 🆚 Győri ETO FC🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Siroki Brijeg 🆚 HSK Zrinjski Mostar🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Olimpia Grudziadz 🆚 Warta Poznan🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Madrid Women 🆚 DUX Logrono Women🛡️|🛡️00:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Posusje 🆚 Sarajevo🛡️|🛡️00:45 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Moron 🆚 Racing de Cordoba🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tristan Suarez 🆚 Gimnasia yTiro🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Independiente Rivadavia 🆚 Gimnasia y Esgrima de Mendoza🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Dinamo 1948 🆚 FC Rapid 1923🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vojvodina Novi Sad 🆚 FK Zeleznicar Pancevo🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tristan Suarez 🆚 Gimnasia yTiro🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KA Akureyri 🆚 Keflavik🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nueva Chicago 🆚 Colegiales🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Vojvodina Novi Sad 🆚 FK Zeleznicar Pancevo🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Macara 🆚 Libertad FC🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Aarhus AGF 🆚 Midtjylland🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️KA Akureyri 🆚 Keflavik🛡️|🛡️01:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 Sport Huancayo🛡️|🛡️01:15 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 Maribor🛡️|🛡️01:15 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Estudiantes de Caseros🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chacarita juniors 🆚 Ferrocarril Midland🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Estudiantes de Caseros🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Marseille 🆚 OGC Nice🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Milan 🆚 Juventus🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Milan 🆚 Juventus🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AD Ceuta 🆚 Racing Santander🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universidad de Concepcion 🆚 Colo Colo🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Agropecuario de Carlos Casares 🆚 San Martin Tucuman🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oruro 🆚 The Strongest🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Villarreal CF 🆚 RC Celta🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Villarreal CF 🆚 RC Celta🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Grêmio - RS 🆚 Coritiba SAF - PR🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sao Bernardo 🆚 Goiás EC🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Madryn 🆚 Defensores de Belgrano🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Corinthians - SP 🆚 Vasco da Gama Saf - RJ🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Connecticut United FC 🆚 Philadelphia Union II🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sao Bernardo 🆚 Goiás EC🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Universidad de Concepcion 🆚 Colo Colo🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Corinthians - SP 🆚 Vasco da Gama Saf - RJ🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oruro 🆚 The Strongest🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Madryn 🆚 Defensores de Belgrano🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Villarreal CF 🆚 RC Celta🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Villarreal CF 🆚 RC Celta🛡️|🛡️02:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monagas B 🆚 Dynamo Puerto FC🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AVS Futebol SAD 🆚 Sporting CP🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Frontera 🆚 Atletico Barinas🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Academia Puerto Cabello B 🆚 Urena SC🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Frontera 🆚 Atletico Barinas🛡️|🛡️02:30 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
