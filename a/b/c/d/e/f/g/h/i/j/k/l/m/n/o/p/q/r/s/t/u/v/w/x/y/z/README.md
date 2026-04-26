@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 00:39 WIB
+**Diperbarui pada:** 27-04-2026 00:45 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -94,7 +94,6 @@
 - ⚠️ **[FZ]** NO: V Sport Golf cocok [fz] (68311)
 - ⚠️ **[FZ]** PK: T Sports cocok [fz] (405715)
 - ⚠️ **[EXACT]** PT: SPORT TV + cocok (405715)
-- ⚠️ **[FZ]** PT: SPORT TV 2 cocok [fz] (7235)
 - ⚠️ **[FZ]** PT: SPORT TV 3 cocok [fz] (405715)
 - ⚠️ **[FZ]** PT: SPORT TV 4 cocok [fz] (416875)
 - ⚠️ **[FZ]** PT: SPORT TV 5 cocok [fz] (405715)
@@ -910,6 +909,7 @@
 -  **[KS]** PT: Eurosport 1 tidak cocok id epg
 -  **[KS]** PT: Eurosport 2 tidak cocok id epg
 -  **[KS]** PT: SPORT TV 1 tidak cocok id epg
+-  **[KS]** PT: SPORT TV 2 tidak cocok id epg
 -  **[KS]** PT: SPORT TV 7 tidak cocok id epg
 -  **[KS]** PT: SPORT TV NBA tidak cocok id epg
 -  **[KS]** PT: Sporting TV tidak cocok id epg
