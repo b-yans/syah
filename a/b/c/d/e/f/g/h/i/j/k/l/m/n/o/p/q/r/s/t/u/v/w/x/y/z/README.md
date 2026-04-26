@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 07:59 WIB
+**Diperbarui pada:** 26-04-2026 08:06 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1402,17 +1402,17 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tormenta FC 🆚 FC Naples🛡️|🛡️05:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chicago Red Stars Women 🆚 Boston Legacy W🛡️|🛡️05:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Maranhao 🆚 Volta Redonda🛡️|🛡️05:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pachuca 🆚 Pumas U.N.A.M.🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Louisville City FC 🆚 Fort Wayne FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lexington 🆚 Forward Madison FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chattanooga Red Wolves 🆚 Corpus Christi FC🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Indy Eleven 🆚 Omaha🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Pittsburgh Riverhounds 🆚 Greenville Triumph🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Hartford Athletic 🆚 Rhode Island🛡️|🛡️06:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Pachuca 🆚 Pumas U.N.A.M.🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Louisville City FC 🆚 Fort Wayne FC🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Westchester SC 🆚 Portland Hearts of Pine🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Lexington 🆚 Forward Madison FC🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tigres UANL 🆚 Mazatlan FC🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chattanooga Red Wolves 🆚 Corpus Christi FC🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Indy Eleven 🆚 Omaha🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Brooklyn City Women 🆚 Dallas Trinity Women🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Pittsburgh Riverhounds 🆚 Greenville Triumph🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Libertad Asunción 🆚 Olimpia Asuncion🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Hartford Athletic 🆚 Rhode Island🛡️|🛡️06:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Deportivo Cali 🆚 America de Cali🛡️|🛡️06:10 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sporting Jax 🆚 Miami FC🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️FC Cincinnati 🆚 New York Red Bulls🛡️|🛡️06:30 26/04/2026🛡️ otomatis masuk jadwal
