@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 09:25 WIB
+**Diperbarui pada:** 26-04-2026 09:31 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -55,8 +55,6 @@
 - ⚠️ **[FZ]** DE: Sky Bundesliga [SAT] [VIP] cocok [fz] (409238)
 - ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] cocok [fz] (538725)
 - ⚠️ **[FZ]** DE: Sky Bundesliga 2 [SPIELTAG] [VIP] cocok [fz] (538725)
-- ⚠️ **[FZ]** DE: Sky Sport Golf cocok [fz] (540082)
-- ⚠️ **[FZ]** DE: Sky Sport Golf [SAT] [VIP] cocok [fz] (540082)
 - ⚠️ **[FZ]** DE: Sky Sport Premier League cocok [fz] (438445)
 - ⚠️ **[FZ]** DE: Sky Sport Top Event cocok [fz] (427675)
 - ⚠️ **[FZ]** DE: More Than Sports TV cocok [fz] (540056)
@@ -64,7 +62,6 @@
 - ⚠️ **[FZ]** DE: Sportdigital 1+ [SAT] [VIP] cocok [fz] (450294)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball cocok [fz] (438441)
 - ⚠️ **[FZ]** DE: Sportdigital Fussball [SAT] [VIP] cocok [fz] (438441)
-- ⚠️ **[FZ]** DE: Sky Sport Golf HD [VIP] cocok [fz] (540082)
 - ⚠️ **[FZ]** GR: Nova Sports 3 cocok [fz] (7747)
 - ⚠️ **[FZ]** GR: Nova Sports 3 [vip] cocok [fz] (7747)
 - ⚠️ **[FZ]** GR: Nova Sports 6 [vip] cocok [fz] (392164)
@@ -82,9 +79,7 @@
 - ⚠️ **[EXACT]** ID: SpoTV cocok (SPOTV.id)
 - ⚠️ **[EXACT]** ID: SpoTV 2 cocok (SPOTV2.id)
 - ⚠️ **[FZ]** IE: Premier Sports 1 cocok [fz] (408613)
-- ⚠️ **[FZ]** IE: Sky Sports Golf cocok [fz] (540082)
 - ⚠️ **[FZ]** IE: Sky Sports Premier League cocok [fz] (438445)
-- ⚠️ **[FZ]** IT: Sky Sport Golf cocok [fz] (540082)
 - ⚠️ **[FZ]** IT: Sky Sport Max cocok [fz] (540044)
 - ⚠️ **[FZ]** IT: Sky Sport Uno cocok [fz] (540067)
 - ⚠️ **[FZ]** MK: MNet Sport cocok [fz] (469407)
@@ -172,7 +167,6 @@
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
 - ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
-- ⚠️ **[FZ]** UK: Sky Sports Golf cocok [fz] (540082)
 - ⚠️ **[FZ]** UK: talkSPORT cocok [fz] (12205)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 10 cocok [fz] (463027)
@@ -487,6 +481,8 @@
 -  **[KS]** DE: Sky Sport 9 tidak cocok id epg
 -  **[KS]** DE: Sky Sport F1 tidak cocok id epg
 -  **[KS]** DE: Sky Sport F1 [SAT] [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport Golf tidak cocok id epg
+-  **[KS]** DE: Sky Sport Golf [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix tidak cocok id epg
 -  **[KS]** DE: Sky Sport Mix [SAT] [VIP] tidak cocok id epg
 -  **[KS]** DE: Sky Sport Tennis tidak cocok id epg
@@ -637,6 +633,7 @@
 -  **[KS]** DE: DAZN Event NFL 8 [VIP] tidak cocok id epg
 -  **[KS]** DE: DAZN Event NFL 9 [VIP] tidak cocok id epg
 -  **[KS]** DE: NOW TV Sky Sports+ 1 [VIP] tidak cocok id epg
+-  **[KS]** DE: Sky Sport Golf HD [VIP] tidak cocok id epg
 -  **[KS]** GR: AEK Super League Pass tidak cocok id epg
 -  **[KS]** GR: Cablenet Sports 1 tidak cocok id epg
 -  **[KS]** GR: Cablenet Sports 2 tidak cocok id epg
@@ -757,6 +754,7 @@
 -  **[KS]** IE: Premier Sports 2 tidak cocok id epg
 -  **[KS]** IE: Sky Sports Arena tidak cocok id epg
 -  **[KS]** IE: Sky Sports Football tidak cocok id epg
+-  **[KS]** IE: Sky Sports Golf tidak cocok id epg
 -  **[KS]** IE: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** IE: Sky Sports Mix tidak cocok id epg
 -  **[KS]** IE: Sky Sports Racing tidak cocok id epg
@@ -779,6 +777,7 @@
 -  **[KS]** IT: Sky Sport 24 tidak cocok id epg
 -  **[KS]** IT: Sky Sport Calcio tidak cocok id epg
 -  **[KS]** IT: Sky Sport F1 tidak cocok id epg
+-  **[KS]** IT: Sky Sport Golf tidak cocok id epg
 -  **[KS]** IT: Sky Sport Moto GP tidak cocok id epg
 -  **[KS]** IT: Sky Sport NBA tidak cocok id epg
 -  **[KS]** IT: Sky Sport Tennis tidak cocok id epg
@@ -1124,6 +1123,7 @@
 -  **[KS]** UK: Sky Sports Cricket 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 tidak cocok id epg
 -  **[KS]** UK: Sky Sports F1 50fps [vip] tidak cocok id epg
+-  **[KS]** UK: Sky Sports Golf tidak cocok id epg
 -  **[KS]** UK: Sky Sports Golf 50fps [vip] tidak cocok id epg
 -  **[KS]** UK: Sky Sports Main Event tidak cocok id epg
 -  **[KS]** UK: Sky Sports Main Events 50fps [vip] tidak cocok id epg
@@ -1390,44 +1390,44 @@
 ---
 
 ### 📁 ?PEEL=ON
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️DC United 🆚 Orlando City🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Inter Miami CF 🆚 New England Revolution🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Columbus Crew 🆚 Philadelphia Union🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampa Bay Rowdies 🆚 Sarasota Paradise🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Club do Recife 🆚 Gremio Novorizontino🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tampa Bay Sun Women 🆚 Carolina Ascent Women🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Guabira 🆚 Always Ready🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sporting Jax 🆚 Miami FC🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Club do Recife 🆚 Gremio Novorizontino🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Cincinnati 🆚 New York Red Bulls🛡️|🛡️06:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Houston Dash Women 🆚 North Carolina Courage Women🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Tulsa 🆚 Knoxville troops🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️São Paulo - SP 🆚 Mirassol - SP🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️FC Tulsa 🆚 Knoxville troops🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Sport Boys 🆚 Juan Pablo II🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Juventude 🆚 Londrina PR🛡️|🛡️07:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Austin FC 🆚 Houston Dynamo🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chicago Fire 🆚 Sporting Kansas City🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SV Sporting 🆚 Bubali SC🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️River Plate 🆚 Aldosivi Mar del Plata🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️St. Louis City SC 🆚 San Jose Earthquakes🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nashville 🆚 Charlotte FC🛡️|🛡️07:30 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Austin FC 🆚 Houston Dynamo🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️SV Sporting 🆚 Bubali SC🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Nashville 🆚 Charlotte FC🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chicago Fire 🆚 Sporting Kansas City🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️River Plate 🆚 Aldosivi Mar del Plata🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️St. Louis City SC 🆚 San Jose Earthquakes🛡️|🛡️07:30 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Denver Summit W 🆚 San Diego Wave Women🛡️|🛡️07:45 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Managua FC 🆚 Diriangen🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Atletico Morelia 🆚 Mineros de Zacatecas🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlestown Azzurri Reserves 🆚 Valentine Phoenix Reserves🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Managua FC 🆚 Diriangen🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Esteli 🆚 Matagalpa FC🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Charlestown Azzurri Reserves 🆚 Valentine Phoenix Reserves🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Toluca 🆚 Club Leon🛡️|🛡️08:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Deportivo Guadalajara 🆚 Club Tijuana🛡️|🛡️08:07 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Diego FC 🆚 Portland Timbers🛡️|🛡️08:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Dep.Independiente Medellin 🆚 Fortaleza F.C🛡️|🛡️08:30 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun U20 🆚 Guangdong Guangzhou Power U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️San Diego FC 🆚 Portland Timbers🛡️|🛡️08:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Lanzhou Longyuan Athletic U20 🆚 Shenzhen Peng City U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Qingdao Red Lions U20 🆚 Shanghai Port U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Phoenix Rising FC 🆚 Colorado Springs🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Nantong Zhiyun U20 🆚 Guangdong Guangzhou Power U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Monterey Bay FC 🆚 Oakland Roots🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Sacramento Republic FC 🆚 Spokane Velocity🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Napier City Rovers 🆚 Wellington Phoenix Reserve🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Orange County SC 🆚 El Paso Locomotive FC🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Shaanxi Union U20 🆚 Shandong Taishan U20🛡️|🛡️09:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 20:25 WIB] otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
