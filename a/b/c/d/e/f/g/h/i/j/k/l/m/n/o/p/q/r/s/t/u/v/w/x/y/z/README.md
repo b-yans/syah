@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 17:48 WIB
+**Diperbarui pada:** 26-04-2026 17:54 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1443,7 +1443,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️SHB Da Nang 🆚 The Cong Viettel🛡️|🛡️18:00 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
 - ⚠️ **[EVENT]** [26 Apr 2026 16:25 WIB] otomatis masuk jadwal
-- ⚠️ **[EVENT]** Kompetisi Olahraga Gyeonggi-do untuk Penyandang Disabilitas ke-16 2025 (Biliar) Hari ke-1 | 07.20 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1460,7 +1459,6 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
