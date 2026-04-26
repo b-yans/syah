@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 23:45 WIB
+**Diperbarui pada:** 26-04-2026 23:52 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -162,7 +162,6 @@
 - ⚠️ **[FZ]** UK: Hub Sports 2 [vip] cocok [fz] (537810)
 - ⚠️ **[FZ]** UK: Hub Sports 3 [vip] cocok [fz] (537754)
 - ⚠️ **[FZ]** UK: Hub Sports 4 [vip] cocok [fz] (537753)
-- ⚠️ **[FZ]** UK: Hub Sports 5 [vip] cocok [fz] (537757)
 - ⚠️ **[FZ]** UK: talkSPORT cocok [fz] (12205)
 - ⚠️ **[FZ]** UK: TNT Sports 1 cocok [fz] (400477)
 - ⚠️ **[FZ]** UK: TNT Sports 10 cocok [fz] (463027)
@@ -1115,6 +1114,7 @@
 -  **[KS]** UK: Sky Sports+ tidak cocok id epg
 -  **[KS]** UK: Eurosport 1 tidak cocok id epg
 -  **[KS]** UK: Eurosport 2 tidak cocok id epg
+-  **[KS]** UK: Hub Sports 5 [vip] tidak cocok id epg
 -  **[KS]** UK: LG 1622 Sky Sports Stories tidak cocok id epg
 -  **[KS]** UK: Setanta Sports 1 tidak cocok id epg
 -  **[KS]** UK: Sky Sports Action tidak cocok id epg
