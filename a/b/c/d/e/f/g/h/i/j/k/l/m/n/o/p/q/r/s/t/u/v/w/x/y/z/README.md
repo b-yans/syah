@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 27-04-2026 03:28 WIB
+**Diperbarui pada:** 27-04-2026 03:35 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1406,9 +1406,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Tristan Suarez 🆚 Gimnasia yTiro🛡️|🛡️01:00 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cusco FC 🆚 Sport Huancayo🛡️|🛡️01:15 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️NK Bravo 🆚 Maribor🛡️|🛡️01:15 27/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Chacarita juniors 🆚 Ferrocarril Midland🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Estudiantes de Caseros🛡️|🛡️01:30 27/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Chacarita juniors 🆚 Ferrocarril Midland🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Cerro Largo 🆚 Racing Club Montevideo🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Club Atletico Acassuso 🆚 Estudiantes de Caseros🛡️|🛡️01:30 27/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Milan 🆚 Juventus🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️AC Milan 🆚 Juventus🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Marseille 🆚 OGC Nice🛡️|🛡️01:45 27/04/2026🛡️ otomatis masuk jadwal
@@ -1438,7 +1438,6 @@
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Argentina Women U17 🆚 Colombia U17 Women🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Barra FC 🆚 Inter de Limeira🛡️|🛡️03:00 27/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[FZ]** FIGHT SPORTS+ cocok [fz] (7232)
-- ⚠️ **[EVENT]** Kompetisi Olahraga Gyeonggi-do untuk Penyandang Disabilitas ke-16 2025 (Biliar) Hari ke-1 | 07.20 WIB otomatis masuk jadwal
 -  **[KS]** Indosiar tidak cocok id epg
 -  **[KS]** MNC TV tidak cocok id epg
 -  **[KS]** RCTI tidak cocok id epg
@@ -1455,7 +1454,6 @@
 -  **[KS]** SCTV+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 2+ tidak cocok id epg
 -  **[KS]** SPORTSTARS 4+ tidak cocok id epg
--  **[KS]** SPORTSTARS+ tidak cocok id epg
 -  **[KS]** SPOTV 2+ tidak cocok id epg
 -  **[KS]** SPOTV+ tidak cocok id epg
 -  **[KS]** BEIN SPORTS 1 tidak cocok id epg
