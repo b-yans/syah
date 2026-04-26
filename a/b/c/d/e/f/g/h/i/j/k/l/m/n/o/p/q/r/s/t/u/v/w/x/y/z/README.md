@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 23:13 WIB
+**Diperbarui pada:** 26-04-2026 23:20 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1431,9 +1431,9 @@
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Semendrija 1924 🆚 FK Usce Novi Beograd🛡️|🛡️21:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️KV Mechelen 🆚 Sint-Truidense🛡️|🛡️21:00 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Shakhter Soligorsk 🆚 FC Molodechno🛡️|🛡️21:00 26/04/2026🛡️ diblokir (KADALUARSA)
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Granada CF 🆚 Almeria🛡️|🛡️21:15 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Elche🛡️|🛡️21:15 26/04/2026🛡️ otomatis masuk jadwal
-- ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Mirandes 🆚 Cultural Leonesa🛡️|🛡️21:15 26/04/2026🛡️ otomatis masuk jadwal
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Granada CF 🆚 Almeria🛡️|🛡️21:15 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Real Oviedo 🆚 Elche🛡️|🛡️21:15 26/04/2026🛡️ diblokir (KADALUARSA)
+- ⚠️ **[BASI]** 🛡️[FOOTBALL]🛡️Mirandes 🆚 Cultural Leonesa🛡️|🛡️21:15 26/04/2026🛡️ diblokir (KADALUARSA)
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Rot-Weiss Essen 🆚 1. FC Saarbrücken🛡️|🛡️21:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Neuchatel Xamax 🆚 Bellinzona🛡️|🛡️21:30 26/04/2026🛡️ otomatis masuk jadwal
 - ⚠️ **[EVENT]** 🛡️[FOOTBALL]🛡️Young Boys 🆚 St. Gallen🛡️|🛡️21:30 26/04/2026🛡️ otomatis masuk jadwal
@@ -1578,11 +1578,10 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Genoa vs Como Serie A tidak cocok id epg
--  **[KS]** Liverpool vs West Ham Womens Super League tidak cocok id epg
 -  **[KS]** Oviedo vs Elche LaLiga tidak cocok id epg
 -  **[KS]** Arsenal vs Lyon UEFA Womens Champions League tidak cocok id epg
 -  **[KS]** Hibernian vs Hearts Scottish Premiership tidak cocok id epg
+-  **[KS]** Torino vs Inter Serie A tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
