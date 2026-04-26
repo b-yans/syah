@@ -1,5 +1,5 @@
 # LAPORAN
-**Diperbarui pada:** 26-04-2026 20:04 WIB
+**Diperbarui pada:** 26-04-2026 20:10 WIB
 
 ### 📁 EXAMPLE.OY
 - ⚠️ **[FZ]** AL: Arena Sport 1 cocok [fz] (381850)
@@ -1597,16 +1597,14 @@
 -  **[KS]** RCTI tidak cocok id epg
 -  **[KS]** SCTV tidak cocok id epg
 -  **[KS]** MNCTV tidak cocok id epg
--  **[KS]** Universitas Surabaya vs Universitas Wijaya Kusuma Grup D Putra CL Basketball 2026 Regional Surabaya tidak cocok id epg
--  **[KS]** Fiorentina vs Sassuolo Serie A tidak cocok id epg
--  **[KS]** Fenerbahce Medicana vs Istanbul Genclik Spor Turkish Mens Volleyball League tidak cocok id epg
--  **[KS]** Coventry City vs Wrexham EFL Championship tidak cocok id epg
--  **[KS]** Tottenham vs Man United Womens Super League tidak cocok id epg
+-  **[KS]** Campus League 2026 Basketball tidak cocok id epg
 -  **[KS]** MotoGP Race Grand Prix of Spain MotoGP 2026 Round 4 tidak cocok id epg
 -  **[KS]** Nakhonratchasima Qmnic vs Mehrgan Noor Club AVC Womens Champions League tidak cocok id epg
--  **[KS]** Persiba Balikpapan vs PSS Sleman Pegadaian Championship tidak cocok id epg
 -  **[KS]** PSPS Pekanbaru vs Sumsel United Pegadaian Championship tidak cocok id epg
+-  **[KS]** Persiba Balikpapan vs PSS Sleman Pegadaian Championship tidak cocok id epg
 -  **[KS]** Rayo Vallecano vs Real Sociedad LaLiga tidak cocok id epg
+-  **[KS]** Genoa vs Como Serie A tidak cocok id epg
+-  **[KS]** Liverpool vs West Ham Womens Super League tidak cocok id epg
 -  **[KS]** Bali United FC vs PSM Makassar BRI Super League tidak cocok id epg
 -  **[KS]** Jelang Kick Off PERSIJA vs PERSIS BRI Super League tidak cocok id epg
 
